@@ -2,7 +2,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
-const siteUrl = process.env.DOCUSAURUS_URL ?? "https://example.com";
+const siteUrl = process.env.DOCUSAURUS_URL ?? "https://intelligencemurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? "/";
 
 const config: Config = {
@@ -18,7 +18,7 @@ const config: Config = {
   baseUrl,
   trailingSlash: false,
 
-  organizationName: "ACT3ai",
+  organizationName: "BryanStarbuck",
   projectName: "Intel_Murder_Docus",
 
   onBrokenLinks: "warn",
