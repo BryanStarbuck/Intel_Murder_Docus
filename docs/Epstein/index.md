@@ -1,0 +1,296 @@
+---
+title: Epstein Murders
+sidebar_label: Overview
+sidebar_position: 1
+slug: /
+---
+
+# Deaths Possibly Connected to the Jeffrey Epstein Cover-Up
+
+Jeffrey Epstein operated a sex trafficking network involving underage girls and powerful individuals over the course of decades. He was arrested in July 2019 on federal sex trafficking charges and was found dead in his jail cell on August 10, 2019. His death was ruled a suicide, though his brother and many members of the public dispute that finding.
+
+In the years before and after Epstein's death, a striking number of individuals connected to the case — victims, witnesses, investigators, journalists, associates, and co-conspirators — have died under circumstances that range from clearly natural to deeply questionable. Multiple individuals were found hanged. Others died shortly after cooperating with the FBI or testifying in court. Death records were sealed by judges. Key witnesses died before they could be deposed. Individuals who possessed damaging evidence died before that evidence could be fully explored.
+
+This also includes clones-of-Jeffrey Epstein blackmail operations (that are ran by intelligence services). The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved.
+
+We're not sure that any of these individuals were killed as part of a cover-up. What we do know is that an unusual number of people connected to this case have died, and that the circumstances surrounding several of these deaths contain elements that reasonable people find troubling. The list below documents every known death connected to the Epstein case so that the public can examine the pattern and draw their own conclusions.
+
+| Name | Cause of Death | Suspicion Level | Details |
+|------|----------------|-----------------|---------|
+| [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) | Hanged in prison cell | **HIGHLY SUSPICIOUS** | Found hanged awaiting trafficking trial, like Epstein. |
+| [Mark Middleton](Details/Mark_Middleton.md) | Hanged and shot | **HIGHLY SUSPICIOUS** | Clinton aide, Epstein White House access. Records sealed. |
+| [Daniel Anderl](Details/Daniel_Anderl.md) | Shot at home | **HIGHLY SUSPICIOUS** | Judge's son killed 4 days after Epstein-Deutsche Bank assignment. Gunman had intel ties. |
+| [Arthur Shapiro](Details/Arthur_Shapiro.md) | Gunned down | **HIGHLY SUSPICIOUS** | Murdered weeks before IRS questioning. |
+| [Danny Casolaro](Details/Danny_Casolaro.md) | Wrists slashed in hotel | **HIGHLY SUSPICIOUS** | Investigating PROMIS/Maxwell intel op. Briefcase missing. |
+| [John Deroo](Details/John_Deroo.md) | Shot six times in face | **HIGHLY SUSPICIOUS** | Kessler's partner. $500K insurance policy taken on him. |
+| [Gary Caradori](Details/Gary_Caradori.md) | Plane disintegrated mid-air | **HIGHLY SUSPICIOUS** | Franklin scandal investigator. Plane broke apart; briefcase missing. |
+| [Robert Maxwell](Details/Robert_Maxwell.md) | Fell from yacht | **SUSPICIOUS** | Ghislaine's father, alleged Mossad agent. Cause disputed. |
+| [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
+| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator. Exposed blackmail op. Dead 7+ days. |
+| [Virginia Giuffre](Details/Virginia_Giuffre.md) | Gunshot (ruled suicide) | **HIGHLY SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." Died by gunshot in strict-gun-law Australia. Father says "somebody got to her." $20M+ missing from estate. No coroner's report released. |
+| [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. |
+| [Nikolai Mushegian](Details/Nikolai_Mushegian.md) | Drowning | **SUSPICIOUS** | MakerDAO co-founder. Tweeted about CIA/Mossad sex trafficking ring in Puerto Rico; drowned 4 hours later. |
+| [Aaron Swartz](Details/Aaron_Swartz.md) | Hanging, ruled suicide | **SUSPICIOUS** | Reddit co-founder, internet activist. Found hanged facing 35 years for downloading academic articles. Built SecureDrop whistleblower tool. MIT accepted Epstein money during his prosecution. Father said "killed by the government." |
+| [Isaac Kappy](Details/Isaac_Kappy.md) | Fell from bridge | **SUSPICIOUS** | Named Hollywood pedophiles. Said "if I die, wasn't suicide." |
+| [Natacha Jaitt](Details/Natacha_Jaitt.md) | Multi-organ failure | **SUSPICIOUS** | Argentine model who accused elites of pedophilia on TV. Tweeted "if I die, it wasn't me." Died at party venue. Blood tests disputed. |
+| [Sabrina Bittencourt](Details/Sabrina_Bittencourt.md) | Reported suicide | **SUSPICIOUS** | Exposed John of God's baby trafficking. Died in hiding. Son said "they killed my mother." No death certificate confirmed. |
+| [Tracy Twyman](Details/Tracy_Twyman.md) | Hanged in garage | **SUSPICIOUS** | Continued Kappy's research. Left dead man's switch. |
+| [Anastasia Drozdova](Details/Anastasia_Drozdova.md) | Jumped from building | **SUSPICIOUS** | Korshunova's friend. Died identically one year later. |
+| [Frank Yassenoff](Details/Frank_Yassenoff.md) | Shot to death | **SUSPICIOUS** | Kessler's Columbus partner, killed with fiancee. Unsolved. |
+| [Ella Rich](Details/Ella_Rich.md) | Shot to death | **SUSPICIOUS** | Yassenoff's fiancee, killed alongside him. Unsolved. |
+| [Marjorie Dyer](Details/Marjorie_Dyer.md) | Car accident | **SUSPICIOUS** | Co-signed Yassenoff's will with Kessler. |
+| [Chris Cornell](Details/Chris_Cornell.md) | Hanging, ruled suicide | **SUSPICIOUS** | Backed trafficking documentary. Wife disputes ruling. |
+| [Chester Bennington](Details/Chester_Bennington.md) | Hanging, ruled suicide | **SUSPICIOUS** | Cornell's friend. Same method, Cornell's birthday. |
+| [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) | Self-inflicted wounds | **SUSPICIOUS** | Worked on trafficking documentary. Died at 28. |
+| [Anthony Bourdain](Details/Anthony_Bourdain.md) | Hanging, ruled suicide | **SUSPICIOUS** | Vocal against abusers. Hanged in France, no warning. |
+| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD officer who allegedly viewed Weiner laptop. First of 4 in 22 days. |
+| [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD detective who allegedly viewed Weiner laptop. Died day after Silks. |
+| [Officer Michael Caddy](Details/Michael_Caddy.md) | Suicide | **SUSPICIOUS** | NYPD, age 29. Allegedly viewed Weiner laptop. |
+| [Officer Kevin Preiss](Details/Kevin_Preiss.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Aivar Rehe](Details/Aivar_Rehe.md) | Found dead at home | **SUSPICIOUS** | Danske Bank exec over $230B laundering branch. Questioned as witness. |
+| [Vince Foster](Details/Vince_Foster.md) | Gunshot, ruled suicide | **SUSPICIOUS** | Clinton deputy counsel. Epstein emails reference affair with Hillary. |
+| [John Ashe](Details/John_Ashe.md) | Barbell crushed throat | **SUSPICIOUS** | UN General Assembly president. Died before corruption trial. |
+| [Philip Haney](Details/Philip_Haney.md) | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on trafficking. Family doubts suicide. |
+| [Jonathan Nichols](Details/Jonathan_Nichols.md) | Gunshot wound to chest | **SUSPICIOUS** | OK state senator who authored child predator laws. Firearm in "unexpected position." Died same week as Collins-Smith. |
+| [Jeffrey Epstein](Details/Jeffrey_Epstein.md) | Hanging in jail cell | **HIGHLY SUSPICIOUS** | Guards asleep, cameras failed, brother says murder. |
+| [Carolyn Andriano](Details/Carolyn_Andriano.md) | Accidental overdose | **MODERATE SUSPICION** | Testified against Maxwell. Mother says "doesn't make sense." |
+| [Steve Bing](Details/Steve_Bing.md) | Fell from 27th floor | **MODERATE SUSPICION** | Clinton donor named in Epstein files. |
+| [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective. Died unexpectedly at 50. |
+| [Corey Haim](Details/Corey_Haim.md) | Pneumonia / heart disease | **MODERATE SUSPICION** | Child actor allegedly raped at 13 in Hollywood. Died at 38 after decades of trauma-driven addiction. Silenced before #MeToo. |
+| [Linda Collins-Smith](Details/Linda_Collins_Smith.md) | Stabbed to death | **MODERATE SUSPICION** | Arkansas state senator investigating DHS/CPS corruption. Killer convicted, but broader context and timing raise questions. |
+| [Mark Salling](Details/Mark_Salling.md) | Hanging, ruled suicide | **MODERATE SUSPICION** | *Glee* actor with 50,000+ child abuse images. Hanged 5 weeks before sentencing. Network sources never identified. |
+| [Peaches Geldof](Details/Peaches_Geldof.md) | Heroin overdose | **SUSPICIOUS** | Tweeted names of mothers who enabled pedophile Ian Watkins. Died 5 months later on 61% pure heroin — supplier never found. Third death in family chain after [Michael Hutchence](Details/Michael_Hutchence.md) and Paula Yates. |
+| [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. |
+| [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md) | Mesothelioma | Likely natural | Had Epstein's "black book." Confirmed mesothelioma. |
+| [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md) | COVID-19 | Likely coincidental | Epstein's cellmate. Died after talking to investigators. |
+| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
+| [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Giuffre to Epstein. |
+| [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
+| [Val Broeksmit](Details/Val_Broeksmit.md) | Blunt-force trauma | **UNCERTAIN** | Deutsche Bank whistleblower. Found dead on LA campus. |
+| [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Investigating Epstein. Ex-husband rejects suicide. |
+| [Ines Zorreguieta](Details/Ines_Zorreguieta.md) | Hanging, ruled suicide | **UNCERTAIN** | Queen Maxima's sister. Hanged in Buenos Aires, same week as Spade and Bourdain. No Epstein link. |
+| [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Hanged three days before Bourdain. No Epstein link. |
+| [Trevor Moore](Details/Trevor_Moore.md) | Fell from second-story balcony | **SUSPICIOUS** | Comedy Central comedian delivered Epstein "kill switch"/COVID theory to millions. Fell from balcony at 2:30 a.m., BAC 0.27. Decade of anti-elite content on Hollywood trafficking, CIA, secret societies. |
+| [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Starred in trafficking film *Girl in Room 13*. Cocaine/marijuana impairment. |
+| [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
+| [Prince (Prince Rogers Nelson)](Details/Prince_Rogers_Nelson.md) | Fentanyl-laced counterfeit pills | **UNCERTAIN** | Most vocal critic of music industry exploitation. Source of fatal pills never identified. No direct Epstein link. |
+| [Kurt Cobain](Details/Kurt_Cobain.md) | Shotgun, ruled suicide | **UNCERTAIN** | Fringe theories link to music-industry trafficking. Speculative. |
+| [Michael Hutchence](Details/Michael_Hutchence.md) | Hanging, ruled suicide | **UNCERTAIN** | INXS frontman. Family disputes suicide. Unexplained injuries. $13M fortune vanished into offshore trusts. First in family death chain: Hutchence (1997) → Paula Yates (2000) → [Peaches Geldof](Details/Peaches_Geldof.md) (2014). No direct Epstein link. |
+| [LeRoi Moore](Details/LeRoi_Moore.md) | ATV accident complications | **UNCERTAIN** | DMB founding saxophonist. Died at 46 from blood clot after ATV crash. Band's agency CEO later linked to Epstein. No direct connection. |
+| [Alexis Arquette](Details/Alexis_Arquette.md) | Cardiac arrest (HIV-related) | **UNCERTAIN** | Transgender actress planning Hollywood tell-all memoir. Publicly accused powerful figures. Death medically explained but fits whistleblower pattern. |
+| [Philip K. Dick](Details/Philip_K_Dick.md) | Stroke / heart failure | **SUSPICIOUS** | Sci-fi visionary who claimed to uncover hidden reality. FBI/CIA surveillance confirmed. Home safe blown open with explosives (unsolved). Died at 53 weeks before *Blade Runner* release. |
+| [Andrew Breitbart](Details/Andrew_Breitbart.md) | Heart failure | **SUSPICIOUS** | Called out Podesta as "underage sex slave op cover-upperer," dead at 43 a year later. Body bright red per eyewitness — atypical for heart failure. Coroner's tech died of arsenic poisoning weeks after signing off on autopsy. |
+| [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
+| [Craig Spence](Details/Craig_Spence.md) | Overdose (Ritz-Carlton) | **HIGHLY SUSPICIOUS** | DC lobbyist who ran blackmail op with bugged home, male escorts, midnight White House tours. Found barricaded in hotel room in tuxedo. Left CIA Director clipping. Died before grand jury testimony. |
+| [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam." Said she'd never hang herself. Hanged 16 days post-conviction. |
+| [Ivana Trump](Details/Ivana_Trump.md) | Fell down stairs | **UNCERTAIN** | Trump's ex-wife. Found dead at bottom of staircase. #Epsteined trended. |
+| [Monica Petersen](Details/Monica_Petersen.md) | Ruled suicide in Haiti | **UNCERTAIN** | Trafficking researcher. Died in Haiti at 32. |
+| [Seth Rich](Details/Seth_Rich.md) | Shot twice in back | **UNCERTAIN** | DNC staffer killed in DC. Nothing stolen. Unsolved. Epstein connection tangential. |
+| [Max Spiers](Details/Max_Spiers.md) | Drug intoxication in Poland | **UNCERTAIN** | Researching elite pedophilia ring. Told mother "investigate" if he died. |
+| [Roy Den Hollander](Details/Roy_Den_Hollander.md) | Gunshot, ruled suicide | **SUSPICIOUS** | Former Kroll Associates operative who killed Judge Salas's son 4 days after she got the Epstein-Deutsche Bank case. Dead within 24 hours. |
+| [Marc Angelucci](Details/Marc_Angelucci.md) | Gunshot at front door | **UNCERTAIN** | Men's rights lawyer killed by same gunman who attacked Judge Salas's family 8 days later. |
+| [Jenny Moore](Details/Jenny_Moore.md) | Found dead in DC hotel | **UNCERTAIN** | Journalist investigating trafficking. Died weeks after FBI report. |
+| [Berry L. Kessler](Details/Berry_Kessler.md) | Died in prison | Likely old age | Prime suspect in Shapiro murder. FBI links to Epstein. |
+| [John Connolly](Details/John_Connolly.md) | Brief illness | Likely old age | Co-authored *Filthy Rich*. Age 78. |
+| [Kenneth Starr](Details/Kenneth_Starr.md) | Surgical complications | Likely old age | Helped Epstein get 2008 plea deal. Age 76. |
+| [Roy Black](Details/Roy_Black.md) | Died at home | Likely old age | Epstein defense attorney. Age 80. |
+| [Bill Richardson](Details/Bill_Richardson.md) | Died in sleep | Likely old age | Named in Epstein documents. Age 75. |
+| [Marvin Minsky](Details/Marvin_Minsky.md) | Cerebral hemorrhage | Not suspicious | Named in Epstein filings. Age 88. |
+| [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS at 76. |
+| [Matthew Perry](Details/Matthew_Perry.md) | Ketamine overdose | Not suspicious (Epstein) | No Epstein connection. Death exposed elite drug supply network; five charged including "Ketamine Queen." |
+| [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication | Not suspicious | Visited Epstein's mansion once. Unrelated. |
+| [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
+| [B. Stanley Pons](Details/B_Stanley_Pons.md) | Career destroyed (alive) | **UNCERTAIN** | Epstein emailed "i killed pons years ago." Cold fusion defunded; Pons silent 30 years. |
+| [Al Seckel](Details/B_Stanley_Pons.md#al-seckel---the-email-recipient) | Found at base of cliff | **SUSPICIOUS** | Married Isabel Maxwell. Did Epstein reputation management. Body found weeks after death. |
+| [Ted Gunderson](Details/Ted_Gunderson.md) | Bladder cancer (arsenic alleged) | **SUSPICIOUS** | Former FBI SAC. Investigated Franklin scandal and elite blackmail networks for decades. Described "brownstone operations" years before Epstein was exposed. Associates claim arsenic poisoning. |
+| [Diana Spencer](Details/Diana_Spencer.md) | Car crash in Paris tunnel | **SUSPICIOUS** | Princess of Wales. Predicted in writing she'd be killed in a car "accident." Driver had intelligence contacts. 2008 inquest ruled "unlawful killing." Connected to Epstein network through Prince Andrew. |
+| [Nancy Schaefer](Details/Nancy_Schaefer.md) | Gunshot (murder-suicide ruling) | **SUSPICIOUS** | Georgia state senator who exposed CPS child trafficking. Shot in the back with untraceable gun no family member recognized. Was completing documentary exposé. Received death threats. |
+| [Jill Dando](Details/Jill_Dando.md) | Shot in head (execution-style) | **SUSPICIOUS** | BBC Crimewatch presenter who reportedly compiled dossier on BBC pedophile ring. Professional "hard contact" assassination on doorstep. Case unsolved 26 years later. |
+
+## Living Persons at Risk
+
+| Name | Status | Details |
+|------|--------|---------|
+| [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Brother says "not suicidal." |
+| [Nancy Guthrie](Details/Nancy_Guthrie.md) | Missing/Kidnapped since Feb 1, 2026 | Mother of Savannah Guthrie, who conducted first major TV interview with Virginia Giuffre. Kidnapped one day after DOJ released 3M+ pages of Epstein files. Blood found at scene. $6M ransom demanded. |
+| [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
+| [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
+| [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after reported suicide attempt, Feb 2026 | Former Norwegian PM charged with aggravated corruption over alleged Epstein ties. Jagland denies all charges. |
+| [Prince Andrew](Details/Prince_Andrew.md) | Arrested Feb 2026, released under investigation | First senior royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office over alleged sharing of confidential trade information with Epstein. Not charged. |
+| [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026, released on bail | UK ex-ambassador. Arrested on suspicion of misconduct in public office; allegedly passed market-sensitive information to Epstein. Not charged; denies allegations. |
+| [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) | Under investigation, Feb 2026 | Norwegian diplomat. Epstein paid him $250K; left $10M to his children. |
+| [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
+| [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) | Missing/unknown since August 2009 | Made public accusations against elites on camera in Monterrey. Reportedly named Carlos Slim's son. Reportedly sent to psychiatric facility; not seen publicly since. |
+| [Karen Mulder](Details/Karen_Mulder.md) | Alive, living privately in France | Original whistleblower. Named Brunel and Elite execs on French TV in 2001; footage destroyed, hospitalized 5 months. |
+| [Tom Alexandrovich](Details/Tom_Alexandrovich.md) | Free in Israel; trial scheduled March 2026 | Senior Israeli cyber official arrested in FBI child predator sting in Las Vegas. According to reports, posted $10K bail and left for Israel within 48 hours. Passport reportedly not confiscated. Case pending. |
+| [Richard C. Curtiss](Details/Richard_C_Curtiss.md) | Alive, Wayland, NY (as of late 2025) | Former MCC inmate who emailed NY Post and authorities in 2021 claiming Epstein was murdered. Described disabled cameras and a "goon squad." Received death threats inside MCC. |
+| [Emily Smith](Details/Emily_Smith.md) | Alive, journalist | Page Six editor who received Curtiss's 2021 email about Epstein's murder at MCC. The email is followed by 24 fully redacted pages in the DOJ Epstein Files release. |
+| [Pam Bondi](Details/Pam_Bondi.md) | U.S. Attorney General; subpoenaed March 2026 | Promised Epstein client list on Fox News, then DOJ said it doesn't exist. Rep. Massie accused her of participating in multi-decade cover-up. Facing congressional contempt charges. |
+| [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
+| [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
+| [Priscilla Presley](Details/Priscilla_Presley.md) | Alive, age 80, Los Angeles | Not Epstein-connected. Groomed by Elvis at 14; iconic case of entertainment industry's pattern of powerful men accessing underage girls through entourages. Long-time Scientologist. |
+
+## Patterns Worth Noting
+
+**Multiple hangings:** [Epstein](Details/Jeffrey_Epstein.md), [Brunel](Details/Jean_Luc_Brunel.md), [Bowers](Details/Thomas_Bowers.md), [William Broeksmit](Details/William_Broeksmit.md), [Middleton](Details/Mark_Middleton.md), [Chris Cornell](Details/Chris_Cornell.md), [Chester Bennington](Details/Chester_Bennington.md), [Anthony Bourdain](Details/Anthony_Bourdain.md), [Kate Spade](Details/Kate_Spade.md), [Ines Zorreguieta](Details/Ines_Zorreguieta.md), [Tracy Twyman](Details/Tracy_Twyman.md), [Michael Hutchence](Details/Michael_Hutchence.md), [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md), [Mark Salling](Details/Mark_Salling.md), and [Aaron Swartz](Details/Aaron_Swartz.md) were all found hanged. Middleton was also shot.
+
+**Banking executive deaths:** [William Broeksmit](Details/William_Broeksmit.md) (Deutsche Bank senior exec, hanged 2014), [Thomas Bowers](Details/Thomas_Bowers.md) (Deutsche Bank wealth management, hanged 2019), [Aivar Rehe](Details/Aivar_Rehe.md) (Danske Bank Estonia, found dead 2019), [Val Broeksmit](Details/Val_Broeksmit.md) (Deutsche Bank whistleblower, found dead 2022), and [Daniel Anderl](Details/Daniel_Anderl.md) (son of judge assigned to Epstein-Deutsche Bank case, shot 2020). Deutsche Bank paid $150M in fines for managing Epstein's accounts. Danske Bank processed $230B in suspicious transactions. The gunman who killed Anderl, Roy Den Hollander, had previously worked for Kroll Associates — a firm with direct ties to both Deutsche Bank and intelligence agencies.
+
+**2017–2018 "Silent Children" cluster:** [Chris Cornell](Details/Chris_Cornell.md) (May 2017), [Chester Bennington](Details/Chester_Bennington.md) (July 2017), [Avicii](Details/Avicii_Tim_Bergling.md) (April 2018), [Kate Spade](Details/Kate_Spade.md) (June 5, 2018), [Ines Zorreguieta](Details/Ines_Zorreguieta.md) (June 6, 2018), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (June 8, 2018) — six high-profile or elite-connected figures all died within 13 months. Five of the six died by hanging. Spade, Zorreguieta, and Bourdain died within the same week.
+
+**Modeling industry pipeline:** [Karen Mulder](Details/Karen_Mulder.md) named [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) as a "child hunter" and accused Elite Model Management of supplying girls to powerful men — on French national television in October 2001. The footage was destroyed. She was hospitalized for five months (paid for by her accused rapist, Gérald Marie). Brunel wasn't arrested until 2020 and was found hanged in prison in 2022. [Ruslana Korshunova](Details/Ruslana_Korshunova.md) flew on Epstein's jet at 18 and fell from a building two years later. [Anastasia Drozdova](Details/Anastasia_Drozdova.md) died identically one year after Korshunova. [Nadia Marcinko](Details/Nadia_Marcinko.md) has been missing since January 2024. The modeling industry was a documented recruitment pipeline for the Epstein network.
+
+**Balcony falls:** [Ruslana Korshunova](Details/Ruslana_Korshunova.md) (New York, 2008), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), and [Steve Bing](Details/Steve_Bing.md) (Los Angeles, 2020) all fell from buildings.
+
+**Deaths after cooperation with authorities:** [Steven Hoffenberg](Details/Steven_Hoffenberg.md) died after cooperating with the FBI. [Efrain Reyes](Details/Efrain_Stone_Reyes.md) died after talking with federal investigators. [Carolyn Andriano](Details/Carolyn_Andriano.md) died two years after testifying against Maxwell.
+
+**Cluster in 2022:** Nine Epstein-connected individuals died — [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) (February), [Val Broeksmit](Details/Val_Broeksmit.md) (April), [Mark Middleton](Details/Mark_Middleton.md) (May), [Ivana Trump](Details/Ivana_Trump.md) (July), [Steven Hoffenberg](Details/Steven_Hoffenberg.md) (August), [Anne Heche](Details/Anne_Heche.md) (August), [Kenneth Starr](Details/Kenneth_Starr.md) (September), [Nikolai Mushegian](Details/Nikolai_Mushegian.md) (October), and [John Connolly](Details/John_Connolly.md) (January).
+
+**2019 pre-arrest cluster:** [Natacha Jaitt](Details/Natacha_Jaitt.md) (February 2019, Argentina), [Sabrina Bittencourt](Details/Sabrina_Bittencourt.md) (February 2019, Barcelona), [Isaac Kappy](Details/Isaac_Kappy.md) (May 2019), [Linda Collins-Smith](Details/Linda_Collins_Smith.md) (May 2019), [Jonathan Nichols](Details/Jonathan_Nichols.md) (June 2019), [Tracy Twyman](Details/Tracy_Twyman.md) (July 2019), and [Jeffrey Epstein](Details/Jeffrey_Epstein.md) himself (August 2019) all died within six months. Collins-Smith and Nichols — both former Republican state senators who championed child safety legislation — died the same week; Nichols had authored Oklahoma's death penalty for repeat child molesters and created the OSBI Child Abuse Response Team. Jaitt, Bittencourt, Kappy, and Twyman were all investigating or publicly exposing elite pedophilia and trafficking networks. Jaitt and Bittencourt died in the same month — both had accused powerful figures connected to the Catholic Church.
+
+**Columbus/Wexner network deaths (1970–1991):** [Frank Yassenoff](Details/Frank_Yassenoff.md) and [Ella Rich](Details/Ella_Rich.md) (shot, 1970), [Marjorie Dyer](Details/Marjorie_Dyer.md) (car accident, ~1970s), [Arthur Shapiro](Details/Arthur_Shapiro.md) (shot, 1985), and [John Deroo](Details/John_Deroo.md) (shot six times in face, 1991) — all connected through [Berry Kessler](Details/Berry_Kessler.md) and the Wexner financial orbit in Columbus, Ohio.
+
+**Intelligence connections:** [Craig Spence](Details/Craig_Spence.md) (1989) — DC lobbyist whose bugged Kalorama mansion allegedly used CIA-installed surveillance to blackmail government officials; claimed "top level" persons including VP Bush's national security adviser arranged his White House access; left a CIA Director clipping at death scene. [Robert Maxwell](Details/Robert_Maxwell.md) (1991) and [Danny Casolaro](Details/Danny_Casolaro.md) (1991) both died the same year. Maxwell allegedly distributed backdoored PROMIS software for Mossad. Casolaro was investigating that same operation. [Diana Spencer](Details/Diana_Spencer.md) (1997) died in a Paris tunnel crash; her driver reportedly had contacts with French intelligence (DGSE) and allegedly MI6; former MI6 officer Richard Tomlinson testified that MI6 had an informant at the Ritz matching the driver's description. [Ted Gunderson](Details/Ted_Gunderson.md) (2011) — former FBI SAC who investigated the CIA-linked Finders cult and described intelligence-run "brownstone operations" (sexual blackmail using minors) for decades before Epstein's operation was exposed. [Philip K. Dick](Details/Philip_K_Dick.md) (1982) — confirmed FBI/CIA surveillance target whose home safe was blown open with professional explosives in 1971 (never solved); he noted that CIA Operation CHAOS — which targeted American dissidents — was officially ended in March 1974, the same month his VALIS revelations began.
+
+**Sealed records:** Judge Alice Gray sealed all photographs and visual records of [Mark Middleton](Details/Mark_Middleton.md)'s death scene. The initial police report contradicts the later report about the shotgun's location.
+
+**Deaths before key testimony:** [Craig Spence](Details/Craig_Spence.md) died after being subpoenaed by the grand jury investigating the DC escort ring. [Arthur Shapiro](Details/Arthur_Shapiro.md) was killed weeks before IRS questioning. [Joe Recarey](Details/Joe_Recarey.md) died a year before Epstein's re-arrest. [Berry Kessler](Details/Berry_Kessler.md) died in prison before questioning about the Shapiro murder's Epstein connection. [John Ashe](Details/John_Ashe.md) died days before his UN corruption trial involving a Clinton Foundation donor. [Mark Salling](Details/Mark_Salling.md) hanged himself five weeks before federal sentencing for child pornography — his devices contained 50,000+ files and a child abuse manual whose distribution network was never traced. [Natacha Jaitt](Details/Natacha_Jaitt.md) died reportedly weeks before scheduled court testimony against Gustavo Vera, a close associate of Pope Francis whom she had accused of child trafficking on Argentine national television.
+
+**Attacks on judges and officials:** [Daniel Anderl](Details/Daniel_Anderl.md) was murdered four days after his mother, Judge [Esther Salas](Details/Esther_Salas.md), was assigned the Epstein-Deutsche Bank money laundering case. The gunman, Roy Den Hollander, had worked for Kroll Associates (the "CIA of Wall Street") which had ties to both Deutsche Bank and intelligence agencies. He killed himself the next day. USVI AG [Denise George](Details/Denise_George.md) was fired four days after suing JPMorgan over Epstein and told the FBI she felt threatened. The pattern: those who threaten to expose the financial infrastructure behind Epstein are neutralized — through violence, termination, or intimidation.
+
+**Victim deaths in Palm Beach hotels:** Both [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (2017) and [Carolyn Andriano](Details/Carolyn_Andriano.md) (2023) died of overdoses in hotel rooms in West Palm Beach — the same area as Epstein's mansion.
+
+**Florida concentration:** Six Epstein-connected deaths occurred in Florida: [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (West Palm Beach), [Carolyn Andriano](Details/Carolyn_Andriano.md) (West Palm Beach), [Joe Recarey](Details/Joe_Recarey.md) (Palm Beach), [Roy Black](Details/Roy_Black.md) (Coral Gables), [Ronald Eppinger](Details/Ronald_Eppinger.md) (Miami), and [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) (Tarpon Springs). Florida was the epicenter of Epstein's crimes and the original 2005–2008 investigation.
+
+**New Mexico / Zorro Ranch:** Epstein's 7,560-acre [Zorro Ranch](Details/Zorro_Ranch_Unnamed_Victims.md) near Stanley, NM is the only Epstein property never raided by the FBI. An anonymous former employee alleged [two foreign girls](Details/Zorro_Ranch_Unnamed_Victims.md) were buried in the surrounding hills. An FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator. Ranch managers [Brice and Karen Gordon](Details/Brice_Karen_Gordon.md) vanished after Maxwell's arrest. Governor [Bill Richardson](Details/Bill_Richardson.md) met with Epstein 9+ times after his conviction and had his name removed from a children's hospital in 2026. Four victims testified under oath to abuse at the ranch. In February 2026, the NM Attorney General reopened the criminal investigation and the state legislature unanimously created a "truth commission" with subpoena power and a $2M budget.
+
+**Caribbean / USVI government protection:** Epstein operated his trafficking network from Little St. James island in the U.S. Virgin Islands from 1998 until his 2019 arrest. The USVI government actively protected him: Governor Albert Bryan texted Epstein "We got u" and pressured AG [Denise George](Details/Denise_George.md) to grant sex offender waivers and drop the investigation. Former First Lady Cecile de Jongh was on Epstein's payroll at $200K/year and helped him craft legislation to weaken sex offender monitoring. George was fired four days after suing JPMorgan for facilitating Epstein's crimes and told the FBI she felt threatened. No confirmed suspicious deaths have occurred in the Caribbean connected to Epstein, but the institutional protection apparatus — involving two USVI governors — demonstrates how powerful the cover-up network was.
+
+**European Epstein fallout (2026):** The DOJ file releases triggered a political reckoning across Europe. [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) died in a Paris prison in 2022. In February 2026, [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) (former Norwegian PM) was hospitalized after a suicide attempt following corruption charges. [Prince Andrew](Details/Prince_Andrew.md) was arrested on his 66th birthday — the first royal arrested in nearly 400 years — for sharing classified trade intelligence with Epstein. [Peter Mandelson](Details/Peter_Mandelson.md) was arrested for leaking market-sensitive government information to Epstein. [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) and [Mona Juul](Details/Mona_Juul.md) are both under criminal investigation in Norway; Epstein willed $10M to their children. Juul resigned as ambassador. France's Jack Lang resigned. Slovakia's Miroslav Lajcak stepped down. Countries launching investigations include France, UK, Norway, Turkey, Poland, Lithuania, Latvia, Australia, North Macedonia, and Sweden. European deaths: [Robert Maxwell](Details/Robert_Maxwell.md) (1991), [Diana Spencer](Details/Diana_Spencer.md) (Paris, 1997), [Jill Dando](Details/Jill_Dando.md) (London, 1999), [William Broeksmit](Details/William_Broeksmit.md) (London, 2014), [Peaches Geldof](Details/Peaches_Geldof.md) (Kent, 2014), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (France, 2018).
+
+**Trafficking investigators/researchers who died or disappeared:** [Jill Dando](Details/Jill_Dando.md) (BBC Crimewatch presenter who reportedly compiled dossier on BBC pedophile ring, execution-style shooting on doorstep 1999 — case unsolved, Jimmy Savile ring later proven to exist), [Ted Gunderson](Details/Ted_Gunderson.md) (former FBI SAC, investigated Franklin scandal and "brownstone operations," died of bladder cancer 2011 — associates allege arsenic poisoning), [Gary Caradori](Details/Gary_Caradori.md) (Franklin scandal investigator, plane disintegrated 1990), [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS investigator, wrists slashed 1991), [Nancy Schaefer](Details/Nancy_Schaefer.md) (Georgia state senator who published CPS trafficking exposé, shot in back 2010 — was completing documentary, receiving death threats, killed with untraceable gun), [Monica Petersen](Details/Monica_Petersen.md) (Haiti trafficking researcher, died 2016), [Max Spiers](Details/Max_Spiers.md) (elite pedophilia researcher, died Poland 2016), [Jenny Moore](Details/Jenny_Moore.md) (trafficking journalist, found dead DC 2018), [Sabrina Bittencourt](Details/Sabrina_Bittencourt.md) (exposed John of God's baby trafficking operation, died in hiding Barcelona 2019 — no death certificate confirmed, son said "they killed my mother"), [Linda Collins-Smith](Details/Linda_Collins_Smith.md) (Arkansas state senator investigating CPS/DHS trafficking corruption, stabbed 2019 — killer convicted on financial motive, but broader context debated), [Jonathan Nichols](Details/Jonathan_Nichols.md) (Oklahoma state senator who authored death penalty for child molesters and OSBI Child Abuse Response Team, gunshot wound to chest ruled suicide, June 2019 — same week as Collins-Smith), [Natacha Jaitt](Details/Natacha_Jaitt.md) (Argentine model who accused politicians and a Pope Francis associate of pedophilia on national TV, found dead at party venue February 2019 — blood tests disputed official overdose ruling), [Isaac Kappy](Details/Isaac_Kappy.md) (named Hollywood pedophiles, fell from bridge 2019), [Tracy Twyman](Details/Tracy_Twyman.md) (continued Kappy's research, hanged 2019), [Nikolai Mushegian](Details/Nikolai_Mushegian.md) (tweeted about CIA/Mossad trafficking ring in Puerto Rico, drowned 4 hours later 2022), [Peaches Geldof](Details/Peaches_Geldof.md) (tweeted names of mothers who enabled pedophile Ian Watkins, heroin overdose on 61% pure heroin 5 months later, supplier never found, Kent 2014), and [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) (accused elites of cannibalism and murder on camera in Monterrey, Mexico; detained, sent to psychiatric facility, never seen again 2009). Multiple independent individuals who publicly accused elite abuse networks have died or disappeared across three decades.
+
+**Whistleblower deaths and transparency activists:** [Ted Gunderson](Details/Ted_Gunderson.md) (former FBI SAC who spent 30 years exposing elite trafficking and blackmail networks, died of bladder cancer 2011 — associates allege arsenic poisoning), [Aaron Swartz](Details/Aaron_Swartz.md) (internet activist who co-created SecureDrop whistleblower tool, hanged 2013 while facing 35 years for downloading academic articles from MIT — the same MIT that was secretly accepting Epstein donations), [Nancy Schaefer](Details/Nancy_Schaefer.md) (Georgia state senator who exposed CPS corruption, shot in back 2010), [Philip Haney](Details/Philip_Haney.md) (DHS trafficking whistleblower, shot 2020), [Val Broeksmit](Details/Val_Broeksmit.md) (Deutsche Bank FBI informant, found dead 2022), [Steven Hoffenberg](Details/Steven_Hoffenberg.md) (FBI cooperator, found dead 2022), [Philip K. Dick](Details/Philip_K_Dick.md) (sci-fi author who publicly claimed reality was a simulation/control system, documented FBI/CIA surveillance, home safe blown with explosives 1971, died of sudden strokes at 53 in 1982 weeks before *Blade Runner* would have given him his largest platform). Those who provided information to federal authorities about trafficking or financial networks, or who built tools to protect whistleblowers, have died at a notable rate.
+
+**Clinton network overlap:** [Vince Foster](Details/Vince_Foster.md) (deputy counsel, shot 1993 — referenced in Epstein's 2016 emails), [Mark Middleton](Details/Mark_Middleton.md) (aide who gave Epstein White House access, hanged/shot 2022), [Steve Bing](Details/Steve_Bing.md) (Clinton donor in Epstein files, fell 2020), [John Ashe](Details/John_Ashe.md) (UN president in Clinton donor corruption case, barbell death 2016), and [Bill Richardson](Details/Bill_Richardson.md) (governor named in Epstein docs, died in sleep 2023). Bill Clinton flew on Epstein's jet 26+ times.
+
+**New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump. Epstein emails to Michael Wolff reference a Clinton-[Vince Foster](Details/Vince_Foster.md) affair.
+
+**Hollywood child abuse network victims and whistleblowers:** [Corey Haim](Details/Corey_Haim.md) (allegedly raped at 13 on a film set in 1986, died of pneumonia at 38 in 2010 after decades of addiction), [Mark Salling](Details/Mark_Salling.md) (*Glee* actor found with 50,000+ child abuse images and a child abuse instruction manual, hanged before sentencing 2018 — the distribution network for his massive collection was never traced), [Isaac Kappy](Details/Isaac_Kappy.md) (actor who publicly named Hollywood pedophiles, fell from bridge 2019), [Alexis Arquette](Details/Alexis_Arquette.md) (transgender actress who publicly accused Hollywood figures and was reportedly planning a tell-all memoir, died of HIV-related cardiac arrest 2016 — death medically explained but fits the broader pattern of whistleblowers dying before their full accounts are published). Hollywood's child sexual abuse networks — documented in the 2014 film *An Open Secret* and Corey Feldman's 2020 documentary *My Truth: The Rape of 2 Coreys* — share structural parallels with Epstein's operation: powerful men exploiting minors with institutional protection, victims discredited when they speak out, and documentary evidence suppressed. The entertainment industry's distributors refused to carry *An Open Secret*. Feldman was publicly mocked on national television for years before the #MeToo era validated his claims.
+
+**Cold fusion suppression:** Epstein emailed Al Seckel on October 1, 2009: *"regarding cold fusion. i killed pons years ago"* (DOJ documents EFTA02437662, EFTA00740161, EFTA00740600). [B. Stanley Pons](Details/B_Stanley_Pons.md) and Martin Fleischmann announced room-temperature nuclear fusion in 1989. Congressional funding was cut in the early 1990s. Pons fled to France, renounced his citizenship, and has not been heard from in ~30 years. Seckel — who was married to Isabel Maxwell (Ghislaine's sister) — was found dead at the base of a 100-foot cliff in France in 2015. His death has never been officially confirmed; an author who investigated stated he could never establish that Seckel actually died.
+
+**Maxwell family network:** [Robert Maxwell](Details/Robert_Maxwell.md) (Ghislaine's father, fell from yacht 1991), Al Seckel (married Isabel Maxwell, found dead at cliff base 2015), and [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (serving 20 years, convicted of sex trafficking and conspiracy). The Maxwell family's intelligence ties span decades — Robert allegedly distributed backdoored PROMIS software for Mossad, and Ghislaine was convicted in 2021 for her role in Epstein's trafficking operation.
+
+## Groups & Organizations
+
+The Groups directory documents the organizations, intelligence services, financial institutions, and operations connected to the Epstein network:
+
+**Intelligence Services:** Mossad (alleged Epstein backing via Maxwell family), CIA (Acosta said Epstein "belonged to intelligence"), FSB (Russian domestic security, successor to KGB — assassinations, poisonings, suppression of dissidents and defectors), Kroll Associates ("CIA of Wall Street" — connected to Deutsche Bank, Robert Maxwell, and the Salas attack)
+
+**Elite Social Clubs & Power Networks:** Bohemian Grove (secretive all-male elite retreat; Franklin scandal victim testified about abuse there; CIA directors gave classified briefings; leaked 2023 roster overlaps with Epstein-adjacent figures)
+
+**Blackmail & Trafficking Operations:** Jeffrey Epstein Network (the core operation), PROMIS / The Octopus (predecessor surveillance/blackmail op), Franklin Scandal (1980s child trafficking with White House connections), Jordan, Minnesota (1983) (child abuse ring investigation that collapsed — 24+ residents charged, only one convicted), DC Madam (Palfrey's escort service), Craig Spence Operation (DC lobbyist, midnight White House tours), Henry Vinson Escort Service (DC's largest gay escort ring, supplied Spence, clients allegedly included CIA Director Casey), 2023 DC Brothel Network (Han "Hana" Lee operation near Boston and DC — allegedly serviced officials and military with clearances), Bosnia DynCorp Trafficking (U.S. military contractors bought and trafficked women and girls in postwar Bosnia; whistleblowers fired), Dutroux Affair (Belgian ring, 27+ dead witnesses), Jimmy Savile / BBC (UK's most prolific offender, institutional cover-up)
+
+**Financial Institutions:** Deutsche Bank ($150M fine, multiple exec deaths), JPMorgan Chase ($365M in settlements)
+
+**Modeling Agencies:** Elite Model Management (trafficking pipeline), MC2 Model Management (Epstein-funded agency)
+
+**Business Networks:** Wexner / L Brands (source of Epstein's wealth; Columbus death pattern)
+
+**Government Entities:** USVI Government (territorial government that protected Epstein), Arizona Political Machine (Hoffman-Biggs-Petersen network — political musical chairs and obstruction of child welfare oversight while children disappear from group homes)
+
+**Death Clusters — Defense Research:** GEC-Marconi Scientists (1982-1990) (25 British scientists connected to SDI/Star Wars programs died under suspicious circumstances), AFRL Scientist Cluster (2025-2026) (six people linked to Air Force Research Laboratory vanished or died in a nine-month span)
+
+**Foreign Impunity Cases:** Tom Alexandrovich Case (Israeli cyber official fled U.S. after child sex sting arrest)
+
+## Locations
+
+The [Locations](locations.md) index maps every death and operation geographically, with detailed breakdowns for each region:
+
+**Major U.S. Hubs:** New York Metro (12+ deaths), South Florida (8+ deaths), Southern California (9+ deaths), Washington DC (4 decades of overlapping blackmail ops), Columbus, Ohio (Wexner's base, CIA airline), New Mexico (Zorro Ranch, never raided)
+
+**Other U.S.:** Arkansas (Middleton, Collins-Smith, sealed records), Omaha (Franklin scandal), New Jersey (Judge Salas attack), Caribbean (Little St. James, government protection), Other U.S.
+
+**International:** France (Brunel, modeling industry), United Kingdom (Maxwell family, Savile), Other International (Belgium, Ukraine, Oman, Australia, Mexico)
+
+## Related Projects
+
+These companion projects document deaths and suppression connected to intelligence operations, UAP secrecy, and energy technology suppression:
+
+- **[Intelligence Service Murders](/intelligence-service-murders/)** — 105 profiles of political assassinations and suspicious deaths carried out by or connected to CIA, MI6, Mossad, KGB/FSB/GRU, and other intelligence services (1953–present)
+- **UAP-Related Deaths** — Researchers, whistleblowers, and scientists who died under suspicious circumstances after investigating or disclosing UAP/UFO programs
+- **Suppressed Energy Breakthroughs** — Suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, water fuel cells, and other suppressed technologies (41 profiles)
+
+## Detailed Research
+
+The [Details/](Details/) subdirectory contains:
+- Individual markdown files for every person listed above with full backgrounds, circumstances, suspicion assessments, and source links
+- A file on [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (living, at risk) documenting threats, prison transfers, and cooperation status
+- A file on [B. Stanley Pons](Details/B_Stanley_Pons.md) documenting Epstein's claim to have "killed" his cold fusion career
+- [Location data](locations.md) and the Weiner laptop overview
+- A detailed breakdown of the NYPD Weiner laptop deaths
+- Groups & Organizations — 22 profiles of intelligence services, trafficking operations, financial institutions, elite social clubs, and other connected groups
+- [Locations](locations.md) — 14 geographic profiles covering every region where deaths or operations occurred
+- Books — 35+ nonfiction books investigating Epstein, elite blackmail, intelligence operations, and suppressed energy technology
+- Podcasts — 25+ podcasts covering Epstein investigations, suspicious deaths, and energy suppression
+- YouTube Channels — 20+ YouTube channels and documentary series covering both project scope areas
+
+## Data Files
+
+### YAML Databases
+- **epstein_deaths.yaml** — Primary database: 22+ individuals with name, location, year, cause of death, person type, and multiple sourced URLs
+- **epstein_deaths_comprehensive.yaml** — Expanded database with additional individuals and cross-references
+- **epstein_deaths_expanded_details.yaml** — Extended detail fields per individual
+- **epstein_related_deaths.yaml** — Deaths with indirect or peripheral Epstein connections
+
+### CSV Reference Files
+- **person_types.csv** — 30 categories of connected individuals (victims, law enforcement, politicians, co-conspirators, witnesses, journalists, lawyers, judges, prison guards, pilots, staff, business associates, intelligence operatives, and more)
+- **person_categories.csv** — Groupings and subcategories for analysis
+- **other/locations/locations.csv** — 40 locations across 20+ countries/states/cities where deaths occurred or were investigated (NY, FL, NM, CA, OH, USVI, France, UK, Israel, Morocco, Spain, Monaco, Switzerland, Austria, Belgium)
+
+### Research Notes
+- **findings_national_enquirer.txt** — Notes from National Enquirer investigation (two dozen+ linked deaths)
+- **findings_timesnow.txt** / **findings_timesnow 2.txt** — Notes from Times Now timeline article
+- **findings_uinterview_22_deaths.txt** — Complete list from Uinterview article (22 deaths)
+- **findings_zorro_ranch.txt** / **findings_zorro_ranch_alleged.txt** — Zorro Ranch death allegations and FBI barn report
+- **findings_palm_beach_hotels.txt** — Palm Beach hotel victim deaths
+- **detailed_alfredo_rodriguez.txt** — Deep dive on Epstein's house manager
+- **detailed_steven_hoffenberg.txt** — Deep dive on FBI cooperator found dead
+
+## NYPD Weiner Laptop Deaths
+
+Seven NYPD officers allegedly died after viewing evidence on Anthony Weiner's laptop. See the detailed Weiner laptop overview and individual officer pages in the table above.
+
+## Sources
+
+Primary sources include:
+- [National Enquirer: More Than Two Dozen People Linked to Jeffrey Epstein Have Died](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/) (August 2025)
+- [Times Now: Mysterious Deaths Linked to Jeffrey Epstein Over the Years](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534) (October 2025)
+- [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/) (August 2025)
+- [CBS News: Epstein files jail cell death video logs](https://www.cbsnews.com/news/epstein-files-jail-cell-death-video-logs/) (January 2026)
+- [NPR: DOJ removed/withheld Epstein files related to Trump accusations](https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell) (February 2026)
+- [France 24: French prosecutors announce special team to analyse Epstein files](https://www.france24.com/en/france/20260214-frech-prosecutors-announce-special-team-to-analyse-epstein-files) (February 2026)
+- BBC News, NPR, NBC News, NY Post
+- Court documents and DOJ Epstein file releases (2024–2026)
+
+Private investigator Ed Opperman: *"There were a lot of people entrapped and entangled through Epstein's web, and many of those people are gone now — dead. They are all connected through a money trail."*
+
+## Research Methodology
+
+Searches were conducted systematically across:
+1. **Years**: 1970–2026
+2. **Locations**: 40 different locations (20+ countries, states, and cities)
+3. **Person Categories**: 30 different types of individuals
+4. **DOJ File Releases**: January–February 2026 document dumps
+
+This research documents deaths and events connected to the Epstein case from public sources. Connection strength ranges from direct involvement to tangential association. New information continues to emerge as the DOJ releases more files and international investigations proceed.
+
+---
+
+*Last Updated: March 26, 2026 — Added missing group links (FSB, AFRL cluster, GEC-Marconi, Bosnia DynCorp, DC Brothel Network, Arizona, Jordan MN), added death count*
+
+**Suspicious deaths documented in this investigation: 90** — individuals who died under circumstances rated Moderate Suspicion or higher, connected to the Epstein network, elite blackmail operations, or related cover-ups.

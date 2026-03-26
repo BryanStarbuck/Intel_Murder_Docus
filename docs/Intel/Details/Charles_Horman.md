@@ -1,0 +1,102 @@
+
+
+# Charles Horman
+American journalist and filmmaker, executed by the Chilean military during the 1973 Pinochet coup. Declassified U.S. documents and a Chilean court ruling confirmed that U.S. intelligence played a "fundamental role" in his death. His story was the basis for the 1982 Costa-Gavras film *Missing*, starring Jack Lemmon and Sissy Spacek. His wife Joyce Horman spent decades campaigning for accountability.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Charles Edmund Lazar Horman |
+| **Born** | May 15, 1942, New York City, USA |
+| **Died** | Approximately September 18, 1973 |
+| **Age at Death** | 31 |
+| **Location of Death** | Santiago, Chile |
+| **Cause of Death** | Execution by shooting |
+| **Official Ruling** | Homicide (Chilean court convictions, 2015) |
+| **Alleged Intelligence Connection** | CIA / U.S. Military Intelligence |
+| **Category** | Journalist / Investigator |
+
+## Assessment: CONFIRMED
+
+U.S. government complicity in Horman's death is confirmed by declassified documents and judicial findings. A 1976 State Department memo, declassified in 1999, concluded that the CIA may have had "an unfortunate part" in Horman's death. In 2011, Chilean Judge Jorge Zepeda indicted U.S. Navy Captain Ray E. Davis, commander of the U.S. Military Group in Chile, for his role in the murders. In 2014, the same judge ruled that U.S. military intelligence played a "fundamental role" in the murders of Horman and Frank Teruggi. In 2015, two former Chilean intelligence officials were convicted for the killings.
+
+## Circumstances of Death
+
+Horman was in the coastal resort town of Vina del Mar at the time of the September 11, 1973 coup. While there, he spoke with several American military and intelligence personnel and took careful notes documenting the U.S. role in overthrowing the elected government of President Salvador Allende. He returned to Santiago and was seized from his home by Chilean military forces on September 17, 1973 — six days after the coup.
+
+He was taken to the National Stadium in Santiago, which the military had converted into a makeshift concentration camp where prisoners were interrogated, tortured, and executed. Horman was executed around September 18, 1973. His body was initially buried in an unmarked grave in the wall of Santiago's General Cemetery. It was not returned to his family until months later, and the Chilean government initially denied any knowledge of his fate.
+
+His father, Edmund Horman, traveled to Chile to search for his son, encountering obstruction from both Chilean authorities and the U.S. Embassy. The elder Horman later sued former Secretary of State Henry Kissinger and other U.S. officials. Edmund Horman's anguished search for his son became a central narrative in the film *Missing*.
+
+## Background
+
+Charles Horman graduated summa cum laude from Harvard University in 1964. He was a journalist and documentary filmmaker from New York who moved to Chile in December 1971 with his wife, Joyce, drawn by the social experiment of Salvador Allende's democratic socialist government — the first Marxist president elected in a free election in the Western Hemisphere. He worked as a freelance journalist, contributed to the alternative newspaper FIN (Fuente de Informacion Norteamericana), and was producing a documentary about Chilean life under Allende.
+
+His time in Vina del Mar during the coup was particularly significant because he reportedly witnessed evidence of direct U.S. military involvement in the coup operations, including the presence of American military advisors working closely with Chilean junta forces. According to Thomas Hauser's book *The Execution of Charles Horman: An American Sacrifice* (1978), this knowledge may have made him a target for elimination.
+
+Joyce Horman, Charles's widow, became a lifelong advocate for truth and accountability. She filed a criminal suit against Pinochet for his role in her husband's death and established the Charles Horman Truth Foundation to support ongoing investigations into human rights violations during Pinochet's regime. Joyce continued to press for justice for decades, testifying before Chilean courts and advocating for the declassification of U.S. government documents.
+
+## Intelligence Connections
+
+* A declassified 1976 State Department memo stated: "There is some circumstantial evidence to suggest US intelligence may have played an unfortunate part in Horman's death. At best, it was limited to providing or confirming information that helped motivate his murder by the GOC [Government of Chile]. At worst, US intelligence was aware that GOC saw Horman in a rather serious light and US officials did nothing to discourage the logical outcome of GOC paranoia."
+* U.S. Navy Captain Ray E. Davis, commander of the U.S. Military Group in Chile, reportedly provided his Chilean liaison, Raul Monsalve, with information casting Horman and Frank Teruggi as left-wing subversives. Monsalve then passed this intelligence to the Chilean Joint Chiefs of Staff, which ordered the men's arrests
+* Davis was running intelligence operations out of the U.S. Embassy targeting Americans in Chile considered to be "subversives or radicals." He was indicted by Chilean Judge Zepeda in 2011 but died before he could be brought to trial
+* In 2014, Chilean Judge Jorge Zepeda ruled that U.S. military intelligence services had played a "fundamental" role in the killings
+* President Bill Clinton ordered the release of approximately 1,100 declassified documents in 1999 that revealed the extent of U.S. involvement in the coup and its aftermath
+* The CIA and National Security Council, under Henry Kissinger's direction, had actively worked to destabilize the Allende government before the coup through economic warfare, covert funding of opposition media, and support for military plotters
+
+## Why This Death Raises Questions
+
+- An American citizen was executed by a foreign military with the complicity of his own government's intelligence services
+- Horman was reportedly targeted specifically because he witnessed U.S. military involvement in the coup at Vina del Mar and took detailed notes
+- The U.S. Embassy in Santiago failed to protect American citizens and, according to judicial findings, actively facilitated their deaths by passing intelligence to Chilean military forces
+- The U.S. government concealed its role for decades, and key documents were only declassified in 1999 under President Clinton
+- Despite judicial findings of U.S. complicity, no American official was ever criminally charged
+- Henry Kissinger, who oversaw the policy that led to the coup, was never held accountable
+- Ray Davis died without facing trial despite his indictment by a Chilean judge
+- The case established a precedent of American intelligence services contributing to the deaths of their own citizens abroad
+
+## Key Quotes
+
+> "There is some circumstantial evidence to suggest US intelligence may have played an unfortunate part in Horman's death." — Declassified 1976 State Department memo
+
+> "U.S. military intelligence services had played a fundamental role." — Chilean Judge Jorge Zepeda, 2014 ruling
+
+> "We went to Chile because we believed in what Allende was doing. And then our own country helped destroy it — and killed my husband." — Joyce Horman, as reported by Democracy Now
+
+## The Counterargument
+
+The U.S. government long maintained that it had no role in Horman's death and that the State Department and Embassy in Santiago made good-faith efforts to locate him. The State Department formally objected to the film *Missing*, calling its depictions inaccurate. Some have argued that the chaos of the coup created conditions in which individual military officers acted without authorization or coordination with U.S. personnel. However, the 1976 State Department memo's own language — acknowledging U.S. intelligence may have played "an unfortunate part" — and the 2014 Chilean judicial finding of a "fundamental role" substantially undermine these defenses.
+
+## The Film *Missing* (1982)
+
+Costa-Gavras directed *Missing* (1982), based on Thomas Hauser's 1978 book *The Execution of Charles Horman: An American Sacrifice*. The film starred Jack Lemmon as Edmund Horman and Sissy Spacek as Joyce Horman. It won the Palme d'Or at the Cannes Film Festival and the Academy Award for Best Adapted Screenplay. The U.S. State Department formally objected to the film's depiction of American complicity, but subsequent declassified documents vindicated the film's central claim that the U.S. government bore responsibility for Horman's death.
+
+## See Also
+
+- [Frank Teruggi](Frank_Teruggi.md) — American student executed alongside Horman during the Chilean coup
+- [Victor Jara](Victor_Jara.md) — Chilean folk singer tortured and killed during the same coup
+- [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the coup
+- [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC
+- [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA car bomb
+
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Manuel Buendia](Manuel_Buendia.md): Mexico's top columnist shot in the back for exposing CIA-cartel-secret police connections. His killer: the secret police chief.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
+
+## Sources
+
+- [Charles Horman — Wikipedia](https://en.wikipedia.org/wiki/Charles_Horman)
+- [Declassified Documents Relating to Charles Horman — National Security Archive](https://nsarchive2.gwu.edu/news/20000630/)
+- [Was US Journalist Charles Horman Killed with Help of the CIA? — Democracy Now](https://www.democracynow.org/2013/9/9/was_us_journalist_charles_horman_killed)
+- [New Documents Reveal US Role in Horman Murder — WSWS](https://www.wsws.org/en/articles/1999/10/horm-o26.html)
+- [Chilean Court Confirms US Role in 1973 Killings — Center for Constitutional Rights](https://ccrjustice.org/home/press-center/press-releases/chilean-court-confirms-us-role-1973-killings-americans-chilean-coup)
+- [Chile in Their Hearts — National Security Archive](https://nsarchive.gwu.edu/briefing-book/chile/2025-05-07/chile-their-hearts)
+- [Missing (1982) — The Criterion Collection](https://www.criterion.com/films/769-missing)
+- [Chilean Court Rules US Played Key Role in Pinochet Murder of Americans — WSWS](https://www.wsws.org/en/articles/2014/07/03/horm-j03.html)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,100 @@
+
+
+# Sakine Cansiz
+PKK co-founder, pioneering Kurdish women's rights leader, and survivor of years of torture in Turkey's notorious Diyarbakir prison, shot execution-style in Paris in January 2013 along with two other Kurdish women activists. Turkish intelligence (MIT) allegedly ordered the operation.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Sakine Cansiz (code name "Sara") |
+| **Born** | 1958, Tunceli, Turkey |
+| **Died** | January 9, 2013 |
+| **Age at Death** | 54 |
+| **Location of Death** | Paris, France (10th arrondissement) |
+| **Cause of Death** | Multiple gunshot wounds to head and neck (silenced weapon) |
+| **Official Ruling** | Homicide (case closed after suspect's death; reopened by anti-terror judge) |
+| **Alleged Intelligence Connection** | Turkish National Intelligence Organization (MIT) |
+| **Category** | Activist / Organizer |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Sakine Cansiz was a co-founder of the Kurdistan Workers' Party (PKK) who was shot execution-style along with [Fidan Dogan](Fidan_Dogan.md) and [Leyla Saylemez](Leyla_Saylemez.md) at the Kurdistan Information Center in Paris. The sole suspect, Omer Guney, died of brain cancer days before his trial. Leaked recordings captured Guney allegedly planning the assassinations with MIT handlers, and a leaked document resembling a MIT "mission order" — reportedly signed by four MIT officials and referencing a 6,000-euro payment — pointed to a state-directed killing. French investigators established links between Guney and Turkish intelligence services. As the PKK's most prominent female founder and a living symbol of Kurdish resistance, Cansiz's assassination carried enormous political weight.
+
+## Circumstances of Death
+
+During the night of January 9-10, 2013, the three women were found dead inside the Kurdistan Information Center at 147 Rue La Fayette in the 10th arrondissement of Paris. Each had been shot multiple times in the head and neck at close range with a silenced weapon — execution-style. The building's security camera footage showed suspect Omer Guney entering the premises between 00:11 and 00:56, the time frame in which the killings occurred. There were no signs of forced entry, suggesting the killer was known to the victims or had a pretext to enter.
+
+Forensic evidence tied Guney to the crime: DNA from one of the victims was found on his parka, and his bag contained traces of gunpowder. Despite this overwhelming evidence, Guney denied any involvement. He was diagnosed with a brain tumor while in custody and died on December 17, 2016 — just days before his trial was set to begin — eliminating the only defendant who could have testified about who gave the order.
+
+## Background
+
+Sakine Cansiz was born around 1958 in Tunceli (Dersim), Turkey, to a Kurdish Alevi family. She became politically active as a young woman during a period of intense repression against Kurdish identity in Turkey. In late 1978, she was one of 22 people present at the founding meeting of the PKK in the Lice district of Diyarbakir province. Cansiz and Kesire Yildirim (Abdullah Ocalan's former wife) were the only two women at the founding congress, making Cansiz the organization's first senior female member. She was given the code name "Sara."
+
+### Diyarbakir Prison
+
+Cansiz was arrested in 1979, shortly after the 1980 Turkish military coup d'etat. She was imprisoned in Diyarbakir Prison, which became notorious for its systematic torture of Kurdish political prisoners — 34 inmates died of torture there between 1981 and 1989, according to reports. Cansiz endured years of brutal treatment but became a legend among PKK members for her defiance. When a prison director tried to establish his authority over her, she reportedly responded: "I am Sakine Cansiz, a founder of the PKK. I am here now and I have my own principles!" She made several escape attempts, all unsuccessful, and was eventually transferred to Amasya Prison. Her resistance inside prison became a foundational story of the Kurdish movement.
+
+### Women's Movement Pioneer
+
+Cansiz was among the first Kurdish leaders to demand the recruitment and education of female revolutionaries and total gender equality within the PKK — principles that became central tenets of the organization. After her release in 1991, she joined PKK camps in Lebanon's Beqaa Valley and then in northern Iraq, where she both fought under the command of Osman Ocalan and organized and led women's combat squads. She played a key role in building the PKK's women's movement, which would grow into one of the most significant armed women's organizations in the Middle East.
+
+In later years, Cansiz became a prominent figure in the Kurdish diaspora movement in Europe, operating from France and Germany. At the time of her murder, peace negotiations between the Turkish government and the PKK were reportedly underway — making the assassination of such a senior founding figure either a provocation or an act of sabotage by factions opposed to peace.
+
+## Intelligence Connections
+
+* A leaked voice recording captured Omer Guney allegedly discussing assassination plans against Kurdish leaders with two individuals determined to be MIT members; the handlers promised financial support for Guney to purchase weapons from Belgium
+* A written document allegedly instructing the assassination of Cansiz surfaced two days after the recording; it reportedly carried the signatures of MIT Branch manager O. Yuret, Department manager U. K. Ayik, Vice president S. Asal, and President H. Ozcan, dated November 18, 2012
+* The document reportedly referenced a payment of 6,000 euros for the operation
+* French investigators established direct links between Guney and Turkish intelligence services, specifically MIT
+* The families of the victims filed legal complaints in 2017 with documents they said proved the killings were "an operation carefully planned by the Turkish secret services"
+* MIT officially denied any involvement in 2014, stating "our agency has nothing whatsoever to do with the murders" while acknowledging an "internal administrative investigation" had been launched
+* After the Paris prosecutor closed the case following Guney's death, the families successfully petitioned for an anti-terror judge to continue the investigation
+
+## Why This Death Raises Questions
+
+- Three women shot execution-style with multiple bullets to the head from a silenced weapon indicates professional assassination, not random violence
+- Cansiz's status as a PKK co-founder made her one of the highest-value Kurdish targets in Europe
+- The sole suspect died of brain cancer days before his trial — preventing any testimony that might have revealed the chain of command from Guney to MIT leadership
+- Leaked documents and recordings allegedly linking MIT to the operation have never been formally tested in court
+- The killings occurred during a sensitive period of Turkish-PKK peace negotiations, potentially aimed at sabotaging talks that hardliners in Turkey's security establishment opposed
+- No other suspects have been charged despite evidence allegedly pointing to a broader intelligence operation with multiple officials involved
+- Turkey's NATO membership and strategic importance to France have complicated the investigation throughout
+- The pattern mirrors other intelligence assassinations abroad: a single expendable operative, a silenced weapon, and the death of the suspect before trial
+
+## Key Quotes
+
+> "I am Sakine Cansiz, a founder of the PKK. I am here now and I have my own principles!" — Sakine Cansiz, to a prison director in Diyarbakir, according to accounts of her imprisonment
+
+> "The families point to documents they say prove the involvement of Turkey's spy agency." — France 24, December 2022
+
+> "The murders were an operation carefully planned by the Turkish secret services." — Victims' families' legal complaint, 2017
+
+## The Counterargument
+
+Turkey's MIT officially denied any involvement, stating "our agency has nothing whatsoever to do with the murders." Turkish authorities dismissed the leaked mission order document as fabricated. Some analysts noted that Cansiz's status as a PKK co-founder made her a potential target for internal rivals, though this theory is not supported by the evidence linking Guney to MIT. Turkey classifies the PKK as a terrorist organization and frames anyone associated with it as a security threat rather than a political figure. The fact that Guney died before trial means the question of state direction was never formally tested in court. However, the combination of surveillance footage, forensic evidence, leaked recordings, and leaked documents has led most independent analysts and French investigators to conclude that the operation bore the hallmarks of a state-directed assassination.
+
+## See Also
+
+- [Fidan Dogan](Fidan_Dogan.md) — Kurdish activist murdered alongside Cansiz in Paris
+- [Leyla Saylemez](Leyla_Saylemez.md) — Kurdish youth activist, third victim of the Paris triple assassination
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident assassinated in Berlin by Russian intelligence, 2019
+- [Jamal Khashoggi](Jamal_Khashoggi.md) — Journalist murdered by state intelligence abroad, similar pattern of state-directed assassination
+
+## Other Shocking Stories
+
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Walked into a Saudi consulate for a marriage document. A 15-man hit squad strangled and dismembered him inside.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Poisoned with radioactive polonium in his London tea. UK inquiry found Putin 'probably approved' it.
+- [Artyom Borovik](Artyom_Borovik.md): His plane crashed three days after meeting Berezovsky. He was investigating the FSB apartment bombings.
+
+## Sources
+
+- [Sakine Cansiz — Wikipedia](https://en.wikipedia.org/wiki/Sakine_Cans%C4%B1z)
+- [2013 triple murder of Kurdish activists in Paris — Wikipedia](https://en.wikipedia.org/wiki/2013_triple_murder_of_Kurdish_activists_in_Paris)
+- [Murders of 3 Kurdish women activists in Paris remain a mystery — CBS News](https://www.cbsnews.com/news/mystery-2013-paris-murders-kurdish-activists-sakine-cansiz-fidan-dogan-leyla-soylemez/)
+- [Mystery endures in 2013 Paris murder of Kurd activists — France 24](https://www.france24.com/en/live-news/20221227-mystery-endures-in-2013-paris-murder-of-kurd-activists)
+- [Murder in Paris: Parsing the Murder of Sakine Cansiz — Jamestown Foundation](https://jamestown.org/murder-in-paris-parsing-the-murder-of-female-pkk-leader-sakine-cansiz/)
+- [The prison memoirs of Sakine Cansiz — ROAR Magazine](https://roarmag.org/essays/sakine-cansiz-prison-memoirs/)
+- ["I am Sakine Cansiz!": Remembering the life of a revolutionary — Radical Ecological Democracy](https://radicalecologicaldemocracy.org/i-am-sakine-cansiz-remembering-the-life-of-a-revolutionary/)
+- [The PKK foundation in Sakine Cansiz's words — ANF News](https://english.anf-news.com/features/the-pkk-foundation-in-sakine-cansiz-s-words-23372)
+
+*This information was built by Grok and Claude AI research.*

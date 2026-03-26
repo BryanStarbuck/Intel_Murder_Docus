@@ -1,0 +1,84 @@
+
+
+# Steven Silks
+NYPD Deputy Chief and 38-year veteran who allegedly viewed Weiner laptop evidence, found dead in police vehicle.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Steven Silks |
+| **Born** | ~1957 |
+| **Died** | June 5, 2019 |
+| **Age at Death** | 62 |
+| **Location of Death** | Queens, New York, USA |
+| **Cause of Death** | Self-inflicted gunshot wound |
+| **Official Ruling** | Suicide |
+| **Category** | NYPD Officer / Alleged Weiner Laptop Witness |
+
+## Assessment: SUSPICIOUS
+
+Silks was the first in a cluster of four NYPD officers who died within 22 days in June 2019. He was a 38-year veteran and Deputy Chief of Patrol Borough Queens North — a senior position with potential access to sensitive investigations. His death kicked off what became the worst suicide cluster in NYPD history. The claim that he personally oversaw evidence-gathering from the Weiner laptop has been published by fringe outlets but not verified by mainstream sources.
+
+## Circumstances of Death
+
+Deputy Chief Steven Silks, 62, was found dead from a self-inflicted gunshot wound in a police vehicle in Queens on June 5, 2019. He had served the NYPD for 38 years.
+
+## Connection to Weiner Laptop
+
+Silks is named in online claims as one of 12 NYPD officers who allegedly viewed files on Anthony Weiner's laptop after it was seized in September 2016 during a sexting investigation. The claim states that 9 of these 12 officers subsequently died. The specific allegation is that Silks "was directly involved in the sex crimes investigation of former Congressman Anthony Weiner, and personally oversaw evidence-gathering from the laptop." This claim originated from outlets including Hal Turner Radio Show and State of the Nation and has not been independently verified.
+
+## Related Deaths — NYPD Weiner Laptop Cluster
+
+- [Joseph Calabrese](Joseph_Calabrese.md) — Died June 6, 2019, one day after Silks
+- [Michael Caddy](Michael_Caddy.md) — Died June 14, 2019
+- [Kevin Preiss](Kevin_Preiss.md) — Died June 27, 2019
+- [Terrence McAvoy](Terrence_McAvoy.md) — Died July 27, 2019
+- [Johnny Rios](Johnny_Rios.md) — Died 2019
+- [Robert Echeverria](Robert_Echeverria.md) — Found at his Laurelton home
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+
+## Key Quotes from Media Coverage
+
+> "He cleaned out his locker, drove two blocks, and put a gun to his head, which is tragic. His whole life was wrapped up in the NYPD."
+> — Bill Stanton, friend and ex-cop ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "It was a tragedy and a mystery. I didn't realize the separation anxiety was as deep as it was."
+> — Tom Fahey, retired NYPD assistant chief ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "He was highly intelligent and probably would have been successful in any career he had chosen. He was just a good soul. He said he was having separation anxiety and I said why don't you talk to someone."
+> — Lou Palumbo, friend ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better. All of their lives had meaning."
+> — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+## Why This Death Possibly Raises Questions
+
+- First of four NYPD officer deaths in a 22-day span in June 2019
+- Senior rank (Deputy Chief) with potential access to sensitive cases
+- Allegedly connected to Weiner laptop examination
+- Part of a year in which 10 NYPD officers died by suicide — an unprecedented number
+- The cluster timing mirrors patterns seen in other Epstein-adjacent death clusters
+## Other Shocking Stories
+
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.
+- [Terrence McAvoy](Terrence_McAvoy.md): NYPD sergeant. Allegedly viewed the Weiner laptop evidence. Suicide. Five officers now dead.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
+
+## Sources
+
+- [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
+- [CNN: A ninth NYPD officer this year has died by suicide](https://www.cnn.com/2019/08/13/us/new-york-police-department-suicides/index.html)
+- [NBC New York: Timeline — The NYPD's Ongoing 2019 Suicide Crisis](https://www.nbcnewyork.com/news/local/timeline-nypd-2019-suicide-crisis/1503549/)
+- [Police1: NYPD chief dies by suicide month before mandatory retirement](https://www.police1.com/health-fitness/articles/nypd-chief-dies-by-suicide-month-before-mandatory-retirement-aNDAM7wCTfDUElIg/)
+- [Bronx Times: Chief Steven Silks, borough cop, mourned after suicide](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/)
+- [QChron: High-ranking officer commits suicide](https://www.qchron.com/editions/queenswide/high-ranking-officer-commits-suicide/article_42cfe8a8-887f-11e9-8cbb-073d76d4cc60.html)
+- [PIX11: NYPD mourning veteran chief who killed himself ahead of mandatory retirement](https://pix11.com/2019/06/06/nypd-mourning-veteran-chief-who-took-his-own-life-ahead-of-mandatory-retirement/)
+- [Gothamist: High-Ranking NYPD Officer Takes Own Life Weeks Before Forced Retirement](https://gothamist.com/news/high-ranking-nypd-officer-takes-own-life-weeks-before-forced-retirement)
+- [Heavy: Steven Silks Dead — Right-Wing Trolls Link NYPD Hero's Death to Clintons](https://heavy.com/news/2019/06/steven-silks-dead/)
+- [Patch: NYPD Mourns Death Of Queens Police Chief Steven Silks](https://patch.com/new-york/foresthills/nypd-mourns-death-queens-police-chief-steven-silks)
+- [QNS: Late Queens deputy police chief remembered as a 'charming intelligent man'](https://qns.com/2019/06/late-queens-deputy-police-chief-remembered-as-a-charming-intelligent-man-and-friend-of-the-top-cop/)
+- [PoliceMag: Veteran NYPD Chief Dies by Suicide Before Mandatory Retirement](https://www.policemag.com/command/news/15315163/veteran-nypd-chief-dies-by-suicide-before-mandatory-retirement)
+- [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
+
+*This information was built by Grok and Claude AI research.*

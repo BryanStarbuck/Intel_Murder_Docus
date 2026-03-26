@@ -1,0 +1,102 @@
+
+
+# Darioush Rezaeinejad
+Iranian electronics engineer shot five times by motorcycle-riding gunmen in front of his wife and daughter in Tehran.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Darioush Rezaeinejad |
+| **Born** | 1976 |
+| **Died** | 23 July 2011 |
+| **Age at Death** | 35 |
+| **Location of Death** | Tehran, Iran |
+| **Cause of Death** | Shot in the neck by motorcycle-riding gunmen |
+| **Official Ruling** | Assassination; Iran blamed Israel and the United States |
+| **Alleged Intelligence Connection** | Mossad (per Iran's accusations); MEK (alleged operational role) |
+| **Category** | Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Rezaeinejad's killing followed the established pattern of motorcycle-riding assassins targeting Iranian scientists, fitting squarely within the 2010-2012 assassination campaign attributed to Mossad. His precise role in Iran's nuclear program was disputed — foreign intelligence sources alleged he worked on high-voltage switches needed to trigger nuclear warheads, while Iran denied any nuclear connection. The attack was carried out in front of his wife and young daughter, with his wife severely wounded. An Israeli intelligence source interviewed by *Der Spiegel* reportedly described it as "the first public operation by new Mossad chief Tamir Pardo," who had taken command in January 2011.
+
+## Circumstances of Death
+
+On 23 July 2011, Darioush Rezaeinejad was shot by two gunmen on a motorcycle outside his daughter's kindergarten in eastern Tehran. He and his wife had just picked up their daughter when the attackers struck. Rezaeinejad was hit five times, with a fatal wound to the neck. He died at the scene or shortly after. His wife, who was standing next to him, was severely injured in the attack but survived. Their young daughter witnessed the shooting. The attackers fled on their motorcycle through Tehran traffic and were not apprehended at the scene.
+
+The attack bore the hallmark signature of the 2010-2012 assassination campaign: a pair of riders on a motorcycle approaching the target on foot or in a slow-moving vehicle, executing the attack within seconds, and disappearing into traffic. The motorcycle method was particularly effective in Tehran's congested streets, where cars moved slowly but motorcycles could weave through traffic and vanish before security forces could respond.
+
+## Background
+
+Rezaeinejad's exact identity and role were subjects of confusion in the immediate aftermath of his killing. Iranian state media initially identified the victim as "Darious Rezaei," described as a physics professor at a Tehran university, before correcting the name hours later to Darioush Rezaeinejad, an electrical engineering postgraduate student at K.N. Toosi University of Technology in Tehran. He was reportedly close to defending his thesis and was working at a facility described as a "national security research center."
+
+A foreign government official and a former UN nuclear inspector alleged that Rezaeinejad was working on high-voltage switches — components necessary for triggering the explosive charges that compress fissile material in a nuclear warhead's implosion design. High-voltage switches are dual-use components with legitimate civilian applications, but their development is closely monitored by nuclear nonproliferation authorities. Iran's Deputy Interior Minister Safarali Baratloo denied any connection between Rezaeinejad and the nuclear program.
+
+## Intelligence Connections
+
+* Iran's parliament speaker Ali Larijani directly accused the United States and Israel of carrying out the assassination
+* U.S. State Department spokeswoman Victoria Nuland rejected the accusation as "completely unfounded"
+* Foreign intelligence sources alleged Rezaeinejad worked on detonation components relevant to nuclear weapons
+* An Israeli intelligence source told *Der Spiegel* this was the first public operation under new Mossad chief Tamir Pardo
+* According to NBC News, citing U.S. officials, the Mujahideen-e-Khalq (MEK) reportedly provided operational support for the assassinations on behalf of Mossad, with MEK members allegedly trained in Israel on the use of motorcycles and small bombs
+* Iranian state television later broadcast a documentary including confessions from suspects allegedly involved in the killings of Alimohammadi, Shahriari, Rezaeinejad, and Roshan
+* In 2011 and 2012, Iranian authorities arrested a number of Iranian citizens alleged to have carried out the assassination campaign on Mossad's behalf
+
+## The Motorcycle Assassination Pattern
+
+Rezaeinejad's killing was part of a distinctive pattern of motorcycle-based assassinations targeting Iranian scientists between 2010 and 2012. The method involved pairs of assassins on motorcycles — one driving, one executing the attack — using either firearms or magnetic bombs. The pattern included:
+
+- **January 2010:** Masoud Alimohammadi killed by remote-controlled bomb concealed in a parked motorcycle near his car
+- **November 2010:** Majid Shahriari killed and Fereydoon Abbasi-Davani injured by magnetic bombs attached to their cars by motorcycle riders in coordinated, near-simultaneous attacks
+- **July 2011:** Rezaeinejad shot by motorcycle-riding gunmen (firearms instead of bombs)
+- **January 2012:** Mostafa Ahmadi Roshan killed by magnetic bomb attached to his car by motorcycle riders
+
+According to Iranian claims reported by NBC News, Mossad allegedly built replicas of targeted scientists' homes so assassins could familiarize themselves with layouts before operations. The motorcycle method exploited Tehran's dense traffic, where two-wheeled vehicles could approach targets stuck in congestion, execute the attack, and escape through gaps between cars that pursuing vehicles could not navigate.
+
+## The Broader Covert War
+
+The assassination of Rezaeinejad occurred within a broader covert campaign against Iran's nuclear program that extended far beyond targeted killings. The Stuxnet computer worm, discovered in 2010 and attributed to a joint U.S.-Israeli operation, had already damaged centrifuges at Iran's Natanz enrichment facility. The assassinations of scientists, the cyberattack on infrastructure, diplomatic pressure, and economic sanctions formed a multi-domain strategy to delay or prevent Iran from developing nuclear weapons. Each scientist killed represented not only the loss of an individual but the loss of institutional knowledge that could take years to replace — making the assassination campaign a form of intellectual decapitation.
+
+## Why This Death Raises Questions
+
+- The identity confusion immediately after the attack suggested Iran was uncertain how to categorize his work — or was deliberately obscuring it
+- If he was indeed working on high-voltage switches for nuclear warheads, his targeting demonstrates precise intelligence about Iran's weapons program personnel
+- The attack occurred in front of his kindergarten-age daughter, indicating the assassins prioritized the kill over operational discretion
+- His killing was the fourth in a series of attacks on Iranian scientists in just 18 months
+- Iran's shifting statements about his identity and role raised questions on all sides
+- The campaign of assassinations coincided with the Stuxnet cyberattack on Iran's centrifuges, suggesting a multi-domain covert war against the nuclear program
+- No nation has officially claimed responsibility for any of the assassinations
+
+## Key Quotes
+
+> "The United States and the Zionist regime are definitely behind this assassination." — Ali Larijani, Speaker of Iran's parliament, July 2011
+
+> "These accusations are completely unfounded." — Victoria Nuland, U.S. State Department spokeswoman, responding to Iran's allegations
+
+## See Also
+
+- [Masoud Alimohammadi](Masoud_Alimohammadi.md) — Iranian physicist killed by motorcycle bomb, 2010
+- [Majid Shahriari](Majid_Shahriari.md) — Iranian nuclear scientist killed by magnetic bomb, 2010
+- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
+
+- Mossad (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Gary Webb](Gary_Webb.md): Two gunshots to the head — ruled suicide. He exposed the CIA's crack cocaine pipeline into Black neighborhoods.
+- [Fathi Shaqaqi](Fathi_Shaqaqi.md): Islamic Jihad leader shot six times on a Malta street. Mossad agents identified by local investigation.
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+
+## Sources
+
+- [Assassinations of Iranian Nuclear Scientists — Wikipedia](https://en.wikipedia.org/wiki/Assassinations_of_Iranian_nuclear_scientists)
+- [Killing Iran's Nuclear Scientists — ABC News](https://abcnews.go.com/Blotter/killing-irans-nuclear-scientists/story?id=14152453)
+- [Iran Nuclear Scientists: Fakhrizadeh and Other Targets of Assassination — Middle East Eye](https://www.middleeasteye.net/news/iran-nuclear-scientists-fakhrizadeh-targets-assassination)
+- [Bombs, Bullets, Killers on Motorbikes: Iran's String of Slain Nuclear Scientists — Times of Israel](https://www.timesofisrael.com/bombs-bullets-killers-on-motorbikes-irans-string-of-slain-nuclear-scientists/)
+- [Darioush Rezaeinejad — Prabook](https://prabook.com/web/darioush.rezaeinejad/2531553)
+- [Israel Teams with Terror Group to Kill Iran's Nuclear Scientists — NBC News](https://www.nbcnews.com/news/world/israel-teams-terror-group-kill-irans-nuclear-scientists-u-s-flna241673)
+- [Magnet Bombs to Missiles: Israel's History of Assassinating Iran's Key Nuclear Scientists — TRT World](https://www.trtworld.com/article/8bf30295f8b8)
+- [Part 5: Assassinations of Iran Nuclear Scientists — The Iran Primer (USIP)](https://iranprimer.usip.org/blog/2020/dec/02/part-5-assassinations-iran-nuclear-scientists)
+
+*This information was built by Grok and Claude AI research.*

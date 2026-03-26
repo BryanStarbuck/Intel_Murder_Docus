@@ -1,0 +1,101 @@
+
+
+# Carlos Prats
+Chilean Army general and former Commander-in-Chief — Pinochet's predecessor and superior — assassinated alongside his wife by a DINA car bomb in Buenos Aires on September 30, 1974. The first known extraterritorial assassination by the Pinochet dictatorship and an early precursor to Operation Condor. Convictions were not obtained until more than 35 years later.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Carlos Prats Gonzalez |
+| **Born** | February 24, 1915, Talcahuano, Chile |
+| **Died** | September 30, 1974 |
+| **Age at Death** | 59 |
+| **Location of Death** | Buenos Aires, Argentina |
+| **Cause of Death** | Car bomb explosion |
+| **Official Ruling** | Homicide (convictions obtained) |
+| **Alleged Intelligence Connection** | DINA (Chilean secret police) / Operation Condor |
+| **Category** | Military / Political Figure |
+
+## Assessment: CONFIRMED
+
+The assassination of Carlos Prats and his wife Sofia Cuthbert was carried out by DINA, Chile's secret police, on the direct orders of General Augusto Pinochet. In June 1974, Pinochet met personally with DINA director Manuel Contreras and ordered the elimination of Prats. DINA operative Michael Townley built and planted the car bomb. After more than 35 years, Chilean courts convicted Contreras, his deputy Pedro Espinoza, and several other DINA officers in June 2010. In Argentina, DINA station chief Enrique Arancibia Clavel was convicted in 2004. Declassified CIA documents confirm US intelligence awareness of the operation.
+
+## Circumstances of Death
+
+On September 30, 1974, shortly after midnight, General Prats and his wife Sofia Cuthbert returned to their apartment building in the Palermo neighborhood of Buenos Aires after visiting friends. As Prats drove their small Fiat 125 into the parking garage, a radio-controlled bomb attached to the underside of the car detonated, killing both of them instantly in a massive explosion that was heard blocks away.
+
+The bomb had been built by DINA operative Michael Townley using two C4 explosive cartridges and fashioned into a remote-controlled device. Townley, accompanied by his wife Mariana Callejas (also a DINA agent), had managed to slip into the building's parking garage on September 29 and attach the device to the chassis of Prats' Fiat. On the night of the attack, Townley and Callejas staked out the building, waiting for the couple to return. According to accounts, Callejas initially attempted to trigger the detonation with the remote control, but the device failed on the first attempt. It subsequently detonated when the car was moved further into the garage.
+
+The explosion was so powerful that it destroyed the vehicle entirely, killing both occupants beyond recognition. Sofia Cuthbert, an Argentine citizen with no political role, was 49 years old.
+
+## Background
+
+Carlos Prats was one of Chile's most distinguished military officers and a committed constitutionalist. He served as Commander-in-Chief of the Chilean Army from 1970 to 1973 and simultaneously held the positions of Minister of the Interior and Minister of Defense under President Salvador Allende's elected socialist government. He was a rare figure in Latin American military politics — a senior general who believed the military should remain subordinate to civilian democratic authority and who refused to participate in plots against the elected president.
+
+As political tensions escalated in Chile in 1973, right-wing officers within the military pushed for a coup. Prats resisted, but faced increasing isolation within the officer corps. In August 1973, after a public humiliation incident and pressure from fellow generals, Prats resigned his command. He personally recommended his deputy, Augusto Pinochet, as his successor — a decision he would come to regard as a catastrophic misjudgment. Just weeks later, on September 11, 1973, Pinochet led the military coup that overthrew Allende.
+
+After the coup, Prats went into exile in Buenos Aires, where he was writing his memoirs — a document that, according to declassified records, Pinochet feared could damage the junta's legitimacy and rally military opposition. Pinochet viewed Prats as a threat because of his stature as the former army commander and his potential to serve as a figurehead for democratic opposition to the dictatorship, both within Chile and internationally.
+
+## Intelligence Connections
+
+* In June 1974, Pinochet personally met with DINA director Manuel Contreras and ordered him to eliminate Prats, according to declassified documents published by the National Security Archive
+* Contreras initially assigned DINA's station chief in Argentina, Enrique Arancibia Clavel, to coordinate the assassination using Argentine paramilitary groups. When that approach failed, DINA's deputy director Colonel Pedro Espinoza enlisted Michael Townley, an American-born electronics specialist working for DINA
+* Townley built and planted the car bomb that killed Prats and his wife
+* Arancibia Clavel coordinated logistics from Buenos Aires and maintained ongoing surveillance of Prats' movements
+* The operation was a precursor to Operation Condor — the multinational intelligence coordination between Southern Cone dictatorships (Chile, Argentina, Brazil, Uruguay, Paraguay, Bolivia) to track and eliminate political opponents across borders
+* CIA weekly situation reports documented the assassination, indicating US intelligence was monitoring the situation but did not intervene
+* The same operative, Michael Townley, would go on to assassinate Orlando Letelier and Ronni Moffitt in Washington, DC, two years later using a nearly identical car bomb technique
+
+## Why This Death Raises Questions
+
+- Prats was assassinated in a foreign country (Argentina), establishing the pattern of extraterritorial assassination that would define Operation Condor's campaign of transnational state terror
+- His wife Sofia Cuthbert, an Argentine citizen with no political role whatsoever, was also killed — a deliberate civilian casualty accepted by the regime
+- The same DINA operative (Michael Townley) went on to assassinate Orlando Letelier in Washington, DC, two years later, demonstrating the regime's escalating boldness
+- Pinochet's direct order to assassinate his own predecessor demonstrates the regime's willingness to kill even the most senior military figures
+- The operation required cooperation from Argentine paramilitary networks, revealing the transnational infrastructure of state terror that would become Operation Condor
+- It took more than 35 years for convictions to be obtained — Chilean courts did not convict Contreras and Espinoza for the Prats assassination until June 2010
+- Prats had personally recommended Pinochet as his successor, making the assassination a betrayal of personal as well as institutional trust
+- The CIA was aware of DINA's activities but did not warn Prats or intervene
+
+## The Long Road to Justice
+
+The pursuit of justice for the Prats assassination took more than three decades. Michael Townley, who built and planted the bomb, was later arrested in the United States for the 1976 assassination of Orlando Letelier in Washington, DC. He plea-bargained and entered the US witness protection program, providing testimony that helped unravel DINA's international assassination network.
+
+In Argentina, DINA station chief Enrique Arancibia Clavel was convicted in 2004 and sentenced to twelve years in prison for the murders of Prats and his wife. The Argentine Supreme Court upheld the conviction, ruling the crime constituted a crime against humanity and was therefore not subject to any statute of limitations.
+
+In Chile, judicial proceedings moved far more slowly. It was not until 2003 that Chilean courts issued indictments against DINA leadership. Finally, in June 2010 — more than 35 years after the assassination — Chilean courts convicted former DINA chief Manuel Contreras, his deputy Pedro Espinoza, retired general Raul Iturriaga, his brother Roger Iturriaga, and ex-brigadier Jose Zara for their roles in the murders. Contreras received two life sentences (for this and other crimes) and died in prison in 2015.
+
+## Key Quotes
+
+> "Pinochet met with the director of DINA, Colonel Manuel Contreras, and ordered him to eliminate Prats." — National Security Archive, based on declassified documents
+
+> "The killing of Prats and his wife was the first assassination by the dictatorship outside Chile." — National Security Archive briefing
+
+## See Also
+
+- [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC, using the same operative (Townley)
+- [Ronni Moffitt](Ronni_Moffitt.md) — American killed alongside Letelier in the same DINA operation
+- [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the 1973 coup
+- [Victor Jara](Victor_Jara.md) — Chilean folk singer killed during the coup
+- [Bernardo Leighton](Bernardo_Leighton.md) — Chilean politician targeted by DINA in Rome (survived)
+- [Charles Horman](Charles_Horman.md) — American journalist killed during the Chilean coup
+- [Rene Schneider](Rene_Schneider.md) — Chilean army commander assassinated in CIA-linked plot before the coup
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
+- [Abdulrahman al-Awlaki](Abdulrahman_al_Awlaki.md): A 16-year-old American citizen drone-struck in Yemen. The government said he wasn't the target.
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Found dead after privately interviewing Jack Ruby about the JFK assassination. Her notes vanished completely.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+
+## Sources
+
+- [Pinochet Regime at 50: Assassination of General Carlos Prats and Sofia — National Security Archive](https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia)
+- [Carlos Prats — Wikipedia](https://en.wikipedia.org/wiki/Carlos_Prats)
+- [Chile: Indictments in Prats Case — Human Rights Watch](https://www.hrw.org/news/2003/02/25/chile-indictments-prats-case)
+- [CIA Weekly Situation Report: Assassination of Former Chilean Army Chief — National Security Archive](https://nsarchive.gwu.edu/document/32458-document-4-cia-weekly-situation-report-international-terrorism-assassination-former)
+- [Chile: When a Terrorist State Kills Abroad — Human Rights Watch](https://www.hrw.org/reports/1999/chile/Patrick-01.htm)
+- [Enrique Arancibia Clavel — Wikipedia](https://en.wikipedia.org/wiki/Enrique_Arancibia_Clavel)
+- [DINA Officers Charged With Assassination of Gen Prats — UNM Digital Repository](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=14124&context=notisur)
+
+*This information was built by Grok and Claude AI research.*

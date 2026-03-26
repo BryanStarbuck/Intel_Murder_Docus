@@ -1,0 +1,108 @@
+
+
+# Anastasia Baburova
+Novaya Gazeta freelance journalist shot dead on a Moscow street in 2009 while trying to help human rights lawyer Stanislav Markelov, who had just been assassinated beside her. Both were killed by members of the neo-Nazi Battle Organization of Russian Nationalists (BORN). Two suspects were convicted in 2011, though one was released in 2025 into what Novaya Gazeta described as a Russia "more aligned with her worldview than ever."
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Anastasia Eduardovna Baburova |
+| **Born** | 30 November 1983 |
+| **Died** | 19 January 2009 |
+| **Age at Death** | 25 |
+| **Location of Death** | Moscow, Russia |
+| **Cause of Death** | Gunshot to the back of the head |
+| **Official Ruling** | Homicide |
+| **Alleged Intelligence Connection** | FSB (indirect); killed by neo-Nazi BORN group with alleged state tolerance |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Anastasia Baburova became the fourth Novaya Gazeta journalist killed since 2000. While her murder was attributed to neo-Nazi militants from the BORN organization, the killing occurred in the context of systematic violence against journalists in Putin's Russia. Baburova was investigating the very neo-Nazi networks that killed her, and the broader question of state tolerance for militant nationalist violence remains unresolved. The European Court of Human Rights later ruled the trial of her killers was unfair, and the Russian Supreme Court reduced the sentence of one of the convicted perpetrators.
+
+## Circumstances of Death
+
+On 19 January 2009, Baburova accompanied human rights lawyer Stanislav Markelov to a press conference at the Independent Press Center in Moscow. Markelov had just held a press conference protesting the early release of Colonel Yuri Budanov, a Russian officer convicted of murdering a young Chechen woman, Elza Kungayeva. As Markelov and Baburova walked together along Prechistenka Street after the event, at approximately 2:15 p.m., Nikita Tikhonov approached from behind and shot Markelov in the back of the head with a silenced pistol. Markelov died instantly.
+
+According to investigators and witness accounts, Baburova attempted to chase the attacker, possibly trying to grab him or pull off his mask. Tikhonov turned and shot her in the back of the head. She was rushed to a Moscow hospital but died several hours later from her wounds without regaining consciousness. She was 25 years old and in her fifth year of journalism studies at Moscow State University.
+
+Tikhonov's girlfriend, Yevgenia Khasis, had been tracking Markelov's movements by mobile phone and relayed his position to Tikhonov in the minutes before the attack. Khasis served as the lookout, alerting Tikhonov when Markelov left the press center.
+
+## Background
+
+Baburova was a journalism student at Moscow State University and a freelance journalist for Novaya Gazeta, Russia's most independent newspaper. She was a member of Autonomous Action, an anarchist organization opposed to fascism, and had been investigating Russian neo-Nazi groups for Novaya Gazeta since October 2008. Previously, she had worked on the editorial team of the newspaper Izvestia throughout 2008.
+
+Born in Sevastopol, Crimea (then Ukraine), Baburova moved to Moscow to study journalism. Her parents later described her as deeply committed to social justice and anti-fascism. She was passionate about exposing the activities of neo-Nazi networks that were carrying out violent attacks against migrants, anti-fascist activists, and human rights defenders in Russia.
+
+Her work for Novaya Gazeta placed her in a long and tragic lineage. The newspaper had already lost three journalists to murder since 2000, most notably Anna Politkovskaya, who was shot dead in her apartment building in October 2006. Novaya Gazeta's editor-in-chief, Dmitry Muratov, would go on to receive the Nobel Peace Prize in 2021, in part for the paper's courage in the face of lethal violence against its staff.
+
+## Intelligence Connections
+
+* Baburova was investigating neo-Nazi groups that reportedly operated with a degree of state tolerance in Russia
+* Novaya Gazeta, her employer, had been a persistent target of the Russian security establishment — four of its journalists were killed between 2000 and 2009
+* The BORN (Battle Organization of Russian Nationalists) was a clandestine militant group led by Ilya Goryachev, who was convicted in 2015 of organizing BORN and orchestrating multiple murders including those of Markelov and Baburova. Goryachev was sentenced to life imprisonment
+* BORN operated within the broader Russky Obraz (Russian Image) nationalist movement, which some analysts allege the FSB tolerated or manipulated as part of Russia's strategy of managed nationalism
+* The killings took place in the context of a wave of nationalist violence in Russia — over 100 racially motivated murders were recorded in 2008 alone
+* Stanislav Markelov, the primary target, represented Chechen civilians and anti-fascist activists, making him a target for both nationalist extremists and those within the state apparatus who opposed scrutiny of military conduct in Chechnya
+* Markelov had just held a press conference protesting the early release of Colonel Yuri Budanov, convicted of murdering Chechen teenager Elza Kungayeva — a case that embarrassed the Russian military establishment and illustrated the impunity enjoyed by officers who committed atrocities in Chechnya
+
+## Why This Death Raises Questions
+
+- Fourth Novaya Gazeta journalist killed since 2000 — a pattern suggesting systematic targeting of Russia's most critical independent newspaper
+- Was actively investigating the neo-Nazi networks that killed her
+- Shot in broad daylight in central Moscow — on Prechistenka Street, one of the city's most prominent avenues — with apparent impunity
+- The BORN organization carried out multiple assassinations over several years before its members were caught, raising questions about law enforcement's willingness or ability to disrupt organized nationalist violence
+- The ECHR ruled in 2021 that the trial of her killers was unfair, and the Russian Supreme Court subsequently reduced Khasis's sentence from 18 years to 16 years and 1 month
+- Convicted killer Yevgenia Khasis was released from prison on 28 November 2025, and according to Novaya Gazeta Europe, returned to a Russia "more aligned with her worldview than ever"
+- Nikita Tikhonov, who pulled the trigger, was sentenced to life imprisonment but has shown no public remorse
+- BORN's leader, Ilya Goryachev, operated openly in nationalist politics for years before his arrest in 2013, raising questions about how such a group could function undetected by Russia's extensive security apparatus
+
+## The Counterargument
+
+The murders were committed by neo-Nazi extremists acting on ideological grounds, not by state agents. Russian authorities did investigate, arrest, and convict the perpetrators. Tikhonov received a life sentence, and Goryachev was later convicted of organizing BORN. Some argue that Russia's failure to prevent nationalist violence reflects institutional dysfunction and resource constraints rather than deliberate tolerance. However, the scale of BORN's operations over several years — and the fact that Goryachev operated openly in nationalist politics before his 2013 arrest — challenges the narrative of mere institutional failure.
+
+## Key Quotes
+
+> "She chose to help someone, and it cost her life. That was the kind of person she was." — Novaya Gazeta colleagues, January 2009
+
+> "Nastya's parents described her selfless fight against Russian fascism — a fight that ultimately cost her life at the age of 25." — RFE/RL, July 2009
+
+> "When we talked about her death, about the time and place of the press conference, about the fact that she didn't have to be there that day, her mother said: 'Don't. She had to be there. That was who she was.'" — According to Novaya Gazeta, reporting on the Baburova family's statements
+
+## Novaya Gazeta's Death Toll
+
+Baburova's murder was part of a devastating pattern of violence against Novaya Gazeta journalists. The newspaper's staff killed between 2000 and 2009 includes:
+
+- **Igor Domnikov** (2000) — beaten with a hammer; died of injuries
+- **Yuri Shchekochikhin** (2003) — died of suspected poisoning (thallium)
+- **Anna Politkovskaya** (2006) — shot dead in her apartment building on Putin's birthday
+- **Anastasia Baburova** (2009) — shot dead on a Moscow street (this case)
+
+Despite these losses, Novaya Gazeta continued publishing under editor-in-chief Dmitry Muratov, who received the Nobel Peace Prize in 2021. The newspaper was forced to suspend operations in Russia in 2022 following the invasion of Ukraine, but continues to operate from exile as Novaya Gazeta Europe.
+
+## See Also
+
+- [Stanislav Markelov](Stanislav_Markelov.md) — human rights lawyer killed alongside Baburova
+- [Anna Politkovskaya](Anna_Politkovskaya.md) — Novaya Gazeta journalist murdered in 2006
+- [Natalya Estemirova](Natalya_Estemirova.md) — human rights activist killed later in 2009
+- [Paul Klebnikov](Paul_Klebnikov.md) — journalist shot dead in Moscow in 2004
+
+## Other Shocking Stories
+
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Alexander Zakharchenko](Alexander_Zakharchenko.md): Separatist leader blown up by a bomb hidden inside a Donetsk cafe he visited daily.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
+
+## Sources
+
+- [Anastasia Baburova — Wikipedia](https://en.wikipedia.org/wiki/Anastasia_Baburova)
+- [Murders of Stanislav Markelov and Anastasia Baburova — Wikipedia](https://en.wikipedia.org/wiki/Murders_of_Stanislav_Markelov_and_Anastasia_Baburova)
+- [Letter from the parents of murdered Russian journalist, Anastasia Baburova — Amnesty International](https://www.amnesty.org/en/latest/news/2009/07/letter-parents-murdered-russian-journalist-anastasia-baburova-20090717/)
+- [Slain Journalist's Parents Describe Her Selfless Fight — RFE/RL](https://www.rferl.org/a/1933732.html)
+- [Two suspects found guilty in Baburova murder — CPJ](https://cpj.org/2011/04/two-suspects-found-guilty-in-baburova-murder-in-ru/)
+- [Remorseless: The killer freed — Novaya Gazeta Europe](https://novayagazeta.eu/articles/2025/12/10/remorseless-en)
+- [Lawyer and Journalist Are Shot Dead in Moscow — Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/01/19/AR2009011900794.html)
+- [The Case of Ilya Goryachev — Columbia Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/cases/the-case-of-ilya-goryachev-murders-of-anastasia-baburova-and-stanislav-markelov/)
+- [Russian Supreme Court Trims Sentence — RFE/RL](https://www.rferl.org/a/markelov-baburova-murders-sentence-reduced/31674585.html)
+
+*This information was built by Grok and Claude AI research.*

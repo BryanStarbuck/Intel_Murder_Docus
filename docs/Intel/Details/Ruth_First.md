@@ -1,0 +1,102 @@
+
+
+# Ruth First
+South African anti-apartheid activist, scholar, and journalist assassinated by a letter bomb sent by South African Military Intelligence while working at a university in Maputo, Mozambique, in 1982.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ruth First |
+| **Born** | May 4, 1925, Johannesburg, South Africa |
+| **Died** | August 17, 1982 |
+| **Age at Death** | 57 |
+| **Location of Death** | Eduardo Mondlane University, Maputo, Mozambique |
+| **Cause of Death** | Letter bomb explosion |
+| **Official Ruling** | Homicide — confirmed state assassination |
+| **Alleged Intelligence Connection** | South African Security Branch / Military Intelligence — confirmed |
+| **Category** | Journalist / Investigator / Activist |
+
+## Assessment: CONFIRMED
+
+South African Military Intelligence officer Craig Williamson confessed to ordering and carrying out the letter bomb attack that killed Ruth First. Williamson applied for and was granted amnesty by the Truth and Reconciliation Commission (TRC) in October 1999 for First's murder. Explosives expert Roger Raven, who built the device, also received amnesty. This is a confirmed state-sponsored assassination by the apartheid regime's intelligence apparatus, with detailed testimony about the chain of command and operational methods preserved in TRC records.
+
+## Circumstances of Death
+
+On August 17, 1982, Ruth First was at the Centre for African Studies at Eduardo Mondlane University in Maputo, Mozambique, where she served as research director. She opened a parcel that had been sent to her through the mail — an envelope containing a letter that had been intercepted by the Security Branch and then reassembled with layers of sheet explosive and an electrical detonation circuit hidden inside. The explosion killed her instantly.
+
+Three others in the room were injured but survived: centre director Aquino de Braganca, lecturer Bridget O'Laughlin, and visiting ANC activist Pallo Jordan, who later became a South African cabinet minister. The bomb had been designed to kill whoever opened it, with the explosive force directed upward.
+
+According to TRC testimony, Craig Williamson gave an official envelope containing a letter that had been intercepted to bomb expert Roger Raven in 1982. Raven inserted layers of sheet explosives and an electrical circuit into the envelope, then the package was resealed and sent to First's university address.
+
+## Background
+
+Ruth First was born in Johannesburg on May 4, 1925, to Julius and Matilda First, Jewish Lithuanian immigrants who were founding members of the Communist Party of South Africa (CPSA). She grew up in a politically engaged household and was drawn to activism from a young age.
+
+First became a prominent journalist, beginning her career at the progressive newspaper *The Guardian* (later renamed *New Age* and other titles as it was repeatedly banned by the state) in 1947. She specialized in investigative exposes of black labor conditions under apartheid, including groundbreaking reporting on forced labor on Bethal potato farms and conditions in mining compounds. Through her investigative journalism, she documented the systematic exploitation and racial segregation imposed by the National Party after its rise to power in 1948. She eventually became editor-in-chief of the paper, which was successively banned under the Communism Suppression Act and relaunched under new names.
+
+In 1949, she married Joe Slovo, a Lithuanian-born South African lawyer and anti-apartheid activist. Together they had three daughters: Shawn, Gillian, and Robyn. Slovo later became head of the South African Communist Party (SACP) and commander of Umkhonto we Sizwe (MK), the ANC's armed wing — making him one of the apartheid regime's most wanted targets.
+
+After the CPSA was banned in 1950, First was involved in organizing its successor, the underground South African Communist Party (SACP), which emerged in 1953. She was also active in the ANC and the Congress Alliance.
+
+In 1963, First was detained under the 90-Day Detention Law and held in solitary confinement for 117 days by the Security Branch, an experience she documented in her acclaimed memoir *117 Days*, published in 1965. The book provided a detailed account of how she endured isolation and sensory deprivation while withstanding intense pressure to provide information about her comrades to the Special Branch. The memoir became an important document of apartheid-era repression and was later adapted into a film.
+
+After her release, First left South Africa with her daughters in March 1964 and joined Slovo in London, where she taught at Durham University and continued her academic work. She later moved to Mozambique, where she served as research director at the Centre for African Studies at Eduardo Mondlane University. Her academic work focused on migrant labor, agrarian reform, and southern African political economy. She authored several books, including *South West Africa* (1963), *The Barrel of a Gun: Political Power in Africa and the Coup d'Etat* (1970), and *Libya: The Elusive Revolution* (1974).
+
+## Intelligence Connections
+
+* Major Craig Williamson of the South African Security Branch personally orchestrated the letter bomb operation
+* Williamson was a deep-cover agent who had infiltrated anti-apartheid organizations, including the International University Exchange Fund (IUEF) in Geneva, where he operated as a spy for years before being exposed in 1980
+* The bomb was assembled by explosives expert Brigadier Piet Goosen and technician Roger Raven of the Security Branch
+* The apartheid government's intelligence services maintained a systematic program of targeting exiled activists through letter bombs, car bombs, cross-border raids, and assassinations
+* Williamson was granted amnesty by the TRC in October 1999 after confessing to the killing, confirming this was an authorized state operation — amnesty was extended to Williamson and seven others involved
+* According to TRC testimony, Joe Slovo was reportedly the primary target; First was killed partly out of frustration that the Security Branch had been unable to assassinate Slovo despite many attempts
+* The same letter bomb techniques were used in subsequent operations, including the killing of Jeanette Schoon and her six-year-old daughter Katryn in Lubango, Angola, in 1984
+
+## Why This Death Raises Questions
+
+- While the perpetrators are confirmed, the full chain of command authorizing the assassination has never been fully disclosed — how high in the apartheid government did the approval go?
+- Williamson and Raven received amnesty despite the premeditated nature of the killing, a decision that remains deeply controversial
+- The apartheid regime's letter bomb program killed multiple exiled activists, representing a systematic campaign of extraterritorial assassination carried out across multiple African countries and in Europe
+- First's assassination was part of a broader pattern of South African intelligence targeting academics, journalists, and activists in neighboring states — a campaign that accelerated through the 1980s
+- The bombing injured three other people, demonstrating indifference to collateral casualties
+- Williamson continued to live freely in South Africa after receiving amnesty, becoming a private security consultant — a source of ongoing anguish for First's family and surviving colleagues
+- The killing of Jeanette Schoon and her six-year-old daughter using the same techniques two years later showed the program continued and escalated after First's murder
+- The TRC amnesty process, while providing truth, denied the family access to criminal justice
+
+## Key Quotes
+
+> "I sent the bomb that killed Ruth First." — Craig Williamson, testifying before the Truth and Reconciliation Commission
+
+> "They killed her because she was effective. She was dangerous to them because she was brilliant." — Colleagues at Eduardo Mondlane University, as reported by Haaretz
+
+> "Ruth First was killed in frustration as Slovo eluded assassination." — TRC testimony summary, September 1998
+
+> "She endured isolation and sensory deprivation while withstanding pressure to provide information about her comrades to the Special Branch." — Description of her 117-day detention, from *117 Days*
+
+## See Also
+
+- [Dulcie September](Dulcie_September.md) — ANC representative assassinated in Paris in 1988
+- [Chris Hani](Chris_Hani.md) — SACP leader assassinated in South Africa in 1993
+- [Steve Biko](Steve_Biko.md) — Anti-apartheid activist killed in police custody in 1977
+- [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident assassinated by intelligence service using a specialized weapon
+- [Eduardo Mondlane](Eduardo_Mondlane.md) — Mozambican independence leader killed by parcel bomb in 1969
+
+## Other Shocking Stories
+
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+- [Dulcie September](Dulcie_September.md): ANC representative shot dead in Paris while investigating South African arms deals. Case still unsolved after 38 years.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+
+## Sources
+
+- [Wikipedia — Ruth First](https://en.wikipedia.org/wiki/Ruth_First)
+- [Britannica — Ruth First](https://www.britannica.com/biography/Ruth-First)
+- [Haaretz — Anti-Apartheid Activist Murdered](https://www.haaretz.com/jewish/2015-08-17/ty-article/anti-apartheid-activist-murdered/0000017f-e9f5-da9b-a1ff-edff7a520000)
+- [South African Presidency — Ruth First (1925-1982)](https://www.presidency.gov.za/ruth-first-1925-1982)
+- [Jewish Women's Archive — Ruth First](https://jwa.org/encyclopedia/article/first-ruth)
+- [South African History Online — Ruth First is Assassinated](https://sahistory.org.za/dated-event/ruth-first-assassinated-mozambique)
+- [TRC Media — Eye Witness Account of Ruth First Bomb Blast](https://www.justice.gov.za/trc/media/1999/9902/s990222a.htm)
+- [TRC Media — Expert Tells TRC How He Made First and Schoon Letter Bombs](https://www.justice.gov.za/trc/media/1998/9809/s980923c.htm)
+- [Ruth First Educational Trust — Who Was Ruth First](https://ruthfirsttrust.webspace.durham.ac.uk/who-was-ruth-first/)
+
+*This information was built by Grok and Claude AI research.*

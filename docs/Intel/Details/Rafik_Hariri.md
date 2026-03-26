@@ -1,0 +1,99 @@
+
+
+# Rafik Hariri
+Former Prime Minister of Lebanon, assassinated along with 21 others by a massive truck bomb in Beirut on Valentine's Day 2005. The assassination triggered the Cedar Revolution, forced Syria's withdrawal from Lebanon, and led to a 15-year, $600 million UN investigation that convicted a single Hezbollah operative while failing to identify who ordered the killing.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Rafik Baha El Dine Al-Hariri |
+| **Born** | 1 November 1944, Sidon, Lebanon |
+| **Died** | 14 February 2005 |
+| **Age at Death** | 60 |
+| **Location of Death** | Beirut, Lebanon |
+| **Cause of Death** | Massive truck bomb explosion |
+| **Official Ruling** | Homicide — UN Special Tribunal convicted Hezbollah operative Salim Ayyash in absentia |
+| **Alleged Intelligence Connection** | Hezbollah, Syrian intelligence (widely suspected), Iranian intelligence |
+| **Category** | Political Figure / Foreign Leader |
+
+## Assessment: CONFIRMED
+
+The UN Special Tribunal for Lebanon spent 15 years and approximately $600 million investigating and convicted Hezbollah operative Salim Ayyash of carrying out the assassination. However, the tribunal stated it found "no evidence that the Hezbollah leadership had any involvement" and "no direct evidence of Syrian involvement," despite widespread belief that Syrian intelligence directed the operation. Three co-defendants were acquitted. The scale of the bombing — equivalent to approximately 1,000 kg of TNT — and its political consequences point to a state-level operation that went far beyond the capabilities of a single mid-level operative.
+
+## Circumstances of Death
+
+On 14 February 2005 — Valentine's Day — at approximately 12:55 p.m., a massive bomb detonated as Hariri's motorcade passed near the St. George Hotel on the Beirut seafront corniche. The explosion, equivalent to roughly 1,000 kilograms (2,200 pounds) of TNT, was delivered by a Mitsubishi Canter van packed with military-grade explosives. The blast killed Hariri and 21 others, including his bodyguards, his friend and former Economy Minister Bassel Fleihan, and bystanders. Over 200 people were wounded. The explosion left a crater approximately 10 meters wide and 2 meters deep in the road. Hariri's armored Mercedes was obliterated. Buildings within a wide radius were heavily damaged, and the nearby St. George Hotel — a Beirut landmark — was severely damaged. The attack was one of the largest bombings in Beirut's history, rivaling the worst car bombings of the 1975-1990 civil war.
+
+## Background
+
+Rafik Hariri was born in Sidon, in southern Lebanon, into a modest Sunni Muslim family. As a young man, he moved to Saudi Arabia, where he built a construction empire — his Saudi Oger company became one of the largest construction firms in the Middle East. He amassed a personal fortune estimated at over $4 billion, making him one of the wealthiest men in the region.
+
+Hariri entered Lebanese politics in the early 1990s after the end of the civil war. He served as Prime Minister of Lebanon from 1992 to 1998 and again from 2000 to 2004, and was the dominant figure in Lebanon's post-civil war reconstruction. His Solidere company led the rebuilding of downtown Beirut, transforming the war-ravaged city center into a modern commercial district — though critics accused him of prioritizing luxury development over social needs.
+
+By 2004, Hariri had grown increasingly critical of Syrian influence in Lebanon. Syria had maintained approximately 14,000 troops in the country since 1976 and effectively controlled Lebanese politics through its intelligence apparatus. The breaking point came in September 2004, when Syria orchestrated the extension of pro-Syrian President Emile Lahoud's term by three years, in violation of the Lebanese constitution. Hariri initially voted for the extension under what he described as intense pressure, then resigned as prime minister in October 2004. He was building an anti-Syrian political coalition and was expected to lead a powerful opposition bloc in upcoming parliamentary elections when he was killed.
+
+## The Cedar Revolution
+
+Hariri's assassination triggered the largest popular uprising in Lebanese history. On March 14, 2005 — one month after the bombing — between 1.2 and 1.5 million people gathered in Beirut's Martyrs' Square, in what became the largest public assembly in the country's history. People from all sects and regions of Lebanon — Sunni, Shia, Druze, Maronite, and others — united in demanding an end to Syria's military occupation. The movement, dubbed the "Cedar Revolution," succeeded: under massive domestic and international pressure, Syria withdrew all of its troops from Lebanon by April 26, 2005, ending a 29-year military presence.
+
+## Intelligence Connections
+
+* The UN Special Tribunal for Lebanon convicted Salim Ayyash, a mid-level Hezbollah operative, of five charges including premeditated murder using explosives. The tribunal identified Ayyash through mobile phone records that tracked his movements and communications in the lead-up to the attack
+* Syrian intelligence was widely suspected of ordering the assassination. Syria had approximately 14,000 troops in Lebanon and its intelligence services had allegedly threatened Hariri directly
+* According to multiple reports, Syrian President Bashar al-Assad allegedly told Hariri: "I will break Lebanon over your head and Walid Jumblatt's" — though Syria has denied this
+* The UN's initial investigation, led by German prosecutor Detlev Mehlis, found significant evidence pointing to both Syrian and Lebanese intelligence involvement. Mehlis's preliminary report named senior Syrian and Lebanese officials
+* Hezbollah, backed by Iran, had both the capability and alleged motive to eliminate a political opponent who was building an anti-Syrian, anti-Hezbollah coalition
+* The sophistication of the attack — the scale of the explosive device, the surveillance of Hariri's movements, and the operational security — pointed to state-level resources
+
+## The UN Special Tribunal for Lebanon
+
+The United Nations established the Special Tribunal for Lebanon (STL) in 2007, headquartered in The Hague, Netherlands. It was the first international tribunal created to investigate a terrorist attack. The tribunal spent approximately $600 million over 15 years — one of the most expensive criminal investigations in history.
+
+In August 2020, the tribunal delivered its verdict. Judge David Re found Salim Ayyash guilty beyond a reasonable doubt of five charges, including conspiracy to commit a terrorist act and premeditated murder. Evidence centered on mobile phone networks used by the assassination team. Three co-defendants — Hussein Oneissi, Assad Sabra, and Hassan Habib Merhi — were acquitted for lack of evidence. Ayyash was sentenced in absentia to five concurrent life terms but was never apprehended. Hezbollah refused to hand him over, and his current whereabouts remain unknown, though he was reportedly killed in an Israeli airstrike in 2024 during the Israel-Lebanon conflict.
+
+Critically, the tribunal stated there was "no evidence that the Hezbollah leadership had any involvement in Hariri's murder and there is no direct evidence of Syrian involvement" — a finding that stunned many observers who had expected the investigation to formally implicate Damascus and Hezbollah's top leadership.
+
+## Why This Death Raises Questions
+
+- The tribunal convicted only a mid-level Hezbollah operative while acquitting three others, leaving the masterminds unidentified
+- The tribunal explicitly stated there was "no evidence" of Hezbollah leadership or Syrian government involvement, despite years of investigation and widespread belief in their complicity
+- An operation of this scale — requiring over 1,000 kg of military-grade explosives, extensive surveillance, and complex logistics — would have been extraordinarily difficult without state-level support
+- Syria was forced to withdraw its troops from Lebanon following the Cedar Revolution but was never held formally accountable
+- Key witnesses were killed, intimidated, or recanted testimony during the 15-year investigation
+- Lebanon's own lead investigator, Brigadier General Wissam al-Hassan, who uncovered key evidence of Hezbollah's role, was himself assassinated by car bomb in Beirut in October 2012
+- Several other anti-Syrian Lebanese figures were assassinated in similar fashion in the years following Hariri's death, including journalist Samir Kassir and politician [Pierre Gemayel](Pierre_Gemayel.md)
+- The $600 million tribunal took 15 years but ultimately failed to answer the central question: who ordered the assassination of Rafik Hariri
+
+## Key Quotes
+
+> "Hariri's assassination was the result of a conspiracy. The conspiracy involved the preparation of a large explosive device and its detonation as Prime Minister Hariri's motorcade passed." — UN Special Tribunal for Lebanon ruling, August 2020
+
+> "I will break Lebanon over your head and Walid Jumblatt's." — Statement reportedly made by Syrian President Bashar al-Assad to Hariri, according to multiple Lebanese sources, as reported by the Atlantic Council
+
+> "We are satisfied beyond a reasonable doubt that the evidence showed Ayyash used the phone." — Judge Micheline Braidy, reading a summary of the 2,600-page verdict
+
+## See Also
+
+- [Pierre Gemayel](Pierre_Gemayel.md) — Lebanese anti-Syrian politician assassinated in 2006
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — journalist killed by car bomb in Malta
+- [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani PM assassinated in a bombing and shooting attack
+- [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah military commander killed by CIA-Mossad car bomb in Damascus
+
+## Other Shocking Stories
+
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+
+## Sources
+
+- [Wikipedia — Assassination of Rafic Hariri](https://en.wikipedia.org/wiki/Assassination_of_Rafic_Hariri)
+- [Wikipedia — Rafic Hariri](https://en.wikipedia.org/wiki/Rafic_Hariri)
+- [Wikipedia — Cedar Revolution](https://en.wikipedia.org/wiki/Cedar_Revolution)
+- [UN News — Hariri Assassination Tribunal Finds One Guilty](https://news.un.org/en/story/2020/08/1070482)
+- [Al Jazeera — UN Tribunal Finds Hezbollah Member Guilty](https://www.aljazeera.com/news/2020/8/19/un-tribunal-hezbollah-member-guilty-in-rafik-hariri-killing)
+- [Atlantic Council — No Evidence of Hezbollah Leadership Involvement](https://www.atlanticcouncil.org/blogs/menasource/un-backed-tribunal-no-evidence-of-hezbollah-leadership-involved-in-assassination-of-rafik-hariri/)
+- [Britannica — Rafic al-Hariri](https://www.britannica.com/biography/Rafiq-al-Hariri)
+- [EBSCO Research — Assassination of Rafik Hariri (2005)](https://www.ebsco.com/research-starters/diplomacy-and-international-relations/assassination-rafik-hariri-2005)
+
+*This information was built by Grok and Claude AI research.*

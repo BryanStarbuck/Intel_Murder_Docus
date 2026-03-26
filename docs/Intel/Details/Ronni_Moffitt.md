@@ -1,0 +1,94 @@
+
+
+# Ronni Moffitt
+A 25-year-old American citizen, newlywed, and fundraiser at the Institute for Policy Studies, killed by a Chilean intelligence (DINA) car bomb on Embassy Row in Washington, DC — collateral damage in an assassination targeting former Chilean diplomat Orlando Letelier. The brazen murder of an American woman by a foreign intelligence service on U.S. soil provoked outrage and remains one of the most shocking acts of state-sponsored terrorism ever committed in the United States.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ronni Karpen Moffitt |
+| **Born** | January 10, 1951 |
+| **Died** | September 21, 1976 |
+| **Age at Death** | 25 |
+| **Location of Death** | Sheridan Circle, Embassy Row, Washington, DC, USA |
+| **Cause of Death** | Shrapnel severed larynx and carotid artery; drowned in own blood |
+| **Official Ruling** | Homicide |
+| **Alleged Intelligence Connection** | DINA (Chilean Directorate of National Intelligence) under Pinochet |
+| **Category** | Civilian Casualty |
+
+## Assessment: CONFIRMED
+
+The assassination was planned and executed by agents of Chile's DINA intelligence agency under orders from dictator Augusto Pinochet. Declassified U.S. intelligence documents indicate that Pinochet personally ordered the assassination. DINA operative Michael Townley was convicted and admitted to planting the bomb on orders from Chilean military intelligence. DINA chief Manuel Contreras and operations director Pedro Espinoza were convicted in Chile in 1993. Ronni Moffitt was not the target — she was a 25-year-old American citizen who happened to be in the passenger seat, killed as what intelligence operatives would coldly classify as "collateral damage."
+
+## Circumstances of Death
+
+On the morning of September 21, 1976, Orlando Letelier was driving to work at the Institute for Policy Studies in Washington, DC. Ronni Moffitt was in the passenger seat. She and her husband Michael had been experiencing car trouble and needed a ride to work that morning — a mundane detail that sealed her fate. Michael Moffitt sat in the back seat.
+
+At approximately 9:35 AM, as the car rounded Sheridan Circle on Embassy Row — one of Washington's most prestigious diplomatic addresses, surrounded by foreign embassies — a bomb attached to the underside of the car detonated. The blast lifted the vehicle off the ground. Letelier was killed almost instantly, his legs blown off by the explosion. A piece of flying shrapnel severed Ronni Moffitt's larynx and carotid artery. Unable to call for help, she drowned in her own blood approximately 30 minutes later. She was 25 years old and had been married for just four months.
+
+Michael Moffitt survived with a minor head wound. He crawled from the wreckage and ran to his wife, but could not save her. He would later become a key witness and lifelong advocate for justice in the case.
+
+## Background
+
+Ronni Karpen was born on January 10, 1951. She attended the University of Maryland, where she studied education, and taught school before joining the Institute for Policy Studies (IPS), a progressive think tank in Washington, DC. At IPS, she worked as a development associate and fundraiser. She also ran a "Music Carryout" program designed to make musical instruments accessible to underserved communities — a reflection of her idealistic, service-oriented personality.
+
+She married Michael Moffitt in May 1976, just four months before her death. Friends described her as warm, energetic, and deeply committed to social justice. She was not a political operative or intelligence target — she was a young American woman at the beginning of her life.
+
+The primary target of the bombing was Orlando Letelier, who had served as Chile's ambassador to the United States, foreign minister, and defense minister under President Salvador Allende. After the September 11, 1973 CIA-backed coup that brought Augusto Pinochet to power, Letelier was imprisoned and tortured in multiple detention camps for over a year before international pressure secured his release. He became a vocal critic of the Pinochet regime from his position at IPS, lobbying Congress and European governments to cut off economic support to the dictatorship. The Pinochet regime had stripped Letelier of his Chilean citizenship just days before the assassination.
+
+## Intelligence Connections
+
+- The bombing was carried out by DINA agent Michael Townley, an American-born Chilean operative who worked for Pinochet's secret police. Townley built the bomb using components he brought into the United States
+- Townley recruited anti-Castro Cuban Americans from the Cuban Nationalist Movement to assist with surveillance and logistics for the operation
+- The assassination was part of Operation Condor, a coordinated campaign of political repression, cross-border assassinations, and state terror by South American military dictatorships — primarily Chile, Argentina, Brazil, Uruguay, Paraguay, and Bolivia
+- Declassified documents confirm that the CIA was aware of Pinochet's control of DINA and had intelligence about Operation Condor's assassination activities, but failed to prevent the attack or warn Letelier
+- DINA chief Manuel Contreras, who gave the order for the operation, was simultaneously a paid CIA contact — meaning the United States was paying the man who ordered the murder of an American citizen on American soil
+- U.S. State Department officials pushed for Pinochet's ouster after the Letelier-Moffitt assassination, recognizing that a foreign intelligence service killing people in Washington was an unacceptable escalation
+- Secretary of State Henry Kissinger had been briefed on Operation Condor's assassination plans but, according to declassified cables, a warning to South American governments was reportedly delayed or diluted
+
+## Why This Death Raises Questions
+
+- This was a brazen act of state-sponsored terrorism on American soil, in the heart of Washington's diplomatic quarter — a foreign intelligence service detonated a car bomb on Embassy Row
+- The CIA had intelligence about Operation Condor assassination plans but did not prevent the attack or adequately warn potential targets
+- DINA chief Contreras, who ordered the assassination, was simultaneously a paid CIA contact, raising questions about what the CIA knew and when
+- Townley was convicted and sentenced but served only 62 months in prison before entering the Federal Witness Protection Program — a remarkably light punishment for killing an American citizen
+- The murder of a 25-year-old American woman by a foreign intelligence service on U.S. soil received a remarkably muted initial political response from the Ford administration
+- Ronni Moffitt was not a target — she was killed simply because she needed a ride to work that morning
+- The Pinochet regime faced no immediate military or diplomatic consequences for killing American citizens in Washington
+- The case demonstrated that Operation Condor's reach extended to the capital of the United States itself
+
+## Key Quotes
+
+> "This was not an accident. This was a bomb." — Witness at the scene, quoted in The Washington Post
+
+> "The government of Chile was responsible for the murder of Orlando Letelier and Ronni Moffitt." — Federal court finding
+
+> "She needed a ride to work that day. That's all." — Michael Moffitt, describing why his wife was in the car
+
+## See Also
+
+- [Orlando Letelier](Orlando_Letelier.md) — the primary target of the same car bomb
+- [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup
+- [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires in 1974
+- [Bernardo Leighton](Bernardo_Leighton.md) — Chilean politician shot by DINA in Rome in 1975
+- [Aldo Moro](Aldo_Moro.md) — political figure killed during era of intelligence-linked terrorism
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+
+## Sources
+
+- [Assassination of Orlando Letelier — Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Orlando_Letelier)
+- [Letelier-Moffitt Assassination — National Security Archive](https://nsarchive.gwu.edu/briefing-book/chile/2019-09-20/letelier-moffitt-assassination-state-department-officials-pushed-pinochets-ouster)
+- [Sept. 21, 1976: Sheridan Circle Car Bomb — Zinn Education Project](https://www.zinnedproject.org/news/tdih/car-bomb/)
+- ['This was not an accident. This was a bomb.' — The Washington Post](https://www.washingtonpost.com/sf/national/2016/09/20/this-was-not-an-accident-this-was-a-bomb/)
+- [United States-born Pinochet hitman's confessions declassified — Axios](https://www.axios.com/2023/12/07/united-states-declassified-chile-pinochet-hitman)
+- [Murder on Embassy Row — 46 years on — MR Online](https://mronline.org/2022/09/24/murder-on-embassy-row-46-years-on/)
+- [Letelier-Moffitt Memorial — Clio](https://theclio.com/entry/126475)
+- [Institute for Policy Studies — Letelier-Moffitt Human Rights Awards](https://www.ips-dc.org/events/letelier-moffitt-human-rights-awards/)
+
+*This information was built by Grok and Claude AI research.*

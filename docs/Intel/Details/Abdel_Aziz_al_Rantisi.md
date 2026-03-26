@@ -1,0 +1,84 @@
+
+
+# Abdel Aziz al-Rantisi
+Hamas co-founder and political leader of Hamas in Gaza, assassinated by an Israeli missile strike on his car in Gaza City in 2004 — just 26 days after succeeding Ahmed Yassin, who was killed in a near-identical Israeli strike.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Abdel Aziz Ali Abdul Majid al-Rantisi |
+| **Born** | 23 October 1947 |
+| **Died** | 17 April 2004 |
+| **Age at Death** | 56 |
+| **Location of Death** | Gaza City, Gaza Strip |
+| **Cause of Death** | Israeli helicopter-fired Hellfire missiles |
+| **Official Ruling** | Targeted killing by Israeli military |
+| **Alleged Intelligence Connection** | Shin Bet / IDF Military Intelligence / Israeli Air Force |
+| **Category** | Political Figure |
+
+## Assessment: CONFIRMED
+
+The assassination of Abdel Aziz al-Rantisi was an overt Israeli military operation. Israeli AH-64 Apache helicopters fired Hellfire missiles at his car in Gaza City, killing him, his bodyguard, and his 27-year-old son. Israel publicly acknowledged the strike as part of its policy of targeted killings against Hamas leadership.
+
+## Circumstances of Death
+
+On the evening of 17 April 2004, al-Rantisi was traveling by car through the streets of Gaza City when Israeli Air Force AH-64 Apache helicopters fired Hellfire missiles at his vehicle. The strike killed al-Rantisi instantly, along with his bodyguard Akram Nassar and his 27-year-old son Mohammed. Four bystanders were also wounded in the attack.
+
+The assassination came exactly 26 days after Israel killed his predecessor, Hamas founder Sheikh Ahmed Yassin, in a nearly identical helicopter strike outside a Gaza mosque. Al-Rantisi had assumed the leadership of Hamas in Gaza following Yassin's death and had been widely expected to be a target.
+
+## Background
+
+Al-Rantisi was born in 1947 in Yibna, a Palestinian village near present-day Ashdod, and became a refugee with his family during the 1948 Arab-Israeli War. He studied pediatric medicine and genetics at Alexandria University in Egypt, graduating first in his class. He became a pediatrician at Nasser Hospital in Khan Younis.
+
+Al-Rantisi co-founded Hamas alongside Ahmed Yassin in 1987 during the First Intifada. He served as one of the organization's most prominent spokesmen and political leaders. He was known for his hardline positions against the Oslo peace process and for his rhetoric advocating armed resistance against Israel.
+
+Israel had previously attempted to kill al-Rantisi on 10 June 2003, when an Apache helicopter fired missiles at a car in which he was traveling. He survived that attack with injuries, but a bodyguard was killed, his son Ahmad was severely injured, and two civilian bystanders died.
+
+## Intelligence Connections
+
+* The assassination was carried out by the Israeli Air Force on orders from the Israeli security cabinet
+* Shin Bet reportedly tracked al-Rantisi's movements and confirmed his location for the strike
+* The operation was part of Israel's declared policy of "decapitation strikes" against Hamas leadership
+* The timing — 26 days after Yassin's assassination — demonstrated that Israel intended to systematically eliminate the entire senior Hamas leadership in Gaza
+* After al-Rantisi's death, Hamas stopped publicly naming its Gaza leadership, reportedly to protect them from Israeli targeting
+
+## Why This Death Raises Questions
+
+- The sequential assassination of Yassin and al-Rantisi within less than a month demonstrated a systematic campaign of extrajudicial killings of political leaders
+- Al-Rantisi's son was killed alongside him — raising questions about proportionality and civilian casualties
+- Israel had already failed to kill him in a 2003 strike that killed two bystanders; the continued targeting despite civilian casualties drew international condemnation
+- The assassinations occurred during a period when the international community was calling for negotiations, not escalation
+- Critics argued that killing political leaders did not weaken Hamas but instead radicalized the population and made peace negotiations more difficult
+- The UN, EU, and most nations condemned the strike
+
+## Key Quotes
+
+> "Israel knows that Rantisi will not be the last. We will get to all of them." — Israeli security official, quoted after the strike, April 2004
+
+> "We knew he was a target. He did not hide. He said: I would rather die standing than live on my knees." — Hamas statement following al-Rantisi's death
+
+> "The policy of assassinations has not brought Israel security, and it will not bring security." — Palestinian Authority official, April 2004
+
+## See Also
+
+- [Ahmed Yassin](Ahmed_Yassin.md) — Hamas founder, killed by Israel 26 days earlier
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai, 2010
+- [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad, 2008
+
+- Mossad (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
+- [Yahya Ayyash](Yahya_Ayyash.md): Shin Bet packed a cell phone with explosives and called his number. Israel acknowledged the operation.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador dropped dead in New York. Medical examiner initially refused to release cause of death.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
+
+## Sources
+
+- [Abdel Aziz al-Rantisi — Wikipedia](https://en.wikipedia.org/wiki/Abdel_Aziz_al-Rantisi)
+- [Assassination of Abdel Aziz al-Rantisi — Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Abdel_Aziz_al-Rantisi)
+- [Hamas leader killed in Israeli airstrike — CNN, April 2004](http://www.cnn.com/2004/WORLD/meast/04/17/mideast.violence/index.html)
+- [Israelis slay Hamas leader — Deseret News](https://www.deseret.com/2004/4/18/19823869/israelis-slay-hamas-leader/)
+- [The 'Lion of Palestine': Hamas co-founder Abdel Aziz Al-Rantisi — Middle East Monitor](https://www.middleeastmonitor.com/20230417-the-lion-of-palestine-hamas-co-founder-abdel-aziz-al-rantisi-23-october-1947-17-april-2004/)
+
+*This information was built by Grok and Claude AI research.*

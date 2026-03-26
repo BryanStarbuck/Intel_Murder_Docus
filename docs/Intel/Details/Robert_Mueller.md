@@ -1,0 +1,170 @@
+
+
+# Robert Swan Mueller III
+Former FBI Director (2001-2013) and Special Counsel who led the Trump-Russia investigation. Died at 81 of undisclosed causes after years of Parkinson's disease. His twelve-year tenure as FBI Director coincided with allegations of covering up Saudi involvement in 9/11, botching the anthrax investigation, allowing FBI informant corruption to continue, and presiding over the Bureau during the period when Jeffrey Epstein's sex trafficking operation was largely ignored by federal law enforcement.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Robert Swan Mueller III |
+| **Born** | August 7, 1944 |
+| **Died** | March 20, 2026 |
+| **Age at Death** | 81 |
+| **Location of Death** | Reportedly Virginia |
+| **Cause of Death** | Not disclosed; had Parkinson's disease (diagnosed 2021) |
+| **Official Ruling** | Natural causes (no official ruling issued) |
+| **Alleged Intelligence Connection** | FBI Director (2001-2013); Special Counsel (2017-2019); allegations of covering up Saudi 9/11 connections, obstructing congressional investigations, and connections to Seth Rich case via FBI documents |
+| **Category** | Intelligence Officer / Law Enforcement |
+
+## Assessment: SUSPICIOUS
+
+Robert Mueller's death itself appears to be from natural causes related to his Parkinson's disease. However, his profile belongs in this project not as a victim but as a key figure whose actions as FBI Director allegedly covered up intelligence operations, obstructed congressional investigations into Saudi involvement in 9/11, botched the anthrax investigation while targeting an innocent man, and whose name appears in FBI documents released via FOIA in connection with the murder of DNC staffer Seth Rich. Mueller was subpoenaed by the House Oversight Committee in 2025 to testify about the FBI's handling of the Jeffrey Epstein sex trafficking case, but the subpoena was withdrawn due to his Parkinson's diagnosis — meaning he never testified about what the FBI knew about Epstein during his 12-year tenure as Director.
+
+## Circumstances of Death
+
+Robert Mueller died on the evening of Friday, March 20, 2026. His family announced his passing the following day, stating: "With deep sadness, we are sharing the news that Bob passed away last night." No cause of death was given. Mueller had been diagnosed with Parkinson's disease in the summer of 2021, according to his family, and had difficulty speaking in his final years.
+
+President Donald Trump responded to Mueller's death on social media: "Robert Mueller just died. Good, I'm glad he's dead. He can no longer hurt innocent people!" The statement was widely condemned by officials, journalists, and commentators across the political spectrum.
+
+## Background
+
+### Early Life and Military Service
+
+Mueller was born in New York City on August 7, 1944, and raised in Philadelphia. He attended Princeton University, graduating in 1966 with a Bachelor of Arts degree, and earned a Master of Arts in international relations from New York University in 1967.
+
+Mueller enlisted in the United States Marine Corps in 1968, inspired by the death of his Princeton lacrosse teammate David Spencer Hackett in Vietnam. He served as a rifle platoon leader with the 2nd Battalion, 4th Marines, 3rd Marine Division in South Vietnam. On December 11, 1968, during Operation Scotland II, he earned the Bronze Star with "V" device for combat valor after rescuing a wounded Marine under enemy fire during an ambush that left half his platoon as casualties. In April 1969, he received a gunshot wound to the thigh, earning the Purple Heart, and returned to lead his platoon until June 1969.
+
+His military decorations include: Bronze Star Medal with Combat "V", Purple Heart, two Navy and Marine Corps Commendation Medals with Combat "V", Combat Action Ribbon, and Parachutist Badge.
+
+### Legal Career
+
+After Vietnam, Mueller earned his law degree from the University of Virginia School of Law in 1973. He worked as a federal prosecutor in San Francisco and Boston, and served as Acting U.S. Attorney for the District of Massachusetts. He was appointed Assistant Attorney General for the Criminal Division under President George H.W. Bush, overseeing the prosecution of Panamanian dictator Manuel Noriega, the Pan Am Flight 103 (Lockerbie) investigation, and the Gambino crime family case against John Gotti.
+
+### FBI Director (2001-2013)
+
+Mueller was nominated as FBI Director by President George W. Bush and was confirmed unanimously by the Senate, taking office on September 4, 2001 — exactly one week before the September 11 attacks. He served as the second-longest-serving FBI Director in history (after J. Edgar Hoover), with President Obama requesting and receiving a two-year extension from Congress in 2011.
+
+### Special Counsel (2017-2019)
+
+In May 2017, Deputy Attorney General Rod Rosenstein appointed Mueller as Special Counsel to investigate Russian interference in the 2016 presidential election and any links to the Trump campaign. The investigation lasted 22 months and produced a 448-page report that concluded investigators "did not establish that the Trump campaign conspired with Russia" but documented extensive Russian interference efforts and did not exonerate Trump on obstruction of justice.
+
+## Why This Person Raises Questions
+
+### 1. Alleged Cover-Up of Saudi Involvement in 9/11
+
+Mueller became FBI Director one week before September 11, 2001. According to Senator Bob Graham, who co-chaired Congress's Joint Inquiry into 9/11, Mueller personally obstructed the congressional investigation into Saudi connections to the hijackers:
+
+- Mueller allegedly blocked congressional investigators from visiting FBI field offices in Los Angeles and San Diego that were investigating Saudi contacts with the hijackers. According to Graham, "the strongest objections" came from Mueller himself.
+- Mueller reportedly refused to allow Congress to interview a paid FBI informant who had roomed with two of the hijackers in San Diego, and moved the informant to an undisclosed safe house where investigators could not find him.
+- Mueller removed a veteran FBI agent from investigating a tip about an adviser to the Saudi royal family who had met with hijackers at his home in Sarasota, Florida — a home that was suddenly abandoned two weeks before 9/11.
+- FBI files obtained through litigation contained at least three reports stating agents found "many connections" between a Sarasota Saudi family and "individuals associated with the terrorist attacks on 9/11/2001" — directly contradicting the FBI's public statements, which Mueller was allegedly involved in crafting, that agents had found no such connections.
+- The classified "28 pages" of the congressional 9/11 report — which detailed Saudi government connections to the hijackers — remained classified until July 2016.
+
+### 2. Botched Anthrax Investigation
+
+Following the 2001 anthrax letter attacks that killed five people, the FBI under Mueller pursued scientist Steven Hatfill as the primary suspect for years based on dubious evidence — including claims by bloodhound handlers that dogs had "alerted" on Hatfill after he petted them.
+
+According to reporting by RealClearPolitics, Mueller personally micromanaged the case and "fell in love with the dubious dog evidence," assuring Attorney General Ashcroft and presumably President Bush that Hatfill was their man. The FBI ignored a 2002 tip from a colleague identifying the actual killer, Fort Detrick scientist Bruce Ivins.
+
+Hatfill was eventually exonerated and the government paid him $5.82 million in a legal settlement. Ivins committed suicide in 2008 as the FBI was closing in on him. Mueller reportedly could not be bothered to attend the press conference announcing the resolution of the case.
+
+### 3. Whitey Bulger / FBI Informant Corruption
+
+During Mueller's tenure as Acting U.S. Attorney in Massachusetts, the FBI maintained its corrupt relationship with mob boss James "Whitey" Bulger, who served as a Bureau informant while committing murders and running organized crime operations. The FBI's arrangement with Bulger was so corrupt that the agency allowed the wrongful murder convictions of four innocent men — Peter Limone, Joe Salvati, Henry Tameleo, and Louis Greco — by permitting a witness to lie and withholding exculpatory evidence. Three of the four were sentenced to death. Two died in prison.
+
+The extent of Mueller's personal involvement is disputed. Congressman Louie Gohmert's 48-page report *Robert Mueller: Unmasked* alleged that Mueller, as head of the Criminal Division and Acting U.S. Attorney, helped keep the wrongfully convicted men in prison. Retired federal judge Nancy Gertner, who presided over the wrongful imprisonment trial and awarded the men $101.7 million, stated there was "no evidence" linking Mueller to that specific case.
+
+### 4. FBI Documents Mentioning Mueller and Seth Rich
+
+In July 2021, the FBI released approximately 142 pages of documents related to murdered DNC staffer Seth Rich through its Records Vault. Pages 134 and 135 of the release contained emails that mention Robert Mueller and Hillary Clinton in connection with Rich's murder. According to multiple sources, these documents include subject lines alleging that Mueller "has the name of the hitman" who killed Seth Rich.
+
+However, it is important to note that these appear to be emails sent by private citizens to the FBI — communications that were kept on file by standard procedure rather than because of their evidentiary value. They represent claims made within the FBI's files, not official findings or confirmed intelligence. No official investigation has substantiated these allegations.
+
+The book *Shadowland* by Thomas Horn claimed these documents as a disclosure of FBI knowledge about the Rich murder.
+
+### 5. Epstein Investigation: What Did Mueller Know?
+
+Mueller served as FBI Director from 2001 to 2013, a period that encompassed:
+- The initial federal investigation into Jeffrey Epstein in the mid-2000s
+- The controversial 2008 non-prosecution agreement (NPA) brokered by U.S. Attorney Alexander Acosta, which gave Epstein an extraordinarily lenient plea deal despite evidence of extensive sex trafficking of minors
+- The period during which the FBI would have been aware of complaints about Epstein's activities
+
+In September 2025, the House Oversight Committee subpoenaed Mueller to testify about the FBI's handling of the Epstein case during his tenure as Director. The subpoena was withdrawn after the committee learned of Mueller's Parkinson's diagnosis and his inability to testify. Mueller died approximately six months later without ever providing testimony about what the FBI knew about Epstein's operation during his 12-year watch.
+
+No publicly available documents detail Mueller's specific role or decisions regarding the Epstein investigation during his time as FBI Director.
+
+### 6. Uranium One and Conflicts of Interest
+
+While serving as FBI Director, Mueller oversaw the Bureau during the period when a Russian company connected to Rosatom acquired Uranium One, a company with uranium operations in the United States. The FBI had opened an investigation into corruption and extortion by senior managers connected to the Russian government's nuclear company before the deal was approved. Congressional Republicans later alleged this represented a conflict of interest when Mueller was appointed Special Counsel to investigate Russian interference, though no direct evidence of Mueller's personal involvement in the Uranium One deal was established.
+
+### 7. The Gohmert Report: "Robert Mueller Unmasked"
+
+In 2018, Congressman Louie Gohmert (R-TX) published a 48-page report titled *Robert Mueller: Unmasked*, submitted to the House Judiciary Committee, which catalogued what Gohmert characterized as Mueller's "history of illicitly targeting innocent people that is a stain upon the legacy of American jurisprudence." The report alleged:
+
+- Mueller's role in maintaining wrongful convictions in the Whitey Bulger scandal
+- The wrongful prosecution of Senator Ted Stevens, whose conviction was overturned due to prosecutorial misconduct
+- A 2006 FBI "hit job" to derail Congressman Curt Weldon's re-election bid weeks before the vote
+- A pattern of using the FBI as a political weapon
+
+## The Counterargument
+
+- Mueller's death at 81 after a multi-year battle with Parkinson's disease appears to be from natural causes. His declining health was publicly documented.
+- Mueller was widely regarded by both parties as a man of integrity for most of his career. He was confirmed unanimously as FBI Director.
+- His military service was distinguished and his combat decorations were earned under fire.
+- Many of the allegations against Mueller come from partisan political opponents, particularly those connected to President Trump's grievances about the Russia investigation.
+- The Seth Rich FBI documents containing Mueller's name appear to be citizen correspondence, not official FBI findings.
+- Retired Judge Nancy Gertner stated there is "no evidence" linking Mueller to the Whitey Bulger wrongful convictions specifically.
+- Mueller's Special Counsel investigation resulted in 34 indictments and multiple convictions.
+- The Parkinson's diagnosis explains his inability to testify before the House Oversight Committee about the Epstein case.
+
+## Key Quotes
+
+> "Robert Mueller just died. Good, I'm glad he's dead. He can no longer hurt innocent people!"
+> — **President Donald Trump**, Truth Social, March 21, 2026
+
+> "The strongest objections to staff investigators visiting FBI offices came from the FBI director himself."
+> — **Senator Bob Graham**, co-chair of Congress's Joint Inquiry into 9/11, regarding Mueller blocking investigators from FBI field offices in LA and San Diego
+
+> "Mueller fell in love with the dubious dog evidence, personally assuring Ashcroft and presumably George W. Bush that in Steven Hatfill the bureau had its man."
+> — **RealClearPolitics**, on Mueller's handling of the anthrax investigation
+
+> "Because he survived Vietnam, he has always felt compelled to contribute."
+> — attributed to **Robert Mueller**, on his motivation for public service
+
+> "Robert Mueller has served this country with exceptional distinction throughout his career."
+> — **Former President Barack Obama**, upon requesting Mueller's two-year extension as FBI Director in 2011
+
+## See Also
+
+- [Seth Rich](Seth_Rich.md) — DNC staffer whose murder remains unsolved; FBI documents mentioning Mueller released via FOIA
+- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating PROMIS software and intelligence connections
+- [David Kelly](David_Kelly.md) — UK weapons inspector who died before testimony; records sealed
+- [Pat Tillman](Pat_Tillman.md) — NFL star killed by friendly fire; Pentagon cover-up
+
+## Other Shocking Stories
+
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. FBI documents mention Mueller and Clinton in connection with his death.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower killed driving to meet a reporter. Documents she was carrying vanished from the wreckage.
+- [Gary Webb](Gary_Webb.md): Reporter who exposed CIA-crack cocaine pipeline shot himself twice in the head. Ruled suicide.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD fell from a hotel window. 40 years later, exhumation found he'd been knocked unconscious first.
+
+## Sources
+
+- [Robert Mueller, former special counsel who led Trump-Russia probe, dies at 81 — NBC News](https://www.nbcnews.com/politics/politics-news/robert-mueller-former-special-counsel-dies-rcna264561)
+- [Robert Mueller, ex-FBI director who led 2016 Russia inquiry, dies at 81 — NPR](https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81)
+- [Robert Mueller, former FBI director and special counsel in Trump-Russia probe, dies — CNN](https://www.cnn.com/2026/03/21/politics/robert-mueller-former-fbi-director-dies)
+- [Robert Mueller, former FBI director, dies at 81 — Fox News](https://www.foxnews.com/politics/former-fbi-director-robert-mueller-dies-81-trump-reacts)
+- [The House committee investigating the Jeffrey Epstein case withdraws subpoena to Robert Mueller — PBS News](https://www.pbs.org/newshour/politics/the-house-committee-investigating-the-jeffrey-epstein-case-withdraws-subpoena-to-robert-mueller)
+- [Robert Mueller involved in FBI release of deceptive statements about Sarasota 9/11 probe — Florida Bulldog](https://www.floridabulldog.org/2018/01/robert-mueller-involved-in-fbi-release-deceptive-statements/)
+- [Former FBI Agent: Robert Mueller helped cover up Saudi Arabia's role — 911truth.org](https://911truth.org/former-fbi-agent-mueller-cover-up-saudi-arabia-role/)
+- [Former FBI Director Mueller Obstructed Congressional Investigation into Saudi Involvement in 9/11 — The New American](https://thenewamerican.com/us/politics/former-fbi-director-mueller-obstructed-congressional-investigation-into-saudi-involvement-in-9-11/)
+- [When Comey and Mueller Bungled the Anthrax Case — RealClearPolitics](https://www.realclearpolitics.com/articles/2017/05/21/when_comey_and_mueller_bungled_the_anthrax_case_133953.html)
+- [The FBI, Whitey Bulger & Robert Mueller — Mark Hyman, Substack](https://markhyman.substack.com/p/the-fbi-whitey-bulger-and-robert)
+- [Robert Mueller: Unmasked — Congressman Louie Gohmert (congressional document)](https://www.congress.gov/116/meeting/house/109807/documents/HHRG-116-JU00-20190724-SD001.pdf)
+- [FLASHBACK: FBI Seth Rich Document Dump Included Emails Mentioning the Clintons and Mueller — The Gateway Pundit](https://www.thegatewaypundit.com/2022/07/flashback-fbi-seth-rich-document-dump-included-emails-suggesting-clintons-mueller-involved-seth-rich-death/)
+- [The Vault — Seth Rich — FBI Records](https://vault.fbi.gov/seth-rich)
+- [New Seth Rich Documents in FBI Records Vault — UncoverDC](https://uncoverdc.com/2021/07/15/new-seth-rich-documents-in-fbi-records-vault)
+- [The Dark Past of Special Prosecutor Robert Mueller — Intel Today](https://inteltoday.org/2026/03/21/the-dark-past-of-special-prosecutor-robert-mueller-the-bulger-gang-lockerbie-anthrax-an-exceptional-failure-all-round-update-robert-mueller-dies-at-81/)
+- [Robert Mueller — Wikipedia](https://en.wikipedia.org/wiki/Robert_Mueller)
+- [Trump on Robert Mueller's Death: 'Good, I'm Glad He's Dead' — Rolling Stone](https://au.rollingstone.com/culture/culture-news/trump-robert-mueller-death-92793/)
+
+*This information was built by Grok and Claude AI research.*

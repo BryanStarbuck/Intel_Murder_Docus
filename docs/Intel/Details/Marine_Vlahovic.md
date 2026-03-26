@@ -1,0 +1,106 @@
+
+
+# Marine Vlahovic
+French journalist and West Asia expert found dead on the rooftop terrace of her Marseille apartment while working on a documentary about Israel's war on Gaza.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Marine Vlahovic |
+| **Born** | March 19, 1985 (Rennes, France) |
+| **Died** | November 25, 2024 (discovered) |
+| **Age at Death** | 39 |
+| **Location of Death** | Marseille, France (roof terrace of her apartment) |
+| **Cause of Death** | Unknown — autopsy inconclusive, toxicology results never publicly released |
+| **Official Ruling** | Under investigation; Marseille prosecutor initially said no evidence of foul play |
+| **Alleged Intelligence Connection** | Israeli intelligence (Mossad) alleged by pro-Palestinian media and social media accounts |
+| **Category** | Journalist / Investigator |
+
+## Assessment: SUSPICIOUS
+
+A 39-year-old journalist with no known health issues found dead on her rooftop terrace while actively working on a documentary critical of Israel's military operations in Gaza. The cause of death has never been publicly disclosed. The autopsy was inconclusive, toxicology results were never released, and the body had reportedly been there for several days before friends discovered it. The timing — during the height of Israel's Gaza offensive, while she was preparing material described as containing "revelations about the criminal army" — has fueled allegations of Israeli intelligence involvement, though no direct evidence has been made public.
+
+## Circumstances of Death
+
+Marine Vlahovic was found dead on the roof terrace of her Marseille apartment on November 25, 2024. Friends discovered her body after becoming alarmed when she stopped responding to calls and messages. According to reports, her body may have been on the terrace for several days before discovery.
+
+A judicial investigation was opened and an autopsy was performed. The Marseille prosecutor's office stated that initial autopsy results showed no immediate evidence of foul play and that toxicological analyses were underway. As of available reporting, the toxicology results have never been publicly released, and the definitive cause of death remains unknown.
+
+The Coalition for Women in Journalism (CFWIJ) called for a "transparent inquiry," stating: "The circumstances surrounding her death are unclear and demand a thorough investigation."
+
+## Background
+
+Marine Vlahovic was a respected French journalist who graduated from the Centre de formation des journalistes (CFJ) in Paris in 2010. She specialized in Middle East reporting, particularly the Palestinian territories.
+
+From 2016 to 2019, she served as a correspondent in Ramallah, West Bank, for multiple French-language radio stations including RFI (Radio France Internationale), Radio France, and Swiss Radio Television (RTS). She also contributed to Le Soir, Liberation, National Geographic, and Reporterre.
+
+Her documentary work earned significant recognition. Her podcast series "Carnets de correspondante" (Correspondent's Notebooks) for ARTE Radio won the 2021 SCAM award for best documentary podcast. In the series, she documented daily life under occupation in the West Bank.
+
+In 2024, as Israel's military operations in Gaza intensified, Vlahovic created a new episode called "Gaza Calling" for ARTE Radio, giving voice to Palestinian journalist colleagues working under bombardment. On her social media, she wrote: "Nearly 40,000 dead. Tens of thousands of missing and injured. An atrocious war against Gaza that targets Palestinian journalists. Let us listen to those who inform us at the cost of their lives."
+
+After leaving Ramallah in 2019, Vlahovic moved to Marseille but maintained close contacts with journalists in Gaza and attempted to return to Palestine. At the time of her death, she was reportedly working on a new documentary investigation into Israel's military campaign in Gaza and was described as preparing to make "revelations."
+
+## Intelligence Connections
+
+* **Israeli intelligence (Mossad) alleged:** Pro-Palestinian media outlets including Press TV, Al Mayadeen, and Quds News Network reported her death as a suspected killing connected to her documentary work on Gaza. Social media accounts alleged she was "killed" for her reporting.
+* **No direct evidence published:** No evidence linking Israeli intelligence to her death has been made public. The allegations are based primarily on the suspicious timing — an active journalist critical of Israel dying while working on critical documentary material — rather than forensic or intelligence evidence.
+* **Context of journalist killings:** By November 2024, the Committee to Protect Journalists had documented over 130 Palestinian journalists and media workers killed in Israel's Gaza offensive, making it the deadliest conflict for journalists in modern history. Israel had been widely criticized for targeting journalists in Gaza. However, Vlahovic was located in France, not in a conflict zone.
+* **France-Israel intelligence relationship:** France and Israel maintain intelligence cooperation, and Mossad has historically conducted operations on French soil, including the assassinations of [Mahmoud Hamshari](Mahmoud_Hamshari.md) (1973), [Atef Bseiso](Atef_Bseiso.md) (1992), and other Palestinian figures in Paris.
+
+## Why This Death Raises Questions
+
+- A 39-year-old journalist with no reported health problems found dead under unexplained circumstances
+- Cause of death never publicly disclosed despite autopsy and toxicology testing
+- Body found on roof terrace after lying undiscovered for several days
+- Was actively working on a documentary critical of Israel's military operations in Gaza
+- Was reportedly preparing "revelations about the criminal army" according to social media reports
+- Timing coincided with Israel's unprecedented targeting of journalists covering the Gaza conflict
+- Mossad has a documented history of operations against Palestinian-connected targets on French soil
+- Coalition for Women in Journalism publicly called for transparent investigation
+- No public follow-up or resolution of the investigation has been reported
+
+## The Counterargument
+
+- The Marseille prosecutor's office said the initial autopsy found no evidence of foul play
+- No forensic evidence linking any intelligence service to her death has been made public
+- The cause of death could be natural — cardiac event, accidental overdose, or other medical cause — with toxicology simply not yet released publicly
+- Allegations of Israeli involvement come primarily from pro-Palestinian media outlets and social media, which are not neutral sources
+- France is not a conflict zone; Israel's targeting of journalists has been documented primarily in Gaza and the occupied territories, not in Western Europe against Western journalists
+- There is no reporting that she had received threats prior to her death
+- Many unexplained deaths of young people have natural or accidental causes that are initially unclear
+
+## Key Quotes from Media Coverage
+
+> "The circumstances surrounding her death are unclear and demand a thorough investigation."
+> — **Coalition for Women in Journalism (CFWIJ)**, December 2024
+
+> "Nearly 40,000 dead. Tens of thousands of missing and injured. An atrocious war against Gaza that targets Palestinian journalists. Let us listen to those who inform us at the cost of their lives."
+> — **Marine Vlahovic**, social media post promoting "Gaza Calling," June 2024
+
+> "Pro-Palestinian French journalist Marine Vlahovic was killed in her home in Marseille, France, after working on a documentary about Israel's genocidal campaign on Gaza."
+> — **Quds News Network**, December 2, 2024
+
+## See Also
+
+- [Serena Shim](Serena_Shim.md) — Press TV journalist who died in a suspicious car crash in Turkey after reporting on ISIS using UN trucks; accused of espionage by Turkish intelligence
+- [Mahmoud Hamshari](Mahmoud_Hamshari.md) — PLO representative assassinated by Mossad phone bomb in Paris (1973)
+- [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief shot by Mossad in Paris (1992)
+- [Fidan Dogan](Fidan_Dogan.md) — Kurdish activist shot execution-style in Paris; Turkish intelligence suspected (2013)
+## Other Shocking Stories
+
+- [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
+- [Yevgeny Prigozhin](Yevgeny_Prigozhin.md): Wagner Group founder's plane exploded exactly two months after his mutiny against Putin. Grenade fragments in the bodies.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
+
+## Sources
+
+- [French correspondent found dead in Marseille amid making documentary on Gaza genocide — Press TV](https://www.presstv.ir/Detail/2024/12/02/738332/France-Marine-Vlahovic-Palestine-Gaza-Israel-Marseille-documentary-)
+- [France: Transparent Inquiry Needed as Pro-Palestine Journalist Marine Vlahovic Found Dead in Her Home — Coalition For Women in Journalism](https://www.womeninjournalism.org/alerts/france-transparent-inquiry-needed-as-pro-palestine-journalist-marine-vlahovic-found-dead-in-her-home)
+- [Who Was Marine Vlahovic? French Journalist Found Dead While Allegedly Working on Israel's Genocidal War — IBTimes UK](https://www.ibtimes.co.uk/who-was-marine-vlahovic-french-journalist-found-dead-while-allegedly-working-israels-genocidal-1786831)
+- [Pro-Palestine French Journalist Marine Vlahovic Dies at Age 39 — Barlaman Today](https://barlamantoday.com/2024/12/03/pro-palestine-french-journalist-marine-vlahovic-dies-at-age-39/)
+- [Pro-Palestinian journalist found dead on rooftop in Marseille — Al Mayadeen](https://english.almayadeen.net/news/miscellaneous/pro-palestinian-journalist-found-dead-on-rooftop-in-marseill)
+- [Ex-RTS correspondent found dead on roof terrace — Blue News](https://www.bluewin.ch/en/news/ex-rts-correspondent-found-dead-on-roof-terrace-2466284.html)
+- [Marine Vlahovic — Wikipedia (French)](https://fr.wikipedia.org/wiki/Marine_Vlahovic)
+- [Marine Vlahovic — ARTE Radio](https://www.arteradio.com/author/marine-vlahovic)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,146 @@
+
+
+# Ngo Dinh Diem
+South Vietnamese president assassinated during a CIA-backed military coup in 1963, shot and stabbed in the back of an armored personnel carrier after surrendering with a promise of safe passage.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ngo Dinh Diem (Ngo Dinh Zi-em) |
+| **Born** | January 3, 1901, Quang Binh Province, Vietnam |
+| **Died** | November 2, 1963 |
+| **Age at Death** | 62 |
+| **Location of Death** | Cholon (Saigon), South Vietnam |
+| **Cause of Death** | Shot and stabbed in back of armored personnel carrier |
+| **Official Ruling** | Killed during military coup |
+| **Alleged Intelligence Connection** | CIA (United States) |
+| **Category** | Foreign Leader |
+
+## Assessment: CONFIRMED
+
+The CIA provided financial support, encouragement, and operational coordination to the South Vietnamese generals who overthrew and killed Diem. Declassified documents confirm the Kennedy administration sanctioned the coup through Cable 243 (DEPTEL 243), and CIA officer Lucien Conein served as the direct American liaison with the plotters. The Church Committee investigated the case as one of five CIA assassination plots involving foreign leaders, concluding that "American officials offered encouragement to the Vietnamese generals who plotted Diem's overthrow, and a CIA official in Vietnam gave the generals money after the coup had begun."
+
+## Background
+
+Diem was born into one of Vietnam's most prominent Catholic families. His father, Ngo Dinh Kha, had served as a counselor to Emperor Thanh Thai. Diem entered the French colonial civil service and rose rapidly, becoming minister of the interior under Emperor Bao Dai in 1933 at age 32. He resigned within months over French refusal to grant Vietnamese autonomy and spent the next two decades in political exile, living in the United States and Belgium, where he cultivated powerful American allies including Cardinal Francis Spellman, Senator Mike Mansfield, and Senator John F. Kennedy.
+
+In 1954, following the French defeat at Dien Bien Phu and the Geneva Accords that divided Vietnam, Bao Dai appointed Diem prime minister of the State of Vietnam. In 1955, Diem organized a referendum — widely regarded as rigged, with Diem claiming 98.2% of the vote — to depose Bao Dai and declared himself president of the new Republic of South Vietnam. The Eisenhower administration embraced him as a staunch anti-communist ally and poured economic and military aid into his regime.
+
+Diem's government grew increasingly authoritarian and nepotistic. His brother Ngo Dinh Nhu ran the feared Can Lao secret police, which infiltrated the military, civil service, and religious organizations. Nhu's wife, Madame Nhu, served as de facto First Lady and wielded outsized political influence. The regime favored Catholics in government appointments, military promotions, land distribution, and the allocation of weapons to village self-defense militias, alienating the Buddhist majority that comprised roughly 70-80% of the population.
+
+## The Buddhist Crisis of 1963
+
+On May 8, 1963, government troops in Hue fired on Buddhist demonstrators protesting a ban on flying the Buddhist flag during Vesak celebrations — a ban enforced under Decree Number 10, even though Catholics had been encouraged to fly Vatican flags at a government-sponsored event just one week earlier. Nine people were killed. Diem's government blamed the Viet Cong for the deaths.
+
+The Hue shootings triggered a national crisis. On June 11, 1963, Buddhist monk Thich Quang Duc sat down at a busy Saigon intersection, was doused in gasoline by fellow monks, and set himself alight. AP journalist Malcolm Browne captured the scene in photographs that appeared on front pages worldwide — one of the most iconic and disturbing images of the 20th century. Quang Duc remained motionless and completely silent, betraying no sign of pain, as he burned to death. Five more Buddhist monks immolated themselves in the months that followed.
+
+President Kennedy saw the photographs and reportedly exclaimed "Jesus Christ!" before ordering a full review of his administration's Vietnam policy. The crisis deepened when Madame Nhu publicly dismissed the self-immolations as a "barbecue show," telling the New York Times she would "clap hands at seeing another monk barbecue show, for one can not be responsible for the madness of others."
+
+On August 21, Nhu launched the Xa Loi Pagoda raids, sending special forces to ransack Buddhist temples across the country, arresting hundreds of monks and nuns, and killing an estimated number of people that remains disputed. The raids horrified the Kennedy administration and marked the point of no return.
+
+## Cable 243: The Green Light
+
+On August 24, 1963 — just three days after the pagoda raids — senior State Department officials drafted Cable 243 (DEPTEL 243), also known as the "Hilsman Telegram" after Assistant Secretary of State Roger Hilsman. The cable instructed Ambassador Henry Cabot Lodge Jr. that the U.S. could no longer tolerate Nhu's influence and that if Diem refused to remove his brother, "we must face the possibility that Diem himself cannot be preserved." The cable authorized Lodge to tell South Vietnamese military leaders that the United States would not oppose a change of government.
+
+The cable was sent on a Saturday when key officials were scattered — Secretary of State Dean Rusk was at a baseball game, Defense Secretary Robert McNamara was on vacation, and CIA Director John McCone was at his California home. Kennedy approved the cable by phone after being told his senior advisors had cleared it. Several officials later claimed they had approved it only because they believed others had already done so. Kennedy himself later described Cable 243 as one of his worst decisions, calling what followed "particularly abhorrent."
+
+## Ambassador Lodge's Role
+
+Henry Cabot Lodge Jr. arrived in Saigon on August 22, 1963, one day after the pagoda raids. He quickly concluded that the war could not be won under Diem. In an August 29 cable to Secretary of State Rusk, Lodge declared: "We are launched on a course from which there is no respectable turning back: the overthrow of the Diem government."
+
+Lodge became the primary American advocate for regime change. He refused to meet with Diem to discuss reforms — believing such meetings would only give Diem an opportunity to stall — and instead communicated U.S. dissatisfaction through deliberate silence. Lodge personally assured the plotting generals, through CIA intermediary Lucien Conein, that Washington would not intervene to save Diem.
+
+## CIA Officer Lucien Conein and the Generals
+
+Lucien Emile Conein was a French-born CIA operations officer who had served with the OSS in World War II, parachuting into Nazi-occupied France and later operating in Indochina against the Japanese. He had deep personal relationships with South Vietnamese military officers dating back to the 1950s, making him the ideal liaison for the coup.
+
+On October 5, 1963, Conein met with General Duong Van Minh ("Big Minh"), who outlined the coup plans, identified the principal plotters, and requested an expression of U.S. support. According to DCI John McCone's testimony to the Church Committee, McCone met with President Kennedy and Attorney General Robert Kennedy after Conein reported that Minh had discussed a possible assassination plan. McCone advised a "hands off" approach to assassination — the CIA was to collect information but not direct the killing.
+
+Conein provided approximately $42,000 in CIA funds (3 million Vietnamese piastres) to the generals on September 11 and again on the day of the coup, when he furnished General Tran Van Don roughly $65,000 to buy off opposition military units. Conein was present at coup headquarters at the Joint General Staff compound throughout the operation, maintaining a direct communication line to the CIA station and the U.S. Embassy.
+
+## The Coup: November 1-2, 1963
+
+At 1:30 p.m. on November 1, 1963, rebel troops began seizing key installations across Saigon. Diem telephoned Ambassador Lodge to ask where the United States stood. Lodge replied evasively: "I do not feel well enough informed to be able to tell you. I have heard the shooting, but am not acquainted with all the facts." Lodge then added, "If I can do anything for your physical safety, please call me." Diem never called back.
+
+Diem and his brother Nhu escaped Gia Long Palace through an underground passage and fled to Cha Tam Catholic Church in the Chinese district of Cholon. That evening and overnight, loyalist forces were overwhelmed. By morning on November 2, the generals controlled Saigon.
+
+At approximately 6:00 a.m. on November 2, Diem telephoned the generals from the church and offered to surrender in exchange for safe passage out of the country. According to Conein's Church Committee testimony, General Minh asked him to procure an aircraft for Diem's evacuation. Conein contacted the CIA station and was told no plane could reach Saigon within 24 hours.
+
+The generals sent an M113 armored personnel carrier and troops to collect the brothers. Diem and Nhu were placed in the back of the APC with their hands tied behind their backs. En route to Joint General Staff headquarters, Captain Nguyen Van Nhung — acting under orders from General Minh — shot both brothers with a revolver and stabbed Diem repeatedly with a bayonet. Photographs of their bloodied bodies, hands still bound, confirmed that the killing was an execution, not combat.
+
+## Kennedy's Reaction
+
+Kennedy learned of Diem's death on November 4, 1963, when National Security Council staffer Michael Forrestal rushed into the cabinet room with a telegram. According to General Maxwell Taylor, "Kennedy leaped to his feet and rushed from the room with a look of shock and dismay on his face which I had never seen before."
+
+Kennedy had planned for Diem to be safely exiled. Forrestal later noted that the assassination "shook him personally" and "bothered him as a moral and religious matter," shaking his confidence in the advice he was receiving on South Vietnam. In a private dictation recorded days later, Kennedy called the killings "particularly abhorrent" and blamed himself for approving Cable 243.
+
+Twenty days later, on November 22, 1963, Kennedy himself was assassinated in Dallas.
+
+## Church Committee Findings
+
+In 1975, the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (the Church Committee) investigated the Diem case as one of five plots involving CIA assassination of foreign leaders — alongside [Patrice Lumumba](Patrice_Lumumba.md), [Rafael Trujillo](Rafael_Trujillo.md), Fidel Castro, and [Rene Schneider](Rene_Schneider.md). The committee concluded: "The US must bear considerable responsibility for bringing about the coup." While the committee did not find direct evidence that the CIA specifically ordered Diem's murder, it documented the extensive financial and logistical support that made the coup — and the killing — possible.
+
+A 2018 CIA internal history, partially declassified, reportedly revealed a deeper agency role than previously acknowledged, including that "most of the generals" favored the immediate execution of Diem and Nhu, with Captain Nhung pre-designated as executioner.
+
+## The Aftermath
+
+The coup produced the opposite of its intended effect. Rather than creating a stable, effective government to fight the communist insurgency, Diem's removal plunged South Vietnam into chaos. General Minh's military junta proved incompetent and was itself overthrown in a bloodless coup by General Nguyen Khanh on January 30, 1964. A series of additional coups followed throughout 1964 and 1965, with no government lasting more than a few months.
+
+The political instability in Saigon weakened the South Vietnamese military's effectiveness against the Viet Cong, giving the communists a decisive strategic advantage. By 1965, President Lyndon Johnson concluded that only direct American military intervention could prevent South Vietnam's collapse. The Gulf of Tonkin Resolution and the commitment of U.S. combat troops followed, escalating the war that would ultimately kill over 58,000 Americans and an estimated 2-3 million Vietnamese.
+
+Conein was awarded the CIA's Intelligence Star "for his performance during the November 1963 coup in Saigon."
+
+## Why This Death Raises Questions
+
+- Kennedy approved the coup but was reportedly shocked by Diem's murder, suggesting the killing exceeded authorized parameters
+- The generals promised Diem safe passage into exile, then executed him — raising questions about whether assassination was always the plan
+- CIA officer Conein was on-site at coup headquarters throughout the operation and maintained direct communications with Washington
+- A request for an evacuation aircraft for Diem was denied because allegedly no plane could reach Saigon within 24 hours — a claim that strains credibility given U.S. military assets in the region
+- The coup destabilized South Vietnam and directly contributed to the escalation that led to full-scale American involvement in the Vietnam War
+- A 2018 CIA internal history reportedly revealed a deeper agency role than previously acknowledged
+- Diem's murder came just 20 days before Kennedy's own assassination on November 22, 1963
+
+## Key Quotes
+
+> "Kennedy leaped to his feet and rushed from the room with a look of shock and dismay on his face which I had never seen before." — **General Maxwell Taylor**, describing Kennedy's reaction to Diem's death
+
+> "I can not believe that Diem and Nhu committed suicide. No one could have imagined that Diem and Nhu could be treated so shabbily." — **Ambassador Henry Cabot Lodge**, upon learning of the killings
+
+> "We are launched on a course from which there is no respectable turning back: the overthrow of the Diem government." — **Ambassador Henry Cabot Lodge**, cable to Secretary of State Rusk, August 29, 1963
+
+> "The US must bear considerable responsibility for bringing about the coup." — **Church Committee Report**, 1975
+
+> "I would clap hands at seeing another monk barbecue show, for one can not be responsible for the madness of others." — **Madame Nhu**, in a letter to the New York Times, 1963
+
+> "If I can do anything for your physical safety, please call me." — **Ambassador Henry Cabot Lodge**, to Diem during the coup, after declining to state the U.S. position
+
+## See Also
+
+- [Patrice Lumumba](Patrice_Lumumba.md) — Congolese leader whose overthrow and assassination was orchestrated by the CIA and Belgian intelligence (1961); another of the five Church Committee cases
+- [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator assassinated with CIA-supplied weapons (1961); another Church Committee case
+- [Rene Schneider](Rene_Schneider.md) — Chilean general killed in CIA-backed kidnapping operation (1970); another Church Committee case
+- [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup (1973)
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Majid Shahriari](Majid_Shahriari.md): Motorcycle assassins attached a magnetic bomb to his car door in Tehran traffic. Fourth scientist targeted.
+- [Che Guevara](Che_Guevara.md): Captured with CIA help, then executed in a Bolivian schoolhouse. The CIA operative watched him die.
+
+## Sources
+
+- [Arrest and assassination of Ngo Dinh Diem — Wikipedia](https://en.wikipedia.org/wiki/Arrest_and_assassination_of_Ngo_Dinh_Diem)
+- [1963 South Vietnamese coup d'etat — Wikipedia](https://en.wikipedia.org/wiki/1963_South_Vietnamese_coup_d%27%C3%A9tat)
+- [Ngo Dinh Diem — Britannica](https://www.britannica.com/biography/Ngo-Dinh-Diem)
+- [New Light in a Dark Corner — National Security Archive](https://nsarchive.gwu.edu/briefing-book/vietnam/2020-11-01/new-light-dark-corner-evidence-diem-coup-november-1963)
+- [A House Divided: Washington, Langley, Saigon, and the Plot Against Diem — National Security Archive](https://nsarchive.gwu.edu/briefing-book/intelligence-vietnam/2025-05-22/house-divided-washington-langley-saigon-and-plot)
+- [Ngo Dinh Diem assassinated — HISTORY](https://www.history.com/this-day-in-history/november-2/ngo-dinh-diem-assassinated-in-south-vietnam)
+- [Report reveals deeper CIA role — intelNews.org](https://intelnews.org/2018/04/30/01-2314/)
+- [JFK's Memoir Dictation on the Assassination of Diem — Miller Center](https://millercenter.org/the-presidency/educational-resources/jfk-memoir-dictation-assassination-of-diem)
+- [Diem's Death 'Shocked' Kennedy — Washington Post](https://www.washingtonpost.com/archive/politics/1998/11/25/diems-death-shocked-kennedy/60f86e4a-8625-489b-b6ea-7e6a148eb152/)
+- [Vietnam, Diem, the Buddhist Crisis — JFK Library](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/vietnam-diem-the-buddhist-crisis)
+- [Lucien Conein — Wikipedia](https://en.wikipedia.org/wiki/Lucien_Conein)
+- [Buddhist Crisis — Wikipedia](https://en.wikipedia.org/wiki/Buddhist_crisis)
+
+*This information was built by Grok and Claude AI research.*

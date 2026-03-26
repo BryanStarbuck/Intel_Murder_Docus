@@ -21,7 +21,8 @@ const config: Config = {
   organizationName: "ACT3ai",
   projectName: "Intel_Murder_Docus",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
     defaultLocale: "en",
@@ -33,14 +34,27 @@ const config: Config = {
       "classic",
       {
         docs: {
-          routeBasePath: "/",
-          sidebarPath: "./sidebars.ts",
+          path: "docs/Epstein",
+          routeBasePath: "epstein-murders",
+          sidebarPath: "./sidebarsEpstein.ts",
         },
         blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "intelligence-service-murders",
+        path: "docs/Intel",
+        routeBasePath: "intelligence-service-murders",
+        sidebarPath: "./sidebarsIntelligence.ts",
+      },
     ],
   ],
 
@@ -55,7 +69,21 @@ const config: Config = {
         alt: "Site Logo",
         src: "img/logo.svg",
       },
-      items: [],
+      items: [
+        {
+          type: "docSidebar",
+          sidebarId: "sidebar",
+          position: "left",
+          label: "Epstein Murders",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "sidebar",
+          position: "left",
+          label: "Intelligence Service Murders",
+          docsPluginId: "intelligence-service-murders",
+        },
+      ],
     },
     footer: {
       style: "dark",

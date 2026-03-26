@@ -1,0 +1,102 @@
+
+
+# Qasem Soleimani
+Commander of Iran's IRGC Quds Force for over two decades, assassinated by a US drone strike near Baghdad International Airport on January 3, 2020, on the orders of President Trump — an act that brought the United States and Iran to the brink of open war.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Qasem Soleimani |
+| **Born** | 11 March 1957, Qanat-e Malek, Kerman Province, Iran |
+| **Died** | 3 January 2020 |
+| **Age at Death** | 62 |
+| **Location of Death** | Near Baghdad International Airport, Iraq |
+| **Cause of Death** | US drone strike (MQ-9 Reaper, Hellfire missiles) |
+| **Official Ruling** | Targeted killing ordered by President Donald Trump |
+| **Alleged Intelligence Connection** | CIA/JSOC (carried out the strike); IRGC Quds Force (Soleimani's organization) |
+| **Category** | Foreign Leader / Intelligence Officer |
+
+## Assessment: CONFIRMED
+
+The United States openly acknowledged ordering and carrying out the assassination. President Trump authorized the strike, which was executed by the Department of Defense. The killing of a senior military commander of a sovereign nation on the soil of a third country (Iraq) was one of the most consequential targeted killings in modern history, nearly triggering a direct war between the US and Iran and prompting Iraq's parliament to vote to expel US forces. A UN special rapporteur concluded the strike was unlawful under international law.
+
+## Circumstances of Death
+
+On 3 January 2020, shortly after 1:00 a.m. local time, Soleimani arrived at Baghdad International Airport on a Cham Wings Airlines flight from Damascus, Syria. He was met by Abu Mahdi al-Muhandis, the deputy commander of Iraq's Popular Mobilization Forces (PMF) and leader of the Iran-backed militia Kataib Hezbollah. As their two-vehicle convoy departed the airport access road, an American MQ-9 Reaper drone — reportedly launched from Al Udeid Air Base in Qatar and controlled remotely by operators at Creech Air Force Base in Nevada — fired multiple AGM-114 Hellfire missiles, destroying both vehicles. Soleimani, al-Muhandis, and at least five others were killed instantly. Soleimani was reportedly identified by a ring he wore, as the missile strikes left the bodies severely fragmented. He had been traveling to meet Iraqi Prime Minister Adil Abdul-Mahdi, who later stated Soleimani was carrying Iran's response to a Saudi diplomatic de-escalation message.
+
+The Pentagon confirmed the strike within hours, issuing a statement that Soleimani "was actively developing plans to attack American diplomats and service members in Iraq and throughout the region."
+
+## Background
+
+Qasem Soleimani was born into a poor family in a mountain village in eastern Iran. He began working at age 13 at a construction site to help his father repay a government loan. He joined the Islamic Revolutionary Guard Corps (IRGC) shortly after the 1979 Iranian Revolution and rose rapidly during the Iran-Iraq War (1980-1988), commanding battalions and gaining a reputation for battlefield courage.
+
+Between September 1997 and March 1998, Soleimani was appointed commander of the Quds Force — the extraterritorial operations arm of the IRGC — a position he held for over two decades until his death. Under his command, the Quds Force transformed from a modest covert operations unit into the primary instrument of Iranian geopolitical power across the Middle East. Soleimani was widely considered the second most powerful figure in Iran after Supreme Leader Ayatollah Ali Khamenei.
+
+His regional influence was vast. The Quds Force continued its longstanding patronage of Hezbollah in Lebanon, which Iran had helped establish in 1982. After the 2003 US invasion of Iraq, Soleimani built an extensive network of Shia militia proxies that became dominant political and military forces. When the Syrian civil war began in 2011, Soleimani personally coordinated with Syrian President Bashar al-Assad to suppress the uprising, deploying Quds Force advisors, Hezbollah fighters, and Iraqi and Afghan Shia militiamen. He also supported Houthi rebels in Yemen and maintained ties to Palestinian groups Hamas and Islamic Jihad. By the mid-2010s, Soleimani commanded what Iran termed its "Axis of Resistance" — a network stretching from Tehran through Baghdad, Damascus, and Beirut to Gaza.
+
+The US government alleged Soleimani was responsible for the deaths of over 600 American servicemembers through the provision of explosively formed penetrators (EFPs) to Iraqi militias during the Iraq War. He was designated a terrorist by the United States, the European Union, and several other nations.
+
+## Intelligence Connections
+
+* The CIA and Joint Special Operations Command (JSOC) planned and executed the strike using intelligence from airport informants and overhead surveillance drones
+* Soleimani himself was one of the world's most prominent intelligence operatives, commanding Iran's covert operations network across the Middle East
+* The Quds Force was designated as a terrorist organization by the United States
+* Iraq's intelligence services were reportedly not informed of the strike on their soil
+* The killing also eliminated Abu Mahdi al-Muhandis, a key Iranian proxy leader in Iraq and commander of Kataib Hezbollah, which Washington blamed for a surge in rocket attacks on US forces
+* Soleimani was reportedly identified at the airport through a combination of informant intelligence and overhead drone surveillance
+* According to reporting, previous US administrations under both George W. Bush and Barack Obama had considered killing Soleimani but declined, judging the consequences too severe
+
+## Why This Death Raises Questions
+
+- The strike was carried out on the sovereign territory of Iraq without Iraqi government knowledge or consent, prompting Iraq's parliament to vote to expel US forces
+- The legal justification — that Soleimani was planning "imminent attacks" on Americans — was disputed by intelligence officials and never substantiated with public evidence
+- A UN special rapporteur concluded in 2020 that the killing was "unlawful" under international law
+- Iran retaliated on 8 January 2020 with "Operation Martyr Soleimani," launching over a dozen ballistic missiles at the Ain al-Asad and Erbil US bases in Iraq, causing traumatic brain injuries to over 100 US troops — injuries the Pentagon initially downplayed
+- The strike occurred during a period when Iraq's Prime Minister was mediating de-escalation between Iran and Saudi Arabia, raising questions about whether diplomatic channels were deliberately bypassed
+- The killing established a precedent that the US could assassinate senior government officials of sovereign nations without a declaration of war
+- Iraq's Prime Minister Abdul-Mahdi stated Soleimani had been on a diplomatic mission and was coming to deliver Iran's response to a Saudi de-escalation message
+- The Pentagon initially claimed Soleimani was planning "imminent" attacks, but the specifics were never publicly substantiated
+- Multiple US intelligence officials later questioned whether the threat was truly "imminent"
+- The strike was widely described as an act of war that could have triggered a full-scale military confrontation between the US and Iran
+
+## Key Quotes
+
+> "Soleimani was plotting imminent and sinister attacks on American diplomats and military personnel, but we caught him in the act and terminated him." — President Donald Trump, statement following the strike
+
+> "The targeted killing of General Soleimani, in the absence of an imminent threat to life, was unlawful." — Agnes Callamard, UN Special Rapporteur on extrajudicial executions, July 2020
+
+> "He was coming to deliver me a message from Iran responding to the message we delivered from Saudi Arabia to Iran." — Iraqi Prime Minister Adil Abdul-Mahdi, according to reporting on the diplomatic context
+
+## The Iranian Retaliation
+
+Five days after the strike, on January 8, 2020, Iran launched "Operation Martyr Soleimani" — firing over a dozen ballistic missiles at two US military installations in Iraq: the Ain al-Asad Air Base in western Anbar province and a facility near Erbil. Iran gave Iraq advance warning, and Iraq notified US forces, allowing partial evacuation. No US troops were killed, but the Pentagon later acknowledged that over 100 servicemembers suffered traumatic brain injuries (TBI) from the blasts — injuries the administration initially dismissed as "headaches." The restrained nature of the response, combined with Iran's advance warning, was widely interpreted as a deliberate calibration to avoid triggering a full-scale war while demonstrating the capacity to strike US bases.
+
+The strike also triggered a broader regional escalation. Iraq's parliament passed a non-binding resolution demanding the withdrawal of all foreign troops. Iran announced it would no longer abide by limitations on uranium enrichment under the 2015 nuclear deal. And in the confusion following the missile strikes, Iran's IRGC accidentally shot down Ukraine International Airlines Flight 752 shortly after takeoff from Tehran, killing all 176 people aboard — a tragedy Iran initially denied before admitting responsibility days later.
+
+## See Also
+
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md) — US citizen killed by drone strike, establishing targeted killing precedent
+- [Ismail Haniyeh](Ismail_Haniyeh.md) — Hamas leader assassinated in Tehran in 2024
+- [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah military commander killed by CIA/Mossad joint operation in Damascus, 2008
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
+
+## Sources
+
+- [Wikipedia: Assassination of Qasem Soleimani](https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani)
+- [Wikipedia: Qasem Soleimani](https://en.wikipedia.org/wiki/Qasem_Soleimani)
+- [NBC News: U.S. airstrike kills top Iran general at Baghdad airport](https://www.nbcnews.com/news/world/airstrike-kills-top-iran-general-qassim-suleimani-baghdad-airport-iraqi-n1109821)
+- [Al Jazeera: Iran's Qassem Soleimani killed in US air raid at Baghdad airport](https://www.aljazeera.com/news/2020/1/3/irans-qassem-soleimani-killed-in-us-air-raid-at-baghdad-airport)
+- [NBC News: Airport informants, overhead drones - How the US killed Soleimani](https://www.nbcnews.com/news/mideast/airport-informants-overhead-drones-how-u-s-killed-soleimani-n1113726)
+- [CNN: US drone strike ordered by Trump kills top Iranian commander](https://www.cnn.com/2020/01/02/middleeast/baghdad-airport-rockets)
+- [Britannica: Qassem Soleimani](https://www.britannica.com/biography/Qassem-Soleimani)
+- [NPR: Qassem Soleimani's Enduring Legacy Across The Middle East](https://www.npr.org/2020/01/03/793229284/qassem-soleimanis-enduring-legacy-across-the-middle-east)
+- [Congressional Research Service: U.S. Killing of Qasem Soleimani - FAQ](https://www.congress.gov/crs_external_products/R/PDF/R46148/R46148.6.pdf)
+- [Wikipedia: Operation Martyr Soleimani](https://en.wikipedia.org/wiki/Operation_Martyr_Soleimani)
+
+*This information was built by Grok and Claude AI research.*

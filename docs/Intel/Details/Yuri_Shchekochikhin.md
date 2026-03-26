@@ -1,0 +1,90 @@
+
+
+# Yuri Shchekochikhin
+Russian investigative journalist who died of a mysterious illness consistent with thallium poisoning, days before flying to the US to meet FBI investigators.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Yuri Petrovich Shchekochikhin |
+| **Born** | June 9, 1950 |
+| **Died** | July 3, 2003 |
+| **Age at Death** | 53 |
+| **Location of Death** | Moscow, Russia |
+| **Cause of Death** | Officially: Lyell's syndrome (allergic reaction). Suspected: thallium poisoning |
+| **Official Ruling** | Natural causes; medical records sealed |
+| **Alleged Intelligence Connection** | FSB (implicated by his investigations) |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Shchekochikhin's symptoms — skin peeling off, hair falling out, organs failing sequentially — are consistent with thallium or radioactive poisoning, not with a natural allergic reaction. He died days before a scheduled trip to meet FBI investigators. His medical records were sealed, his family was denied access to tissue specimens, and no independent autopsy was permitted. The pattern mirrors other Russian intelligence poisonings, particularly the later cases of Litvinenko and Kara-Murza.
+
+## Circumstances of Death
+
+In mid-June 2003, Yuri Shchekochikhin suddenly fell ill with a mysterious condition. Over the following 12 days, his condition deteriorated in a horrifying progression: his skin literally peeled off his body, all of his hair fell out, and his organs failed one by one. He experienced extreme pain throughout.
+
+Russian doctors diagnosed the condition as Lyell's syndrome — a severe allergic skin reaction — but were unable to identify the allergen that supposedly caused it. This is extremely unusual, as Lyell's syndrome is almost always triggered by a specific medication, and Shchekochikhin had not taken any new drugs.
+
+Shchekochikhin died on July 3, 2003. His relatives were denied access to his official medical report and were forbidden from taking tissue specimens for independent medical analysis. The symptoms he exhibited are strikingly similar to those later seen in Alexander Litvinenko's 2006 polonium poisoning and closely match the known effects of thallium poisoning.
+
+He died just days before he was scheduled to fly to the United States to meet with FBI investigators regarding a Russian organized crime case.
+
+## Background
+
+Yuri Shchekochikhin was a veteran investigative journalist and deputy editor of *Novaya Gazeta*, Russia's most prominent independent newspaper. He also served as a member of the Russian Duma (parliament) and was a member of the Duma committee investigating corruption and organized crime.
+
+His major investigations included:
+- **The Tri Kita (Three Whales) scandal:** A multi-year probe exposing a massive smuggling operation evading import duties, protected by officials in the FSB and Prosecutor General's Office. In February 2002, he published evidence that prosecutors accepted approximately $2 million in bribes to terminate the investigation
+- **The 1999 apartment bombings:** Shchekochikhin investigated allegations that the FSB orchestrated the bombings that killed nearly 300 people
+- **FSB corruption:** He documented links between the security services and organized crime
+
+At the time of his death, he was investigating the Tri Kita case and was preparing to share information with the FBI about money laundering connected to Russian organized crime.
+
+## Intelligence Connections
+
+- His Tri Kita investigation directly implicated FSB officials and the Prosecutor General's Office in corruption
+- He was scheduled to meet FBI investigators regarding Russian organized crime — a meeting that never happened
+- His symptoms were consistent with deliberate poisoning by a state actor using exotic toxins
+- The sealing of his medical records and denial of independent testing suggest a cover-up
+- His death came at a time when multiple journalists and investigators working on FSB-related stories were being silenced
+- His *Novaya Gazeta* colleague Anna Politkovskaya would be murdered three years later
+
+## Why This Death Raises Questions
+
+- His symptoms exactly matched known poisoning agents (thallium, radioactive substances), not natural allergic reactions
+- The supposed allergen for "Lyell's syndrome" was never identified
+- His medical records were sealed and his family was denied tissue specimens for independent testing
+- He died days before flying to meet FBI investigators
+- His investigations directly threatened powerful FSB officials
+- The pattern of his death would be replicated in the confirmed poisonings of Litvinenko (2006) and Vladimir Kara-Murza (2015, 2017)
+- No criminal investigation was ever opened into his death
+
+## Key Quotes
+
+> "His skin peeled off, his hair fell out, his organs failed one by one — and nobody was allowed to find out why." — *Novaya Gazeta* colleague
+
+> "The cause of this allergic reaction was never determined." — Russian medical authorities
+
+## See Also
+
+- [Alexander Litvinenko](Alexander_Litvinenko.md) — Similar poisoning symptoms, confirmed polonium-210, 2006
+- [Anna Politkovskaya](Anna_Politkovskaya.md) — Fellow *Novaya Gazeta* journalist, murdered 2006
+- [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor, murdered 2004
+- [Sergei Yushenkov](Sergei_Yushenkov.md) — Politician investigating apartment bombings, murdered 2003
+
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md) — opposition figure also suspected of poisoning
+## Other Shocking Stories
+
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
+
+## Sources
+
+- [Yuri Shchekochikhin — Wikipedia](https://en.wikipedia.org/wiki/Yuri_Shchekochikhin)
+- [Yuri Shchekochikhin — Committee to Protect Journalists](https://cpj.org/data/people/yuri-shchekochikhin/)
+- [Name Your Poison: Exotic Toxins Fell Kremlin Foes — RFE/RL](https://www.rferl.org/a/exotic-toxins-fell-kremlin-foes/27025621.html)
+- [IFJ and EFJ Remember Journalist — International Federation of Journalists](https://www.ifj.org/media-centre/news/detail/article/russia-ifj-and-efj-remember-journalist-yuri-shchekochikhin)
+
+*This information was built by Grok and Claude AI research.*

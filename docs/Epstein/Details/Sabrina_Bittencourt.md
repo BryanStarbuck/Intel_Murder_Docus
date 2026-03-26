@@ -1,0 +1,143 @@
+
+
+# Sabrina Bittencourt
+Brazilian activist who exposed faith healer João de Deus ("John of God") as a serial rapist and alleged baby trafficker; found dead in Barcelona in February 2019 while living in hiding under protection after death threats.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Sabrina Botella de Campos (known as Sabrina Bittencourt) |
+| **Born** | December 24, 1980, São Paulo, Brazil |
+| **Died** | February 2, 2019 |
+| **Age at Death** | 38 |
+| **Location of Death** | Reportedly Barcelona, Spain (disputed — her son later stated Lebanon) |
+| **Cause of Death** | Reported suicide |
+| **Official Ruling** | Suicide (no death certificate or body has been publicly confirmed) |
+| **Category** | Journalist / Investigator |
+
+## Assessment: SUSPICIOUS
+
+Sabrina Bittencourt died under deeply murky circumstances just days after publicly accusing João de Deus ("John of God") of running a baby trafficking operation in a widely-viewed video. She had been living in hiding under protection after receiving death threats. No death certificate, body, or burial record has been publicly confirmed. Her eldest son wrote on Facebook: "They killed my mother." The conflicting reports about where she died (Spain vs. Lebanon), the absence of any official death record in either country, and the timing of her death — coming immediately after her most explosive accusations against a man connected to Bill Clinton, Oprah Winfrey, and Marina Abramovic — raise significant questions.
+
+## Circumstances of Death
+
+On or around February 2, 2019, reports emerged that Sabrina Bittencourt had died at approximately 9:00 PM in Barcelona, Spain, where she had been living under protection following death threats. The NGO Vítimas Unidas (Victims United) announced that she had committed suicide and left a farewell letter explaining her reasons.
+
+However, the circumstances surrounding her death were immediately contested:
+
+- Initial reports stated she died in Barcelona, Spain. Her son Gabriel Baum later stated she died in Lebanon.
+- Journalists attempting to verify the death could find no official record of a Brazilian woman dying in Barcelona in early February 2019.
+- The Brazilian Foreign Ministry reportedly confirmed that no documents or body transfer requests for anyone named Sabrina Bittencourt were ever submitted.
+- No death certificate has been publicly produced.
+- No body, funeral, or burial has been publicly confirmed.
+- Some sources reported that family members and close associates suspected Bittencourt may have faked her own death and gone into deeper hiding — though this remains unconfirmed.
+
+Her eldest son, Gabriel Baum, wrote on Facebook: **"She took the last step so that we could live. They killed my mother."**
+
+The Columbia Journalism Review published an analysis noting the coverage controversy surrounding her death, highlighting the difficulty in verifying basic facts about what happened.
+
+## Background
+
+### Personal History
+
+Sabrina Bittencourt was born Sabrina Botella de Campos on December 24, 1980, in São Paulo, Brazil, to a family of Uruguayan and Spanish immigrants. She was raised in the Mormon (Latter-day Saints) community. By her own account, she was a victim of sexual abuse beginning at age 4 by two members of her family within the church community. At age 16, she was reportedly raped by a stranger in Recife and suffered a miscarriage as a result.
+
+These experiences shaped her life's work. She became a mother of three children from two marriages, and dedicated over 20 years to social activism, working on causes related to gender violence, women's rights, missing children in Brazil, youth health, and children with disabilities in African countries. She reportedly co-created more than 30 decentralized social ventures across four continents.
+
+### Exposing João de Deus ("John of God")
+
+Bittencourt founded the organization COAME (Combate ao Abuso no Meio Espiritual — Combat Against Abuse in Spiritual Environments), a platform that concentrated reports of sexual violations committed by priests, pastors, gurus, and spiritual leaders. Within one month of starting this work, she received 103 reports from women across Brazil and other countries regarding 13 different spiritual leaders.
+
+In August 2018, while working on sexual abuse allegations against spiritual leader Sri Prem Baba, Bittencourt began receiving messages from women who had been abused by João Teixeira de Faria, known worldwide as "João de Deus" or "John of God." She built a complex network of alliances with victims and collaborated with the group Vítimas Unidas to bring these cases forward.
+
+Her work contributed to the arrest of João de Deus in December 2018, after more than 600 women came forward with allegations of sexual abuse against the famous faith healer. Her face appeared on the cover of a national Brazilian magazine as the woman who brought down "John of God."
+
+### The Baby Farm Allegations
+
+In January 2019, just weeks before her death, Bittencourt appeared in a six-minute video that went viral, accusing João de Deus of running a decades-long human trafficking operation. She alleged that:
+
+- Young, impoverished girls were held captive on remote farms as sex slaves
+- These girls were forced to birth multiple babies
+- The babies were sold on a worldwide black market to childless couples in the US, Australia, and European countries for up to $50,000 per child
+- Her organization had spoken to couples on three different continents who claimed they had purchased babies from John of God
+- The mothers were allegedly killed after they could no longer produce children
+
+Brazilian public prosecutors opened an investigation based on Bittencourt's accounts. These were the most explosive allegations she had made — and she died days later.
+
+### João de Deus: Celebrity Connections and Convictions
+
+João de Deus operated the Casa de Dom Inácio de Loyola in the small town of Abadiânia, Brazil, where he claimed to perform spiritual healing and psychic surgery. He attracted a global following, including visits from powerful and famous individuals:
+
+- **Oprah Winfrey** traveled to Brazil and featured João de Deus on her show *Oprah's Next Chapter* on March 17, 2013. After the allegations became public, Oprah deleted the interview from her site and released a statement hoping justice would be served.
+- **Bill Clinton** reportedly visited João de Deus, according to the healer's own website which stated he had "treated" the former U.S. President.
+- **Marina Abramovic**, the performance artist, visited João de Deus in 2012 seeking spiritual and physical healing. Her visit was documented in the 2016 documentary *Marina Abramovic in Brazil: The Space In Between*, directed by Marco Del Fiol.
+
+João de Deus was ultimately convicted of multiple counts of rape of vulnerable persons and sexual violation through fraud. As of 2023, his accumulated criminal sentences totaled approximately 489 years in prison, including a 99-year sentence handed down in July 2023. Over 600 women accused him of sexual exploitation.
+
+### Death Threats and Going into Hiding
+
+After her role in exposing João de Deus became public, Bittencourt received death threats. She left Brazil and went into hiding, reportedly living under protection in Barcelona, Spain. Despite these precautions, she continued her investigative work — including releasing the January 2019 video about the baby farm allegations.
+
+## Why This Death Possibly Raises Questions
+
+- **Timing:** She died just days after releasing her most explosive allegations — the baby farm trafficking video that implicated João de Deus in human trafficking of newborns sold internationally.
+- **No verified death record:** Journalists were unable to find any official record of a Brazilian woman's death in Barcelona in early February 2019. The Brazilian Foreign Ministry reportedly confirmed no documents or body transfer requests were submitted.
+- **Conflicting location reports:** Initial reports said she died in Barcelona; her son later stated she died in Lebanon. No explanation was given for the discrepancy.
+- **No body or funeral confirmed:** No burial, cremation, or body transfer has been publicly documented.
+- **Son's statement:** Gabriel Baum's Facebook post — "They killed my mother" — explicitly accused unnamed parties of responsibility for her death.
+- **She was in hiding under protection:** She had already fled Brazil due to death threats and was living under protection, suggesting a recognized threat to her life.
+- **Pattern:** Bittencourt fits a well-documented pattern of investigators and activists who expose elite pedophile networks dying under disputed circumstances. Similar cases include [Isaac Kappy](Isaac_Kappy.md) (fell from bridge, May 2019), [Tracy Twyman](Tracy_Twyman.md) (hanged in garage, July 2019), [Monica Petersen](Monica_Petersen.md) (died in Haiti, 2016), [Jenny Moore](Jenny_Moore.md) (found dead in DC hotel, 2018), [Ted Gunderson](Ted_Gunderson.md) (bladder cancer/alleged arsenic poisoning, 2011), and [Gary Caradori](Gary_Caradori.md) (plane disintegrated, 1990).
+- **Powerful interests:** João de Deus's connections to Bill Clinton, Oprah Winfrey, and Marina Abramovic meant that a full investigation into his operation — including the baby trafficking claims — could implicate or embarrass extremely powerful people.
+- **Media silence:** Multiple outlets noted a near-total American media blackout on Bittencourt's death, despite the international significance of the João de Deus case.
+
+## Connection to Broader Elite Pedophile Networks
+
+While there is no direct evidence linking Sabrina Bittencourt or João de Deus to [Jeffrey Epstein](Jeffrey_Epstein.md)'s specific operation, the structural parallels are striking:
+
+- **Celebrity protection:** Both Epstein and João de Deus maintained relationships with powerful political figures and celebrities (Bill Clinton visited both). This celebrity endorsement provided a shield against scrutiny.
+- **International trafficking:** Both operations allegedly involved international trafficking — Epstein across the Caribbean, New York, Florida, and New Mexico; João de Deus allegedly selling babies to couples on three continents.
+- **Institutional protection:** Both benefited from institutional protection. Epstein received a sweetheart plea deal in 2008; João de Deus operated openly for decades despite persistent rumors.
+- **Investigators dying:** Both cases involve investigators or activists who died under disputed circumstances after making public accusations.
+- **Intelligence connections:** While Epstein's ties to intelligence services (CIA, Mossad) are alleged, João de Deus's operation existed within a different sphere — but both exploited vulnerable populations at an industrial scale with apparent impunity.
+
+## Key Quotes from Media Coverage
+
+> "She took the last step so that we could live. They killed my mother."
+> — **Gabriel Baum**, Bittencourt's eldest son, on Facebook
+
+> "The precise circumstances around Bittencourt's suicide remained mysterious — had she taken her own life in Spain, according to initial reports, or in Lebanon, as her son later declared? Was there a death certificate?"
+> — **Columbia Journalism Review**, February 2019
+
+> "João Teixeira de Faria's total prison time amounts to 370 years, nine months, and 15 days."
+> — **Bishop Accountability**, July 2023, on John of God's cumulative sentences
+
+## See Also
+
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who named Hollywood pedophiles; fell from bridge in May 2019, three months after Bittencourt's death
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher who continued Kappy's work; found hanged in July 2019
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated elite trafficking networks for decades; died 2011
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
+- [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking; found dead in DC hotel in 2018
+- [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated in 1990
+- [Danny Casolaro](Danny_Casolaro.md) — PROMIS investigator found with wrists slashed in 1991
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of murder on camera in Mexico; disappeared 2009
+- [Max Spiers](Max_Spiers.md) — Researcher investigating elite pedophilia; died in Poland in 2016
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — DC Madam who said she'd never hang herself; found hanged in 2008
+## Other Shocking Stories
+
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md): Had Epstein's black book listing every victim and client. Tried to sell it. Died of cancer in custody.
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+
+## Sources
+
+- [Columbia Journalism Review: Brazilian activist's alleged suicide sparks coverage controversy](https://www.cjr.org/analysis/brazilian-activists-alleged-suicide-sparks-coverage-controversy.php)
+- [The Olive Press: Woman who exposed John of God religious cult leader for running 'baby farms' kills herself at hideaway in Spain](https://www.theolivepress.es/spain-news/2019/02/05/woman-who-exposed-john-of-god-religious-cult-leader-for-running-baby-farms-kills-herself-at-hideaway-in-spain/)
+- [NBC News: Women accuse Brazilian spiritual healer once featured on Oprah of sexual abuse](https://www.nbcnews.com/news/world/women-accuse-brazilian-spiritual-healer-once-featured-oprah-sexual-abuse-n946016)
+- [Bishop Accountability: 'John of God' — How the celebrity 'faith healer' once promoted by Oprah ended up with a 370-year prison sentence](https://www.bishop-accountability.org/2023/07/john-of-god-how-the-celebrity-faith-healer-once-promoted-by-oprah-ended-up-with-a-370-year-prison-sentence-after-600-accusations-of-sexual-exploitation/)
+- [RE.FRAMING ACTIVISM (University of Sussex): Cyberactivism and Gender-Based Violence in Brazil](https://reframe.sussex.ac.uk/activistmedia/2019/02/cyberactivism-and-gender-based-violence-in-brazil-the-case-of-networked-activism-led-by-sabrina-bittencourt-in-joao-de-deus-case/)
+- [Wikipedia: João Teixeira de Faria](https://en.wikipedia.org/wiki/Jo%C3%A3o_Teixeira_de_Faria)
+- [Find a Grave: Sabrina Bittencourt (1981–2019)](https://www.findagrave.com/memorial/206378655/sabrina-bittencourt)
+- [The Conversation: #MeToo catches up with spiritual healers — the case of Brazil's John of God](https://theconversation.com/metoo-catches-up-with-spiritual-healers-the-case-of-brazils-john-of-god-112215)
+
+*This information was built by Grok and Claude AI research.*

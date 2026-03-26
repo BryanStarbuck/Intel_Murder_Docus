@@ -18,6 +18,17 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Hide the left sidebar globally */
+.theme-doc-sidebar-container {
+  display: none !important;
+}
+.theme-doc-markdown {
+  max-width: 100%;
+}
+aside.theme-doc-sidebar-container {
+  display: none !important;
+}
+
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;

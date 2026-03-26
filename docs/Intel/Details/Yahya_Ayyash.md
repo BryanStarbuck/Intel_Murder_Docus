@@ -1,0 +1,78 @@
+
+
+# Yahya Ayyash
+Palestinian Hamas bomb maker, assassinated by Israel's Shin Bet via a booby-trapped cell phone in 1996 — one of the most technically inventive targeted killings in intelligence history.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Yahya Abd-al-Latif Ayyash |
+| **Born** | March 6, 1966, Rafat, West Bank |
+| **Died** | January 5, 1996 |
+| **Age at Death** | 29 |
+| **Location of Death** | Beit Lahia, Gaza Strip |
+| **Cause of Death** | Explosion from booby-trapped cell phone |
+| **Official Ruling** | Targeted killing (acknowledged by Israel) |
+| **Alleged Intelligence Connection** | Shin Bet (Israel Security Agency) |
+| **Category** | Intelligence Target / Militant Leader |
+
+## Assessment: CONFIRMED
+
+The assassination of Yahya Ayyash by the Shin Bet is confirmed. Former Shin Bet director Carmi Gillon publicly confirmed the operation in the 2012 documentary *The Gatekeepers*. The operation involved recruiting an informant to deliver a cell phone loaded with RDX explosive, which was detonated remotely when Ayyash answered a call.
+
+## Circumstances of Death
+
+On the morning of January 5, 1996, at approximately 8:00 a.m., Ayyash received a phone call from his father on a Motorola Alpha mobile phone. Shin Bet agents, who had intercepted the call and confirmed Ayyash's identity by his voice, remotely detonated approximately 15 grams of RDX explosive concealed inside the phone, killing him instantly. The phone had been provided to Kamil Hamad, an informant recruited by the Shin Bet, who was told the phone was bugged for surveillance purposes. Hamad was not informed it contained explosives. Hamad passed the phone to his nephew Osama, who regularly lent his phones to Ayyash.
+
+## Background
+
+Ayyash was an electrical engineer from the West Bank town of Rafat. He became Hamas's chief bomb maker in the early 1990s, earning the nickname "The Engineer." He designed and built the explosive devices used in multiple suicide bombings against Israeli targets. The attacks he orchestrated reportedly killed approximately 90 Israelis, many of them civilians. He was one of Israel's most wanted men throughout the mid-1990s and had evaded capture for years by constantly changing locations and using elaborate security measures.
+
+## Intelligence Connections
+
+* The Shin Bet (Israel Security Agency) planned and executed the operation over several months
+* The agency recruited Palestinian informant Kamil Hamad to deliver the weaponized phone
+* Former Shin Bet director Carmi Gillon confirmed the operation in the 2012 documentary *The Gatekeepers*
+* The technical sophistication of the operation — embedding explosives in a functioning cell phone — demonstrated advanced Shin Bet capabilities
+* Israel reportedly infiltrated Palestinian telecommunications infrastructure to support the operation
+
+## Why This Death Raises Questions
+
+- The assassination triggered massive retaliation: four Hamas suicide bombings in February and March 1996 killed 78 Israelis
+- The retaliatory bombings undermined the Israeli-Palestinian peace process and contributed to the election of Benjamin Netanyahu
+- Critics argued the assassination was strategically counterproductive, trading one bomb maker's death for dozens more Israeli casualties
+- The operation exploited an unwitting informant (Hamad) who did not know he was delivering a lethal device
+- Questions arose about whether the timing was designed to influence Israeli domestic politics
+- The retaliatory bombings were explicitly named in honor of Ayyash, with the cell calling itself "Disciples of the martyr Yahya Ayyash"
+- Hamas had been observing a ceasefire before the assassination, and the killing ended that restraint
+- The operation raised ethical questions about using unwitting civilians as delivery mechanisms for lethal weapons
+
+## Key Quotes
+
+> "We gave them a mobile phone and told them it was bugged so we could listen in on conversations. We did not tell them it also contained explosives." — Account of Shin Bet operation
+
+> "The assassination of Yahya Ayyash was untimely and unwise." — *Washington Report on Middle East Affairs*, February/March 1996
+
+## See Also
+
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander assassinated by Mossad in Dubai
+- [Gerald Bull](Gerald_Bull.md) — Weapons designer assassinated, allegedly by Mossad
+- [Wael Zwaiter](Wael_Zwaiter.md) — Palestinian intellectual killed by Mossad in Operation Wrath of God
+
+- Mossad (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Kim Jong-nam](Kim_Jong_nam.md): Two women smeared VX nerve agent on his face at a crowded airport. Dead in twenty minutes.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
+- [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
+
+## Sources
+
+- [Wikipedia — Yahya Ayyash](https://en.wikipedia.org/wiki/Yahya_Ayyash)
+- [Israel Education — Phone Bomb Kills Terrorist Yahya Ayyash](https://israeled.org/phone-bomb-kills-terrorist-yahya-ayyash/)
+- [Washington Report on Middle East Affairs — The Assassination of Yahya Ayyash: Untimely and Unwise](https://www.wrmea.org/1996-february-march/the-assassination-of-yahya-ayyash-untimely-and-unwise.html)
+- [Tehran Times — Israel Infiltrates Telecom Sector to Carry Out Assassinations](https://www.tehrantimes.com/news/495023/Israel-infiltrates-telecom-sector-to-carry-out-assassinations)
+- [SAGE Encyclopedia of Terrorism — Ayyash, Yahya (1966-1996)](https://sk.sagepub.com/ency/edvol/terrorism/chpt/ayyash-yahya-1966-1996)
+
+*This information was built by Grok and Claude AI research.*

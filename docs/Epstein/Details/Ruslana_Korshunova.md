@@ -1,0 +1,143 @@
+
+
+# Ruslana Korshunova
+Model documented on Epstein's jet at 18, fell from 9th floor; mother rejects suicide ruling.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ruslana Sergeyevna Korshunova |
+| **Born** | July 2, 1987, Uelkal, Chukotka, Russia (raised in Almaty, Kazakhstan) |
+| **Died** | June 28, 2008 |
+| **Age at Death** | 20 (four days before her 21st birthday) |
+| **Location of Death** | 130 Water Street, Financial District, Manhattan, New York City |
+| **Cause of Death** | Fell from 9th-floor apartment balcony |
+| **Official Ruling** | Apparent suicide |
+| **Category** | Model / Epstein Island Visitor |
+
+## Assessment: SUSPICIOUS
+
+Korshunova was documented on Epstein's private jet flying to his island two years before her death. Her mother rejected the suicide ruling. Her body landed 8.5 meters from the building — a distance some analysts find inconsistent with a simple fall. No suicide note was found. No drugs or alcohol in her system. A fellow model who attended the same psychological group sessions died under nearly identical circumstances one year later.
+
+## Circumstances of Death
+
+Ruslana Korshunova fell from the 9th-floor balcony of her apartment at 130 Water Street in Manhattan's Financial District at approximately 2:30 PM on June 28, 2008 — four days before her 21st birthday.
+
+Her body landed approximately 8.5 meters (about 28 feet) from the building's base, a distance some observers have noted is inconsistent with a simple fall or step off a balcony.
+
+### Police Findings
+
+- No suicide note was found
+- No signs of a struggle in the apartment
+- No alcohol or drugs found in her blood or urine
+- No traces of another person's skin or DNA found under her fingernails
+- Prescription pill bottles with Russian-language labels were found in the apartment
+- There was evidence she had hastily cut her own hair before the fall
+- Police attributed her death to depression related to financial problems and a failed romantic relationship
+
+**Her mother publicly disputed the suicide ruling and does not believe she took her own life.**
+
+## Background
+
+Korshunova was a rising star in the modeling world. She was discovered in 2003 and represented by IMG Models. She worked on campaigns for Marc Jacobs, DKNY, Vera Wang, Nina Ricci (face of the perfume), Christian Dior, Kenzo, Paul Smith, and Donna Karan. She was featured on covers of French Elle and Russian Vogue. British Vogue called her "a face to be excited about" in 2005.
+
+## Documented Epstein Connection
+
+On **June 7, 2006**, Korshunova (then 18 years old) flew on [Jeffrey Epstein](Jeffrey_Epstein.md)'s Boeing 727 private jet (the "Lolita Express") from New York to Epstein's private island, Little St. James, in the U.S. Virgin Islands. This is confirmed in Epstein flight logs unsealed in January 2024.
+
+**Confirmed passengers on that flight:**
+1. [Jeffrey Epstein](Jeffrey_Epstein.md)
+2. Ruslana Korshunova
+3. **Sarah Kellen** — Epstein's longtime personal assistant, later identified as a key enabler in his trafficking operation (received immunity in the 2007 non-prosecution agreement)
+4. Igor Zinoviev — Epstein's bodyguard
+5. Lance Calloway — Epstein's personal chef
+6. One unidentified woman
+7. One unidentified former UFC fighter
+
+This flight took place just weeks before Epstein's 2006 arrest in Florida.
+
+Some reports, citing foreign media, allege that Epstein commented Korshunova was "too old" for his purposes and asked whether she had "younger friends." This claim has not been independently verified in official court documents.
+
+In January 2026, a second wave of Epstein document releases included a July 2010 email in which Epstein himself mentioned Korshunova, referring to her death and blaming her boyfriend for failing to get her help. Her name also surfaced in correspondence between [Virginia Giuffre](Virginia_Giuffre.md) and her attorney.
+
+## The Rose of the World Cult Connection
+
+In the months before her death, Korshunova attended approximately three months of intensive training sessions with a Moscow-based organization called **Rose of the World**, which describes itself as "training for personality development" using methods modeled on the American group Lifespring (which faced multiple lawsuits for psychological harm in the 1980s).
+
+Witnesses reported that Korshunova underwent significant personality changes after attending: she became aggressive and began swearing for the first time. She lost weight.
+
+### Anastasia Drozdova — A Parallel Death
+
+Korshunova's friend and fellow model **[Anastasia Drozdova](Anastasia_Drozdova.md)** (Ukrainian) attended the same Rose of the World sessions. Drozdova also experienced violent mood swings and personality changes. **Approximately one year after Korshunova's death, in 2009, Drozdova died by suicide — jumping from an apartment building in Kyiv under similarly disputed circumstances.**
+
+Two young models, both connected to the same psychological group, both dying by jumping from buildings within a year of each other, is a pattern that has drawn investigative attention.
+
+## Why This Death Possibly Raises Questions
+
+- Korshunova was documented on Epstein's private jet flying to his private island two years before her death, at age 18.
+- She traveled with Sarah Kellen, a key Epstein trafficking enabler.
+- Her mother emphatically rejected the suicide ruling.
+- Her body landed 8.5 meters from the building, a distance that may be inconsistent with a simple fall.
+- No suicide note, no drugs or alcohol in her system.
+- A fellow model who attended the same psychological sessions died in nearly identical fashion one year later.
+- Epstein himself referenced her death in a 2010 email found in released documents.
+- However, police found no signs of struggle and no evidence of another person in the apartment.
+
+## Key Quotes from Media Coverage
+
+> "After the tragic events associated with the death of Ruslana Korshunova, I do not want to be involved in similar situations."
+>
+> — Modeling agent Ramsay Elkholei, in a January 2011 letter referencing the Epstein connection ([Tengrinews](https://en.tengrinews.kz/people/epstein-files-spark-renewed-debate-over-death-of-kazakh-270892/))
+
+> Her mother, Valentina, has adamantly rejected the suicide verdict, arguing that evidence such as the location of the body and the condition of her hair suggest foul play. She told investigators: "If she had problems at work, she would have told me."
+>
+> — Multiple sources on Valentina Korshunova's statements ([Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
+> British *Vogue* called Korshunova "a face to be excited about" in 2005. Three years later she was dead at twenty, four days before her twenty-first birthday, her body found 8.5 meters from the base of her apartment building.
+>
+> — Grunge ([Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
+> People who saw her in her last days described her as "positive, enthusiastic, and busy" — contradicting the narrative that she was suicidal. During Rose of the World sessions, however, she reportedly "unloaded a lot of heartbreak and loneliness."
+>
+> — Friends and life coaches, as reported by Grunge ([Grunge](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
+## Related Groups
+
+- Elite Model Management — Modeling industry trafficking pipeline
+- Jeffrey Epstein Network — Documented on Epstein's jet
+
+## See Also
+
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Friend who died identically one year later
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Epstein's modeling agent who funded MC2
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Documented on his jet and island
+- [Virginia Giuffre](Virginia_Giuffre.md) — Named Korshunova in correspondence with attorney
+- [Steve Bing](Steve_Bing.md) — Also died from a building fall
+- [Wendy Leigh](Wendy_Leigh.md) — Also found beneath a balcony
+
+## Related Locations
+
+- New York City Metro — Fell from 9th-floor apartment at 130 Water Street in Manhattan's Financial District
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
+- [Richard C. Curtiss](Richard_C_Curtiss.md): Epstein's fellow inmate says he was murdered. Described disabled cameras and a goon squad. Received death threats.
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+
+## Sources
+
+- [Yahoo News: Epstein Files Reveal Russian Model Who Died by Suicide Flew on His Private Jet](https://www.yahoo.com/news/articles/epstein-files-reveal-russian-model-223600030.html)
+- [Blaze Media: Top Model Jumped to Her Death 2 Years After Flying on Lolita Express](https://www.theblaze.com/news/model-suicide-epstein-island-lolita-express)
+- [CBS News: Model Dies In Fall From NYC Apartment](https://www.cbsnews.com/news/model-dies-in-fall-from-nyc-apartment-29-06-2008/)
+- [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
+- [Morbidology: The Strange Death of Ruslana Korshunova and the Rose of the World Cult](https://morbidology.com/the-strange-death-of-ruslana-korshunova-the-rose-of-the-world-cult/)
+- [KATU News: Model Killed Herself 2 Years After Visiting Epstein's Island](https://katu.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york)
+- [Tengrinews: Epstein Files Spark Renewed Debate Over Death of Kazakh Model Ruslana Korshunova](https://en.tengrinews.kz/people/epstein-files-spark-renewed-debate-over-death-of-kazakh-270892/)
+- [Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/)
+- [NewsX: Who Was Ruslana Korshunova? Top Russian Model Rejected by Epstein Due to Her Age](https://www.newsx.com/world/who-was-ruslana-korshunova-top-russian-model-who-died-by-suicide-after-visiting-jeffrey-epsteins-private-island-was-rejected-due-to-her-age-reveals-new-shocking-details-158079/)
+- [Global Village Space: Russian Model Who Visited 'Epstein Island' Committed Suicide](https://www.globalvillagespace.com/russian-model-who-visited-epstein-island-committed-suicide/)
+- [Pravda: Russian Model Who Killed Self in New York Appears in Epstein Files](https://english.pravda.ru/news/society/165853-ruslana-korshunova-epstein-files-mystery/)
+- [AutechTimes: Epstein Discusses the Cause of Death of 'Russian Rapunzel' in Manhattan](https://www.autechtimes.com/world/epstein-discusses-the-cause-of-death-of-russian-rapunzel-in-manhattan/)
+- [Wikipedia: Ruslana Korshunova](https://en.wikipedia.org/wiki/Ruslana_Korshunova)
+
+*This information was built by Grok and Claude AI research.*

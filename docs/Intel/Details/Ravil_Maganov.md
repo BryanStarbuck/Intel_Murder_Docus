@@ -1,0 +1,81 @@
+
+
+# Ravil Maganov
+Chairman of Lukoil, Russia's largest private oil company, who fell from a sixth-floor hospital window in Moscow in September 2022 — months after Lukoil publicly called for an end to the Ukraine invasion.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ravil Ulfatovich Maganov |
+| **Born** | September 25, 1954, Almetyevsk, Tatar ASSR |
+| **Died** | September 1, 2022 |
+| **Age at Death** | 67 |
+| **Location of Death** | Central Clinical Hospital, Moscow, Russia |
+| **Cause of Death** | Fall from sixth-floor window |
+| **Official Ruling** | TASS reported suicide; Lukoil said "severe illness" with no mention of fall |
+| **Alleged Intelligence Connection** | FSB / Russian state suspected — part of 2022 oligarch death wave |
+| **Category** | Banker / Financier |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Maganov's death came six months after Lukoil became one of the only major Russian corporations to publicly call for an end to the invasion of Ukraine. He fell from the sixth floor of the "Kremlin Clinic" — a hospital that treats Russia's political and business elite — at approximately 7 a.m. His death was part of a wave of at least eight suspicious Russian executive deaths in 2022, most involving figures connected to the energy sector who had expressed dissent or possessed sensitive financial knowledge.
+
+## Circumstances of Death
+
+On September 1, 2022, Maganov fell from a sixth-floor window of the Central Clinical Hospital in Moscow, known informally as the "Kremlin Clinic" for its treatment of Russia's most powerful officials and businessmen. He was reportedly being treated for a cardiovascular condition.
+
+The circumstances were immediately disputed. Russian state news agency TASS reported the death as a suicide and claimed Maganov had been taking antidepressants. Lukoil's official statement said only that Maganov "passed away following a severe illness," making no mention of a fall or suicide. Multiple international outlets — CNN, NBC, CNBC, Washington Post, Al Jazeera — reported the fall from the hospital window.
+
+No CCTV footage was released. No suicide note was reported. The investigation appeared to be conducted entirely by Russian authorities with no independent oversight.
+
+## Background
+
+Maganov was a founding leader of Lukoil who had spent his entire career in the Russian oil industry. He graduated from the Moscow Institute of Petrochemical and Gas Industry in 1977 and rose through technical and managerial roles. From 2006, he served as first executive vice president overseeing exploration and production. He became chairman of the board of directors in July 2020.
+
+In March 2022, Lukoil's board — under Maganov's chairmanship — issued a rare public statement calling for an end to the "armed conflict" in Ukraine and expressing "sincere empathy for all victims." This was one of the most prominent acts of corporate dissent against the invasion by any major Russian company.
+
+## Intelligence Connections
+
+* Lukoil under Maganov's chairmanship publicly opposed the Ukraine invasion — a direct challenge to Putin's war policy
+* The Central Clinical Hospital where he died is a Kremlin-connected facility with state security presence
+* His death occurred during a documented wave of suspicious deaths of Russian energy executives in 2022
+* Russian authorities controlled the investigation and narrative, with contradictory official accounts (TASS said suicide; Lukoil said illness)
+* No independent investigation was permitted
+
+## Why This Death Raises Questions
+
+- Lukoil had publicly called for an end to the Ukraine invasion just six months before Maganov's death
+- He fell from a hospital window — a location with security, staff, and presumably surveillance cameras, yet no footage was released
+- TASS and Lukoil gave contradictory accounts of his death
+- He was at least the eighth Russian energy executive to die under suspicious circumstances in 2022
+- The "Kremlin Clinic" is a tightly controlled facility — an unauthorized visitor or intruder would have been extremely difficult
+- The pattern of Russian businessmen dying after expressing dissent is well-documented
+- "Defenestration" — death by falling from windows or balconies — is a recurring pattern in suspicious Russian deaths
+
+## Key Quotes
+
+> Lukoil's March 2022 statement: The company called for the "soonest termination of the armed conflict" and expressed "sincere empathy for all victims, who are affected by this tragedy."
+
+> The Washington Post reported that Maganov's death "added to the mounting toll of Russian oil executives who have died in mysterious circumstances since February."
+
+## See Also
+
+- [Leonid Shulman](Leonid_Shulman.md) — Gazprom transport chief, found dead January 2022
+- [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
+- [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead April 2022
+- Alexander Subbotin — Former Lukoil board member, found dead May 2022
+## Other Shocking Stories
+
+- [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+
+## Sources
+
+- [CNN — Lukoil Chairman Dies](https://www.cnn.com/2022/09/01/business/lukoil-chairman-dies/index.html)
+- [Washington Post — Russia Lukoil Executive Falls from Hospital Window](https://www.washingtonpost.com/world/2022/09/01/russia-lukoil-fall-hospital-window/)
+- [CNBC — Top Russian Oil Official Dies After Fall from Hospital Window](https://www.cnbc.com/2022/09/01/top-russian-oil-official-dies-after-fall-from-hospital-window-sources-say.html)
+- [Wikipedia — Ravil Maganov](https://en.wikipedia.org/wiki/Ravil_Maganov)
+- [NBC News — Russian Lukoil Exec Dies Falling from Hospital Window](https://www.nbcnews.com/news/world/russian-lukoil-exec-dies-falling-hospital-window-reports-say-rcna45823)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,116 @@
+
+
+# Linda Collins-Smith
+
+Former Arkansas state senator found stabbed to death at her home; her killer was convicted, but Collins-Smith's reported investigations into child trafficking and DHS corruption have fueled questions about whether the motive was purely financial.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Linda F. Collins (née Collins, formerly Collins-Smith) |
+| **Born** | April 17, 1962, Pocahontas, Randolph County, Arkansas |
+| **Died** | ~May 28, 2019 (body found June 4, 2019) |
+| **Age at Death** | 57 |
+| **Location of Death** | Pocahontas, Randolph County, Arkansas |
+| **Cause of Death** | Multiple stab wounds (at least six) |
+| **Official Ruling** | Homicide — Rebecca Lynn O'Donnell convicted |
+| **Category** | Political Figure |
+
+## Assessment: MODERATE SUSPICION
+
+Rebecca Lynn O'Donnell, Collins-Smith's former campaign aide and close friend, pleaded guilty to first-degree murder in August 2020 and was sentenced to 50 years in prison. The prosecution established a financial motive: O'Donnell had been forging Collins-Smith's signature to steal upwards of $50,000 and allegedly killed her when confronted. The criminal case is resolved. However, Collins-Smith had reportedly been investigating DHS/CPS corruption and possible child trafficking connections in Arkansas, had sponsored anti-trafficking legislation, and died the same week as former Oklahoma state senator Jonathan Nichols — another Republican legislator who had championed child safety laws. These broader contextual questions remain unresolved, even though the proximate killer has been identified and convicted.
+
+## Circumstances of Death
+
+On June 4, 2019, Collins-Smith's father and son went to check on her at her home in Pocahontas, Arkansas, after being unable to reach her for several days. Inside, they found a large dark stain on the kitchen floor that appeared to be blood. Outside in the driveway, they discovered her body concealed beneath a tarp among construction materials. She had been stabbed at least six times.
+
+Investigators determined that Collins-Smith was killed on or around May 28, 2019 — approximately one week before her body was discovered.
+
+On June 14, 2019, Arkansas State Police arrested Rebecca Lynn O'Donnell, 48, of Pocahontas. O'Donnell had been Collins-Smith's campaign worker, personal assistant, and close friend. She was charged with capital murder, tampering with physical evidence, and abuse of a corpse.
+
+Security camera footage from Collins-Smith's home captured O'Donnell holding a bloody knife and tampering with the cameras. Additional evidence showed O'Donnell had been forging Collins-Smith's signature on checks, stealing upward of $50,000 from Collins-Smith and her father's bank accounts. O'Donnell had also been selling gold and silver coins from Collins-Smith's home after the murder.
+
+On August 6, 2020, O'Donnell pleaded guilty to first-degree murder and abuse of a corpse. She was sentenced to 50 years in prison (28 years for murder, 15 years for abuse of a corpse, and 7 years for solicitation charges). The solicitation charges stemmed from a separate case in which O'Donnell, while in jail, attempted to hire fellow inmates to murder Collins-Smith's ex-husband Phil Smith and his wife, and to kill prosecutors.
+
+## Background
+
+Linda Collins was born on April 17, 1962, in Pocahontas, Arkansas, to Benny Collins and Caroline Vernice Hunnicutt Collins. She grew up in poverty in Williford, Sharp County, in a home that reportedly lacked running water until her teen years.
+
+Collins became a businesswoman and entrepreneur, working as a real estate agent and regional sales manager. Beginning around 2001, she and her husband owned and operated the Days Inn in Pocahontas, which they sold in 2016.
+
+Collins entered politics by winning a seat in the Arkansas House of Representatives in 2010 as a Democrat, representing District 80 from 2011 to 2013. In August 2011, she switched her party affiliation to Republican, stating at a press conference: "I have not left the Democratic Party, but the party left me." She then won election to the Arkansas State Senate, representing District 19 from 2015 through 2018. She served as vice chair of the Senate Judiciary Committee. She lost her 2018 re-election bid narrowly, 4,726 to 5,299.
+
+### Anti-Trafficking Work
+
+Collins-Smith was the primary sponsor of HB1923, which became Act 922 in April 2017. The legislation required persons applying for a Class A Commercial Driver's License (CDL) to complete a Human Trafficking Prevention Course before issuance or renewal. The National Foundation for Women Legislators recognized her leadership on this issue.
+
+### Alleged DHS/CPS Investigation
+
+According to CD Media and other outlets, Collins-Smith reportedly believed she was closing in on a child trafficking ring operating within Arkansas state government. A source close to Collins-Smith allegedly told CD Media that she was about to go public with information on sitting Arkansas judges who were allegedly involved in removing children from poor families via the Department of Human Services (child protective services) and placing them with wealthy individuals.
+
+Collins-Smith had also reportedly been tracking financial discrepancies at Arkansas DHS — an amount initially reported as $27 million that allegedly grew to over $53 million, with claims of a second set of books. It is important to note that these claims come primarily from alternative media sources and social media posts rather than mainstream investigative journalism, and the judge in the murder case ordered much of the evidence sealed.
+
+## Why This Death Possibly Raises Questions
+
+- **Convicted killer does not eliminate all questions:** While O'Donnell was convicted on a financial motive, some have questioned whether a personal assistant stealing $50,000 would resort to a brutal stabbing murder rather than simply fleeing — especially given the premeditation required (concealing the body, tampering with cameras)
+- **O'Donnell's subsequent behavior:** After arrest, O'Donnell attempted to hire fellow inmates to kill Collins-Smith's ex-husband, his wife, and prosecutors — an unusual escalation that some observers found difficult to explain from simple financial theft alone
+- **Timing with Jonathan Nichols:** Former Oklahoma state senator Jonathan Nichols was found dead of an apparent gunshot wound on June 5, 2019 — the day after Collins-Smith's body was discovered. Nichols had authored legislation increasing penalties for child abusers and expanding Oklahoma's DNA database for solving violent cold cases. Two former Republican state senators connected to child safety legislation dying in the same week drew attention
+- **Anti-trafficking work:** Collins-Smith had actively sponsored anti-trafficking legislation (Act 922) and was reportedly investigating DHS/CPS corruption in Arkansas
+- **Sealed evidence:** The judge in the case ordered significant portions of the evidence sealed, limiting public scrutiny of the full investigative record
+- **Pattern of politicians investigating trafficking dying:** Collins-Smith's death fits a broader pattern alongside [Nancy Schaefer](Nancy_Schaefer.md) (Georgia state senator investigating CPS, killed 2010), [Philip Haney](Philip_Haney.md) (DHS whistleblower on trafficking, shot dead 2020), and Nichols
+- **Arkansas context:** Arkansas has been the site of multiple suspicious deaths with political dimensions, including [Vince Foster](Vince_Foster.md) and the "Boys on the Tracks" case (1987 deaths of Kevin Ives and Don Henry)
+
+## Counterarguments
+
+- **A killer was caught, tried, and convicted.** Rebecca O'Donnell pleaded guilty, and substantial physical evidence (security camera footage, forged checks, stolen property) supports the prosecution's case
+- **The financial motive is well-documented.** O'Donnell had stolen over $50,000 and faced exposure
+- **Snopes investigated claims** that Collins-Smith was about to testify against the Clintons and found no evidence supporting that specific claim. Collins-Smith held no political office at the time of her death and had no substantive connections to the Clintons
+- **No official law enforcement statement** has connected the murder to Collins-Smith's political activities or investigations
+- **Jonathan Nichols' death** was ruled a suicide; no official connection to Collins-Smith's murder was established
+
+## Key Quotes from Media Coverage
+
+> "Rebecca O'Donnell stated that she had forged the signature of Linda Collins Smith numerous times while filling out checks from the bank account of Linda Collins Smith."
+>
+> — Court documents, reported by [KAIT8](https://www.kait8.com/2020/08/21/new-documents-released-odonnell-murder-case/)
+
+> "She constantly stole money from her and snapped when she was confronted about it."
+>
+> — Butch Collins (Linda's son), regarding O'Donnell's motive, reported by [ABC News](https://abcnews.go.com/US/victims-best-friend-convicted-gruesome-murder-security-camera/story?id=90999338)
+
+> "A verified source close to Collins-Smith told CD Media that she was about to go public with incriminating information on sitting judges in Arkansas, who were involved in taking children from poor women via the Department of Human Services."
+>
+> — [CD Media](https://cdm.press/investigations/2019/06/07/breaking-murdered-arkansas-former-gop-state-senator-believed-she-was-closing-in-on-child-trafficking-ring-in-arkansas-state-government/) (unverified claim from alternative media)
+
+## See Also
+
+- [Jonathan Nichols](Jonathan_Nichols.md) — Former Oklahoma state senator who championed child safety laws; found dead from gunshot wound the same week as Collins-Smith
+- [Nancy Schaefer](Nancy_Schaefer.md) — Former Georgia state senator who investigated CPS corruption; killed in 2010 in what was ruled a murder-suicide
+- [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks; found shot dead in 2020, ruled suicide
+- [Vince Foster](Vince_Foster.md) — Another politically connected Arkansas death ruled suicide under disputed circumstances
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Epstein had extensive Arkansas connections through Bill Clinton; Collins-Smith's death came weeks before Epstein's July 2019 arrest
+## Other Shocking Stories
+
+- [Ines Zorreguieta](Ines_Zorreguieta.md): Queen Maxima's sister. Hanged in Buenos Aires the same week as Spade and Bourdain. Three hangings, one week.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Paul Walker](Paul_Walker.md): Allegedly discovered child trafficking during Haiti relief work. Died in a fiery car crash at 40.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
+
+## Sources
+
+- [Encyclopedia of Arkansas: Linda F. Collins (1962-2019)](https://encyclopediaofarkansas.net/entries/linda-f-collins-14745/)
+- [Wikipedia: Linda Collins](https://en.wikipedia.org/wiki/Linda_Collins)
+- [ABC News: Victim's Best Friend Convicted in Gruesome Murder](https://abcnews.go.com/US/victims-best-friend-convicted-gruesome-murder-security-camera/story?id=90999338)
+- [ABC News: In Bombshell Plea, Close Friend Admits to Murdering Former Arkansas State Senator](https://abcnews.go.com/US/bombshell-plea-close-friend-admits-murdering-arkansas-state/story?id=72214576)
+- [ABC News: Exclusive Interviews Reveal Murder Suspect Was Plotting Murder-for-Hire Hits from Her Cell](https://abcnews.go.com/US/exclusive-interviews-reveal-murder-suspect-plotting-murder-hire/story?id=90999858)
+- [CNN: Woman Is Arrested in the Killing of Former State Senator (June 2019)](https://www.cnn.com/2019/06/15/us/state-senator-collins-smith-homicide-arrest/index.html)
+- [CBS News: Arkansas State Sen. Linda Collins-Smith's Former Aide Pleads Guilty in Lawmaker's Murder](https://www.cbsnews.com/news/arkansas-state-sen-linda-collins-smith-murder-rebecca-lynn-odonnell-guilty-plea/)
+- [Arkansas Department of Public Safety: Arrest in Linda Collins-Smith Homicide](https://dps.arkansas.gov/news/arrest-in-linda-collins-smith-homicide/)
+- [KAIT8: New Documents Released in O'Donnell Murder Case Show Motive](https://www.kait8.com/2020/08/21/new-documents-released-odonnell-murder-case/)
+- [Arkansas Times: New Details in Linda Collins Murder Case](https://arktimes.com/arkansas-blog/2020/08/13/new-details-in-linda-collins-murder-case-video-showed-killer-with-bloody-knife-at-spot-where-she-was-killed-investigators-also-found-shed-been-selling-gold-and-silver-from-collins-house)
+- [UALR Public Radio: Suspect Pleads Guilty to Murder of Former Arkansas State Senator](https://www.ualrpublicradio.org/local-regional-news/2020-08-06/suspect-pleads-guilty-to-murder-of-former-arkansas-state-senator-linda-collins)
+- [Snopes: Was Linda Collins-Smith About to Testify Against Hillary Clinton?](https://www.snopes.com/fact-check/linda-collins-smith-clintons/)
+- [Secure Arkansas: Is There a Connection Between Child Trafficking and Child Protective Services?](https://securetherepublic.com/arkansas/2019/06/13/is-there-a-connection-between-child-trafficking-and-child-protective-services-part-1/)
+
+---
+
+*This information was built by Grok and Claude AI research.*

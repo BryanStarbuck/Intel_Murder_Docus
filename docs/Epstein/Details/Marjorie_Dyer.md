@@ -1,0 +1,80 @@
+
+
+# Marjorie Dyer
+Witness who co-signed [Frank Yassenoff](Frank_Yassenoff.md)'s will with [Berry Kessler](Berry_Kessler.md), died in questionable car accident.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Marjorie Dyer |
+| **Died** | ~1970s (exact date unknown) |
+| **Location of Death** | Columbus, Ohio area, USA |
+| **Cause of Death** | Car accident (described as "questionable") |
+| **Official Ruling** | Accidental |
+| **Category** | Witness / Kessler-Wexner Network |
+
+## Assessment: SUSPICIOUS
+
+Dyer was one of only two witnesses who signed [Frank Yassenoff](Frank_Yassenoff.md)'s will — the other being [Berry Kessler](Berry_Kessler.md). After Yassenoff's unsolved murder in 1970, Dyer's death in a "questionable automobile accident" removed the only other witness to estate arrangements that Kessler had a financial interest in. Given Kessler's documented history of arranging murders of business associates, the circumstances warrant scrutiny.
+
+## Circumstances of Death
+
+Marjorie Dyer died in what was described as a "questionable automobile accident" in the Columbus, Ohio area, likely in the 1970s. The exact date is not documented in available sources. Her death came after the unsolved murder of Frank Yassenoff in 1970.
+
+## Connection to the Epstein Network
+
+Dyer's connection runs through [Berry Kessler](Berry_Kessler.md) and the Columbus, Ohio financial network tied to Les Wexner:
+
+- She co-signed Yassenoff's will with Kessler
+- Kessler was suspected in Yassenoff's murder but never charged
+- Kessler was the prime suspect in the 1985 murder of [Arthur Shapiro](Arthur_Shapiro.md) — whose death enabled Epstein's rise
+- Kessler was convicted of the 1991 murder-for-hire of [John Deroo](John_Deroo.md)
+
+Dyer's death removed a witness to the will of a man Kessler was suspected of murdering.
+
+## The Kessler Pattern
+
+- **1970:** [Frank Yassenoff](Frank_Yassenoff.md) and [Ella Rich](Ella_Rich.md) shot to death — Kessler suspected
+- **~1970s:** Marjorie Dyer dies in car accident — co-signed Yassenoff's will with Kessler
+- **1985:** [Arthur Shapiro](Arthur_Shapiro.md) gunned down — Kessler prime suspect; Epstein took Shapiro's position
+- **1991:** [John Deroo](John_Deroo.md) shot six times — Kessler convicted
+
+## Key Quotes from Media Coverage
+
+> "Kessler and a woman named Marjorie Dyer were the only witnesses who had signed Yassenoff's will, and Kessler had come under suspicion when she died in a questionable automobile accident."
+>
+> — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
+
+> "Did Berry Kessler, an accountant, really wield enough influence in Ohio to avoid being heavily scrutinized for not just one but three murders?"
+>
+> — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
+
+> "You have attempted to portray yourself as a kindly.. senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
+>
+> — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
+
+## Related Groups
+
+- Wexner / L Brands — Columbus death pattern
+
+## See Also
+
+- [Frank Yassenoff](Frank_Yassenoff.md) — Murdered; Dyer co-signed his will
+- [Ella Rich](Ella_Rich.md) — Killed alongside Yassenoff
+- [Berry L. Kessler](Berry_Kessler.md) — Other witness to Yassenoff's will; suspected in multiple murders
+- [Arthur Shapiro](Arthur_Shapiro.md) — Another Kessler-connected murder victim
+## Other Shocking Stories
+
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md): Working on a human trafficking awareness film. Dead at 28 from self-inflicted wounds. No prior attempt.
+- [Bill Richardson](Bill_Richardson.md): Named in unsealed Epstein documents. Met Epstein 9+ times after his conviction. Died in his sleep.
+- [Joseph Calabrese](Joseph_Calabrese.md): NYPD detective. Allegedly saw the Weiner laptop. Dead by suicide one day after his colleague Silks.
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+
+## Sources
+
+- [Unlimited Hangout — Whitney Webb: A Kingpin, the Mob, and a Murder: The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [The Daily Beast: Who Murdered the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
+- [Tampa Bay Times: 75-year-old is sentenced to death for murder plot](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/)
+- [FindLaw: Kessler v. State (1999) — Florida Supreme Court](https://caselaw.findlaw.com/court/fl-supreme-court/1402527.html)
+- [Websleuths: Arthur Shapiro, 43, Columbus, 6 March 1985](https://www.websleuths.com/forums/threads/oh-arthur-shapiro-43-columbus-6-march-1985.97277/)
+
+*This information was built by Grok and Claude AI research.*

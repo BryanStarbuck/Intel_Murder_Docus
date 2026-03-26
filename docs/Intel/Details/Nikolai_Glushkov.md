@@ -1,0 +1,87 @@
+
+
+# Nikolai Glushkov
+Russian exile and Kremlin critic found strangled in his London home, one week after the Skripal poisoning.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Nikolai Konstantinovich Glushkov |
+| **Born** | 1949 |
+| **Died** | March 12, 2018 |
+| **Age at Death** | 68 |
+| **Location of Death** | New Malden, London, UK |
+| **Cause of Death** | Compression to the neck (strangulation) |
+| **Official Ruling** | Unlawful killing (murder) |
+| **Alleged Intelligence Connection** | Russian state / FSB |
+| **Category** | Banker / Financier / Dissident |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+UK coroner ruled Glushkov was "unlawfully killed" after determining his death was staged to look like a suicide. The pathologist found injuries "consistent with a neck-hold, applied from behind, and the assailant being behind the victim." His death came exactly one week after the Skripal Novichok attack in Salisbury, and the investigation was placed under the Counter Terrorism Command. His close friend Boris Berezovsky had died under disputed circumstances in 2013, and his mentor Alexander Litvinenko was assassinated by FSB agents in 2006.
+
+## Circumstances of Death
+
+On the night of March 12, 2018, Nikolai Glushkov was found dead in his home in New Malden, southwest London. Initial reports suggested hanging, but a post-mortem examination revealed marks on his neck consistent with strangulation by a third party, not self-inflicted hanging.
+
+The pathologist reported that Glushkov's injuries were "consistent with a neck-hold, applied from behind." Evidence suggested the death had been staged to look like a suicide, with "third-party involvement" established by the coroner.
+
+His death occurred just one week after the Novichok poisoning of Sergei and Yulia Skripal in Salisbury on March 4, 2018. Given the timing and Glushkov's status as a prominent Putin critic, the investigation was immediately placed under Scotland Yard's Counter Terrorism Command (SO15).
+
+## Background
+
+Nikolai Glushkov was a former Deputy Director of Russian airline Aeroflot and a close associate of oligarch Boris Berezovsky. In Russia, he was convicted of fraud and money laundering in connection with Aeroflot — charges widely viewed as politically motivated.
+
+After emigrating to the UK in 2010, Glushkov was granted political asylum. He became a vocal Kremlin critic and was due to appear in a London civil court case against Aeroflot shortly before his death.
+
+Glushkov was deeply connected to the network of Russian exiles in London who had opposed Putin:
+- His close friend Boris Berezovsky was found dead in 2013 (open verdict)
+- His mentor Alexander Litvinenko was assassinated with polonium-210 in 2006
+- He knew other Russian exiles who had died under suspicious circumstances in the UK
+
+## Intelligence Connections
+
+- The Counter Terrorism Command took over the investigation, indicating intelligence dimensions
+- Glushkov was part of the Berezovsky circle, multiple members of which died under suspicious circumstances
+- BuzzFeed's "From Russia with Blood" investigation identified 14 suspicious deaths of Russians in the UK linked to Russian intelligence
+- The timing — one week after the Skripal attack — placed his death within a period of documented Russian intelligence operations on British soil
+- A British court had previously found that Glushkov was a "victim of state persecution" by Russia
+
+## Why This Death Raises Questions
+
+- The death was confirmed as murder (strangulation), not suicide
+- It was staged to appear as a suicide, indicating a professional operation
+- The timing — one week after the Skripal poisoning — suggests a possible coordinated campaign
+- Multiple members of his social circle (Berezovsky, Litvinenko, Patarkatsishvili) died under suspicious circumstances
+- He was due to appear in court against Aeroflot shortly before his death
+- The case was placed under Counter Terrorism Command
+- No one has been arrested or charged
+- His death was the latest in a documented pattern of Russian exiles dying in the UK
+
+## Key Quotes
+
+> "The cause of death was compression to the neck." — Metropolitan Police statement, March 16, 2018
+
+> "There had been third-party involvement in Mr Glushkov's death." — Senior Coroner Chinyere Inyama
+
+## See Also
+
+- [Boris Berezovsky](Boris_Berezovsky.md) — Close friend, found dead in UK 2013
+- [Alexander Litvinenko](Alexander_Litvinenko.md) — Mentor, assassinated in London 2006
+- [Sergei Skripal](Sergei_Skripal.md) — Poisoned one week before Glushkov's death
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md) — Russian whistleblower who died in UK 2012
+## Other Shocking Stories
+
+- [Isaac Kappy](Isaac_Kappy.md): Said 'if I die, it wasn't suicide' on camera. Fell from a bridge 60 days before Epstein's arrest.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+
+## Sources
+
+- [Nikolai Glushkov — Wikipedia](https://en.wikipedia.org/wiki/Nikolai_Glushkov)
+- [UK Coroner Rules Glushkov Was Strangled — RFE/RL](https://www.rferl.org/a/russia-glushkov-strangled-london-coroner-putin-critic-berezovsky/31196776.html)
+- [Nikolai Glushkov's Death Was A Murder — NPR](https://www.npr.org/sections/thetwo-way/2018/03/16/594330084/russian-nikolai-glushkovs-death-in-london-was-a-murder-police-say)
+- [From Russia with Blood — BuzzFeed News](https://www.buzzfeednews.com/article/heidiblake/from-russia-with-blood-14-suspected-hits-on-british-soil)
+- [UK Police Say Russian Was Murdered — Euronews](https://www.euronews.com/2018/03/16/uk-police-launch-murder-investigation-after-death-of-russian-nikolai-glushkov-earlier-)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,102 @@
+
+
+# Judi Bari
+Earth First! organizer who survived a car bombing in Oakland on May 24, 1990, was falsely accused by the FBI of carrying her own bomb, and later died of breast cancer in 1997. A federal jury in 2002 awarded $4.4 million after finding that six FBI agents and Oakland Police officers violated her civil rights in what the jury determined was a COINTELPRO-style operation against environmental activists.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Judith Beatrice Bari |
+| **Born** | November 7, 1949 |
+| **Died** | March 2, 1997 |
+| **Age at Death** | 47 |
+| **Location of Death** | Willits, California |
+| **Cause of Death** | Breast cancer |
+| **Official Ruling** | Natural causes (cancer); bombing case remains unsolved |
+| **Alleged Intelligence Connection** | FBI (COINTELPRO-style operation against Earth First!) |
+| **Category** | Activist / Organizer |
+
+## Assessment: SUSPICIOUS
+
+While Bari died of cancer rather than the 1990 bombing, the FBI's conduct — falsely accusing her of carrying her own bomb, infiltrating Earth First!, and conducting what a federal jury determined was a COINTELPRO-style operation — represents a confirmed intelligence service assault on an American activist. The FBI's San Francisco field office was headed by Richard Held, whose career included involvement in COINTELPRO operations against the Black Panther Party, the American Indian Movement, and Puerto Rican independence groups. A 2002 federal jury found that six of seven FBI and Oakland Police defendants violated Bari and co-activist Darryl Cherney's First and Fourth Amendment rights, awarding $4.4 million in damages.
+
+## Circumstances of Death
+
+Bari died of breast cancer on March 2, 1997, at her home in Willits, Mendocino County, California. She was 47 years old. While her death from cancer is not itself suspicious, it came before her landmark civil rights lawsuit against the FBI reached trial. Bari had been organizing the legal case from her sickbed, and co-plaintiff Darryl Cherney carried the suit forward after her death, ultimately prevailing in 2002.
+
+The 1990 car bombing that nearly killed her remains officially unsolved. On May 24, 1990, at approximately 11:50 a.m., a pipe bomb hidden directly under the driver's seat of her white Subaru station wagon exploded as she and Darryl Cherney drove through Oakland, California, on their way to a concert and organizing event for Redwood Summer. The bomb shattered Bari's pelvis, fractured her coccyx, and caused severe internal injuries that left her partially disabled for the rest of her life. Passenger Darryl Cherney sustained minor facial injuries and hearing loss.
+
+## Background
+
+Judi Bari was a labor organizer turned environmental activist who became the leading voice of Earth First! in Northern California during the late 1980s. Born in Silver Spring, Maryland, she attended the University of Maryland and became involved in labor organizing, working as a carpenter and union member before relocating to Mendocino County, California. There she witnessed the destruction of old-growth redwood forests and joined Earth First!.
+
+Bari was notable for steering Earth First! away from tree-spiking — a practice of hammering metal spikes into trees to damage logging equipment — and toward nonviolent direct action tactics modeled on the civil rights movement and labor organizing. She explicitly renounced tree-spiking in 1990, calling it counterproductive and dangerous to mill workers. She sought to build coalitions between environmental activists and timber workers, arguing that corporate raider Charles Hurwitz and his company Maxxam Inc. were the common enemy of both.
+
+In 1985, Maxxam Inc. had acquired Pacific Lumber Company through a leveraged buyout using junk bonds from Drexel Burnham Lambert. To service the resulting debt, Pacific Lumber doubled its rate of old-growth logging, devastating forests that had been sustainably managed for generations. Bari organized "Redwood Summer" — a planned summer-long campaign in 1990 of nonviolent direct action to stop this liquidation logging, modeled on Mississippi Freedom Summer of 1964.
+
+In the weeks before the bombing, Bari had received numerous documented death threats, including a photo of her with a rifle scope overlay and specific threats published in timber industry outlets that included her home address and vehicle description. She reported these threats to local police, who took no action.
+
+## Intelligence Connections
+
+* The FBI had been conducting surveillance and infiltration of Earth First! prior to the bombing, treating the environmental group as a domestic terrorism threat under its domestic counterterrorism program
+* FBI informants had infiltrated Earth First! chapters in Arizona and California in the years before the bombing, with agents provocateurs reportedly encouraging illegal actions that could be used to justify prosecution
+* FBI Special Agent-in-Charge Richard Held, who oversaw the San Francisco field office at the time, had a documented history with COINTELPRO — he had been involved in FBI operations against the Black Panther Party in the 1960s and 1970s, including operations in Puerto Rico
+* FBI bomb school exercises at the Louisiana-Pacific mill site in Eureka, California, reportedly practiced on a vehicle similar to Bari's just weeks before the bombing. FBI agent Frank Doyle, who led the bomb investigation after the explosion, had personally conducted the bomb school training
+* The FBI and Oakland Police arrested Bari and Cherney within hours of the bombing, claiming the bomb was theirs and that they were transporting it knowingly — despite the bomb being concealed under the driver's seat in a location invisible to the driver
+* Photographs of the car showed the blast epicenter was directly under Bari's seat, not on the back floorboard as the FBI initially claimed. The back seat was completely intact
+* The FBI informed media within hours that Bari and Cherney were suspects, effectively destroying their public credibility on the eve of Redwood Summer
+* The bombing charges against Bari and Cherney were dropped within weeks due to lack of evidence, but the FBI never pursued alternative suspects
+* The actual bomber was never identified or prosecuted, and the case remains officially unsolved
+
+## Why This Death Raises Questions
+
+- The FBI falsely accused the victim of carrying her own bomb, despite forensic evidence showing it was hidden under her seat where she could not have seen it
+- FBI bomb training exercises occurred near the bombing location weeks before the attack, using a similar vehicle
+- The FBI's lead bomb investigator was the same agent who had conducted the bomb school training
+- Earth First! was a documented target of FBI infiltration and disruption operations
+- The bombing occurred on the eve of Redwood Summer, the campaign that most threatened timber industry interests and their political allies
+- The actual bomber was never caught, and the FBI's failure to investigate alternative suspects suggests a possible cover-up
+- A federal jury in 2002 specifically found the FBI and Oakland Police had framed Bari and Cherney, violating their First Amendment (free speech) and Fourth Amendment (unreasonable search) rights
+- Bari received death threats that were never seriously investigated by law enforcement
+- The $4.4 million jury verdict included both compensatory and punitive damages, with the punitive damages indicating the jury found the agents' conduct was malicious or in reckless disregard of constitutional rights
+- Richard Held retired from the FBI shortly after the bombing and moved to a position in the private sector
+
+## Key Quotes
+
+> "The FBI walked in and said to Bari, 'This was your bomb, so why don't you confess.'" — As recounted in the documentary *Who Bombed Judi Bari?*
+
+> The federal jury found that FBI and Oakland Police defendants "framed the two activists" and awarded $4.4 million in damages. — Reported by the Center for Constitutional Rights, 2002
+
+> "The first thing that happens to me after the bomb goes off, I'm lying in the hospital with my pelvis broken in two, my back broken, unable to move, and the FBI comes in and arrests me for carrying the bomb that nearly killed me." — Judi Bari, as reported in multiple interviews
+
+## The Counterargument
+
+The FBI maintained that the initial arrest was justified by standard procedure — agents claimed the bomb's position in the car was consistent with knowing transport. However, photographs and forensic evidence directly contradicted this claim, showing the bomb was hidden under the driver's seat. The FBI also argued that Earth First! had a history of property destruction that justified surveillance, though Bari had explicitly renounced tree-spiking and adopted nonviolent tactics. The actual bomber remains unidentified; some have suggested the bombing was carried out by a disgruntled ex-husband or timber industry operatives, but none of these theories has been substantiated because the FBI never pursued alternative suspects.
+
+## Legacy
+
+Despite the bombing and her subsequent cancer, Redwood Summer went forward in the summer of 1990, drawing thousands of activists to Northern California for nonviolent forest defense actions. Bari continued organizing from her wheelchair and sickbed until her death in 1997. The 2012 documentary *Who Bombed Judi Bari?* brought renewed attention to the case. The $4.4 million verdict in 2002 remains one of the largest civil rights judgments ever awarded against the FBI and stands as a landmark in the legal history of government suppression of dissent.
+
+## See Also
+
+- [Fred Hampton](Fred_Hampton.md) — Black Panther leader targeted and killed by FBI COINTELPRO operations
+- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist whose death was ruled suicide under suspicious circumstances
+
+## Other Shocking Stories
+
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md): Helped expose Russia's $230 million fraud. Dropped dead jogging outside his Surrey home. Insurers suspected poisoning.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
+
+## Sources
+
+- [Judi Bari — Wikipedia](https://en.wikipedia.org/wiki/Judi_Bari)
+- [Zinn Education Project — May 24, 1990: Judi Bari's Car Bombed](https://www.zinnedproject.org/news/tdih/judi-bari/)
+- [Center for Constitutional Rights — Bari v. Held](https://ccrjustice.org/home/what-we-do/our-cases/bari-v-held)
+- [The Daily Beast — Judi Bari Was Nearly Murdered by a Car Bomb](https://www.thedailybeast.com/judi-bari-was-nearly-murdered-by-a-car-bomb-and-yet-the-feds-blamed-her/)
+- [Trees Foundation — 30 Years Ago: The Bombing of Earth First!](https://treesfoundation.org/2020/05/30-years-ago-in-may-the-bombing-of-earth-first-activists-judi-bari-and-darryl-cherney/)
+- [Earth First!er Judi Bari Avenged at Last — High Country News](https://www.hcn.org/issues/issue-229/earth-firster-judi-bari-avenged-at-last/)
+- [Who Bombed Judi Bari — Wikipedia](https://en.wikipedia.org/wiki/Who_Bombed_Judi_Bari)
+- [$4 Million Verdict vs. FBI/Police — Center for Guerrilla Law](https://www.guerrillalaw.com/bari.html)
+
+*This information was built by Grok and Claude AI research.*

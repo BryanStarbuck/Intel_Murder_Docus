@@ -1,0 +1,95 @@
+
+
+# Alfredo Rodriguez
+Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Alfredo Rodriguez |
+| **Born** | ~1954 |
+| **Died** | December 28, 2014 |
+| **Age at Death** | 60 |
+| **Location of Death** | Unknown |
+| **Cause of Death** | Mesothelioma (rare cancer) |
+| **Official Ruling** | Natural death |
+| **Category** | Staff Member / House Manager |
+
+## Assessment: LOW SUSPICION — LIKELY NATURAL
+
+Rodriguez died from mesothelioma, a well-documented cancer caused by asbestos exposure with a long latency period. His widow confirmed it was natural. While he possessed extremely damaging evidence (the "black book") and explicitly stated he needed it as "life insurance" (suggesting he believed he was in danger), the specific disease that killed him is difficult to induce artificially.
+
+## Circumstances of Death
+
+Alfredo Rodriguez died on December 28, 2014, from mesothelioma, a rare cancer typically caused by asbestos exposure with a long latency period. His widow, Patricia Dunn, confirmed it was a natural death.
+
+## Background
+
+Rodriguez worked as a butler and house manager at [Jeffrey Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion. He had direct access to Epstein's private records and documentation.
+
+## The Black Book
+
+Rodriguez stole Epstein's "black book" — a 97-page journal that prosecutors called "The Holy Grail" in 2011. The book allegedly "detailed the full scope and extent of Epstein's involvement with underage girls." It contained contact details for Epstein's associates, including over 1,500 names, phone numbers, and addresses. Names in the book included Bill Clinton, Donald Trump, [Prince Andrew](Prince_Andrew.md), and many others.
+
+Rodriguez claimed he needed the book as insurance to protect his own life.
+
+## Legal Troubles
+
+In 2009, Rodriguez was arrested for withholding evidence. He had failed to tell prosecutors he possessed the black book and had attempted to sell it for $50,000. In 2010, he was sentenced to 18 months in federal prison for obstruction of justice — ironically, the same length as Epstein's own sentence at the time.
+
+## Widow's Claims
+
+Rodriguez's widow, Patricia Dunn, told DailyMail.com that Rodriguez "knew all about Prince Andrew," in the context of Prince Andrew being named in the Epstein sex scandal.
+
+## Current Location of the Black Book
+
+The current location of the full document has not been disclosed. According to The Mirror, Epstein's lawyers were reportedly "petrified" about where it would go after Rodriguez's death. The book's contents have been partially leaked and published online over the years.
+
+## Why This Death Possibly Raises Questions
+
+- Rodriguez was one of very few people with direct documentary evidence of Epstein's activities.
+- He possessed the 97-page "black book" that prosecutors called "The Holy Grail."
+- He had explicitly claimed he needed the book as insurance to protect his own life, suggesting he believed he was in danger.
+- His death meant the loss of a potential witness with extensive insider knowledge.
+- However, his widow confirmed the death was from mesothelioma, and the disease is a well-documented occupational illness with a long latency period.
+
+## Key Quotes from Media Coverage
+
+> "If this book had been produced when requested, Mr. Epstein's sentence may have been significantly different."
+> — **U.S. District Judge Kenneth Marra**, sentencing Rodriguez for obstruction of justice ([Thought Catalog](https://thoughtcatalog.com/january-nelson/2026/02/epsteins-butler-went-to-jail-for-stealing-jeffreys-address-book-the-billionaires-in-it-never-did/))
+
+> "The black book would have been extremely useful in investigating and prosecuting the case against Epstein."
+> — **FBI**, on the significance of the 97-page contact book Rodriguez had hidden ([Yahoo News](https://www.yahoo.com/news/articles/epstein-butler-tried-sell-little-151605928.html))
+
+> "He knew all about Prince Andrew."
+> — **Patricia Dunn**, Rodriguez's widow, speaking to the Daily Mail after her husband's death ([IBTimes Australia](https://www.ibtimes.com.au/epsteins-house-staff-who-knew-about-prince-andrews-dalliances-sex-slave-takes-secret-grave-1407491))
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Employer
+- [Joe Recarey](Joe_Recarey.md) — Lead detective investigating Epstein's Palm Beach crimes
+- [Virginia Giuffre](Virginia_Giuffre.md) — Named in the black book
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+## Other Shocking Stories
+
+- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+
+## Sources
+
+- [Thought Catalog: Epstein's Butler Went to Jail for Stealing Jeffrey's Address Book, The Billionaires in It Never Did](https://thoughtcatalog.com/january-nelson/2026/02/epsteins-butler-went-to-jail-for-stealing-jeffreys-address-book-the-billionaires-in-it-never-did/)
+- [Yahoo News: Epstein's Butler Tried to Sell 'Little Black Book' to Undercover FBI Agent](https://www.yahoo.com/news/articles/epstein-butler-tried-sell-little-151605928.html)
+- [Medium: Epstein's Former Butler — Alfredo Rodriguez Black Book — 97-Page Compendium](https://medium.com/@lovefoods_54026/epsteins-former-butler-alfredo-rodriguez-black-book-97-page-compendium-020dcf5eb4cf)
+- [IBTimes Australia: Epstein's House Staff Who Knew About Prince Andrew's Dalliances Takes Secret to the Grave](https://www.ibtimes.com.au/epsteins-house-staff-who-knew-about-prince-andrews-dalliances-sex-slave-takes-secret-grave-1407491)
+- [Epstein Exposed: Alfredo Rodriguez — Epstein Files Connection](https://epsteinexposed.com/persons/alfredo-rodriguez)
+- [Epstein Exposed: Alfredo Rodriguez, Jeffrey Epstein's Butler Who Stole 'Black Book', Dies](https://epsteinexposed.com/documents/d-27392)
+- [LADbible: Newly Released FBI Video Shows Epstein Butler Trying to Sell His 'Little Black Book'](https://www.ladbible.com/news/us-news/jeffrey-epstein-butler-alfredo-rodriguez-little-black-book-fbi-agent-662257-20260214)
+- [The Sun: Bombshell Moment Epstein's Former Butler Tries to Sell Paedo's Black Book](https://www.the-sun.com/news/15938678/epstein-butler-sells-paedos-black-book/)
+- [CNN: Published Epstein Files Included Video Showing Face of Undercover FBI Employee](https://www.cnn.com/2026/02/11/politics/epstein-files-video-showed-face-person-undercover)
+- [TIME: Ghislaine Maxwell's Alleged Little Black Book — What to Know](https://time.com/6124510/ghislaine-maxwell-trial-little-black-book/)
+- [The Independent, January 7, 2015](https://www.the-independent.com/news/people/prince-andrew-sex-allegations-jeffrey-epstein-s-butler-alfredo-rodriguez-who-stole-tellall-black-book-dies-age-60-9962307.html)
+- [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,102 @@
+
+
+# Berta Caceres
+Honduran indigenous Lenca leader, Goldman Environmental Prize winner, and co-founder of COPINH, assassinated in her home on March 2, 2016. A US-trained military intelligence officer turned energy company president was convicted of orchestrating her murder. She had been a prominent critic of the US-backed 2009 Honduran coup and led the campaign that forced the world's largest dam builder to withdraw from the Agua Zarca hydroelectric project on the Lenca people's sacred Gualcarque River.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Berta Isabel Caceres Flores |
+| **Born** | March 4, 1971 |
+| **Died** | March 2, 2016 |
+| **Age at Death** | 44 |
+| **Location of Death** | La Esperanza, Intibuca, Honduras |
+| **Cause of Death** | Shot by gunmen in her home |
+| **Official Ruling** | Homicide — multiple convictions |
+| **Alleged Intelligence Connection** | Honduran military intelligence (US-trained); DESA corporation |
+| **Category** | Activist / Organizer |
+
+## Assessment: CONFIRMED
+
+Honduran courts convicted David Castillo, a US-trained military intelligence officer and West Point graduate turned energy company president, of orchestrating Caceres's assassination. He was sentenced to 22 years and 6 months in prison. Seven other men, including active and former military personnel, were also convicted. Evidence showed that Castillo used paid informants and military contacts to surveil Caceres for months, coordinated the logistics and financing of the hit, and obtained the money to pay for it. Multiple perpetrators received training at US military institutions, including West Point and the School of the Americas (now WHINSEC). A Honduran appeals court confirmed all sentences in November 2024.
+
+## Circumstances of Death
+
+In the early hours of March 2, 2016 — two days before her 45th birthday — gunmen broke into the home where Berta Caceres was staying in La Esperanza, in the western highlands of Honduras. She was shot multiple times. Mexican environmentalist Gustavo Castro Soto, who was staying with Caceres as a guest, was also shot and wounded but survived by feigning death. He later became a key prosecution witness.
+
+The assassins fled the scene. Investigators later determined that the operation was carefully planned: Castillo had used paid informants to track Caceres's movements and had communicated extensively with the hitmen in the days leading up to the murder. Phone records and financial transactions presented at trial revealed the chain of command linking Castillo to the gunmen.
+
+Caceres had repeatedly reported death threats to Honduran authorities and international organizations for years. The Inter-American Commission on Human Rights had formally granted her precautionary protective measures, which the Honduran government failed to implement adequately. In the months before her murder, she had told friends and colleagues she feared for her life.
+
+## Background
+
+Berta Caceres was a co-founder and general coordinator of the Civic Council of Popular and Indigenous Organizations of Honduras (COPINH), established in 1993 to defend Lenca indigenous rights, territory, and natural resources. The Lenca are Honduras's largest indigenous group. Under Caceres's leadership, COPINH grew into one of the most effective indigenous rights organizations in Central America.
+
+Her most prominent campaign was a years-long fight against the Agua Zarca hydroelectric dam on the Gualcarque River, sacred to the Lenca people. The dam was being developed by Desarrollos Energeticos S.A. (DESA), a Honduran company with ties to the country's military and business elite, particularly the powerful Atala Zablah family — one of the wealthiest families in Honduras. The project was financed by international development banks, including the Dutch development bank FMO and the Finnish fund FinnFund, as well as the Central American Bank for Economic Integration.
+
+Caceres led a grassroots mobilization that succeeded in forcing Sinohydro, the world's largest dam builder, to withdraw from the project. This victory demonstrated the power of indigenous-led resistance against corporate extraction and made her an internationally recognized figure. In April 2015, she was awarded the prestigious Goldman Environmental Prize — often called the "Nobel Prize for the environment" — for her campaign.
+
+Caceres was also one of the most visible leaders in the resistance to the June 2009 military coup that ousted President Manuel Zelaya. The coup was carried out by SOA-trained military officers, and according to multiple reports, received tacit approval from the Obama administration. In the years following the coup, Honduras became the most dangerous country in the world for environmental and land defenders, with over 100 activists killed between 2010 and 2016.
+
+## Intelligence Connections
+
+* David Castillo, convicted as the mastermind, was a graduate of the US Military Academy at West Point (class of 2004) and a former Honduran military intelligence officer before becoming president of DESA
+* Major Mariano Diaz, one of the convicted hitmen, received special military training in the United States
+* Douglas Giovanny Bustillo, another convicted perpetrator and former military officer, also received US military training
+* A military whistleblower reported to The Guardian that Caceres's name was on a hit list maintained by Honduras's Inter-Institutional Security Force (FUSINA), a joint military-police unit that received training from US Marines and FBI agents
+* Court proceedings revealed that Castillo used his military intelligence training and contacts to organize systematic surveillance of Caceres in the months before her murder, including monitoring her movements, phone calls, and social media
+* The Honduran military intelligence apparatus that enabled the assassination was substantially built and trained by the United States over decades of Cold War-era military cooperation
+* Three of the eight men arrested in connection with the murder were linked to US-trained elite military units
+* Amnesty International noted that the conviction of Castillo was a step toward justice but urged that the "full truth" be uncovered, including the role of the Atala Zablah family, key shareholders in DESA who were never charged
+
+## Why This Death Raises Questions
+
+- Multiple perpetrators were trained at US military institutions, raising fundamental questions about the accountability of US military training programs that produce officers who go on to organize assassinations of human rights defenders
+- Caceres had formally requested protective measures from the Inter-American Commission on Human Rights, which Honduras failed to implement — a failure that international observers described as complicit
+- DESA's board included members of some of Honduras's most powerful military and business families, including the Atala Zablah family, which has never been charged despite evidence suggesting they may have known about or authorized the assassination
+- International development banks, including the Dutch FMO and Finnish FinnFund, funded the Agua Zarca project despite documented human rights concerns and community opposition. Both banks eventually withdrew after Caceres's murder
+- The killing followed the pattern of the post-2009 coup environment, in which Honduras became the deadliest country in the world for environmental activists on a per-capita basis
+- The Intercept reported that newly released documents revealed an international funding trail that preceded the murder, showing how corporate and financial interests intersected with military intelligence in targeting Caceres
+- Despite the convictions, questions remain about who above Castillo ordered or approved the assassination — the "intellectual authors" beyond the immediate chain of command
+
+## Key Quotes
+
+> "They are afraid of us because we are not afraid of them." — Berta Caceres
+
+> "In our world views, we are beings who come from the earth, from the water, and from corn. The Lenca people are ancestral guardians of the rivers, in turn protected by the spirits of young girls who teach us that giving our lives in various ways for the protection of the rivers is giving our lives for the well-being of humanity and of this planet." — Berta Caceres, Goldman Prize acceptance speech, April 2015
+
+> "Berta Caceres was at the top of a hit list given to the Honduran military's US-trained special forces unit." — Military whistleblower testimony, reported by The Guardian
+
+> "I cannot freely walk in my own country. For giving my life for the rights of my people, I have been threatened, I have been a prisoner, I have been persecuted, and I have been stigmatized." — Berta Caceres, as reported in multiple interviews
+
+## The Counterargument
+
+The Honduran government and DESA initially sought to portray Caceres's murder as the result of internal disputes within COPINH or personal conflicts. Some officials suggested she was killed in a robbery or crime of passion. However, the trial evidence — including phone records, financial transactions, and testimony showing systematic surveillance and a coordinated assassination plan directed by Castillo — thoroughly debunked these alternative narratives. The convictions of eight individuals, including a West Point graduate and former military intelligence officer, confirmed that the murder was a planned corporate-military operation targeting an activist who threatened powerful financial interests.
+
+## See Also
+
+- [Oscar Romero](Oscar_Romero.md) — Archbishop assassinated by US-backed death squads in El Salvador
+- [Enrique Camarena](Enrique_Camarena.md) — DEA agent murdered with alleged CIA complicity in Latin America
+- [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious plane crash
+
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Yevgeny Prigozhin](Yevgeny_Prigozhin.md): Wagner Group founder's plane exploded exactly two months after his mutiny against Putin. Grenade fragments in the bodies.
+- [Philip Marshall](Philip_Marshall.md): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
+- [Patrice Lumumba](Patrice_Lumumba.md): Congo's first democratically elected leader. The CIA and Belgium had him executed within seven months.
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
+
+## Sources
+
+- [Berta Caceres — Wikipedia](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
+- [US-Trained Ex-Military Intelligence Officer Sentenced to 22 Years for Murder of Berta Caceres — SOA Watch](https://soaw.org/u-s-trained-ex-military-intelligence-officer-sentenced-to-22-years-for-murder-of-berta-caceres-2)
+- [US-Trained Killers of Berta Caceres: Alumni of West Point and School of the Americas — Rights Action](https://rightsaction.org/emails/us-trained-killers-of-berta-caceres-alumni-of-west-point-military-academy-amp-school-of-the-americas)
+- [Honduras Energy Executive Jailed Over Killing of Berta Caceres — Al Jazeera](https://www.aljazeera.com/news/2022/6/21/berta-caceres-honduras-energy-executive-jailed-over-killing)
+- [Berta Caceres Was on Top of Honduras Military's Kill List, Whistleblower Says — Common Dreams](https://www.commondreams.org/news/2016/06/21/berta-caceres-was-top-honduras-militarys-kill-list-whistleblower)
+- [Newly Released Documents Reveal International Funding Trail Preceding the Murder — The Intercept](https://theintercept.com/2022/06/23/honduras-berta-caceres-murder-money-trail/)
+- [Honduran Court Confirms Sentences of Berta Caceres's Murderers — Peoples Dispatch](https://peoplesdispatch.org/2024/11/27/honduran-court-confirms-the-sentences-of-berta-caceres-murderers/)
+- [Goldman Environmental Prize — Berta Caceres](https://www.goldmanprize.org/recipient/berta-caceres/)
+- [Honduras Conviction of David Castillo — Amnesty International](https://www.amnesty.org/en/latest/press-release/2021/07/honduras-conviction-of-david-castillo-is-a-step-towards-justice-but-full-truth-must-be-uncovered/)
+
+*This information was built by Grok and Claude AI research.*

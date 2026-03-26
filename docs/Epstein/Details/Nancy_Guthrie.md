@@ -1,0 +1,136 @@
+
+
+# Nancy Guthrie
+Mother of NBC journalist Savannah Guthrie — who conducted the first major televised interview with Epstein accuser Virginia Giuffre. Kidnapped from her home one day after the DOJ released over 3 million pages of Epstein files.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Nancy Guthrie (nee Long) |
+| **Born** | c. 1941 |
+| **Status** | MISSING / KIDNAPPED since February 1, 2026 |
+| **Last Known Location** | Catalina Foothills, Tucson, Arizona |
+| **Category** | Journalist / Investigator (family member) |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Nancy Guthrie, 84, was kidnapped from her home in the early morning hours of February 1, 2026 — one day after the DOJ released its largest tranche of Epstein files (over 3 million pages, January 30, 2026). Her daughter, Savannah Guthrie of NBC News, conducted the first major televised interview with Virginia Giuffre in September 2019, bringing Giuffre's accusations against Prince Andrew and the Epstein network to a national audience. Blood matching Nancy's DNA was found at the scene. Her doorbell camera was deliberately disabled. Her pacemaker app disconnected at 2:28 a.m. A ransom note demanded $6 million in cryptocurrency. As of March 2026, she has not been found. While investigators have stated they believe this was a burglary gone wrong, the timing — one day after the largest Epstein files release, targeting the mother of the journalist most associated with the Giuffre interview — has been widely noted.
+
+## Circumstances of Disappearance
+
+### Timeline — Night of January 31 to February 1, 2026
+
+- **9:50 p.m., January 31**: Nancy was dropped off at her home in Catalina Foothills by her son-in-law, Tommaso Cioni.
+- **1:47 a.m., February 1**: Nancy's doorbell camera was disconnected. Surveillance footage later recovered by the FBI shows a person wearing long sleeves, pants, and a backpack approaching the front door. The individual appears to use a glove to cover the camera and places plants in front of it to block the view.
+- **2:12 a.m.**: The camera's software detected movement, but no video was available — Nancy did not have an active subscription, so footage was not saved.
+- **2:28 a.m.**: Nancy's pacemaker app disconnected from her phone.
+- **Morning, February 1**: Nancy did not appear for a scheduled livestream of a church service, prompting concern from church members.
+- **~11:00 a.m.**: Relatives went to check on her and found no sign of Nancy.
+- **~12:00 p.m.**: Family called 911. Pima County Sheriff's Department responded.
+
+### Evidence at the Scene
+
+- Bloodstains found at the residence were confirmed through DNA testing to be Nancy's.
+- Investigators recovered DNA from the property that does not match Nancy or anyone close to her. The location of this DNA has not been disclosed.
+- Blood was found outside the front door, suggesting according to investigators that "things began to go wrong very quickly."
+- Pima County Sheriff Chris Nanos stated he believed Nancy had been abducted and taken against her will.
+
+### Ransom Demands
+
+Multiple ransom notes of undetermined origin demanded payment in cryptocurrency. The ransom amount was $6 million, with deadlines that passed on February 9, 2026. Authorities neither confirmed nor denied the validity of the notes. Multiple media outlets also reportedly received ransom notes in connection with the disappearance.
+
+### Investigation
+
+A multi-agency investigation is being led by the Pima County Sheriff's Department with assistance from the FBI, US Customs and Border Protection, and search-and-rescue teams. The investigation has included extensive forensic analysis, neighborhood canvassing, and review of surveillance footage. The FBI has received over 13,000 tips.
+
+On February 10, a person of interest was detained following a traffic stop in Rio Rico, Arizona. The Pima County Sheriff's Department and FBI executed a search warrant on a property and vehicle in the same area. By February 11, the individual was released without charges after being determined not to be involved.
+
+On February 24, the Guthrie family offered a $1 million reward for information assisting in Nancy's recovery.
+
+As of March 2026, Nancy Guthrie has not been located. Her condition and whereabouts remain unknown.
+
+## Background — The Savannah Guthrie Connection
+
+Nancy Guthrie is the mother of Savannah Guthrie, co-anchor of NBC's *Today* show and one of the most prominent television journalists in the United States.
+
+In September 2019, Savannah Guthrie conducted the first major televised interview with [Virginia Giuffre](Virginia_Giuffre.md), Jeffrey Epstein's most prominent accuser. The Dateline NBC special, titled "Reckoning," brought Giuffre's detailed allegations — including claims of being trafficked to Prince Andrew — to a national television audience for the first time. Guthrie also interviewed several other Epstein survivors in the same special, including women coming forward publicly for the first time.
+
+## Why This Disappearance Raises Questions
+
+### The Timing
+
+- **January 30, 2026**: The DOJ released over 3 million pages of Epstein-related files — the largest single release.
+- **February 1, 2026**: Nancy Guthrie was kidnapped — **one day later**.
+- This was the period of maximum public attention to the Epstein files, with new names, photos, and documents dominating headlines.
+
+### The Savannah Guthrie Interview Connection
+
+Savannah Guthrie's September 2019 Dateline interview with Virginia Giuffre was the first time Giuffre told her full story on national television. The interview was referenced in internal DOJ communications included in the Epstein files. Giuffre herself died under suspicious circumstances on April 25, 2025 — less than a year before Nancy's kidnapping.
+
+### The Media Distraction Theory
+
+Nancy Guthrie's kidnapping immediately became one of the biggest stories in the country, commanding extensive national media coverage for weeks. This occurred precisely when the Epstein files were being released and analyzed by the public. The kidnapping of a prominent journalist's elderly mother created an emotionally compelling story that, according to some observers, drew media attention away from the content of the Epstein files during the critical period when they were being digested.
+
+### Pattern of Targeting Family Members
+
+The targeting of a journalist's family member rather than the journalist herself fits a documented pattern of intimidation. According to the project's research, this mirrors other cases where family members of people connected to Epstein investigations have been targeted, including the attack on [Judge Esther Salas](Esther_Salas.md)'s family, where her son was murdered and husband shot by a gunman with alleged ties to intelligence services.
+
+## The Counterargument
+
+### Burglary Theory
+
+According to a source cited by AZ Family, investigators believe the abduction was an intended burglary that went wrong. This theory suggests:
+- The home was targeted for robbery, not because of any Epstein connection.
+- The kidnapping was an improvised response when the burglary went sideways.
+- The ransom demand was opportunistic, not premeditated.
+- The Catalina Foothills area is an affluent neighborhood that could attract burglars regardless of the residents' identity.
+
+### Epstein Connection Fact-Checks
+
+According to PBS and other fact-checkers:
+- Social media claims that Savannah Guthrie's husband Michael Feldman appeared in the Epstein files were determined to be false.
+- No factual basis has been established connecting the kidnapping to the Epstein files release.
+- The timing, while notable, could be coincidental.
+
+### Sheriff's Statement
+
+Sheriff Chris Nanos has stated investigators believe they know why Nancy's home was targeted, though this reasoning has not been publicly disclosed. The investigation has not publicly connected the kidnapping to the Epstein case.
+
+## Key Quotes from Media Coverage
+
+> "We believe she was taken from the home against her will."
+>
+> — Pima County Sheriff Chris Nanos ([NBC News](https://www.nbcnews.com/news/us-news/mother-of-savannah-guthrie-today-reported-missing-arizona-rcna257008))
+
+> "DATELINE NBC EXCLUSIVE: VIRGINIA ROBERTS GIUFFRE, JEFFREY EPSTEIN ACCUSER, SITS DOWN WITH SAVANNAH GUTHRIE IN HER FIRST TELEVISION INTERVIEW"
+>
+> — NBC News press release, September 2019 ([NBC News](https://nbcuniversalnewsgroup.com/nbcnews/2019/09/19/dateline-nbc-exclusive-virginia-roberts-giuffre-jeffrey-epstein-accuser-sits-down-with-savannah-guthrie-in-her-first-television-interview/))
+
+## See Also
+
+- [Virginia Giuffre](Virginia_Giuffre.md) — Epstein's most prominent accuser; Savannah Guthrie conducted her first major TV interview; died under suspicious circumstances April 2025
+- [Esther Salas](Esther_Salas.md) — Federal judge whose son was murdered and husband shot; pattern of targeting family members of those connected to Epstein-adjacent cases
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — The case at the center of the files released one day before Nancy's kidnapping
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged before testifying; another key witness silenced
+
+## Other Shocking Stories
+
+- [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser. Posted "not suicidal." Died by gunshot in strict-gun-law Australia. Father says "somebody got to her."
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his Paris jail cell. Cameras "malfunctioned." He was days from testifying.
+- [Karen Mulder](Karen_Mulder.md): Named her abusers on live French TV. Footage was destroyed. Hospitalized for five months.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role in Epstein's operation. Fired four days later.
+
+## Sources
+
+- [Wikipedia: Disappearance of Nancy Guthrie](https://en.wikipedia.org/wiki/Disappearance_of_Nancy_Guthrie)
+- [NBC News: Mother of Savannah Guthrie Taken from Her Home Against Her Will](https://www.nbcnews.com/news/us-news/mother-of-savannah-guthrie-today-reported-missing-arizona-rcna257008)
+- [CBS News: A Timeline of Nancy Guthrie's Disappearance](https://www.cbsnews.com/news/timeline-nancy-guthrie-disappearance-as-search-intensifies/)
+- [PBS: A Timeline of the Disappearance of and Search for Nancy Guthrie](https://www.pbs.org/newshour/nation/a-timeline-of-the-disappearance-of-and-search-for-nancy-guthrie)
+- [CNN: Six Weeks After Nancy Guthrie Vanished](https://www.cnn.com/2026/03/19/us/nancy-guthrie-case-tucson-spotlight)
+- [Fox News: Nancy Guthrie Update — Search Enters Seventh Week](https://www.foxnews.com/us/nancy-guthrie-update-search-savannah-guthrie-missing-mother-enters-seventh-week-no-arrests)
+- [CNBC: Savannah Guthrie Offers $1 Million Reward](https://www.cnbc.com/2026/02/24/savannah-guthrie-mother-reward-instagram.html)
+- [ABC News: How the Nancy Guthrie Case Unfolded — A Timeline](https://abc45.com/news/nation-world/nancy-guthrie-missing-ransom-notes-bitcoin-ransom-suspect-images-doorbell-camera-video-fbi-reward-person-of-interest-tucson-arizona-pima-county-sheriff-surveillance-footage-pacemaker-disconnected)
+- [PBS: Fact-Checking Speculation That Nancy Guthrie's Abduction Is Linked to the Epstein Files](https://www.pbs.org/newshour/nation/fact-checking-speculation-that-nancy-guthries-abduction-is-linked-to-the-epstein-files)
+- [NBC News Press Release: Dateline NBC Exclusive — Savannah Guthrie's First Interview with Virginia Giuffre](https://nbcuniversalnewsgroup.com/nbcnews/2019/09/19/dateline-nbc-exclusive-virginia-roberts-giuffre-jeffrey-epstein-accuser-sits-down-with-savannah-guthrie-in-her-first-television-interview/)
+- [NPR: Nancy Guthrie Case Update](https://www.npr.org/2026/02/09/nx-s1-5706646/nancy-guthrie-case-update-what-we-know)
+
+*This information was built by Grok and Claude AI research.*

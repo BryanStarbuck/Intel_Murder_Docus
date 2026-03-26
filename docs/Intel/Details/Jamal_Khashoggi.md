@@ -1,0 +1,177 @@
+
+
+# Jamal Khashoggi
+Saudi dissident journalist murdered and dismembered inside the Saudi consulate in Istanbul by a 15-member Saudi hit squad on October 2, 2018. The CIA concluded with high confidence that Crown Prince Mohammed bin Salman ordered the operation.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jamal Ahmad Hamza Khashoggi |
+| **Born** | October 13, 1958 |
+| **Died** | October 2, 2018 |
+| **Age at Death** | 59 |
+| **Location of Death** | Saudi consulate, Istanbul, Turkey |
+| **Cause of Death** | Strangled and dismembered |
+| **Official Ruling** | Homicide |
+| **Alleged Intelligence Connection** | Saudi General Intelligence Presidency (GIP) / Rapid Intervention Force (RIF) |
+| **Category** | Dissident / Journalist |
+
+## Assessment: CONFIRMED
+
+The US Central Intelligence Agency concluded with high confidence that Saudi Crown Prince Mohammed bin Salman (MBS) ordered the operation to capture or kill Khashoggi. A 15-member Saudi team that included seven members of MBS's elite Rapid Intervention Force and members of his personal protective detail carried out the killing inside the Saudi consulate in Istanbul. Turkish intelligence had bugged the consulate and recorded the entire operation, providing unprecedented documentation of a state-sponsored assassination. The US Office of the Director of National Intelligence released a declassified report in February 2021 confirming this assessment.
+
+## Circumstances of Death
+
+On September 28, 2018, Jamal Khashoggi visited the Saudi consulate in Istanbul to obtain documents needed for his upcoming marriage to his Turkish fiancee, Hatice Cengiz. He was told to return on October 2. According to later investigations, this delay gave the Saudi operatives time to assemble the kill team and fly them to Istanbul.
+
+On October 2, 2018, at approximately 1:14 PM local time, Khashoggi entered the Saudi consulate. He had given Cengiz his two phones and told her to wait outside, instructing her to call his friend Yasin Aktay, an advisor to Turkish President Erdogan, if he did not emerge. Cengiz waited at the consulate entrance for hours. Khashoggi never came out.
+
+Inside the consulate, Khashoggi was ambushed by the 15-member Saudi squad that had arrived on two private jets from Riyadh earlier that day. According to audio recordings obtained by Turkish intelligence, Khashoggi was grabbed almost immediately upon entering a room. He told his captors, "There are no lawsuits against me. My fiancee is waiting outside for me." According to transcripts later released by Turkish authorities, he was strangled to death within minutes.
+
+His body was then dismembered by Dr. Salah Mohammed al-Tubaiqi, a forensic pathologist who had brought a bone saw specifically for the operation. According to the audio transcripts published by the Daily Sabah, the sound of a saw dismembering Khashoggi's body can be heard beginning at approximately 1:39 PM, with the procedure lasting roughly 30 minutes. According to Turkish officials, the remains were placed in five suitcases. His body has never been found. Turkish prosecutors stated that the remains may have been dissolved in acid at the nearby consul general's residence.
+
+One member of the squad, Mustafa al-Madani, served as a body double. He left the consulate wearing Khashoggi's clothes, a fake beard, and glasses, then walked through Istanbul's streets in an apparent attempt to create the impression that Khashoggi had left the consulate alive. Turkish surveillance cameras captured al-Madani changing back into his own clothes in a nearby public restroom.
+
+Khashoggi's last recorded words, captured on the Turkish intelligence recordings, were reportedly "I can't breathe."
+
+At approximately 5:50 PM, Cengiz contacted Aktay, who alerted Turkish authorities. By the following day, Turkish intelligence was reviewing its surveillance of the consulate and the audio recordings from inside.
+
+## Background
+
+Khashoggi was born into one of the most prominent families in Saudi Arabia. His grandfather Mohammad Khashoggi was the personal physician to King Abdul Aziz, the founder of Saudi Arabia. His uncle Adnan Khashoggi was a billionaire arms dealer who had been one of the world's wealthiest men in the 1980s. Khashoggi earned a Bachelor of Business Administration from Indiana State University in 1982.
+
+He had a decades-long career deeply intertwined with the Saudi establishment. He served as editor-in-chief of Al-Arab News Channel and as editor of the Saudi newspaper Al Watan, a position from which he was dismissed in 2003 for allowing articles critical of the Saudi religious establishment. He had close ties to Saudi intelligence and served as an advisor and media aide to Prince Turki al-Faisal, who headed the Saudi General Intelligence Presidency from 1979 to 2001. When Prince Turki became Saudi ambassador to the United Kingdom and later the United States, Khashoggi accompanied him as advisor and spokesperson, remaining in that role until Prince Turki's resignation in December 2006.
+
+Khashoggi was not always a dissident. For most of his career, he was a trusted Saudi establishment insider who had access to senior princes and intelligence officials. He reportedly traveled to Afghanistan in the 1980s and early 1990s, where he met Osama bin Laden multiple times while covering the mujahideen resistance, reportedly with the knowledge of Saudi intelligence.
+
+After Mohammed bin Salman rose to power as Crown Prince in 2017, Khashoggi became increasingly alarmed by MBS's authoritarian consolidation. The November 2017 Ritz-Carlton purge, in which MBS detained hundreds of Saudi businessmen and princes in a luxury hotel and reportedly coerced them into surrendering billions in assets, was a turning point. Khashoggi left Saudi Arabia in June 2017, settling in Virginia, and became a columnist for The Washington Post's Global Opinions section.
+
+### Washington Post Columns
+
+Khashoggi wrote more than a dozen columns for the Post, many directly critical of MBS. He wrote about the Crown Prince's crackdown on dissent, the humanitarian catastrophe of the Saudi-led war in Yemen, the detention of women's rights activists, and the stifling of all independent thought in the kingdom. In one column, he wrote that "Mohammed bin Salman is acting like Putin" in imposing "very selective justice." He argued that "the crackdown on even the most constructive criticism -- the demand for complete loyalty with a significant 'or else' -- remains a serious challenge to the crown prince's desire to be seen as a modern, enlightened leader."
+
+He also founded DAWN (Democracy for the Arab World Now), a pro-democracy organization focused on human rights in the Middle East.
+
+His final column, published posthumously by the Post on October 17, 2018, warned that "the Arab world is facing its own version of an Iron Curtain, imposed not by external actors but through domestic forces vying for power." Post Global Opinions editor Karen Attiah wrote that she "held off publishing it because we hoped Jamal would come back to us."
+
+## The 15-Member Hit Squad
+
+The team that flew to Istanbul on two private Gulfstream jets included operatives from multiple Saudi security and intelligence organs:
+
+- **Maher Abdulaziz Mutreb** -- a senior Saudi intelligence officer and member of MBS's personal protective detail who served as the operational leader on the ground. He had previously traveled with MBS on official state visits.
+- **Dr. Salah Mohammed al-Tubaiqi** -- a forensic pathologist from the Saudi Interior Ministry who brought a bone saw and performed the dismemberment. According to audio transcripts, he reportedly put on headphones and listened to music while carrying out the procedure, and told other team members to do the same.
+- **Mustafa al-Madani** -- the body double who exited the consulate wearing Khashoggi's clothes.
+- **Ahmed Abdullah al-Muzaini** -- Saudi intelligence station chief at the Istanbul consulate.
+- Seven members of MBS's elite Rapid Intervention Force (RIF), also known as the "Tiger Squad" (Firqat el-Nemr).
+
+According to the US Treasury Department, Ahmad Hassan Mohammed al-Asiri, the former Deputy Head of the General Intelligence Presidency, coordinated with Saud al-Qahtani, a senior advisor to MBS, to organize and dispatch the team. Al-Qahtani was described as the "mastermind" of the operation who oversaw it remotely from Riyadh, reportedly via Skype.
+
+## Intelligence Connections
+
+- The CIA concluded in November 2018, and the ODNI confirmed in a declassified February 2021 report, that MBS personally approved the operation. The assessment stated: "Since 2017, the Crown Prince has had absolute control of the Kingdom's security and intelligence organizations, making it highly unlikely that Saudi officials would have carried out an operation of this nature without the Crown Prince's authorization."
+- The Rapid Intervention Force (RIF) that carried out the killing was a unit under the direct authority of MBS, created to carry out the Crown Prince's personal directives. The US Treasury sanctioned the RIF as an entity in February 2021.
+- According to Middle East Eye, the murder was part of a larger "Tiger Squad" campaign of systematically silencing Saudi dissidents, using methods ranging from planned car accidents to poisoning.
+- According to reporting by Al Jazeera, former Saudi intelligence officer Saad al-Jabri filed a lawsuit alleging that the same Tiger Squad sent a hit team to Canada to assassinate him shortly after the Khashoggi killing.
+
+### The Pegasus Spyware Angle
+
+According to investigations by the Washington Post, Citizen Lab, and Amnesty International's Security Lab as part of the Pegasus Project:
+
+- NSO Group's Pegasus military-grade spyware was deployed against Khashoggi's inner circle before and after his murder.
+- Khashoggi's wife Hanan Elatr's phone was targeted by a Pegasus user linked to a UAE government agency approximately six months before the killing.
+- His fiancee Hatice Cengiz's phone was successfully infected with Pegasus in the days immediately following the murder.
+- Saudi dissident Omar Abdulaziz, a close associate of Khashoggi, stated that Pegasus surveillance of their private communications revealed Khashoggi's "private criticisms of the Saudi royal family," which Abdulaziz stated "played a major role" in Khashoggi's death.
+- NSO Group has stated that its technology was not associated with Khashoggi's murder. However, in November 2021, the US Commerce Department placed NSO Group on its Entity List, restricting its access to American technology, citing evidence that its tools were used to target journalists, activists, and government officials.
+
+## Turkish Intelligence and the Audio Recordings
+
+Turkish intelligence (MIT) had bugged the Saudi consulate in Istanbul, a fact that became central to the investigation. The recordings captured the entire operation, from Khashoggi's arrival to the dismemberment. Turkish President Recep Tayyip Erdogan strategically released details from the recordings over several weeks, maximizing diplomatic pressure on Saudi Arabia and the United States.
+
+Turkey shared the audio with the CIA, the UK, France, Germany, Canada, and other allied nations. CIA Director Gina Haspel reportedly traveled to Turkey and personally listened to the recordings. The audio was a decisive factor in the CIA's high-confidence assessment that MBS ordered the killing.
+
+## International Diplomatic Fallout
+
+The murder triggered one of the most severe diplomatic crises in modern Saudi history:
+
+- **Saudi Arabia's shifting stories:** The Saudi government initially denied any involvement, claiming Khashoggi had left the consulate alive. When Turkish evidence made this untenable, they claimed he died in a "fistfight." Finally, they acknowledged a "rogue operation" but denied MBS had any knowledge. Saudi Arabia denies that MBS ordered the operation.
+- **The sham trial:** Saudi Arabia tried 11 suspects in closed proceedings. Five were initially sentenced to death and three to prison terms. The trial was widely condemned. Amnesty International called the verdict a "whitewash." Washington Post publisher Fred Ryan stated the "complete lack of transparency and the Saudi government's refusal to cooperate with independent investigators suggests that this was merely a sham trial." In May 2020, Khashoggi's sons announced they had "pardoned" the killers, a move the UN Special Rapporteur called a "parody of justice." The death sentences were commuted to prison terms of five to ten years. According to multiple reports, the Saudi government had provided Khashoggi's children with tens of millions of dollars in cash and real estate as compensation.
+- **Saud al-Qahtani and Ahmad al-Asiri**, described as the masterminds, were never meaningfully prosecuted. Al-Qahtani was not even indicted. Al-Asiri was acquitted.
+- **Congressional backlash:** The US Senate voted 73-28 to end US support for the Saudi-led war in Yemen and passed a resolution holding MBS personally responsible for the murder.
+- **Global sanctions:** The US, UK, France, Germany, and Canada imposed sanctions on Saudi individuals connected to the killing.
+- **Biden administration:** In February 2021, the Biden administration released the ODNI report naming MBS but declined to sanction the Crown Prince directly, citing the diplomatic complications of sanctioning a sitting head of state.
+
+### Trump Administration Response
+
+According to reporting by the Washington Post and Bob Woodward's book *Rage*, then-President Trump told Woodward: "I saved his ass. I was able to get Congress to leave him alone. I was able to get them to stop." According to NPR, then-President Trump and Secretary of State Mike Pompeo actively worked to shield MBS from consequences. According to multiple reports, the Trump administration:
+
+- Issued a statement reaffirming the US-Saudi alliance days after the CIA concluded MBS ordered the killing, stating "it could very well be that the Crown Prince had knowledge" but emphasizing Saudi Arabia as a "great ally."
+- According to reporting by multiple outlets, bypassed Congress to approve roughly $8 billion in arms sales to Saudi Arabia and the UAE.
+- Vetoed three congressional resolutions rebuking the arms sales and blocked a War Powers Act resolution to end military support for the Saudi-led Yemen war.
+- According to Axios, in a November 2025 Oval Office meeting with MBS, Trump reportedly stated about Khashoggi that "a lot of people didn't like" him.
+
+## Why This Death Raises Questions
+
+- The Saudi government's story changed multiple times -- from denial, to "fistfight," to "rogue operation" -- each version collapsing under the weight of Turkish evidence
+- Despite the CIA's high-confidence assessment that MBS ordered the killing, no senior Saudi official has faced meaningful accountability
+- The 15-member team included MBS's personal bodyguards and a forensic doctor who brought a bone saw, indicating premeditation rather than a "rogue operation"
+- The body double operation (al-Madani in Khashoggi's clothes) demonstrates elaborate advance planning
+- Pegasus spyware surveillance of Khashoggi's inner circle preceded the operation
+- Khashoggi's remains have never been found
+- The Saudi trial was closed to independent observers and ended with commuted sentences after the family was compensated
+- The masterminds identified by intelligence agencies -- al-Qahtani and al-Asiri -- were never convicted
+- According to multiple reports, the same "Tiger Squad" allegedly targeted other Saudi dissidents before and after Khashoggi
+
+## Key Quotes
+
+> "I can't breathe." -- Jamal Khashoggi's last recorded words inside the consulate, per Turkish intelligence recordings
+
+> "The Arab world is facing its own version of an Iron Curtain, imposed not by external actors but through domestic forces vying for power." -- Jamal Khashoggi, final Washington Post column, published posthumously October 17, 2018
+
+> "We assess that Saudi Arabia's Crown Prince Muhammad bin Salman approved an operation in Istanbul, Turkey, to capture or kill Saudi journalist Jamal Khashoggi." -- US Office of the Director of National Intelligence, declassified report, February 2021
+
+> "Since 2017, the Crown Prince has had absolute control of the Kingdom's security and intelligence organizations, making it highly unlikely that Saudi officials would have carried out an operation of this nature without the Crown Prince's authorization." -- US intelligence assessment
+
+> "I held off publishing it because we hoped Jamal would come back to us." -- Karen Attiah, Washington Post Global Opinions editor, on Khashoggi's final column
+
+## The Counterargument
+
+Saudi Arabia maintains that the killing was a "rogue operation" carried out by overzealous subordinates acting without MBS's knowledge or authorization. The Saudi government has stated that it has held those responsible accountable through its own judicial process. Saudi Arabia points to the trial and conviction of eight individuals as evidence of accountability. Prince Turki al-Faisal publicly stated that the CIA "cannot be trusted" regarding its assessment of MBS's involvement. Some analysts have argued that the CIA assessment, while confident, relied partly on circumstantial reasoning about MBS's control rather than direct evidence of a specific order. The Saudi government has not publicly commented on the Pegasus spyware allegations.
+
+## See Also
+
+- [Boris Nemtsov](Boris_Nemtsov.md) -- Russian opposition leader shot dead near the Kremlin; state-connected killers convicted but masterminds never identified
+- [Alexander Litvinenko](Alexander_Litvinenko.md) -- state-sponsored assassination of a critic abroad using polonium-210 poisoning
+- [Anna Politkovskaya](Anna_Politkovskaya.md) -- journalist critical of government murdered; triggermen convicted but masterminds shielded
+- [Alexei Navalny](Alexei_Navalny.md) -- Russian dissident who survived a Novichok assassination attempt, later died in prison
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) -- investigative journalist killed by car bomb in Malta
+- [Daniel Pearl](Daniel_Pearl.md) -- journalist murdered abroad with intelligence dimensions
+- [Kim Jong-nam](Kim_Jong_nam.md) -- state-ordered assassination of a dissident family member abroad
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) -- Mossad assassination in a foreign country documented by surveillance cameras
+
+## Other Shocking Stories
+
+- [Yitzhak Rabin](Yitzhak_Rabin.md): Israeli PM shot by an extremist. Allegations that Shin Bet infiltrated and possibly manipulated the assassin.
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+
+## Sources
+
+- [Assassination of Jamal Khashoggi - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi)
+- [Jamal Khashoggi - Wikipedia](https://en.wikipedia.org/wiki/Jamal_Khashoggi)
+- [Jamal Khashoggi: U.S. Intelligence Says Saudi Crown Prince Approved Operation - NPR](https://www.npr.org/2021/02/25/971215788/biden-administration-poised-to-release-report-on-killing-of-jamal-khashoggi)
+- [ODNI Declassified Assessment - DNI.gov](https://www.dni.gov/files/ODNI/documents/assessments/Assessment-Saudi-Gov-Role-in-JK-Death-20210226v2.pdf)
+- [CIA concludes Saudi crown prince ordered Jamal Khashoggi's death - CNN](https://www.cnn.com/2018/11/16/politics/cia-assessment-khashoggi-assassination-saudi-arabia)
+- [Audio transcripts of Jamal Khashoggi's murder revealed - Al Jazeera](https://www.aljazeera.com/news/2019/9/10/audio-transcripts-of-jamal-khashoggis-murder-revealed)
+- [Saudi hit squad's gruesome conversations during Khashoggi's murder revealed - Daily Sabah](https://www.dailysabah.com/investigations/2019/09/09/saudi-hit-squads-gruesome-conversations-during-khashoggis-murder-revealed)
+- [Treasury Sanctions the Saudi Rapid Intervention Force - US Treasury](https://home.treasury.gov/news/press-releases/jy0038)
+- [5 years after Jamal Khashoggi's murder - NPR](https://www.npr.org/2023/10/02/1202937036/jamal-khashoggi-mbs-murder-saudi-arabia-human-rights)
+- [Jamal Khashoggi's wife targeted with spyware before his death - Washington Post](https://www.washingtonpost.com/investigations/interactive/2021/jamal-khashoggi-wife-fiancee-cellphone-hack/)
+- [NSO Group's Pegasus spyware found on Khashoggi's fiancee's phone - PBS Frontline](https://www.pbs.org/wgbh/frontline/article/how-nso-group-pegasus-spyware-found-jamal-khashoggi-fiancee-phone/)
+- [Opinion: Trump And Pompeo Have Enabled A Saudi Cover-Up - NPR](https://www.npr.org/2019/10/02/765780013/opinion-trump-and-pompeo-have-enabled-a-saudi-cover-up-of-the-khashoggi-killing)
+- [Trump boasted he protected MBS after Khashoggi hit - Al Jazeera](https://www.aljazeera.com/news/2020/9/10/trump-boasted-he-protected-mbs-after-khashoggi-hit-report)
+- [Sham trial and whitewash verdict - Amnesty International](https://www.amnesty.org/en/latest/press-release/2019/12/khashoggi-verdict/)
+- [Khashoggi's children 'pardon' their father's killers - CNN](https://edition.cnn.com/2020/05/22/middleeast/khashoggi-children-pardon-saudi-intl)
+- [Jamal Khashoggi's columns for The Washington Post](https://www.washingtonpost.com/news/global-opinions/wp/2018/10/06/read-jamal-khashoggis-columns-for-the-washington-post/)
+- [Timeline of the murder of journalist Jamal Khashoggi - Al Jazeera](https://www.aljazeera.com/news/2021/2/26/timeline-of-the-murder-of-journalist-jamal-khashoggi)
+
+*This information was built by Grok and Claude AI research.*

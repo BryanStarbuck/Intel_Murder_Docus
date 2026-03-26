@@ -1,0 +1,78 @@
+
+
+# Mostafa Ahmadi Roshan
+Iranian nuclear scientist and Natanz enrichment facility director killed by a magnetized car bomb in Tehran.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Mostafa Ahmadi Roshan |
+| **Born** | 1979 |
+| **Died** | 11 January 2012 |
+| **Age at Death** | 32 |
+| **Location of Death** | Seyed Khandan, eastern Tehran, Iran |
+| **Cause of Death** | Magnetic bomb attached to car by motorcycle-riding assassin |
+| **Official Ruling** | Assassination; Iran blamed Israel and Mossad |
+| **Alleged Intelligence Connection** | Mossad (per Iran's investigation and confessions of arrested agents) |
+| **Category** | Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Ahmadi Roshan was the most clearly nuclear-connected target in the 2010-2012 assassination campaign — he was a chemistry expert and deputy director at the Natanz uranium enrichment facility, Iran's most important nuclear site. His killing used the identical magnetic-bomb-by-motorcycle method as the Shahriari assassination 14 months earlier, confirming a coordinated and ongoing covert operation. Iran arrested operatives who confessed to Mossad links; Israel neither confirmed nor denied involvement.
+
+## Circumstances of Death
+
+On the morning of 11 January 2012, Mostafa Ahmadi Roshan was traveling to work in his Peugeot 405 on Shahid Golnabi Street in the Seyed Khandan district of eastern Tehran at approximately 8:30 a.m. Witnesses told Iranian media that a motorcycle pulled alongside his car and a rider attached a magnetized explosive device to the vehicle before speeding away. The bomb detonated moments later, killing Ahmadi Roshan and his bodyguard-driver. An 85-year-old bystander was reportedly wounded in the blast. The attack bore the identical signature of the November 2010 killing of Majid Shahriari.
+
+## Background
+
+Ahmadi Roshan was a chemistry expert and a director of commercial affairs at the Natanz uranium enrichment facility in central Iran — the country's primary enrichment site and the target of the Stuxnet cyberattack in 2009-2010. At just 32 years old, he held a supervisory role at Iran's most sensitive nuclear installation. He was a graduate of Sharif University of Technology, one of Iran's most prestigious engineering schools. His position at Natanz placed him at the center of Iran's uranium enrichment efforts, making him a high-value target for any operation aimed at disrupting Iran's nuclear capabilities.
+
+## Intelligence Connections
+
+* Iranian authorities arrested multiple operatives who allegedly confessed to carrying out the assassination on behalf of Mossad
+* Iranian state television broadcast confessions from suspects linked to the killings of Alimohammadi, Shahriari, Rezaeinejad, and Roshan
+* According to NBC News, citing unnamed U.S. officials, the Mujahideen-e-Khalq (MEK) assisted Israeli intelligence in carrying out the assassinations inside Iran
+* The U.S. government denied any involvement; Secretary of State Hillary Clinton stated the U.S. "had absolutely nothing to do with this"
+* Israel neither confirmed nor denied responsibility
+
+## Why This Death Raises Questions
+
+- The identical method (magnetic bomb attached by motorcycle rider) linked this killing directly to the Shahriari assassination and the broader campaign
+- Ahmadi Roshan's role at Natanz made him the most strategically significant target in the series
+- The assassination came exactly two years after the killing of Masoud Alimohammadi (12 January 2010), possibly a deliberate message
+- The campaign of scientist assassinations coincided with the Stuxnet cyberattack, international sanctions, and diplomatic negotiations — suggesting a coordinated multi-front covert war
+- After Roshan's killing, Iran's supreme leader Ayatollah Khamenei accused "the Zionist regime and American CIA" and vowed retaliation
+
+## Key Quotes
+
+> "The United States had absolutely nothing to do with this." — U.S. Secretary of State Hillary Clinton, January 2012
+
+> "I want to categorically deny any United States involvement in any kind of act of violence inside Iran." — U.S. National Security Council spokesman Tommy Vietor
+
+> "The enemies of the Iranian nation should know that the Iranian nation and its officials would never retreat." — Ayatollah Ali Khamenei, after Roshan's funeral
+
+## See Also
+
+- [Masoud Alimohammadi](Masoud_Alimohammadi.md) — Iranian physicist killed by motorcycle bomb, 2010
+- [Majid Shahriari](Majid_Shahriari.md) — Iranian nuclear scientist killed by magnetic bomb, 2010
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md) — Iranian scientist shot in Tehran, 2011
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
+
+- Mossad (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Ronni Moffitt](Ronni_Moffitt.md): A 25-year-old American killed on American soil by a Chilean intelligence car bomb meant for her colleague.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
+
+## Sources
+
+- [Wikipedia — Mostafa Ahmadi Roshan](https://en.wikipedia.org/wiki/Mostafa_Ahmadi_Roshan)
+- [Al Jazeera — Iran Nuclear Scientist Killed by Car Bomb](https://www.aljazeera.com/news/2012/1/12/iran-nuclear-scientist-killed-by-car-bomb)
+- [NPR — Death of Iranian Nuclear Expert Adds to Tensions](https://www.npr.org/2012/01/11/145050427/death-of-iranian-nuclear-expert-adds-to-tensions)
+- [Carnegie Endowment — Fourth Iranian Nuclear Scientist Killed in Car Blast](https://carnegieendowment.org/china/posts/2012/01/fourth-iranian-nuclear-scientist-killed-in-car-blast)
+- [Christian Science Monitor — Another Iranian Nuclear Scientist Killed, Part of Covert War](https://www.csmonitor.com/World/Middle-East/2012/0111/Another-Iranian-nuclear-scientist-killed-part-of-covert-war)
+
+*This information was built by Grok and Claude AI research.*

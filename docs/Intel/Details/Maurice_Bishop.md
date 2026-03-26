@@ -1,0 +1,101 @@
+
+
+# Maurice Bishop
+Prime Minister of Grenada and leader of the New Jewel Movement, deposed and executed by firing squad during an internal coup in October 1983. The United States invaded Grenada six days later. CIA involvement in destabilizing the revolution has been alleged.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Maurice Rupert Bishop |
+| **Born** | May 29, 1944, Aruba (to Grenadian parents) |
+| **Died** | October 19, 1983 |
+| **Age at Death** | 39 |
+| **Location of Death** | Fort Rupert, St. George's, Grenada |
+| **Cause of Death** | Execution by firing squad |
+| **Official Ruling** | Homicide — members of the coup convicted |
+| **Alleged Intelligence Connection** | CIA (United States); Cuban DGI (tangential) |
+| **Category** | Foreign Leader |
+
+## Assessment: SUSPICIOUS
+
+While Bishop was directly killed by a Marxist-Leninist faction within his own party, the broader context raises questions about CIA destabilization. The United States had long sought to undermine Bishop's People's Revolutionary Government, and the internal coup provided the pretext for a full-scale U.S. military invasion just six days later. Declassified documents show the Reagan administration was actively planning intervention in Grenada before the coup occurred. Bishop's remains have never been found, and U.S. government documents suggest American forces played a role in recovering and possibly disposing of the remains.
+
+## Circumstances of Death
+
+On October 13, 1983, Bishop was placed under house arrest by forces loyal to Deputy Prime Minister Bernard Coard, who demanded a power-sharing arrangement. The internal crisis had been building since September, when ideological rifts within the NJM Central Committee reached a breaking point. Coard's ultra-Marxist faction accused Bishop of betraying revolutionary principles and consolidating personal power at the expense of collective leadership. Bishop considered the power-sharing proposal for several days but ultimately rejected it, prompting the Coard faction and the People's Revolutionary Army (PRA) to detain him.
+
+Six days later, on October 19, a crowd of thousands of supporters freed Bishop and marched to Fort Rupert (now Fort George) in the capital, St. George's. Soldiers loyal to Coard and General Hudson Austin stormed the fort with armored vehicles. Bishop, along with cabinet ministers Jacqueline Creft (who was pregnant), Unison Whiteman, Norris Bain, and Fitzroy Bain, were lined up against a wall and executed by machine gun fire. A Revolutionary Military Council under Hudson Austin then took power, imposing a shoot-on-sight curfew across the island.
+
+The executions were carried out without trial. Witnesses described soldiers firing indiscriminately into the crowd at Fort Rupert before the targeted killings of Bishop and his allies. The total number of civilians killed during the storming of the fort remains disputed.
+
+## Background
+
+Maurice Bishop was born on the island of Aruba to Grenadian parents and grew up in Grenada. He studied law in London, where he was influenced by the Black Power and anti-colonial movements of the 1960s. Returning to Grenada, he co-founded the New Jewel Movement (NJM — Joint Endeavour for Welfare, Education, and Liberation) in 1973, merging two existing opposition groups.
+
+On March 13, 1979, while Prime Minister Eric Gairy was abroad at the United Nations, the NJM overthrew Gairy's corrupt and increasingly repressive government in a nearly bloodless coup and established the People's Revolutionary Government (PRG) with Bishop as Prime Minister. Gairy's regime had been notorious for its use of a paramilitary gang known as the "Mongoose Gang" to terrorize political opponents.
+
+Bishop's government implemented significant social reforms. The National Women's Organization was formed to participate in policy decisions. Women received equal pay and paid maternity leave, and sex discrimination was made illegal. The Centre for Popular Education launched a national literacy campaign that virtually eliminated illiteracy. Cuba provided a dozen specialist doctors, doubling the number of specialists on the island. A National Youth Organization was established. Bishop promoted agricultural development, expanded tertiary education, and built tourism infrastructure.
+
+Most prominently, Bishop built close ties with Cuba, which helped construct a new international airport at Point Salines. Cuba provided financing and labor, while most of the airport's infrastructure was designed by European and North American consultants. Several hundred Cuban aid workers settled on the island. The Reagan administration portrayed the airport's 9,000-foot runway as a military threat — claiming it could accommodate the largest Soviet aircraft and facilitate weapons transfers to Central American insurgents — though it was primarily a commercial facility designed to boost tourism.
+
+Despite these achievements, Bishop's government did not hold elections, restricted press freedom, and suppressed political opposition — points critics used to undermine his legitimacy.
+
+## Intelligence Connections
+
+* The CIA reportedly conducted covert destabilization operations against Bishop's government, including economic pressure, propaganda campaigns, and diplomatic isolation throughout the Caribbean
+* The Reagan administration had been developing military contingency plans for Grenada (Operation Urgent Fury) before the coup, according to declassified planning documents
+* The new airport project, built with Cuban assistance, was portrayed by Washington as a military threat, though the Plessey Corporation, a British firm, was the principal contractor
+* Washington Post investigations revealed that U.S. government documents suggest American forces played a larger role in the recovery and examination of Bishop's remains than previously acknowledged
+* The U.S. government has stated it has no information about Bishop's remains, but Grenadians suspect American involvement in their disappearance
+* Bernard Coard's ultra-Marxist faction may have been influenced by intelligence disinformation designed to fracture the NJM, though this remains speculative
+* The Organization of Eastern Caribbean States (OECS) formally requested U.S. intervention, providing diplomatic cover for an invasion that had reportedly been planned in advance
+
+## Why This Death Raises Questions
+
+- The internal coup conveniently provided the Reagan administration with a pretext for military intervention it had already been planning
+- Bishop's remains have never been found despite extensive searches, with suspicion falling on U.S. forces who controlled the island after the invasion
+- The U.S. invasion came just six days after Bishop's execution, suggesting pre-positioned military readiness far beyond what a spontaneous response would require
+- The speed of the American military response (Operation Urgent Fury, October 25, 1983) implies advance planning — approximately 7,600 U.S. troops deployed alongside 300 troops from Caribbean nations
+- The invasion occurred just two days after the Beirut barracks bombing killed 241 U.S. Marines on October 23, and some analysts suggest Grenada served as a distraction from that catastrophe
+- Fourteen of the coup plotters, including Coard, were sentenced to death (later commuted to life imprisonment), but the full story of who encouraged the internal split remains murky
+- The United Nations General Assembly voted 108-9 to condemn the invasion as "a flagrant violation of international law"
+- Reagan justified the invasion partly on the grounds of protecting approximately 600 American medical students on the island, though the students were not in immediate danger according to some accounts
+- The media was initially barred from covering the invasion, limiting independent verification of the administration's claims
+
+## Key Quotes
+
+> "We are not in anybody's backyard, and we are definitely not for sale." — Maurice Bishop, addressing U.S. attempts to isolate Grenada
+
+> "The United States has no information concerning the whereabouts of Bishop's remains." — U.S. government response to inquiries, as reported by the Washington Post
+
+> "They killed her because she was effective." — A sentiment echoed about Bishop himself, whose social programs and Cuban alliance made him a target of Cold War geopolitics
+
+## See Also
+
+- [Patrice Lumumba](Patrice_Lumumba.md) — Congolese leader assassinated with CIA and Belgian involvement
+- [Thomas Sankara](Thomas_Sankara.md) — Burkinabe leader assassinated in a 1987 coup with alleged French involvement
+- [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious 1981 plane crash
+- [Oscar Romero](Oscar_Romero.md) — Archbishop assassinated by US-backed forces in El Salvador in 1980
+- [Berta Caceres](Berta_Caceres.md) — Honduran activist killed by US-trained military intelligence operatives
+- [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup
+
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md): First American citizen deliberately killed by his own government without trial. Obama signed the order.
+- [Mark Lombardi](Mark_Lombardi.md): His art mapped CIA, BCCI, and intelligence money networks. Found hanged in his studio. FBI visited after 9/11.
+- [Abdulrahman al-Awlaki](Abdulrahman_al_Awlaki.md): A 16-year-old American citizen drone-struck in Yemen. The government said he wasn't the target.
+- [Mehdi Ben Barka](Mehdi_Ben_Barka.md): Moroccan opposition leader kidnapped in broad daylight in Paris by French and Moroccan intelligence. Body never found.
+
+## Sources
+
+- [Wikipedia — Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop)
+- [Washington Post — Grenada: Maurice Bishop's Missing Remains](https://www.washingtonpost.com/investigations/2023/12/08/grenada-maurice-bishop-missing-remains/)
+- [Wikipedia — United States Invasion of Grenada](https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada)
+- [Village Voice News — Maurice Bishop's Execution: The Day the Grenada Revolution Died](https://villagevoicenews.com/2025/10/19/maurice-bishops-execution-the-day-the-grenada-revolution-died/)
+- [Jacobin — Grenada's Revolution Should Never Be Forgotten](https://jacobin.com/2019/09/grenada-revolution-maurice-bishop-reagan)
+- [Britannica — Maurice Bishop](https://www.britannica.com/biography/Maurice-Bishop)
+- [Britannica — U.S. Invasion of Grenada](https://www.britannica.com/event/U-S-invasion-of-Grenada)
+- [Find a Grave — Maurice Bishop](https://www.findagrave.com/memorial/18523/maurice-bishop)
+
+*This information was built by Grok and Claude AI research.*

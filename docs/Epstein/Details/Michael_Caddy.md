@@ -1,0 +1,76 @@
+
+
+# Michael Caddy
+NYPD officer, age 29, who allegedly viewed Weiner laptop evidence. Third death in the June 2019 cluster.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Michael Caddy |
+| **Born** | ~1990 |
+| **Died** | June 14, 2019 |
+| **Age at Death** | 29 |
+| **Location of Death** | Staten Island, New York, USA |
+| **Cause of Death** | Self-inflicted gunshot wound |
+| **Official Ruling** | Suicide |
+| **Category** | NYPD Officer / Alleged Weiner Laptop Witness |
+
+## Assessment: SUSPICIOUS
+
+Caddy was the youngest of the officers who died in the June 2019 cluster, at just 29 years old. He served at the 121st Precinct on Staten Island. His death — the third NYPD suicide in less than 10 days — triggered CBS News and other outlets to report on the emerging crisis. His youth makes the suicide notably unusual in the context of police suicide demographics.
+
+## Circumstances of Death
+
+Officer Michael Caddy, 29, died on June 14, 2019, nine days after Deputy Chief [Silks](Steven_Silks.md) and eight days after Detective [Calabrese](Joseph_Calabrese.md). He was assigned to the 121st Precinct on Staten Island.
+
+## Connection to Weiner Laptop
+
+Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed files on Anthony Weiner's laptop. At age 29 at the time of death, he would have been approximately 26 when the laptop was seized in 2016. These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+
+## Why This Death Possibly Raises Questions
+
+- Third NYPD death in less than 10 days
+- Age 29 — unusually young for police suicide
+- Allegedly connected to Weiner laptop examination
+- Served in a different borough (Staten Island) than the first two officers (Queens, Brooklyn)
+- His death prompted national media coverage of the NYPD suicide crisis
+
+## Related Deaths — NYPD Weiner Laptop Cluster
+
+- [Steven Silks](Steven_Silks.md) — Died June 5, 2019
+- [Joseph Calabrese](Joseph_Calabrese.md) — Died June 6, 2019
+- [Kevin Preiss](Kevin_Preiss.md) — Died June 27, 2019
+- [Terrence McAvoy](Terrence_McAvoy.md) — Died July 27, 2019
+- [Johnny Rios](Johnny_Rios.md) — Died 2019
+- [Robert Echeverria](Robert_Echeverria.md) — Found at his Laurelton home
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+
+## Key Quotes from Media Coverage
+
+> "This is a mental-health crisis. This cannot be allowed to continue. Cops spend so much of their days assisting others. But before we can help the people we serve, it is imperative that we first help ourselves."
+> — NYPD Commissioner James O'Neill, after Caddy's death made the third in 10 days ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+> "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better. All of their lives had meaning."
+> — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+> "There is no shame in seeking assistance from the many resources available, both inside and outside the department. Accepting help is never a sign of weakness — it's a sign of great strength."
+> — NYPD Commissioner James O'Neill, in a message to all 55,000 officers ([NBC News](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471))
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
+- [Philip K. Dick](Philip_K_Dick.md): His home safe blown open with explosives. FBI and CIA confirmed surveillance.
+- [Paul Walker](Paul_Walker.md): Allegedly discovered child trafficking during Haiti relief work. Died in a fiery car crash at 40.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+
+## Sources
+
+- [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
+- [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
+- [NBC News: Fifth NYPD officer dies by suicide in two months](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471)
+- [Gothamist: Third NYPD Suicide In 10 Days As Police Officer Is Found Dead Near Staten Island Precinct](https://gothamist.com/news/third-nypd-suicide-in-10-days-as-police-officer-is-found-dead-near-staten-island-precinct)
+- [The Daily Beast: NYPD Officer Dies of Suicide, the Third Self-Inflicted Death in Less Than Two Weeks](https://www.thedailybeast.com/nypd-officer-dies-of-apparent-suicide-the-third-self-inflicted-death-in-less-than-two-weeks)
+- [ABC7 New York: NYPD officer found dead after suspected suicide; 4th case for department in June](https://abc7ny.com/nypd-suicides-in-nyc-police-department-suicide-long-island/5368243/)
+- [Western Journal: 'Mental Health Crisis' Declared After 3 NYPD Officers Commit Suicide in 10 Days](https://www.westernjournal.com/mental-health-crisis-declared-3-nypd-officers-commit-suicide-10-days/)
+- [NBC New York: Fifth NYPD Officer Dies by Suicide in the Last Two Months](https://www.nbcnewyork.com/news/local/fifth-nypd-officer-dies-by-suicide-in-the-last-two-months/1520068/)
+
+*This information was built by Grok and Claude AI research.*

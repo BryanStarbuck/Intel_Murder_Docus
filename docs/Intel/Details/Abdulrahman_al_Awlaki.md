@@ -1,0 +1,100 @@
+
+
+# Abdulrahman al-Awlaki
+16-year-old American citizen killed by a US drone strike in Yemen in 2011, two weeks after his father Anwar al-Awlaki was killed in a separate strike. The Obama administration said he was not the intended target.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Abdulrahman Anwar al-Awlaki |
+| **Born** | 26 August 1995, Denver, Colorado |
+| **Died** | 14 October 2011 |
+| **Age at Death** | 16 |
+| **Location of Death** | Shabwah Province, Yemen |
+| **Cause of Death** | US drone strike (CIA-directed) |
+| **Official Ruling** | Collateral damage — US officials said the intended target was Ibrahim al-Banna |
+| **Alleged Intelligence Connection** | CIA (carried out the strike) |
+| **Category** | Civilian Casualty |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+A 16-year-old US citizen born in Denver, Colorado, was killed by his own government's drone strike while eating dinner at an outdoor restaurant with his teenage cousin. The US government claimed he was not the target — the intended target was reportedly Egyptian al-Qaeda operative Ibrahim al-Banna, who was not present at the site. No evidence has ever been presented that Abdulrahman had any involvement in terrorism. The killing of an American minor, just two weeks after his father's assassination, raised profound questions about the drone program's targeting criteria and the protection of US citizens' constitutional rights. One senior administration official dismissed his death by saying he was "in the wrong place at the wrong time."
+
+## Circumstances of Death
+
+On the evening of 14 October 2011, Abdulrahman al-Awlaki was eating dinner with his cousin and other companions at an outdoor restaurant in southern Yemen's Shabwah Province. A CIA-directed drone strike hit the gathering, killing Abdulrahman, his 17-year-old cousin, and at least seven other people. Abdulrahman had reportedly left his grandparents' home in Sanaa weeks earlier to search for his father, not knowing Anwar had already been killed on 30 September. He never found his father and was on his way back to Sanaa when the strike occurred. According to family members, Abdulrahman had not seen his father in years and had no knowledge of his father's activities. He was a teenager who liked listening to hip-hop music, used Facebook, and had no connection to any militant group.
+
+## Background
+
+Abdulrahman was born in Denver, Colorado, on 26 August 1995, making him a natural-born US citizen by birthright. He spent the first seven years of his life in the United States before his family moved to Yemen. He was described by family members as a typical teenager who liked listening to music, watching American TV shows, and had no involvement in extremism or political activity of any kind. His grandfather, Nasser al-Awlaki, a former Yemeni government minister and Fulbright scholar who had earned a doctorate in the United States, was his primary caretaker after Anwar went into hiding around 2009. By all accounts, Abdulrahman was an ordinary American kid growing up in Yemen, separated from his fugitive father and raised by grandparents who were pillars of Yemeni society.
+
+When Abdulrahman left home to look for his father, his grandparents were frantic. They did not know where he went and feared for his safety. He was a child looking for a parent he had not seen in years — and he was killed by his own government before he could return home.
+
+The contrast between Abdulrahman's life and the manner of his death is stark. He was an American teenager born in an American city, raised by an educated, Western-oriented family with deep ties to both the United States and Yemen. He had no criminal record, no known association with any militant group, and no ideological profile. His only connection to al-Qaeda was biological — he was the son of Anwar al-Awlaki. The US government has never claimed otherwise.
+
+## Intelligence Connections
+
+* The CIA directed the drone strike that killed him
+* Two US officials stated the intended target was Ibrahim al-Banna, an Egyptian believed to be a senior AQAP operative
+* Al-Banna was reportedly not present at the location when the strike occurred; a 2017 report by The Intercept found that the State Department considered al-Banna still alive years later, raising questions about whether the strike's intelligence basis was sound
+* Attorney General Eric Holder later acknowledged that Abdulrahman was one of four US citizens killed by drone strikes, three of whom (including Abdulrahman) were "not specifically targeted"
+* The killing occurred under the same CIA drone program that killed his father two weeks earlier
+* Nine other people were killed in the same strike, including Abdulrahman's 17-year-old cousin
+* No US official has ever provided evidence that Abdulrahman posed any threat, held any role in a militant organization, or was anything other than a civilian teenager
+
+## Why This Death Raises Questions
+
+- A 16-year-old American citizen was killed by his own government with no judicial process, no indictment, and no evidence of wrongdoing
+- The intended target was reportedly not even present at the strike location, meaning the intelligence behind the strike was flawed
+- Former White House press secretary Robert Gibbs, when asked by a reporter how he could justify the killing of a 16-year-old American boy, responded: "I would suggest that you should have a far more responsible father if they are truly concerned about the well-being of their children." The comment was widely condemned as callous and morally grotesque — blaming a child for his parent's actions
+- Abdulrahman's grandfather filed a wrongful death lawsuit (*Al-Aulaqi v. Panetta*) through the ACLU and Center for Constitutional Rights, arguing the killings violated the Constitution's guarantee against deprivation of life without due process. A federal judge dismissed the case in April 2014, ruling the judiciary had an "exceedingly limited role" in reviewing national security decisions
+- The killing set no legal precedent for accountability when US drone strikes kill American minors
+- His 8-year-old sister, Nawar al-Awlaki, was also killed in a US Navy SEAL raid in Yemen in January 2017 — the first military operation authorized by President Trump — meaning three members of one American family were killed by US military action across two administrations
+- No US government official was ever held accountable for the killing of a 16-year-old American citizen
+- The pattern of extrajudicial killing of US citizens — father, then son, then daughter — is without precedent in American history
+- The US never released evidence establishing that al-Banna was at the location or that the strike met any legal threshold for targeting
+- The ACLU's Hina Shamsi described the drone program as "a bureaucratized paramilitary killing program that targets people far from any battlefield" that was "not just unlawful" but would "create more enemies than it kills"
+- The case raised a fundamental question that no branch of the US government has answered: what legal protection does an American child have against being killed by their own government?
+
+## Key Quotes
+
+> "I would suggest that you should have a far more responsible father if they are truly concerned about the well-being of their children. I don't think becoming an al Qaeda jihadist terrorist is the best way to go about doing your business." — Robert Gibbs, former Obama campaign adviser and White House press secretary, when asked about Abdulrahman's death, as reported by HuffPost and Antiwar.com
+
+> "To kill a teenager is just wrong. It's a violation of the right to life. Abdulrahman was a kid. He was an American kid." — Nasser al-Awlaki, Abdulrahman's grandfather, as reported by Middle East Eye
+
+> "He was in the wrong place at the wrong time." — Senior US administration official, describing Abdulrahman's death, as reported by multiple outlets
+
+## Aftermath and Legal Legacy
+
+The killing of Abdulrahman al-Awlaki became a focal point for critics of the US drone program. The ACLU and Center for Constitutional Rights filed *Al-Aulaqi v. Panetta* in 2012, arguing that the drone killings of Anwar al-Awlaki, Abdulrahman al-Awlaki, and Samir Khan violated the Constitution's guarantee against deprivation of life without due process. In April 2014, US District Judge Rosemary Collyer dismissed the lawsuit, ruling that government officials could not be held personally liable and that the judiciary's role in national security matters was "exceedingly limited."
+
+No government official was ever disciplined, investigated, or held accountable for the death of a 16-year-old American citizen. The case established a de facto precedent that American children killed in US military operations abroad have no legal remedy — their families cannot sue, and no court will review the government's actions.
+
+On January 29, 2017, a US Navy SEAL raid on an al-Qaeda compound in Yemen's Bayda Province killed Abdulrahman's 8-year-old sister, Nawar al-Awlaki. It was the first military operation authorized by President Trump. The raid also killed approximately 25 civilians, including several other children. Three members of one American family — father, son, daughter — were now dead at the hands of their own government.
+
+## See Also
+
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md) — His father, killed by a US drone strike two weeks earlier
+- [Pat Tillman](Pat_Tillman.md) — American killed by friendly fire with subsequent government cover-up
+- [Frank Teruggi](Frank_Teruggi.md) — American citizen killed by a foreign government with alleged US intelligence knowledge
+
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Zelimkhan Yandarbiyev](Zelimkhan_Yandarbiyev.md): Former Chechen president killed by a GRU car bomb in Qatar. Two Russian agents convicted.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Pavel Sheremet](Pavel_Sheremet.md): Started his car in Kyiv and it exploded. One of Europe's most prominent unsolved journalist killings.
+
+## Sources
+
+- [Wikipedia: Killing of Abdulrahman al-Awlaki](https://en.wikipedia.org/wiki/Killing_of_Abdulrahman_al-Awlaki)
+- [Middle East Eye: Still no justice for American teenager killed ten years ago](https://www.middleeasteye.net/news/abdulrahman-al-awlaki-us-drone-strike-10-years)
+- [The Intercept: Alleged target of drone strike that killed American teenager is alive](https://theintercept.com/2017/01/05/alleged-target-of-drone-strike-that-killed-american-teenager-is-alive-according-to-state-department/)
+- [The Intercept: Obama Killed a 16-Year-Old American in Yemen. Trump Just Killed His 8-Year-Old Sister.](https://theintercept.com/2017/01/30/obama-killed-a-16-year-old-american-in-yemen-trump-just-killed-his-8-year-old-sister/)
+- [Brookings: Holder - We've Droned 4 Americans, 3 By Accident](https://www.brookings.edu/articles/holder-weve-droned-4-americans-3-by-accident-oops/)
+- [CBS News: Who were the 4 US citizens killed in drone strikes?](https://www.cbsnews.com/news/who-were-the-4-us-citizens-killed-in-drone-strikes/)
+- [HuffPost: Robert Gibbs Says Awlaki's Son Needs 'Far More Responsible Father'](https://www.huffpost.com/entry/robert-gibbs-anwar-al-awlaki_n_2012438)
+- [ACLU: Al-Aulaqi v. Panetta](https://www.aclu.org/cases/al-aulaqi-v-panetta-constitutional-challenge-killing-three-us-citizens)
+
+*This information was built by Grok and Claude AI research.*

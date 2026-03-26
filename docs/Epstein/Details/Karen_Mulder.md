@@ -1,0 +1,152 @@
+
+
+# Karen Mulder
+Original Epstein-era whistleblower; named fashion industry rapists on French TV in 2001, was immediately hospitalized and silenced.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Karen Mulder |
+| **Born** | June 1, 1968, Vlaardingen, Netherlands |
+| **Status** | Alive — living privately in France |
+| **Category** | Whistleblower / Silenced Victim |
+
+## Assessment: SILENCED WHISTLEBLOWER
+
+Karen Mulder was one of the biggest supermodels in the world when she went on French national television in October 2001 and named powerful men who she said had raped and exploited her — including executives at Elite Model Management, police officers, politicians, and Prince Albert II of Monaco. All named individuals have denied her accusations. The interview was never broadcast. The footage was reportedly destroyed. Within hours she was hospitalized in a psychiatric facility for five months. Her career was destroyed. Her credibility was systematically dismantled. This happened 16 years before #MeToo and 18 years before Epstein's arrest.
+
+## The French TV Interview — October 31, 2001
+
+On October 31, 2001, Mulder appeared on France 2's *Tout le monde en parle* ("Everyone Is Talking About It"), hosted by Thierry Ardisson, in front of a live studio audience. During the taping, she stated that she had been repeatedly raped by:
+
+- **Gérald Marie** — President of Elite Model Management Europe, her employer
+- **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** — Modeling agent she called a "child hunter" (later charged with trafficking for Epstein; found hanged in prison in 2022)
+- **Prince Albert II of Monaco**
+- Police officers and politicians she did not fully name
+
+The host, Thierry Ardisson, dismissed her statements as "a paranoid delirium" and said she was in "an extremely disturbed psychological state."
+
+**The producers did not broadcast the interview. The recording was erased.**
+
+## Immediate Silencing
+
+Days later, Mulder repeated her allegations to a French weekly magazine in an interview conducted in her Paris apartment. Within hours of that interview, her sister Saskia arrived and took her to **Villa Montsouris**, a psychiatric hospital specializing in depression, anxiety, and delirium.
+
+She remained hospitalized for five months.
+
+**Her hospitalization was reportedly paid for by Gérald Marie — one of the men she had accused of raping her.**
+
+In 2002, she was reported to have attempted suicide.
+
+## Modeling Career
+
+At her peak, Karen Mulder was one of the most recognized faces in fashion:
+
+- **Victoria's Secret Angel** — one of the originals
+- Nine Vogue covers
+- Campaigns for **Versace, Dior, Chanel, Yves Saint Laurent, Valentino, Giorgio Armani, Lancôme, Guess**
+- Nicknamed the "real-life Barbie"
+- Active throughout the late 1980s and 1990s
+
+Her career ended after 2001. She has lived in near-total privacy in France since then.
+
+## Direct Connection to the Epstein Network
+
+### Jean-Luc Brunel
+
+Mulder named **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** as one of her abusers and called him a "child hunter." Brunel was deeply embedded in the Epstein trafficking operation:
+
+- Brunel founded **MC2 Model Management** with financing from [Jeffrey Epstein](Jeffrey_Epstein.md)
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) introduced Brunel to Epstein
+- [Virginia Giuffre](Virginia_Giuffre.md) testified that Epstein bragged he had "slept with over 1,000 of Brunel's girls"
+- Giuffre testified that Brunel sent **12-year-old girls from France** to Epstein as a "surprise birthday gift"
+- Brunel was arrested at Charles de Gaulle airport in December 2020, charged with rape, sexual assault, and human trafficking of minors
+- **Brunel was found hanged in his cell at La Santé Prison on February 19, 2022** — mirroring Epstein's death
+
+Mulder identified Brunel as a predator **19 years before his arrest**.
+
+### Gérald Marie
+
+Mulder named **Gérald Marie**, president of Elite Model Management's European division, as a rapist. Marie was one of the most powerful men in fashion. Multiple other models later accused Marie of sexual assault, including Carré Otis. French prosecutors investigated Marie for rape and sexual assault of models during the 1980s and 1990s, but **closed the case in February 2023** on statute of limitations grounds.
+
+Marie paid for Mulder's psychiatric hospitalization — the accuser's employer and alleged rapist funded her institutionalization.
+
+### Elite Model Management
+
+Elite Model Management was the pipeline. Both Brunel and Marie were Elite executives. Elite was the agency through which models were supplied to powerful men. Mulder was alleging a systemic operation — not isolated incidents — in 2001.
+
+## Why This Case Matters to the Epstein Investigation
+
+1. **She named Brunel in 2001.** He wasn't arrested until 2020 and died in prison in 2022. Nineteen years of trafficking continued after she spoke.
+2. **She described a systemic operation** — models supplied to powerful men by their own agencies. This is exactly the operation later documented in the Epstein case.
+3. **The silencing mechanism was institutional.** Not death, but psychiatric hospitalization, career destruction, and credibility attacks. The same playbook used against other accusers.
+4. **The footage was destroyed.** A recorded interview on a major French television network was erased rather than broadcast.
+5. **Her accuser paid for her hospitalization.** Gérald Marie — one of the men she named — funded her five-month stay in a psychiatric facility.
+6. **The Epstein network kept operating for 18 more years** without impediment after she was silenced.
+
+## The Pattern of Silencing Models
+
+Karen Mulder is part of a broader pattern of models connected to the Epstein orbit who were silenced or died:
+
+- **[Ruslana Korshunova](Ruslana_Korshunova.md)** — Documented on Epstein's jet at 18. Fell from 9th floor in 2008. Mother rejects suicide.
+- **[Anastasia Drozdova](Anastasia_Drozdova.md)** — Korshunova's friend. Died identically one year later.
+- **[Nadia Marcinko](Nadia_Marcinko.md)** — Epstein's pilot, granted immunity. Missing since January 2024.
+- **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** — The modeling agent Mulder named. Found hanged in prison, 2022.
+
+## Current Status
+
+As of 2026, Karen Mulder is alive and living privately in France, primarily in Paris, with her daughter Anna. She has largely withdrawn from public life. In late 2024, she briefly resurfaced to announce she would sell pieces from her personal fashion archive. The 2026 Epstein file releases have brought renewed attention to her 2001 allegations, with many recognizing her as a pioneer whistleblower who tried to warn the world two decades too early.
+
+## Key Quotes from Media Coverage
+
+> "I think [her claims of] sexual harassments were true."
+> — Thierry Ardisson, the TV host who in 2001 had dismissed Mulder's allegations as "a paranoid delirium," reversing his position in 2022, [Candice Wuehle / Substack](https://candicewuehle.substack.com/p/the-supermodel-who-said-too-much)
+
+> "Back in the 90s, Dutch supermodel Karen Mulder blew the whistle on Epstein's network — long before anyone listened. They locked her in an asylum, wrecked her career, tried to bury her. 23 years later? She's vindicated."
+> — Kimberley Kates, actress, [X/Twitter (February 2026)](https://x.com/KimberleyKates/status/2018779740673601610)
+
+> "In 2001, supermodel Karen Mulder went on a French talk show and accused powerful people of sexual abuse and human trafficking. The interview was pulled before it aired, and the footage was destroyed. After that, Karen was labeled 'crazy,' admitted to a psychiatric hospital."
+> — [Elle Lookbook (February 2026)](https://x.com/EvaLovesDesign/status/1949859419778322848)
+
+> "Karen Mulder Named Them in 2001. The Epstein Files Brought the Names Back."
+> — [India Herald headline (February 2026)](https://www.indiaherald.com/Breaking/Read/994877587/Karen-Mulder-Named-Them-in-The-Epstein-Files-Brought-the-Names-Back)
+
+## Related Groups
+
+- Elite Model Management — The agency where Brunel and Marie operated; used as trafficking pipeline
+- MC2 Model Management — Agency Brunel later founded with Epstein's money
+- Jeffrey Epstein Network — The broader operation Mulder tried to expose 19 years before Brunel's arrest
+
+## See Also
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Named by Mulder as a "child hunter" in 2001; found hanged in prison 2022
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Model on Epstein's jet who fell from building
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Model who died identically to Korshunova
+- [Nadia Marcinko](Nadia_Marcinko.md) — Epstein's pilot, missing since 2024
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Introduced Brunel to Epstein
+- [Virginia Giuffre](Virginia_Giuffre.md) — Testified about Brunel's trafficking for Epstein
+## Other Shocking Stories
+
+- [Thorbjorn Jagland](Thorbjorn_Jagland.md): Former Norwegian Prime Minister. Charged with corruption over Epstein ties. Hospitalized after suicide attempt.
+- [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
+
+## Sources
+
+- [Sunday Guardian: Who is Karen Mulder? Dutch Supermodel & Alleged Epstein Survivor](https://sundayguardianlive.com/world/who-is-karen-mulder-dutch-supermodel-alleged-jeffrey-epstein-survivor-in-spotlight-after-claiming-raped-by-powerful-men-new-epstein-files-168791/)
+- [India Herald: Karen Mulder Named Them in 2001. The Epstein Files Brought the Names Back.](https://www.indiaherald.com/Breaking/Read/994877587/Karen-Mulder-Named-Them-in-The-Epstein-Files-Brought-the-Names-Back)
+- [Michael Walsh: The Model who was a trailblazing Epstein Whistle Blower](https://michaelwalshwriter.com/2026/02/06/the-model-who-was-a-trailblazing-epstein-whistle-blower-video/)
+- [NewsBytes: Who's Karen Mulder? How's the model related to Epstein files](https://www.newsbytesapp.com/news/entertainment/who-is-karen-mulder-and-what-s-her-relation-to-epstein/story)
+- [Jezebel: Modeling And The Tragedy Of Karen Mulder](https://jezebel.com/modeling-and-the-tragedy-of-karen-mulder-5304706)
+- [Wikipedia: Karen Mulder](https://en.wikipedia.org/wiki/Karen_Mulder)
+- [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
+- [Wikipedia: Gérald Marie](https://en.wikipedia.org/wiki/G%C3%A9rald_Marie)
+- [Women's Agenda: How modelling agencies became a pipeline for the exploitation of young women](https://womensagenda.com.au/latest/how-modelling-agencies-became-a-pipeline-for-the-exploitation-of-young-women/)
+- [Academia.edu: The Ghost In Paris — How the Fashion Modelling Industry Tried to Silence Karen Mulder](https://www.academia.edu/143463097/The_Ghost_In_Paris_How_the_Fashion_Modelling_Industry_Tried_to_Silence_Karen_Mulder_by_Paul_Michael_Bales)
+- [Candice Wuehle / Substack: The Cassandra of the Catwalk](https://candicewuehle.substack.com/p/the-supermodel-who-said-too-much)
+- [Jessica Reed Kraus / Substack: Jean Luc Brunel's Death Buys More Silence](https://jessicareedkraus.substack.com/p/jean-luc-brunels-death-buys-more)
+- [Medium / Kins: Karen Mulder & the Story of Phaedra](https://medium.com/@kinsproductions/karen-mulder-the-story-of-phaedra-uncancellable-ep-01-5f125d934aaa)
+- [Magzter / The Independent: Fashion whistleblower lost everything but the truth](https://www.magzter.com/stories/newspaper/The-Independent/FASHION-WHISTLEBLOWER-LOST-EVERYTHING-BUT-THE-TRUTH)
+- [Substack / Vandecraats: Epstein-Jean Luc's Dark Web — Lessons from a Silenced Voice](https://vandecraats2025law.substack.com/p/epstein-jean-lucs-dark-web-lessons)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,151 @@
+
+
+# Che Guevara
+Argentine-born Marxist revolutionary, executed by a U.S.-trained Bolivian military unit in 1967 with CIA operative Felix Rodriguez present and relaying orders.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ernesto "Che" Guevara de la Serna |
+| **Born** | June 14, 1928, Rosario, Argentina |
+| **Died** | October 9, 1967 |
+| **Age at Death** | 39 |
+| **Location of Death** | La Higuera, Vallegrande, Bolivia |
+| **Cause of Death** | Execution by shooting |
+| **Official Ruling** | Killed in combat (Bolivian government's initial claim) |
+| **Alleged Intelligence Connection** | CIA |
+| **Category** | Foreign Leader / Revolutionary |
+
+## Assessment: CONFIRMED
+
+CIA involvement in the tracking, capture, and killing of Che Guevara is extensively documented through declassified U.S. government records. CIA operatives trained the Bolivian Rangers who captured Guevara, and CIA agent Felix Rodriguez was present at his execution, having relayed the Bolivian high command's order to kill him. While the execution order came from the Bolivian government, the entire operation was facilitated by CIA intelligence, training, and personnel. CIA Director Richard Helms personally briefed the White House on the circumstances, confirming that the published cover story attributing Guevara's death to battle wounds was false.
+
+## The Cuban Revolution
+
+Guevara was an Argentine physician whose political radicalization during motorcycle travels across Latin America led him to revolutionary politics. In Mexico City in 1955, he met Raul and Fidel Castro and joined their 26th of July Movement to overthrow Cuban dictator Fulgencio Batista. On November 25, 1956, Guevara sailed with 81 others aboard the yacht Granma from Mexico to Cuba. Batista's military attacked the landing party, and only about 22 survivors regrouped in the Sierra Maestra mountains.
+
+Though recruited as the group's doctor, Guevara's leadership and tactical ability prompted Castro to promote him to Comandante with command of his own column. In the Sierra Maestra, Guevara built infrastructure for the guerrillas and local population — a hospital, a bread oven, farms, a cigar factory, and a small armory. His decisive military contribution came in late 1958, when his column marched on Santa Clara and derailed an armored train filled with Batista's troops, seizing the city. This victory was the final blow that toppled the Batista regime. On January 1, 1959, Batista fled Cuba.
+
+After the revolution's triumph, Guevara served as president of the National Bank of Cuba and Minister of Industries, playing a central role in reshaping Cuba's economy and aligning the country with the Soviet Union.
+
+## Departure from Cuba
+
+By 1965, Guevara had grown disillusioned with Soviet influence over Cuba and the bureaucratization of the revolution. He believed the revolutionary struggle must be carried to other countries — that imperialism could only be defeated through multiple simultaneous fronts. In his farewell letter to Fidel Castro, dated April 1, 1965, Guevara resigned from all government positions, renounced his honorary Cuban citizenship, and declared his intention to fight for revolution abroad. He wrote: "Other nations of the world summon my modest efforts of assistance. I can do that which is denied you due to your responsibility as the head of Cuba."
+
+Guevara first traveled to the Congo in 1965, leading a small Cuban force supporting rebels in what was then Congo-Kinshasa. The campaign was a failure — Guevara later cited the incompetence, infighting, and lack of discipline among the Congolese rebels. He withdrew in November 1965 after the Tanzanian government ended support for the expedition.
+
+## The Bolivia Campaign
+
+After months of clandestine preparation and recovery in Prague and Cuba, Guevara entered Bolivia on November 3, 1966, under the alias "Adolfo Mena Gonzalez." He assembled approximately 50 fighters — 29 Bolivians, 25 Cubans, and several others including German-Argentine Tamara Bunke — establishing a base camp along the Nancahuazu River, 250 kilometers southwest of Santa Cruz de la Sierra. The plan was to create a foco, a nucleus of armed resistance that would spark a broader popular uprising against Bolivia's military government.
+
+The campaign was doomed from the start. The Bolivian Communist Party, led by Mario Monje, refused to support Guevara's operation. Local peasants viewed the guerrillas with suspicion rather than solidarity, and some actively informed on their movements to authorities. The terrain was punishing — dense jungle, steep ravines, and limited water sources. The guerrillas suffered from chronic shortages of food, medicine, and equipment. Several early ambush successes in the spring of 1967 gave way to a grinding campaign of attrition as Bolivian forces, now receiving intensive American support, closed in.
+
+## CIA Tracking Operation
+
+The CIA's involvement was direct and systematic. CIA Western Hemisphere Division officer Larry Sternfield recruited two Cuban-American contract operatives, Felix Rodriguez (codename "Felix Ramos") and Gustavo Villoldo, for the Bolivia mission. CIA station chief John Tilton personally introduced them to Bolivian President Rene Barrientos on August 2, 1967. Both were given cover identities as captains in the Bolivian army and embedded with the 2nd Ranger Battalion, which the United States Army Special Forces had trained specifically to hunt Guevara's guerrilla force.
+
+Declassified National Security Archive documents confirm that the highest levels of the U.S. government were closely monitoring the operation. National Security Advisor Walt Rostow kept President Lyndon Johnson informed and was, according to the documents, "intensely interested" in confirming Guevara's fate. The CIA provided intelligence, communications equipment, and strategic guidance that proved decisive in locating and encircling Guevara's dwindling force.
+
+## Capture at La Higuera
+
+On October 8, 1967, the Bolivian 2nd Ranger Battalion located Guevara's remaining guerrillas in a ravine called the Quebrada del Yuro near the village of La Higuera. In the firefight, Guevara was wounded in the leg and his rifle was destroyed by a bullet. According to multiple accounts, as soldiers approached, Guevara shouted: "Do not shoot! I am Che Guevara and worth more to you alive than dead."
+
+He was captured and taken to a one-room adobe schoolhouse in La Higuera. Only about 17 guerrillas remained from his original force. Most were killed or captured in the same engagement. Only five ultimately survived, escaping to Chile.
+
+## The Execution
+
+CIA operative Felix Rodriguez interrogated Guevara overnight and photographed his diary. Rodriguez later stated that the CIA's instructions were clear — they wanted Guevara alive for intelligence purposes. According to Rodriguez, he attempted to persuade Bolivian Colonel Joaquin Zenteno Anaya to transfer Guevara to CIA custody in Panama, but the Bolivian high command had decided otherwise.
+
+At approximately 11:50 a.m. on October 9, 1967, the order came from La Paz: execute the prisoner. The Bolivian government feared that a trial would turn Guevara into a martyr and a platform for revolutionary propaganda. Rodriguez received the coded message — the number "500," meaning Guevara was to be killed (as opposed to "600," meaning he should be kept alive). According to Rodriguez, he told Guevara the order had come. Guevara reportedly responded: "It is better like this... I never should have been captured alive."
+
+Bolivian Sergeant Mario Teran, reportedly after drinking to steady his nerves, entered the schoolhouse at approximately 1:10 p.m. and shot Guevara multiple times with an M-2 carbine. According to accounts of his final moments, Guevara's last words to Teran were: "Shoot, coward, you are only going to kill a man."
+
+The Bolivian government publicly announced that Guevara had died of battle wounds — a deliberate falsehood. CIA Director Richard Helms informed the White House that the published account was false, confirming through Rodriguez that Guevara had been captured alive with only a leg wound and was "otherwise in fair condition" before execution.
+
+## Aftermath: Hands and Hidden Burial
+
+After the execution, Guevara's hands were amputated and preserved in formaldehyde for fingerprint verification. His body was displayed to journalists at the Vallegrande hospital laundry house, then buried in a secret mass grave beneath the airstrip at Vallegrande alongside six of his fallen comrades. The location was kept secret for thirty years.
+
+Rodriguez kept Guevara's Rolex watch as a personal trophy, which he wore publicly for decades afterward.
+
+## Discovery of Remains — 1997
+
+In 1995, retired Bolivian General Mario Vargas Salinas revealed the approximate location of Guevara's burial site. A team of Cuban and Argentine forensic specialists began excavations near the Vallegrande airstrip. On June 28, 1997, seven skeletons were unearthed from a mass grave. The identification was confirmed through dental records, bone structure, bullet marks — and critically, the absence of hands on one skeleton.
+
+On July 12, 1997, a Cuban plane flew Guevara's remains from Santa Cruz, Bolivia, to Cuba. On October 17, 1997 — the 30th anniversary of his death — his remains were interred with full military honors at a massive memorial and mausoleum in Santa Clara, the city where his greatest military victory had sealed the Cuban Revolution's triumph.
+
+## Cultural Legacy: The Korda Photograph
+
+On March 5, 1960, photographer Alberto Korda captured a photograph of Guevara at a memorial service in Havana for victims of the La Coubre cargo ship explosion. The image, titled *Guerrillero Heroico* ("Heroic Guerrilla Fighter"), went largely unnoticed at the time. Korda described Guevara's expression as showing "absolute implacability" along with anger and pain.
+
+After Guevara's death in Bolivia in 1967, the photograph was reproduced globally and became the most widely reproduced photographic image in history — believed to be second only to Leonardo da Vinci's *Mona Lisa* as the most reproduced image in Western art. It has appeared on countless T-shirts, posters, murals, protest banners, and tattoos, becoming a universal symbol of rebellion and revolutionary idealism. Korda, a lifelong communist, never sought payment for the image's reproduction, reasoning that the wider the image spread, the further Guevara's ideals would travel.
+
+## Intelligence Connections
+
+* The CIA trained the Bolivian 2nd Ranger Battalion specifically to hunt Guevara's guerrilla force
+* CIA operative Felix Rodriguez (codename "Felix Ramos") was embedded with the Bolivian military and was one of the last people to speak with Guevara before his execution
+* Rodriguez relayed the execution order from the Bolivian high command, though he later claimed he wanted to keep Guevara alive
+* CIA operative Gustavo Villoldo was also embedded with Bolivian forces during the operation
+* Declassified National Security Archive documents confirm intensive CIA involvement in tracking Guevara's movements
+* The highest levels of the White House, including National Security Advisor Walt Rostow, were closely monitoring the operation and were "intensely interested" in confirming Guevara's death
+* CIA Director Richard Helms personally confirmed to the White House that the Bolivian cover story was false
+
+## Why This Death Raises Questions
+
+- The Bolivian government initially claimed Guevara was killed in combat, which was a deliberate falsehood confirmed by CIA Director Helms
+- The decision to execute rather than try Guevara suggests the Bolivian and U.S. governments feared a public trial would create a platform for revolutionary propaganda
+- Guevara's hands were amputated and his burial site was kept secret for 30 years
+- The U.S. government used his death to undermine leftist revolutionary movements across Latin America
+- Questions remain about whether Washington explicitly endorsed the execution order or merely allowed it to proceed — the CIA's stated preference was to keep him alive, yet the execution went forward with CIA personnel present
+- Rodriguez kept Guevara's Rolex watch as a personal trophy, which he wore publicly for decades
+- The CIA's role extended beyond advisory — its operatives were embedded in the field unit that captured Guevara and were present during the execution
+- The pattern mirrors other CIA-facilitated killings of leftist leaders across the Americas, including [Patrice Lumumba](Patrice_Lumumba.md) in the Congo and the overthrow of [Salvador Allende](Salvador_Allende.md) in Chile
+
+## Key Quotes
+
+> "Shoot, coward, you are only going to kill a man." — Che Guevara's reported last words to his executioner, Sergeant Mario Teran
+
+> "It is better like this... I never should have been captured alive." — Che Guevara, upon being told he would be executed, as reported by Felix Rodriguez
+
+> "Do not shoot! I am Che Guevara and worth more to you alive than dead." — Guevara at the moment of capture, October 8, 1967
+
+> "It was not in our interest to have him killed. We wanted him alive." — Felix Rodriguez, CIA operative, though the Bolivian command overruled him
+
+> "At the risk of seeming ridiculous, let me say that the true revolutionary is guided by great feelings of love." — Che Guevara, "Message to the Tricontinental," 1967
+
+> "If you tremble with indignation at every injustice, then you are a comrade of mine." — Che Guevara
+
+> "Other nations of the world summon my modest efforts of assistance. I can do that which is denied you due to your responsibility as the head of Cuba... Hasta la victoria siempre!" — Che Guevara, farewell letter to Fidel Castro, April 1, 1965
+
+## See Also
+
+- [Patrice Lumumba](Patrice_Lumumba.md) — Congolese independence leader assassinated with CIA and Belgian involvement in 1961; Guevara later fought in the Congo partly to honor Lumumba's legacy
+- [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the CIA-backed 1973 coup; part of the same pattern of U.S. intervention against leftist leaders in the Americas
+- [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader who died in a 1981 plane crash allegedly arranged by the CIA
+- [Thomas Sankara](Thomas_Sankara.md) — Revolutionary leader of Burkina Faso, assassinated in 1987 in a French-backed coup
+- [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator assassinated with CIA-supplied weapons in 1961
+
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Patrice Lumumba](Patrice_Lumumba.md): CIA shipped poison to kill Congo's first leader. Belgian operatives dissolved his body in acid instead.
+- [Frank Olson](Frank_Olson.md): CIA dosed their own scientist with LSD. Days later he "fell" from a hotel window. His skull showed a blow.
+- [Orlando Letelier](Orlando_Letelier.md): Chilean exile killed by a car bomb on Embassy Row in Washington, D.C. — ordered by Pinochet's secret police.
+- [Georgi Markov](Georgi_Markov.md): Bulgarian dissident stabbed with a ricin-tipped umbrella on Waterloo Bridge. Dead in three days.
+
+## Sources
+
+- [Che Guevara, the CIA, and the Mountains of Bolivia — National Security Archive](https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia)
+- [The Death of Che Guevara: Declassified Documents — National Security Archive](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB5/)
+- [The Execution of Che Guevara — EBSCO Research Starters](https://www.ebsco.com/research-starters/history/execution-che-guevara)
+- [How Did Che Die? CIA Helped Military-Ruled Bolivia Kill Marxist Revolutionary — Newsweek](https://www.newsweek.com/how-did-che-die-cia-helped-military-ruled-bolivia-kill-marxist-revolutionary-680751)
+- [Che Guevara — Britannica](https://www.britannica.com/biography/Che-Guevara)
+- [Che Guevara — Wikipedia](https://en.wikipedia.org/wiki/Che_Guevara)
+- ['Do Not Shoot!': The Last Moments of Che Guevara — Washington Post](https://www.washingtonpost.com/news/retropolis/wp/2017/10/09/do-not-shoot-the-last-moments-of-communist-revolutionary-che-guevara/)
+- [Guerrillero Heroico — Wikipedia](https://en.wikipedia.org/wiki/Guerrillero_Heroico)
+- [The Story Behind Che's Iconic Photo — Smithsonian Magazine](https://www.smithsonianmag.com/travel/iconic-photography-che-guevara-alberto-korda-cultural-travel-180960615/)
+- [Farewell Letter from Che to Fidel Castro — Marxists.org](https://www.marxists.org/archive/guevara/1965/04/01.htm)
+- [Che Guevara Returns Home — The Spokesman-Review](https://www.spokesman.com/stories/1997/jul/13/che-guevara-returns-home-remains-of-cuba/)
+- [Historical Documents, FRUS 1964-68 Vol. 31 — Office of the Historian](https://history.state.gov/historicaldocuments/frus1964-68v31/d168)
+
+*This information was built by Grok and Claude AI research.*

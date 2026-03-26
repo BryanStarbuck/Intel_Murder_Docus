@@ -1,0 +1,81 @@
+
+
+# Denis Voronenkov
+Former Russian State Duma member who defected to Ukraine and was shot dead in broad daylight outside a Kyiv hotel in 2017, after testifying against the Russian government and former Ukrainian president Viktor Yanukovych.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Denis Nikolayevich Voronenkov |
+| **Born** | 10 November 1971 |
+| **Died** | 23 March 2017 |
+| **Age at Death** | 45 |
+| **Location of Death** | Kyiv, Ukraine |
+| **Cause of Death** | Shot at least three times, including in the head |
+| **Official Ruling** | Homicide (contract killing) |
+| **Alleged Intelligence Connection** | FSB (Russian Federal Security Service) |
+| **Category** | Dissident / Defector |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Denis Voronenkov was a former Russian Duma member who defected to Ukraine and became a key witness against both the Russian government and former Ukrainian president Yanukovych. Ukrainian prosecutors concluded the killing was a contract hit arranged by an FSB officer. His assassination fits the well-documented pattern of Russian intelligence targeting defectors abroad.
+
+## Circumstances of Death
+
+On 23 March 2017, Voronenkov was leaving the Premier Palace hotel in central Kyiv when an assailant approached and shot him at least three times, including in the head. He died instantly on the sidewalk. Voronenkov's bodyguard returned fire, wounding the shooter — a Ukrainian national named Pavlo Parshov — who later died from his injuries in the hospital.
+
+The brazen daylight assassination in a busy area of Ukraine's capital immediately drew comparisons to other Russian intelligence killings of defectors and critics abroad.
+
+## Background
+
+Voronenkov was elected to the Russian State Duma in 2011 as a member of the Communist Party and served until 2016. He was a member of the Duma's security committee. After losing his seat and parliamentary immunity, he faced a corruption investigation in Russia.
+
+In October 2016, Voronenkov fled to Kyiv with his wife, opera singer Maria Maksakova. He was granted expedited Ukrainian citizenship in December 2016 in exchange for his cooperation as a witness in the treason trial of former Ukrainian president Viktor Yanukovych. Voronenkov testified about Russian involvement in the 2014 annexation of Crimea and reportedly provided evidence of Russian intelligence operations.
+
+After his defection, Russia opened criminal cases against him and placed him on an international wanted list. Voronenkov publicly stated he feared for his life and that Russian intelligence services were targeting him.
+
+## Intelligence Connections
+
+* Ukrainian prosecutors concluded the assassination was a contract killing arranged by an FSB officer
+* Ukrainian President Petro Poroshenko publicly alleged the killing was orchestrated by the Russian government
+* Voronenkov had served on the Duma's security committee and reportedly had knowledge of Russian intelligence operations
+* He was providing testimony about Russian involvement in the annexation of Crimea
+* The shooter, Pavlo Parshov, was a Ukrainian national allegedly recruited by Russian intelligence as a contract killer
+* The lawyer representing the suspect in Voronenkov's murder was himself shot dead in 2019, further complicating the investigation
+
+## Why This Death Raises Questions
+
+- Killed in broad daylight in central Kyiv — a hallmark of Russian intelligence operations meant to send a message to other potential defectors
+- Had been providing testimony against the Russian government and was a key witness in the Yanukovych treason case
+- Russia had opened criminal cases against him after his defection — a common precursor to targeting
+- Fits the pattern of Russian defectors being killed abroad: Litvinenko (London, 2006), Khangoshvili (Berlin, 2019)
+- The lawyer for the suspected shooter was subsequently murdered, suggesting an effort to eliminate the chain of evidence
+- Voronenkov had publicly warned he was a target before his death
+
+## Key Quotes
+
+> "It is an act of state terrorism by Russia." — Ukrainian President Petro Poroshenko, March 2017
+
+> "I left Russia because I realized the country has been seized by a criminal gang." — Denis Voronenkov, prior to his assassination
+
+## See Also
+
+- [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector poisoned in London
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident shot dead in Berlin by Russian agent
+- [Boris Nemtsov](Boris_Nemtsov.md) — opposition leader shot near the Kremlin
+- [Maxim Kuzminov](Maxim_Kuzminov.md) — Russian helicopter pilot defector found dead in Spain
+## Other Shocking Stories
+
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Mahmoud Hamshari](Mahmoud_Hamshari.md): Mossad planted a bomb inside his telephone. When he answered, they detonated it remotely in Paris.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
+
+## Sources
+
+- [Denis Voronenkov — Wikipedia](https://en.wikipedia.org/wiki/Denis_Voronenkov)
+- [Why a Russian Defector Was Gunned Down in Ukraine — Moscow Times](https://www.themoscowtimes.com/2017/03/23/why-a-russian-defector-was-gunned-down-in-ukraine-a57520)
+- [Former Russian Lawmaker Is Shot To Death Outside Hotel In Kiev — NPR](https://www.npr.org/sections/thetwo-way/2017/03/23/521215078/former-russian-lawmaker-is-shot-to-death-outside-hotel-in-kiev)
+- [Former Russian lawmaker Denis Voronenkov's killing — CBS News](https://www.cbsnews.com/news/denis-voronenkov-killed-latest-violence-people-critical-of-russia-government/)
+- [Lawyer For Suspect In Killing Shot Dead — RFE/RL](https://www.rferl.org/a/lawyer-for-suspect-in-killing-of-russian-lawmaker-voronenkov-in-ukraine-shot-dead/30263840.html)
+
+*This information was built by Grok and Claude AI research.*

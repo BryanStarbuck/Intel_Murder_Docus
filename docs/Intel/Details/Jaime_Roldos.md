@@ -1,0 +1,100 @@
+
+
+# Jaime Roldos
+President of Ecuador killed in a plane crash in 1981, just hours after delivering a speech asserting Latin American independence from U.S. policy. His death came two months before Panamanian leader Omar Torrijos died in a nearly identical plane crash. John Perkins alleged CIA involvement in both deaths.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jaime Roldos Aguilera |
+| **Born** | November 5, 1940 |
+| **Died** | May 24, 1981 |
+| **Age at Death** | 40 |
+| **Location of Death** | Huairapungo Hill, near Guachanama, Loja Province, Ecuador |
+| **Cause of Death** | Plane crash |
+| **Official Ruling** | Accidental crash |
+| **Alleged Intelligence Connection** | CIA (United States); Operation Condor |
+| **Category** | Foreign Leader |
+
+## Assessment: SUSPICIOUS
+
+The official investigation concluded the crash was accidental, but significant contradictions exist. An independent investigation by the Zurich Police concluded that the plane's engines were shut down when it struck the mountain -- a finding that contradicts the Ecuadorian Air Force report and was never further investigated. The timing -- just hours after a defiant anti-U.S. speech, and two months before Torrijos's nearly identical death -- combined with John Perkins's allegations and declassified Operation Condor documents, make this one of the most suspicious presidential deaths of the Cold War era. No concrete evidence has been found to definitively confirm CIA involvement, but the circumstantial case remains compelling.
+
+## Circumstances of Death
+
+On May 24, 1981, President Roldos was traveling in a Beechcraft Super King Air twin-engine turboprop from Quito to a military ceremony in the southern province of Loja. Earlier that day, he had delivered a speech commemorating the Battle of Pichincha -- Ecuador's independence day -- in which he called for Latin American independence from "inconsequential entanglements," a pointed reference to U.S. pressure to support anti-leftist operations in Central America. The speech was widely understood as a direct rebuke of Reagan administration policy.
+
+The aircraft crashed into Huairapungo Hill near the town of Guachanama in the Cerro de Huairapungo mountains. All aboard were killed, including Roldos, his wife Martha Bucaram de Roldos, the defense minister Marco Subía Martínez, and the flight crew. The crash site was remote and difficult to access, complicating the recovery and investigation.
+
+The Ecuadorian Air Force conducted the initial investigation and concluded the crash was an accident caused by pilot error in poor weather conditions. However, a separate investigation conducted by the Zurich Police reached a starkly different conclusion: the plane's engines were shut down at the time of impact, suggesting the aircraft was not simply flying into terrain but had lost power. The Ecuadorian government did not pursue this finding.
+
+## Background
+
+Jaime Roldos was elected president of Ecuador in 1979 with over 68 percent of the vote, becoming the country's first democratically elected leader after a period of military dictatorship that lasted from 1972 to 1979. At 38, he was the youngest president in Latin America. His election was part of a broader wave of democratic transitions across the continent.
+
+Roldos pursued a reformist, nationalist agenda that put him on a collision course with both domestic oligarchs and U.S. interests. His key policies included:
+
+- **Oil sovereignty:** Asserting Ecuadorian national control over oil resources, directly threatening the interests of U.S. oil companies that had operated with favorable terms under the military dictatorship
+- **Minimum wage increases:** Raising the minimum wage and strengthening workers' rights
+- **Human rights advocacy:** Publicly criticizing the military dictatorships in Argentina, Chile, and elsewhere for human rights abuses, at a time when the Reagan administration was supporting those regimes
+- **Literacy and healthcare:** Promoting literacy programs and improving access to healthcare for the rural poor
+- **Foreign policy independence:** Refusing to align with U.S. Cold War interventionism in Central America and maintaining diplomatic relationships with Cuba
+
+His independent foreign policy put him at odds with the Reagan administration, which took office in January 1981 and was escalating covert operations throughout Latin America. Roldos was one of the most vocal critics of U.S. regional policy among elected Latin American leaders.
+
+## Intelligence Connections
+
+* John Perkins, in his bestselling book *Confessions of an Economic Hit Man* (2004), alleged that the CIA arranged Roldos's death because he refused to cooperate with U.S. corporate and geopolitical interests, particularly regarding oil. Perkins described a system in which "economic hit men" first attempted to co-opt foreign leaders through bribes and economic pressure; when that failed, CIA "jackals" -- covert operatives -- were sent to eliminate them
+* Perkins alleged that both Roldos and Torrijos were specifically targeted because they resisted U.S. demands and sought to renegotiate terms that favored their countries over American corporations
+* A declassified 2014 CIA document confirmed that Ecuador, along with other South American countries, had been part of the U.S.-backed Operation Condor from the 1970s until Roldos's election in 1979. Operation Condor was a transnational political assassination program coordinated by right-wing South American military dictatorships with U.S. support
+* Roldos's death came exactly two months before Panamanian President Omar Torrijos was killed in a nearly identical plane crash on July 31, 1981 -- both leaders had opposed U.S. policy, and both died in small aircraft crashes in mountainous terrain
+* Ecuador's Attorney General reportedly investigated potential ties to Operation Condor in connection with Roldos's death. In 2019, there were calls to reopen the investigation based on newly available declassified documents
+* According to Perkins, Torrijos himself reportedly warned that he and Roldos were being targeted, telling associates months before his death that he expected to be killed
+
+## Why This Death Raises Questions
+
+- The Zurich Police investigation concluded that the aircraft's engines were shut down at the time of impact, contradicting the official "accident" finding and suggesting possible sabotage
+- The Ecuadorian government did not pursue the Zurich Police findings, raising questions about whether political pressure influenced the decision
+- The striking parallel with Torrijos's death two months later -- both reformist Latin American leaders opposed to U.S. policy, both killed in small plane crashes in remote mountainous terrain -- strains coincidence
+- Roldos was killed hours after his most defiant anti-U.S. speech, suggesting strategic timing
+- Ecuador under Roldos was moving to assert national control over oil resources, threatening powerful U.S. corporate interests -- the same oil companies that had benefited from the prior military dictatorship
+- The documentary *The Death of Jaime Roldos* (2013) by Manolo Sarmiento and Lisandra Rivera investigated the crash over several years and concluded the official account was inadequate
+- Key evidence, including the aircraft's maintenance records and flight data, was reportedly not preserved
+- The succession after Roldos's death brought Vice President Osvaldo Hurtado to power, who pursued more accommodating policies toward U.S. interests
+- Roldos's death occurred during the peak of Operation Condor activity and Reagan-era covert operations across Latin America
+
+## Key Quotes
+
+> "Ecuador should not become involved in inconsequential entanglements." -- President Jaime Roldos, in his final speech on May 24, 1981, rejecting U.S. pressure
+
+> "Roldos was getting too independent. He had to go." -- Paraphrased from John Perkins, *Confessions of an Economic Hit Man* (2004)
+
+> "The motors were shut down when the plane crashed into the mountain." -- Zurich Police investigation finding, as reported in *The Death of Jaime Roldos*
+
+## See Also
+
+- [Omar Torrijos](Omar_Torrijos.md) -- Panamanian leader who died the same way two months later
+- [Maurice Bishop](Maurice_Bishop.md) -- Grenadian PM executed in 1983 coup; U.S. invaded days later
+- [Patrice Lumumba](Patrice_Lumumba.md) -- Congolese leader assassinated with CIA and Belgian involvement
+- [Oscar Romero](Oscar_Romero.md) -- Archbishop killed by US-backed death squads in El Salvador in 1980
+- [Dag Hammarskjold](Dag_Hammarskjold.md) -- UN Secretary-General killed in suspicious 1961 plane crash
+
+- CIA (Group Profile) -- intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Fidan Dogan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Fuad Shukr](Fuad_Shukr.md): Hezbollah's top military commander killed by Israeli airstrike in Beirut during the 2024 escalation.
+- [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
+
+## Sources
+
+- [Wikipedia -- Jaime Roldos Aguilera](https://en.wikipedia.org/wiki/Jaime_Rold%C3%B3s_Aguilera)
+- [Historic Mysteries -- Jaime Roldos](https://www.historicmysteries.com/history/jaime-roldos/34069/)
+- [Cuenca High Life -- Ecuador Investigates Death of President Jaime Roldos and CIA Operation Condor](https://cuencahighlife.com/ecuador-investigates-the-death-of-president-jaime-roldos-attorney-general-says-that-it-could-be-tied-to-the-cias-operation-condor/)
+- [Pragda -- The Death of Jaime Roldos (Film)](https://pragda.com/film/the-death-of-jaime-roldos/)
+- [Docuseek -- The Death of Jaime Roldos](https://docuseek2.com/pr-roldos)
+- [teleSUR -- Ecuador: Request to Reopen Probe on CIA Killing of Jaime Roldos](https://www.telesurenglish.net/news/Ecuador-Request-to-Reopen-Probe-On-CIA-Killing-of-Jaime-Roldos-20190522-0022.html)
+- [Radio Havana Cuba -- CIA Papers Suggest Murder of Ecuador's Former President](https://www.radiohc.cu/index.php/en/noticias/internacionales/49174-cia-papers-suggest-murder-of-ecuadors-former-president)
+
+*This information was built by Grok and Claude AI research.*

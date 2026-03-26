@@ -1,0 +1,114 @@
+
+
+# Park Chung-hee
+President of South Korea for 18 years, architect of the "Miracle on the Han River" that transformed South Korea from one of the world's poorest nations into an industrial powerhouse — shot and killed by his own intelligence chief, KCIA Director Kim Jae-gyu, at a private dinner on October 26, 1979. U.S. intelligence had been in contact with the assassin in the weeks before the killing, and CIA station chief Robert Brewster identified the killer within 24 hours.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Park Chung-hee (Korean characters omitted) |
+| **Born** | November 14, 1917, Gumi, North Gyeongsang Province, Korea |
+| **Died** | October 26, 1979 |
+| **Age at Death** | 61 |
+| **Location of Death** | Seoul, South Korea (KCIA safe house in Gungjeong-dong) |
+| **Cause of Death** | Gunshot wounds (shot by KCIA Director Kim Jae-gyu) |
+| **Official Ruling** | Assassination / Homicide |
+| **Alleged Intelligence Connection** | KCIA (Korean Central Intelligence Agency); CIA (alleged advance awareness) |
+| **Category** | Foreign Leader |
+
+## Assessment: SUSPICIOUS
+
+Park was assassinated by his own intelligence chief at a private dinner, making this a confirmed intelligence service killing by definition. The deeper question is whether U.S. intelligence had advance knowledge or played a facilitating role. CIA station chief Robert Brewster had met with assassin Kim Jae-gyu just weeks before the killing, U.S. Ambassador William Gleysteen had also been in contact with Kim, and Brewster reportedly identified Kim as the killer by the following day — a speed of conclusion that has raised questions about foreknowledge. The Carter administration's strained relationship with Park over human rights abuses, the Koreagate bribery scandal, and Park's increasingly brutal crackdowns on democratic opposition all add a geopolitical dimension.
+
+## Circumstances of Death
+
+On the evening of October 26, 1979, President Park attended a private dinner at a KCIA safe house in the Gungjeong-dong district of Seoul, near the Blue House presidential compound. Present were KCIA Director Kim Jae-gyu, presidential chief security officer Cha Ji-chul, presidential secretary Kim Gye-won, and several others including two young women who had been brought to entertain the guests.
+
+During the dinner, tensions escalated. According to later testimony, Park berated Kim Jae-gyu for the KCIA's failure to anticipate or suppress the Bu-Ma democratic protests that had erupted in Busan and Masan. Park was reportedly furious that demonstrations — the largest since the fall of President Syngman Rhee in 1960 — had spread across multiple cities. According to Kim's later account, Park said that if the situation worsened, he would give the order to shoot demonstrators, and that unlike those who ordered the shooting of students in 1960 and were later executed, "no one can execute me because I am the president."
+
+At approximately 7:40 PM, Kim Jae-gyu stood up, drew a Walther PPK pistol, and shot Cha Ji-chul first, then turned and shot President Park in the chest. Kim left the room briefly to obtain a second pistol from an aide (his first had jammed), returned, and shot Park again — this time fatally — in the head behind the right ear. Kim's KCIA agents simultaneously killed four of Park's bodyguards in another part of the building.
+
+Park was rushed to a nearby Army hospital but was pronounced dead. Kim Jae-gyu initially attempted to take control of the government, contacting Army Chief of Staff Chung Seung-hwa, but was arrested within hours. He was tried by military tribunal, convicted, and executed by hanging on May 24, 1980.
+
+## Background
+
+Park Chung-hee was born on November 14, 1917, in Gumi, North Gyeongsang Province, during the Japanese colonial period. He attended a Japanese military academy in Manchuria and briefly served in the Japanese Kwantung Army during World War II — a controversial chapter that his political opponents would repeatedly raise. After Korea's liberation, he joined the South Korean military and rose through the ranks.
+
+On May 16, 1961, then-Major General Park seized power in a military coup, overthrowing the democratically elected government of Prime Minister Chang Myon. He initially ruled through a military junta, then transitioned to civilian rule by winning presidential elections in 1963 and 1967 — though both were marred by allegations of fraud and intimidation.
+
+### The Economic Miracle
+
+Park's 18-year rule is most closely associated with the "Miracle on the Han River" — South Korea's transformation from one of the world's poorest countries (with a per capita GDP lower than many African nations in 1961) into a modern industrial economy. His government pursued aggressive state-directed industrialization:
+
+- **Five-Year Plans**: Modeled partly on Japanese and Soviet planning, Park's government directed investment into targeted industries, beginning with light manufacturing and textiles in the 1960s
+- **Heavy industry drive**: In the 1970s, Park shifted focus to steel, shipbuilding, automobiles, petrochemicals, and electronics — the industries that would become South Korea's global champions (Hyundai, Samsung, LG, POSCO)
+- **Saemaul Undong (New Village Movement)**: Launched in 1970, this program modernized rural Korea by bringing electricity, running water, paved roads, and tin roofs to farming communities, reducing the urban-rural income gap
+- **Export-oriented growth**: Park's government offered subsidies, tax breaks, and cheap credit to companies (chaebol) that met export targets, creating the conglomerate-driven economy that persists today
+
+### The Authoritarian Crackdown
+
+The economic achievements came at enormous human cost. Park's regime was marked by:
+
+- Brutal suppression of political opposition, labor unions, and press freedoms
+- The KCIA's pervasive surveillance and intimidation of dissidents
+- In October 1972, Park declared martial law and enacted the Yushin Constitution, which dissolved the National Assembly, banned all political activity, and effectively made him president for life with unlimited terms and sweeping decree powers
+- Emergency Measures that made it a crime to criticize the Yushin Constitution, punishable by imprisonment
+- The 1974 assassination of his wife Yuk Young-soo by a North Korean sympathizer (the bullet was meant for Park)
+
+By 1979, Park faced mounting crises: the Bu-Ma Democratic Protests (beginning October 16 in Busan and spreading to Masan) saw mass demonstrations with students and citizens demanding repeal of the Yushin Constitution. His relationship with the United States had deteriorated sharply due to the Koreagate bribery scandal (in which Korean agents funneled money to U.S. congressmen) and the Carter administration's emphasis on human rights.
+
+## Intelligence Connections
+
+* The assassin, Kim Jae-gyu, was the sitting Director of the KCIA — South Korea's most powerful intelligence agency. He and Park were lifelong friends from the same hometown of Gumi and had been classmates at the Korean Military Academy
+* U.S. CIA station chief Robert Brewster met with Kim Jae-gyu on multiple occasions in the weeks before the assassination, including a meeting in September 1979 during rising tensions
+* U.S. Ambassador William Gleysteen also met with Kim Jae-gyu in the weeks preceding the assassination
+* By October 27 — just one day after the killing — CIA station chief Brewster had reportedly gathered enough information to conclude that the assassination plot was hatched by the KCIA director. The speed of this conclusion has raised persistent questions about whether the CIA had advance intelligence
+* A 2019 lawsuit sought CIA records related to U.S. involvement in the assassination, alleging American foreknowledge
+* Declassified cables show the U.S. was closely monitoring the political crisis and the Bu-Ma protests in the weeks leading up to the assassination
+* Kim Jae-gyu claimed at his trial that he killed Park "to restore democracy" — a goal that aligned with stated U.S. policy under the Carter administration
+
+## Why This Death Raises Questions
+
+- The assassin was the head of South Korea's own intelligence service — a lifelong friend of the president — making this an intelligence operation by definition
+- CIA station chief Brewster met with the assassin weeks before and identified him as the killer within 24 hours
+- The Carter administration had a strained relationship with Park over human rights abuses, the Koreagate scandal, and Park's increasingly authoritarian rule
+- The U.S. had strategic interests in South Korea's political direction, and Park's brutal crackdowns had become an international liability
+- Kim Jae-gyu's stated motive — "to restore democracy" — aligned with U.S. policy goals under Carter
+- Declassified cables show the U.S. was closely monitoring the political crisis in the weeks leading up to the assassination
+- The subsequent military coup by General Chun Doo-hwan — who used the assassination investigation to seize power — and the U.S. response to it (tacit acceptance despite Chun's bloody suppression of the Gwangju Uprising in May 1980) further complicates the question of American intent
+- Whether the U.S. actively encouraged, passively permitted, or was genuinely surprised by the assassination remains one of the unresolved questions of Cold War history in East Asia
+
+## Key Quotes
+
+> "I did it to restore democracy in this country." — Kim Jae-gyu, at his military tribunal
+
+> CIA station chief Bob Brewster "had gathered enough knowledge to conclude that the plot had been hatched by the KCIA director" by October 27, 1979 — the day after the assassination. — As reported by journalist Tim Shorrock
+
+> "Even those responsible for giving the shoot-to-kill order against student demonstrators in 1960 were executed — but no one can execute me because I am the president." — Park Chung-hee, reportedly at the dinner shortly before his assassination, according to Kim Jae-gyu's testimony
+
+## See Also
+
+- [Patrice Lumumba](Patrice_Lumumba.md) — Foreign leader assassinated with intelligence service involvement
+- [Thomas Sankara](Thomas_Sankara.md) — Foreign leader assassinated in a coup
+- [Omar Torrijos](Omar_Torrijos.md) — Foreign leader killed in suspicious plane crash, 1981
+- CIA (Group Profile) — intelligence service connected to this case
+
+## Other Shocking Stories
+
+- [Danny Casolaro](Danny_Casolaro.md): Told friends 'if I die, it wasn't suicide.' Found with slashed wrists in a hotel.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
+
+## Sources
+
+- [Assassination of Park Chung Hee — Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Park_Chung_Hee)
+- [Park Chung Hee — Wikipedia](https://en.wikipedia.org/wiki/Park_Chung_Hee)
+- [Kim Jae-gyu — Britannica](https://www.britannica.com/biography/Kim-Jae-Kyu)
+- [Park Chung-Hee — Britannica](https://www.britannica.com/biography/Park-Chung-Hee)
+- [Tim Shorrock — Jimmy Carter, the Assassination of Park Chung Hee](https://timshorrock.com/2022/10/26/the-assassination-of-park-chung-hee/)
+- [PM Press — Suit against CIA re US involvement](https://blog.pmpress.org/2019/08/23/suit-against-the-cia-re-us-involvement-in-the-1979-assassination-of-south-korean-president-park-chung-hee/)
+- [The Washington Post — South Korea Confirms Assassination of Park (1979)](https://www.washingtonpost.com/archive/politics/1979/10/29/south-korea-confirms-assassination-of-park/a7365144-5883-4254-b5e3-7a5ce3f46661/)
+- [EBSCO Research Starters — South Korean President Is Assassinated](https://www.ebsco.com/research-starters/history/south-korean-president-assassinated)
+- [Korea Times — Assassination of President Park Chung-hee in 1979](https://www.koreatimes.co.kr/lifestyle/people-events/20101024/assassination-of-president-park-chung-hee-in-1979)
+
+*This information was built by Grok and Claude AI research.*
