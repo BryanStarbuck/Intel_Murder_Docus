@@ -65,6 +65,9 @@ Casolaro was tracing links between intelligence agencies and organized crime net
 
 Casolaro believed he was weeks away from completing his book. He told friends and associates he just needed one final piece of evidence — and that his source in Martinsburg would provide it.
 
+### 7. Alleged Black Technology and Reverse-Engineering Connections
+Some of Casolaro's sources reportedly claimed that "The Octopus" extended into classified technology programs, including allegations of recovered non-human technology and reverse-engineering efforts connected to Area 51 and related facilities. According to researchers who have examined Casolaro's surviving notes, some of his source material touched on allegations that PROMIS software was used to track not only foreign intelligence data but also compartmented special access programs related to exotic technology. These claims remain among the most speculative and least documented threads of Casolaro's investigation, and were not the primary focus of his work — but they have led UAP/UFO researchers to periodically cite Casolaro's case as tangentially connected to the broader question of whether intelligence agencies suppress non-conventional technology programs.
+
 ## His Warnings and the Threats
 
 In the months before his death, Casolaro grew increasingly concerned about threats:

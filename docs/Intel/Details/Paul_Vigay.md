@@ -1,0 +1,112 @@
+[< Back to Main List](../)
+
+# Paul Vigay
+British computer scientist and internationally recognized UFO and crop circle researcher, found dead floating in the sea off Portsmouth in February 2009 under circumstances the coroner described as a "mystery." No definitive cause of death was established.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Paul Vigay |
+| **Born** | October 24, 1964 |
+| **Died** | February 20, 2009 |
+| **Age at Death** | 44 |
+| **Location of Death** | Sea off Southsea beach, Portsmouth, Hampshire, England |
+| **Cause of Death** | Drowning (found in sea; manner undetermined) |
+| **Official Ruling** | Open verdict — coroner unable to determine if suicide or accident |
+| **Alleged Intelligence Connection** | Investigated government/military involvement in crop circle phenomena; claimed to have detected military-grade electronic signatures at crop circle sites; consulted on M. Night Shyamalan's film *Signs* (2002) |
+| **Victim Was Intel Employee** | No |
+| **Category** | Civilian Casualty |
+
+## Assessment: SUSPICIOUS
+
+Paul Vigay was one of the UK's most prominent UFO and crop circle researchers, known for applying scientific instrumentation and computer analysis to phenomena that governments have historically sought to control narratives around. He was found dead in the sea off Portsmouth with no definitive determination of suicide or accident. While his girlfriend reported they had argued the night before — and he left a note reading "I love you" with computer passwords — no suicide note was found, and his family disputed the suicide theory. The coroner recorded an open verdict, stating the circumstances remained a "mystery." Vigay's death fits a pattern identified by researchers of suspicious deaths among UFO investigators, though the evidence of intelligence involvement is circumstantial and weak compared to other cases in this project.
+
+## Circumstances of Death
+
+On the evening of February 19, 2009, Paul Vigay's girlfriend Andrea Smith attempted to end their relationship at their shared home in Portsmouth. According to Smith's account to police:
+
+- Vigay became emotional after the breakup conversation
+- He convinced Smith to stay in the house, then departed himself
+- Smith later found a short note Vigay had left, reading "I love you" and including his telephone PIN code and computer passwords
+- She reported him missing that evening
+
+On February 20, 2009, Vigay's body was discovered floating in the sea off Southsea beach in Portsmouth.
+
+At the inquest, the coroner noted:
+- No suicide note was found (the "I love you" note was not considered a suicide note by investigators)
+- The manner of death could not be definitively determined
+- An **open verdict** was recorded — meaning neither suicide nor accident could be established
+- The coroner described the circumstances as a "mystery"
+
+Police stated they found no evidence of foul play but acknowledged they could not determine what happened.
+
+## Background
+
+Paul Vigay was a British computer consultant and researcher who gained international recognition in two fields:
+
+### RISC OS Software Development
+Vigay was a respected developer in the RISC OS community (the operating system used by Acorn/ARM computers). He created and maintained multiple software applications and was known for his technical expertise.
+
+### UFO and Crop Circle Research
+Beginning in 1989–1990, Vigay applied scientific instrumentation to crop circle research:
+
+- **Electronic detection:** Used electromagnetic field detectors, frequency counters, and other instruments to measure anomalies inside crop circles, documenting effects such as mobile phone signal loss confined to circle boundaries and electrical inconsistencies in plant stalks
+- **Database:** Maintained one of the most comprehensive databases of crop circle formations in the world
+- **Film consultant:** Provided research and consultation for M. Night Shyamalan's film *Signs* (2002), and appeared as an on-screen researcher in documentaries including *Crop Circles: Quest for Truth* (2002) and *Mysterious Worlds* (2003)
+- **Public profile:** Vigay was one of the most publicly visible UFO/crop circle researchers in the UK, making regular media appearances and maintaining an extensive website
+
+Vigay was a father of one.
+
+## Intelligence Connections
+
+- Vigay claimed to have detected military-grade electronic signatures at certain crop circle sites, which he interpreted as evidence that some formations were created or monitored by military/intelligence agencies
+- The UK Ministry of Defence maintained files on crop circles and UFO phenomena (released under FOIA), indicating government interest in the same phenomena Vigay investigated
+- Portsmouth, where Vigay lived and died, is home to the Royal Navy's primary base and has a significant military/intelligence presence
+- Vigay's death has been included in compilations of suspicious deaths among UFO researchers, alongside others such as Max Spiers (2016)
+- No direct evidence links any intelligence service to Vigay's death
+
+## Why This Death Raises Questions
+
+- **Open verdict:** The coroner could not determine whether the death was suicide or accident — an unusual finding
+- **No suicide note:** Despite being a prolific writer and communicator, Vigay left no explanation for his death
+- **Family disputes suicide:** Vigay's family and some friends disputed the suggestion that he would have taken his own life
+- **Pattern of UFO researcher deaths:** Vigay's death has been cited alongside other suspicious deaths of UFO researchers — a pattern documented in books and articles examining whether the field is unusually dangerous
+- **Timing:** Vigay was active in research at the time of his death with no indication he intended to stop
+- **Military proximity:** Portsmouth's concentration of military and naval intelligence infrastructure
+
+## Counterarguments
+
+- Vigay had just experienced a relationship breakup the night he died — a known risk factor for impulsive self-harm
+- He left a note with passwords and a final message, consistent with someone contemplating not returning
+- Police found no evidence of foul play
+- Vigay researched crop circles and UFOs, not classified government programs — his work, while publicly visible, was unlikely to threaten intelligence agencies
+- The "pattern of UFO researcher deaths" thesis is based largely on compilation and correlation, not established causation
+- Open verdicts are not uncommon in UK drowning cases where no witnesses are present
+
+## Key Quotes
+
+> "Despite an inquest, it remains unclear whether Paul Vigay committed suicide or died accidentally." — UPI, January 2010
+
+> "The circumstances surrounding his death remain a mystery." — Coroner's statement at inquest, as reported by multiple outlets
+
+## See Also
+
+- [Max Spiers](Max_Spiers.md) — UK conspiracy researcher investigating MKULTRA and elite rings, vomited black fluid and died in Warsaw, 2016
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating "The Octopus" intelligence network, found dead in hotel bathtub, 1991
+- [David Kelly](David_Kelly.md) — UK weapons inspector, ruled suicide, records sealed until 2073
+
+## Other Shocking Stories
+
+- [Max Spiers](Max_Spiers.md): Texted his mother "if anything happens to me, investigate." Two days later he vomited black fluid and died in Warsaw.
+- [Karen Silkwood](Karen_Silkwood.md): Documents she was carrying to the NY Times vanished from her car after the fatal crash. Kerr-McGee settled.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who accused Hollywood elites of pedophilia. Said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest.
+- [William Colby](William_Colby.md): Former CIA Director left dinner half-eaten, computer on. Found in the Potomac nine days later.
+
+## Sources
+
+- [Wikipedia: Paul Vigay](https://en.wikipedia.org/wiki/Paul_Vigay)
+- [UPI: Death of UFO expert unsolved](https://www.upi.com/Top_News/World-News/2010/01/21/Death-of-UFO-expert-unsolved/75921264099505/)
+- [Colin Andrews: In Memory of Paul Vigay](https://colinandrews.net/PaulVigayPassingByDaveHaith.html)
+- [Colin Andrews: Passing of Paul Vigay](https://www.colinandrews.net/PaulVigayPassing.html)
+- [Yahoo News UK: Are UFO experts being murdered?](https://uk.news.yahoo.com/are-ufo-experts-being-murdered--new-book-to-investigate--pattern--of-deaths-134147932.html)
+
+*This information was built by Grok and Claude AI research.*

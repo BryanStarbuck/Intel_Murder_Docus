@@ -1,0 +1,79 @@
+# Troy Boner
+
+Franklin scandal witness who testified about elite child sex abuse, recanted under FBI pressure, later reaffirmed his testimony, and was found dead in a New Mexico hospital after walking in screaming about the case.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Troy Boner |
+| **Born** | c. 1969, Omaha, Nebraska |
+| **Died** | Late 2003 |
+| **Age at Death** | Approximately 34 |
+| **Location of Death** | Hospital in New Mexico |
+| **Cause of Death** | Found dead in chair, bleeding from the mouth |
+| **Official Ruling** | Drug overdose |
+| **Category** | Witness / Whistleblower |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Troy Boner was a central witness in the Franklin child abuse scandal who gave detailed videotaped testimony about elite sexual abuse, recanted after his brother was killed and the FBI applied pressure, then later reaffirmed his original testimony. He died under bizarre circumstances in a New Mexico hospital after walking in waving a copy of *The Franklin Cover-Up* and screaming that "they" were after him. No autopsy results were ever made public.
+
+## Circumstances of Death
+
+In late 2003, according to multiple accounts, Troy Boner walked into a hospital in New Mexico in a state of extreme agitation. He was reportedly waving a copy of John DeCamp's book *The Franklin Cover-Up* and screaming, "They're after me, they're after me because of this book."
+
+Hospital staff mildly sedated him and placed him in a private room for observation. When nurses returned to check on him early the next morning, they found Boner sitting in a chair, dead, bleeding from the mouth.
+
+Former FBI Los Angeles Bureau Chief Ted Gunderson, according to published accounts, attempted to obtain the autopsy report and other details surrounding Boner's death but was, as Gunderson described it, "totally shut out of all information." No news stories about his death appeared in any outlet, despite Boner's previous front-page notoriety from the Franklin case.
+
+## Background
+
+Troy Boner was one of several young people from the Omaha, Nebraska area who came forward as witnesses in the Franklin child abuse investigation during the late 1980s and early 1990s.
+
+On November 25, 1989, Boner gave his first videotaped interview to investigator [Gary Caradori](Gary_Caradori.md) and Karen Ormiston at a Residence Inn in Lincoln, Nebraska. Boner, then approximately 20 years old, described being sexually abused at parties hosted by Lawrence E. "Larry" King Jr. and attended by prominent political and business figures.
+
+Boner's testimony was corroborated by other Franklin witnesses, including Paul Bonacci and Alisha Owen, who described similar abuse at the hands of the same network of individuals.
+
+After the investigation intensified, Boner recanted his testimony. According to accounts from multiple sources, this recantation came after severe pressure from the FBI and after a devastating personal loss: his brother Shawn Boner was shot dead on January 14, 1991, allegedly while playing Russian roulette in a Capehart military housing apartment near Offutt Air Force Base. According to published reports, Shawn was found in an apartment where he had never been before, surrounded by satanic materials, with people he had not previously associated with.
+
+Troy Boner later re-recanted, reaffirming his original abuse testimony. In the suppressed documentary *Conspiracy of Silence*, Boner stated that the FBI had threatened him into recanting.
+
+## Why This Death Possibly Raises Questions
+
+- Boner was a key witness in a case involving allegations of elite child sexual abuse with political connections at the highest levels of government
+- His brother Shawn Boner died under suspicious circumstances shortly before Troy was to testify, in what was ruled an accidental shooting during Russian roulette
+- He arrived at the hospital in extreme distress, specifically naming the Franklin case as the reason people were "after" him
+- He was found dead the next morning after being sedated, with no public explanation of how a mildly sedated patient died overnight
+- No autopsy results were ever released publicly
+- Former FBI Bureau Chief Ted Gunderson reported being blocked from obtaining any information about the death
+- No media coverage of his death appeared despite his previous high-profile role in the Franklin case
+- The lead investigator who took his testimony, [Gary Caradori](Gary_Caradori.md), had also died under suspicious circumstances in 1990 when his plane disintegrated mid-air
+- Another Franklin witness, Alisha Owen, was sentenced to prison for perjury after refusing to recant her testimony
+
+## The Counterargument
+
+The official ruling of drug overdose, while never substantiated with public documentation, could explain both his erratic behavior at the hospital and his subsequent death. Boner reportedly had a troubled life after the Franklin investigation, and long-term trauma from childhood abuse could have contributed to substance abuse issues. The bleeding from the mouth could be consistent with certain types of overdose. The lack of media coverage may reflect the passage of time and diminished public interest in the Franklin case by 2003.
+
+## Key Quotes from Media Coverage
+
+> "They're after me, they're after me because of this book."
+> -- Troy Boner, upon entering the New Mexico hospital, waving a copy of *The Franklin Cover-Up*, as reported by multiple sources
+
+> "I tried to get autopsy and other information and details that were promised me on Boner's death, but I, and apparently every other entity, were totally shut out of all information."
+> -- Ted Gunderson, former FBI Los Angeles Bureau Chief, as reported by investigative sources
+
+## See Also
+
+- [Gary Caradori](Gary_Caradori.md) -- Lead Franklin scandal investigator who took Boner's testimony; died in 1990 plane crash
+- [Craig Spence](Craig_Spence.md) -- Washington lobbyist connected to elite abuse networks who died in 1989
+- [Kathleen Sorenson](Kathleen_Sorenson.md) -- Franklin scandal foster mother killed in 1989 head-on collision
+
+## Sources
+
+- [Troy Boner - Wikispooks](https://wikispooks.com/wiki/Troy_Boner)
+- [The Death of Troy Boner - Prophetic News](https://propheticnews.wordpress.com/2020/03/18/the-death-of-troy-boner/)
+- [Franklin Child Sex Ring - CAVDEF](https://cavdef.org/w/index.php?title=Franklin_child_sex_ring)
+- [Troy Boner - The Franklin Scandal](http://www.franklinscandal.com/Troy/)
+- [The Franklin Cover-Up by John DeCamp - Archive.org](https://archive.org/stream/TheFranklinCover-upByFormerGreenBeretJohnDecamp/the_Frankklin_cover-up_-_ebook_djvu.txt)
+- [The Franklin Child Abuse Scandal - Geek Slop](https://www.geekslop.com/life/strange/bizarre-crimes/2011/franklin-child-abuse-scandal-child-prostitution-ring-wealthy-elitists-political-leaders)
+
+*This information was built by Grok and Claude AI research.*
