@@ -6,7 +6,7 @@ const siteUrl = process.env.DOCUSAURUS_URL ?? "https://intelligencemurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? "/";
 
 const config: Config = {
-  title: "Intel Murder Docus",
+  title: "Intelligence Service Murdering Americans",
   tagline: "",
   favicon: "img/favicon.ico",
 
@@ -64,7 +64,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "Intel Murder Docus",
+      title: "Intel Murdering Americans",
       logo: {
         alt: "Site Logo",
         src: "img/logo.svg",

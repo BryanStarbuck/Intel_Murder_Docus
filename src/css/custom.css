@@ -18,75 +18,6 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-/* Hide the left sidebar globally */
-.theme-doc-sidebar-container {
-  display: none !important;
-}
-.theme-doc-markdown {
-  max-width: 100%;
-}
-aside.theme-doc-sidebar-container {
-  display: none !important;
-}
-
-/* People sidebar (right column) */
-.people-sidebar {
-  position: sticky;
-  top: calc(var(--ifm-navbar-height) + 1rem);
-  max-height: calc(100vh - var(--ifm-navbar-height) - 2rem);
-  overflow-y: auto;
-  padding: 0 0.5rem 2rem 0.75rem;
-  scrollbar-width: thin;
-  scrollbar-color: var(--ifm-color-emphasis-300) transparent;
-}
-.people-sidebar::-webkit-scrollbar {
-  width: 4px;
-}
-.people-sidebar::-webkit-scrollbar-thumb {
-  background: var(--ifm-color-emphasis-300);
-  border-radius: 2px;
-}
-.people-sidebar__title {
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--ifm-color-emphasis-600);
-  padding-bottom: 0.5rem;
-  margin-bottom: 0.25rem;
-  border-bottom: 1px solid var(--ifm-color-emphasis-200);
-}
-.people-sidebar__list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.people-sidebar__item {
-  padding: 0.5rem 0;
-  border-bottom: 1px solid var(--ifm-color-emphasis-100);
-}
-.people-sidebar__item:last-child {
-  border-bottom: none;
-}
-.people-sidebar__name {
-  font-size: 0.8rem;
-  font-weight: 700;
-  color: var(--ifm-color-primary);
-  text-decoration: none;
-  display: block;
-  margin-bottom: 0.15rem;
-}
-.people-sidebar__name:hover {
-  color: var(--ifm-color-primary-dark);
-  text-decoration: underline;
-}
-.people-sidebar__blurb {
-  font-size: 0.72rem;
-  line-height: 1.35;
-  color: var(--ifm-color-emphasis-700);
-  margin: 0;
-}
-
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -96,4 +27,48 @@ aside.theme-doc-sidebar-container {
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Hide the left sidebar — navigation is in the top navbar */
+aside.theme-doc-sidebar-container {
+  display: none !important;
+}
+
+/* Let the main content expand to full width minus right sidebar */
+.theme-doc-sidebar-container + main {
+  --doc-sidebar-width: 0px !important;
+}
+
+/* Two-column layout: main content + people sidebar */
+main > .container > .row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+}
+
+/* Main content column takes remaining space */
+main > .container > .row > div[class*="docItemCol"] {
+  max-width: none !important;
+  flex: 1 1 0% !important;
+  min-width: 0 !important;
+}
+
+/* People sidebar column (right side) */
+main > .container > .row > .col.col--3 {
+  flex: 0 0 300px !important;
+  max-width: 300px !important;
+  width: 300px !important;
+}
+
+/* Hide people sidebar on smaller screens */
+@media (max-width: 996px) {
+  main > .container > .row > .col.col--3 {
+    display: none !important;
+  }
+  main > .container > .row > div[class*="docItemCol"] {
+    max-width: 100% !important;
+    flex: 1 !important;
+  }
+  main > .container > .row {
+    flex-wrap: wrap !important;
+  }
 }
