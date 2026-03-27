@@ -1,0 +1,105 @@
+# Mino Pecorelli
+
+Italian investigative journalist with deep intelligence contacts, shot four times in his car in Rome after publishing explosive revelations about the Aldo Moro kidnapping and Prime Minister Giulio Andreotti's ties to the P2 Masonic lodge and the Mafia.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Carmine "Mino" Pecorelli |
+| **Born** | September 14, 1928, Sessano del Molise, Italy |
+| **Died** | March 20, 1979 |
+| **Age at Death** | 50 |
+| **Location of Death** | Prati district, Rome, Italy |
+| **Cause of Death** | Four gunshots while sitting in his car |
+| **Official Ruling** | Homicide (unsolved) |
+| **Alleged Intelligence Connection** | Italian intelligence services (SISDE/SISMI), P2 Masonic lodge (Propaganda Due), CIA (via Gladio/P2 network) |
+| **Victim Was Intel Employee** | No |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Pecorelli was a journalist with extraordinary access to Italian intelligence sources who published devastating revelations about the state's handling of the Aldo Moro kidnapping, implicating Prime Minister Andreotti and the P2 lodge in allowing Moro to die. The rare Gevelot-brand bullets used to kill him were later found in the weapons cache of the Banda della Magliana, a Rome-based criminal organization with documented ties to both the Mafia and Italian intelligence. Mafia turncoat Tommaso Buscetta testified that the murder was carried out on Andreotti's orders, and an appeals court convicted Andreotti in 2002 before the Supreme Court overturned the verdict in 2003.
+
+## Circumstances of Death
+
+On the evening of March 20, 1979, Pecorelli was shot four times while sitting in his car in Rome's Prati district, near his office. The killing bore the hallmarks of a professional execution. The bullets used were of the Gevelot brand, a rare French-manufactured ammunition not commonly available on either legal or clandestine markets in Italy. This same type of bullet was later discovered in the Banda della Magliana's weapons stockpile, which had been concealed in the basement of Italy's Health Ministry.
+
+No witnesses came forward, and the investigation stalled for over a decade. The case was reopened only after Mafia informants began cooperating with prosecutors in the early 1990s.
+
+## Background
+
+Pecorelli was born in Sessano del Molise on September 14, 1928. As a teenager during World War II, he briefly served in the fascist naval militia Decima Flottiglia MAS during the German occupation. He later joined the Polish II Corps and fought in the Battle of Monte Cassino at just 16 years old.
+
+After the war, Pecorelli studied law and began a career in journalism and political commentary. He initially wrote for the political journal *Nuovo Mondo d'Oggi* before founding his own press agency, **Osservatore Politico (OP)**, in 1968. OP later became a weekly magazine that specialized in exposing political scandals. By the late 1970s, Pecorelli had cultivated an extraordinary network of contacts within the Italian government and intelligence services, enabling him to publish first-hand stories that no other journalist could access.
+
+Pecorelli's name was later found on the membership list of **Propaganda Due (P2)**, the secret Masonic lodge run by Licio Gelli, discovered by Italian police during a raid in 1980. P2's membership included heads of all three Italian intelligence services, military commanders, politicians, bankers, and media figures. Whether Pecorelli was a willing member or was enrolled to monitor him remains debated.
+
+## Intelligence Connections
+
+* **P2 Masonic Lodge**: Pecorelli's name appeared on Licio Gelli's P2 membership list, placing him within a network that included senior Italian intelligence officials, military officers, politicians, and financial figures. P2 has been described as a parallel government operating within Italy's democratic institutions.
+* **Italian Intelligence Services (SISDE/SISMI)**: Pecorelli maintained extensive contacts within Italy's intelligence agencies, which were his primary sources for the explosive material published in OP. His access to classified information about the Moro kidnapping suggests high-level intelligence sources.
+* **Banda della Magliana**: The rare Gevelot bullets that killed Pecorelli were found in this criminal organization's weapons cache. The Banda della Magliana had documented operational ties to both the Sicilian Mafia and Italian intelligence services, serving as an enforcement arm for powerful interests.
+* **CIA / Operation Gladio**: P2 has been linked to the CIA's Operation Gladio stay-behind network in Italy. According to multiple investigators, Gladio operatives and P2 members overlapped significantly, and both were allegedly involved in Italy's "strategy of tension" during the 1970s.
+* **The Aldo Moro Affair**: Pecorelli published confidential documents from Moro's captivity, including letters Moro wrote to his family. He alleged that General Carlo Alberto dalla Chiesa had identified the location where Moro was being held by the Red Brigades but was prevented from mounting a rescue by forces Pecorelli cryptically referred to as "a certain Christ's lodge in Paradise" — widely interpreted as a reference to P2.
+
+## Why This Death Raises Questions
+
+- Pecorelli was about to publish further compromising material about Prime Minister Andreotti's relationship with the Mafia and his role in the Moro affair at the time of his death
+- The rare Gevelot-brand bullets matched ammunition later found in the Banda della Magliana's weapons stockpile hidden in a government ministry basement
+- Mafia pentito Tommaso Buscetta testified in 1993 that he learned from his boss Gaetano Badalamenti that Pecorelli's murder was carried out "in the interest of Andreotti"
+- An appeals court in Perugia convicted Andreotti and Badalamenti in 2002, sentencing them to 24 years — demonstrating that at least one level of the Italian judiciary found the evidence compelling
+- Pecorelli had published information about Moro's captivity that could only have come from intelligence sources, suggesting he had become a liability to powerful figures within the intelligence-P2-Mafia nexus
+- The execution-style killing in a public street with no witnesses suggests a professional hit, not a random crime
+- Pecorelli was a member of P2, the very organization he was exposing — making him a potential threat from inside the lodge
+- The investigation was stalled for over a decade, reopening only after Mafia informants began cooperating in the 1990s
+
+## The Andreotti Trials
+
+The legal saga surrounding Pecorelli's murder is one of the most extraordinary in Italian judicial history:
+
+- **1993**: Mafia turncoat Tommaso Buscetta told Palermo prosecutors that Badalamenti had told him Pecorelli was killed on Andreotti's behalf
+- **1999**: Andreotti was acquitted at the first trial in Perugia, along with co-defendants Gaetano Badalamenti and Massimo Carminati
+- **2002**: On appeal, the Perugia assizes court convicted Andreotti and Badalamenti, sentencing both to 24 years in prison for ordering Pecorelli's murder
+- **2003**: Italy's Supreme Court of Cassation overturned the convictions, finding the testimony of Mafia informants insufficiently reliable. The court noted that Buscetta had not originally mentioned the Andreotti allegation when first interviewed by Judge Giovanni Falcone, and had later recanted portions of his testimony
+
+The acquittal by the Supreme Court does not prove innocence — it means the prosecution failed to meet the evidentiary standard. The intermediate conviction remains a significant judicial finding that a panel of judges found the evidence of Andreotti's involvement credible.
+
+## Key Quotes
+
+> "A certain Christ's lodge in Paradise" — Pecorelli's cryptic reference to the force that allegedly prevented the rescue of Aldo Moro, widely interpreted as P2
+
+> According to Mafia pentito Tommaso Buscetta, his boss Gaetano Badalamenti told him that Pecorelli's murder "had been carried out in the interest of Andreotti."
+
+> According to prosecutors, Pecorelli "knew too much about too many people" and had become "a walking time bomb for the most powerful men in Italy."
+
+## Counterarguments / Alternative Explanations
+
+- The Italian Supreme Court of Cassation ultimately acquitted Andreotti, finding the Mafia informants' testimony unreliable
+- Buscetta's testimony was secondhand (relayed from Badalamenti) and he had not mentioned the Andreotti connection in his initial debriefings with Judge Falcone
+- Pecorelli had many enemies due to his practice of publishing compromising material about powerful figures; the murder could have been ordered by any number of people he had targeted
+- Some analysts suggest Pecorelli was killed for blackmailing powerful figures rather than for journalistic work, as OP sometimes published information as leverage rather than pure reporting
+- Pecorelli's P2 membership complicates the narrative — he may have been killed over internal lodge disputes rather than his journalism
+
+## See Also
+
+- [Aldo Moro](Aldo_Moro.md) — The former PM whose kidnapping Pecorelli was exposing
+- [Roberto Calvi](Roberto_Calvi.md) — "God's Banker," also connected to P2 and found dead under London's Blackfriars Bridge
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Another journalist killed by car bomb for investigating corruption and organized crime
+- [Anna Politkovskaya](Anna_Politkovskaya.md) — Russian journalist murdered for her investigations
+
+## Other Shocking Stories
+
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Dismembered alive inside Saudi consulate by 15-member hit squad. CIA confirmed crown prince ordered it.
+- [Roberto Calvi](Roberto_Calvi.md): "God's Banker" found hanging under London bridge with bricks in his pockets. Vatican, Mafia, P2 all implicated.
+- [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader overthrown by CIA, executed at 35. Body dissolved in sulfuric acid.
+- [Oscar Romero](Oscar_Romero.md): Archbishop shot dead while saying Mass, one day after ordering soldiers to stop killing civilians.
+
+## Sources
+
+- [Carmine Pecorelli - Wikipedia](https://en.wikipedia.org/wiki/Carmine_Pecorelli)
+- [Andreotti guilty of ordering journalist's murder - Statewatch](https://www.statewatch.org/statewatch-database/andreotti-guilty-of-ordering-journalist-s-murder/)
+- [CNN - Andreotti cleared over murder, October 30, 2003](https://edition.cnn.com/2003/WORLD/europe/10/30/italy.andreotti.reut/index.html)
+- [The Case of P2: Secret Structures, State Manipulation and Political Murders in Italy - Weird Italy](https://weirditaly.com/2025/05/24/the-case-of-p2-secret-structures-state-manipulation-and-political-murders-in-italy/)
+- [The Murder of Carmine "Mino" Pecorelli - Medium](https://medium.com/@chelsealynnqueen94/the-murder-of-carmine-mino-pecorelli-a-controversial-political-killing-c3d756babe19)
+- [Kidnapping and murder of Aldo Moro - Wikipedia](https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro)
+
+*This information was built by Grok and Claude AI research.*

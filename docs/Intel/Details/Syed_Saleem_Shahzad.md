@@ -1,0 +1,112 @@
+# Syed Saleem Shahzad
+
+Pakistani investigative journalist for Asia Times Online, kidnapped, tortured, and found dead in a canal — U.S. officials confirmed ISI was responsible, and the journalist had told colleagues the spy agency had threatened him repeatedly.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Syed Saleem Shahzad |
+| **Born** | 3 November 1970, Pakistan |
+| **Died** | 30 May 2011 |
+| **Age at Death** | 40 |
+| **Location of Death** | Canal near Mandi Bahauddin, Punjab, Pakistan (body found approximately 120 km south of Islamabad) |
+| **Cause of Death** | Tortured and killed (body showed signs of severe beating and torture) |
+| **Official Ruling** | Murder — no one convicted; ISI denied involvement |
+| **Alleged Intelligence Connection** | ISI (Pakistan Inter-Services Intelligence) — confirmed by U.S. intelligence assessment |
+| **Victim Was Intel Employee** | No |
+| **Category** | Journalist / Investigator |
+
+## Assessment: CONFIRMED
+
+The killing of Syed Saleem Shahzad was confirmed by U.S. government officials who stated they had "reliable and conclusive" intelligence, based on CIA intercepts, that Pakistan's Inter-Services Intelligence (ISI) was responsible for his abduction and murder. Human Rights Watch had previously accused the ISI based on its own investigation. Shahzad himself had warned colleagues and human rights organizations that the ISI had threatened him, and he left a documented trail predicting exactly what would happen to him.
+
+## Circumstances of Death
+
+On the evening of 29 May 2011, Syed Saleem Shahzad left his home in Islamabad to appear on a television talk show. He never arrived at the studio. His car was later found abandoned in a neighborhood in Islamabad.
+
+Two days later, on 31 May 2011, his body was found in a canal near the town of Mandi Bahauddin in Punjab province, approximately 120 kilometers (75 miles) southeast of Islamabad. The body bore extensive signs of torture — multiple fractures, severe bruising, and injuries consistent with prolonged beating. An autopsy confirmed that Shahzad had been subjected to significant physical abuse before death.
+
+The abduction occurred just two days after Shahzad published his most explosive article: a report in Asia Times Online alleging that al-Qaeda had carried out the attack on Pakistan's Mehran naval air station in Karachi on 22 May 2011 after negotiations with the Pakistani Navy for the release of naval personnel suspected of al-Qaeda links had broken down. The article directly implicated elements of the Pakistani military establishment in connections with al-Qaeda — a narrative the ISI was determined to suppress.
+
+## Background
+
+Syed Saleem Shahzad was born on 3 November 1970 in Pakistan and became one of the country's most prominent investigative journalists covering security, intelligence, and militant organizations. He served as the Pakistan Bureau Chief for Asia Times Online, a Hong Kong-based news outlet, and as a correspondent for the Italian news agency Adnkronos International (AKI).
+
+Shahzad was widely regarded as one of the best-connected journalists covering the intersection of Pakistan's military, intelligence services, and Islamist militant groups. His reporting regularly drew on sources within the Taliban, al-Qaeda, and Pakistan's security establishment, giving him unique insight into relationships that other journalists could not access.
+
+He published extensively on the War on Terror, the Pakistani military's operations in the tribal areas, and the complex relationships between the ISI and various militant organizations. His book *Inside Al-Qaeda and the Taliban: Beyond Bin Laden and 9/11*, published in 2011 shortly before his death, documented these connections in detail.
+
+Shahzad's journalism was dangerous precisely because it was accurate. His reporting on the ISI's relationships with militant groups embarrassed the intelligence agency and contradicted its public denials of such connections. He was married and the father of three children.
+
+## Intelligence Connections
+
+* **U.S. government confirmation**: Senior Obama administration officials, drawing on CIA intelligence intercepts, publicly stated that they had "reliable and conclusive" evidence that the ISI was responsible for Shahzad's killing. According to reporting by ABC News, the intelligence was based on intercepted communications
+* **ISI threats documented by the journalist himself**: Shahzad told colleagues and human rights organizations that the ISI had warned him at least three times prior to his death. In October 2010, he was summoned to ISI headquarters the day after publishing a sensitive article about the capture of senior Taliban commander Abdul Ghani Baradar
+* **Email to Human Rights Watch**: Before his death, Shahzad sent an email to Ali Dayan Hasan, the Pakistan director of Human Rights Watch, stating that if he were to go missing, the ISI should be held responsible. According to Shahzad, an ISI official told him: "I must give you a favor" — a veiled threat
+* **Human Rights Watch investigation**: HRW conducted its own investigation and publicly accused the ISI of being behind the killing, calling for an independent judicial inquiry
+* **The Mehran naval base article**: Shahzad's final published article directly linked al-Qaeda operatives to insiders within the Pakistani Navy, implicating the military establishment in a security failure it was desperate to conceal. The article was published on 27 May 2011, two days before his abduction
+* **Pattern of ISI intimidation**: According to colleagues, Shahzad had been systematically pressured by the ISI for years. The agency reportedly monitored his movements, summoned him for questioning after sensitive publications, and used intermediaries to warn him to stop reporting on certain topics
+
+## Why This Death Raises Questions
+
+- The journalist had explicitly warned Human Rights Watch that the ISI would target him, creating a documented record of the threat
+- He was abducted just two days after publishing an article that embarrassed the ISI by exposing al-Qaeda penetration of the Pakistani Navy
+- U.S. intelligence independently confirmed ISI responsibility based on intercepted communications
+- The body showed signs of prolonged torture, consistent with intelligence interrogation methods rather than criminal violence
+- Despite the U.S. confirmation and HRW investigation, no one has ever been charged or prosecuted for the murder
+- The ISI denied involvement, calling the accusations "totally unfounded," but offered no alternative explanation
+- A judicial commission appointed by Pakistan's Supreme Court to investigate the killing was widely criticized as lacking independence and produced inconclusive results
+- Shahzad's murder had a severe chilling effect on Pakistani journalism — reporters covering intelligence and security topics understood the message
+
+## Key Quotes
+
+> "I must give you a favor." — ISI official to Shahzad, according to the journalist's account to colleagues, as reported by Human Rights Watch — widely understood as a threat
+
+> "If anything happens to me, the ISI is responsible." — Syed Saleem Shahzad, in communications to Human Rights Watch and colleagues before his death, as reported by HRW
+
+> "The United States has 'reliable and conclusive' intelligence that Pakistan's Inter-Services Intelligence (ISI) was behind the kidnapping and murder of journalist Syed Saleem Shahzad." — Senior Obama administration officials, as reported by ABC News and multiple outlets
+
+> "Shahzad's death is one of the most high-profile cases of a journalist killed in retaliation for their work in Pakistan, a country that is one of the most dangerous in the world for journalists." — Committee to Protect Journalists
+
+## Counterarguments / Alternative Explanations
+
+The ISI categorically denied involvement in Shahzad's death, calling the accusations "totally unfounded" and "based on conjecture." Pakistani military officials suggested that Shahzad may have been killed by militants angered by his reporting, or that criminal elements were responsible.
+
+A judicial commission established by Pakistan's Supreme Court investigated the case but did not reach definitive conclusions about ISI responsibility. The commission's findings were not made fully public, and critics argued it lacked the independence and resources to conduct a genuine investigation.
+
+Some analysts have noted that Shahzad's extensive contacts with militant organizations meant he operated in an inherently dangerous environment, and that multiple actors could have had motives to silence him. However, the U.S. intelligence assessment based on intercepted communications, combined with Shahzad's own documented warnings about ISI threats, points overwhelmingly toward the Pakistani intelligence service.
+
+## Aftermath
+
+Shahzad's murder drew widespread international condemnation. The Committee to Protect Journalists, Reporters Without Borders, and Human Rights Watch all demanded independent investigations. The U.S. government's public confirmation of ISI involvement strained U.S.-Pakistan relations at a time already marked by tension following the killing of Osama bin Laden on 2 May 2011.
+
+Despite international pressure, no one has been prosecuted for the murder. The case remains one of the clearest examples of a state intelligence agency killing a journalist with total impunity.
+
+Shahzad's book *Inside Al-Qaeda and the Taliban* was published posthumously and received international attention, ensuring that the reporting the ISI allegedly sought to suppress reached a global audience.
+
+## See Also
+
+- [Daniel Pearl](Daniel_Pearl.md) — Wall Street Journal reporter kidnapped and beheaded in Pakistan, 2002
+- [Jamal Khashoggi](Jamal_Khashoggi.md) — Saudi journalist murdered inside a consulate by state intelligence agents
+- [Anna Politkovskaya](Anna_Politkovskaya.md) — Russian journalist assassinated for investigating state violence
+- [Benazir Bhutto](Benazir_Bhutto.md) — Former Pakistani Prime Minister assassinated in 2007
+
+## Other Shocking Stories
+
+- [Sergei Magnitsky](Sergei_Magnitsky.md): Russian tax lawyer beaten to death in prison after exposing $230 million government fraud.
+- [Steve Biko](Steve_Biko.md): South African anti-apartheid leader beaten by police, driven 1,100 km naked in a van — died on arrival.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa — evidence of a shoot-down covered up for decades.
+- [Oscar Romero](Oscar_Romero.md): Salvadoran archbishop shot through the heart while saying Mass — CIA-backed death squad pulled the trigger.
+
+## Sources
+
+- [Saleem Shahzad — Wikipedia](https://en.wikipedia.org/wiki/Saleem_Shahzad)
+- [Murdered Pakistani Journalist Had Claimed ISI Threat — ABC News](https://abcnews.go.com/Blotter/pakistani-journalist-saleem-shazhad-killed-claimed-isi-threats/story?id=13733379)
+- [Pakistan: Set up Independent Inquiry Into Journalist's Killing — Human Rights Watch](https://www.hrw.org/news/2011/06/03/pakistan-set-independent-inquiry-journalists-killing)
+- [Saleem Shahzad Killed — Committee to Protect Journalists](https://cpj.org/data/people/saleem-shahzad/)
+- [Pakistani journalist executed by ISI: report — Long War Journal](https://www.longwarjournal.org/archives/2011/05/pakistani_journalist_executed.php)
+- [Pakistani investigative journalist killed — Al Jazeera](https://www.aljazeera.com/news/2011/6/1/pakistani-investigative-journalist-killed)
+- [5 years later: Saleem Shahzad's unsolved murder — Asia Times](https://asiatimes.com/2016/05/5-years-later-saleem-shahzads-unsolved-murder-further-weakens-press-freedom-in-pakistan/)
+- [The murder of Syed Saleem Shahzad — Australian Embassy Pakistan](https://pakistan.embassy.gov.au/islm/PR020611JournMurder.html)
+- [Journalist Syed Saleem Shahzad killed by Pakistan secret services — AsiaNews](https://www.asianews.it/news-en/Journalist-Syed-Saleem-Shahzad-killed-by-Pakistan-secret-services-21723.html)
+
+*This information was built by Grok and Claude AI research.*

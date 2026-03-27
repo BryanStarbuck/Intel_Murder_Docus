@@ -1,0 +1,108 @@
+# Naji al-Ali
+
+The most famous Palestinian political cartoonist and creator of the iconic "Handala" character, shot in the face outside his London newspaper office in an assassination linked to Mossad double agents.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Naji Salim Hussain al-Ali |
+| **Born** | 1936 (or 1937), al-Shajara village, Galilee, Palestine |
+| **Died** | August 29, 1987 |
+| **Age at Death** | 50 (approximately) |
+| **Location of Death** | London, England |
+| **Cause of Death** | Gunshot wound to the head |
+| **Official Ruling** | Homicide; case remains unsolved |
+| **Alleged Intelligence Connection** | Mossad (Israel); arrested suspect was a confirmed Mossad double agent; Britain expelled Israeli diplomats and shut down Mossad's London station |
+| **Victim Was Intel Employee** | No |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+The primary suspect arrested in connection with al-Ali's murder, Ismail Sowan, was a confirmed Mossad double agent who had infiltrated a PLO cell. A second arrested suspect also admitted to being a Mossad double agent. British investigators determined that Mossad had advance knowledge of the assassination plot. Prime Minister Margaret Thatcher was so angered by the intelligence that she expelled Israeli diplomats and shut down Mossad's London headquarters. Despite this, no one has ever been charged with the murder. Scotland Yard reopened the case in 2017 but has not announced charges.
+
+## Circumstances of Death
+
+On July 22, 1987, Naji al-Ali was walking outside the London offices of the Kuwaiti newspaper Al Qabas, where he worked as a cartoonist for the international edition. At least one gunman approached and shot him in the right side of the face, near his temple. The bullet lodged in his brain.
+
+Al-Ali was rushed to hospital, where doctors were unable to remove the bullet. He remained in a coma for 37 days. He was pronounced dead on August 29, 1987, at Charing Cross Hospital.
+
+Scotland Yard launched a murder investigation. Within weeks, police arrested Ismail Sowan, a 28-year-old Palestinian researcher at the University of Hull. A search of Sowan's apartment uncovered a cache of weapons and explosives. Investigation revealed that Sowan had been recruited by Mossad to infiltrate Force 17, a PLO security unit. A second suspect also admitted to being a Mossad double agent.
+
+## Background
+
+Naji al-Ali was born in 1936 or 1937 in the village of al-Shajara in the Galilee region of Palestine. Following the 1948 Nakba, his family was expelled from their home and fled to the Ain al-Hilweh refugee camp near Sidon in southern Lebanon, where he grew up in poverty.
+
+Al-Ali's artistic talent was recognized early. The Palestinian writer and activist Ghassan Kanafani discovered his cartoons during a visit to the refugee camp and published al-Ali's first drawings in Al-Hurriya magazine in September 1961. This launched al-Ali's career as one of the Arab world's most influential political cartoonists.
+
+Over the following decades, al-Ali worked for numerous Arab newspapers across the Middle East. In 1963, he moved to Kuwait and worked for Al Tali'a magazine and later Al-Siyasa. In 1974, he joined the Lebanese newspaper Al-Safir. In 1983, he returned to Kuwait to work for Al Qabas, and in 1985, he moved to London to work for the paper's international edition.
+
+Al-Ali drew over 40,000 cartoons during his career, producing sharp, unsparing commentary on Palestinian suffering, Arab political failures, and Israeli oppression. He spared no one — his cartoons criticized Arab leaders, the PLO leadership, Israel, and Western governments alike.
+
+His most famous creation was **Handala**, a barefoot ten-year-old Palestinian refugee boy who appeared for the first time in 1969. From 1973 onward, Handala always appeared with his back turned to the viewer and his hands clasped behind him. Al-Ali explained that Handala was ten years old — the age al-Ali was when he was forced to leave Palestine — and would not grow up until he could return to his homeland. Handala's turned back symbolized rejection of "outside solutions" imposed on the Palestinian people. The character became one of the most recognized symbols of Palestinian identity and resistance worldwide.
+
+## Intelligence Connections
+
+* Ismail Sowan, the primary suspect arrested by Scotland Yard, was a confirmed Mossad double agent who had been recruited by Israel's intelligence service to infiltrate Force 17, a PLO security cell operating in London
+* A second suspect arrested in connection with the case also admitted to being a Mossad double agent
+* According to British investigators, Mossad had at least two double agents working within London-based PLO cells and had advance knowledge of the plot to kill al-Ali
+* According to reports, Mossad allegedly did not warn British authorities about the assassination plot despite having foreknowledge
+* Prime Minister Margaret Thatcher, reportedly furious at the revelations of Mossad's involvement, expelled Israeli diplomats from the UK and ordered the closure of Mossad's London headquarters at Palace Green, Kensington
+* Al-Ali had reportedly received death threats from multiple sources, including allegedly from both Israeli and Palestinian factions angered by his cartoons
+
+## Why This Death Raises Questions
+
+- The primary suspect was a confirmed Mossad double agent, directly linking Israeli intelligence to the assassination
+- A second suspect also admitted to working for Mossad, suggesting an organized intelligence operation
+- According to British investigators, Mossad had advance knowledge of the plot but allegedly did not intervene or warn British authorities
+- The British government response — expelling Israeli diplomats and shutting down Mossad's London base — indicates the UK government concluded there was significant Israeli intelligence involvement
+- Despite strong leads, no one has ever been charged with al-Ali's murder
+- Sowan was convicted of illegal weapons possession (sentenced to 11 years) but not charged with the murder itself
+- Al-Ali's cartoons targeted multiple powerful parties — Israel, the PLO leadership, and Arab regimes — giving multiple state actors potential motive
+- Scotland Yard reopened the case in 2017, suggesting new evidence may have emerged, but no charges have followed
+- The case represents a pattern of targeted killings of Palestinian intellectuals and cultural figures in Europe during the 1970s and 1980s
+
+## Key Quotes
+
+> "I am from Ain al-Hilweh. My homeland is Palestine. I am a Palestinian born in 1936 in al-Shajara. I was forced to leave when I was ten years old. I grew up in Ain al-Hilweh camp in Lebanon. I live for Palestine and I will die for Palestine." — Naji al-Ali, as quoted in multiple biographical sources
+
+> "Handala was born ten years old, and he will always be ten years old. He will not grow up until he returns to his homeland. Things will be normal again when the child starts to grow up." — Naji al-Ali, explaining the Handala character, as quoted in various sources
+
+> "He was the conscience of Palestine, and they silenced him for it." — tribute from Palestinian intellectuals following his death, as reported by Middle East Eye
+
+## Counterarguments / Alternative Explanations
+
+Suspicion for al-Ali's murder has fallen on multiple parties. While the Mossad connection through Ismail Sowan is the strongest lead, alternative theories include:
+
+**PLO factions:** Al-Ali was a fierce critic of the PLO leadership, particularly Yasser Arafat, whom he depicted in unflattering cartoons. Some analysts have suggested that PLO hardliners or rival Palestinian factions may have ordered the killing. However, the confirmed Mossad connections of the arrested suspects weaken this theory.
+
+**Arab government agents:** Al-Ali's cartoons also targeted Arab leaders and regimes, particularly Kuwait (where he had worked) and other Gulf states. Some have suggested Arab intelligence services may have been involved.
+
+**Mossad foreknowledge without direct involvement:** It is possible that Mossad had advance knowledge of the plot through its double agents but did not directly order the killing. Under this theory, Mossad may have allowed the assassination to proceed by not warning British authorities, constituting complicity rather than direct responsibility.
+
+Israel has never officially commented on allegations of Mossad involvement in al-Ali's death.
+
+## See Also
+
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist dismembered inside a consulate by state intelligence agents
+- [Georgi Markov](Georgi_Markov.md): Bulgarian dissident assassinated on a London street by intelligence operatives
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Investigative journalist killed by car bomb in Malta
+- [Fidan Dogan](Fidan_Dogan.md): Kurdish activist assassinated in Paris in operation linked to Turkish intelligence
+
+## Other Shocking Stories
+
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Lured into Saudi consulate in Istanbul, dismembered alive by a 15-man assassination team sent by MBS.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower killed in suspicious car crash the night she was bringing evidence to a reporter.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with radioactive polonium-210 in his tea at a London hotel by Russian agents.
+- [Salvador Allende](Salvador_Allende.md): Democratically elected Chilean president died during CIA-backed military coup that installed Pinochet's dictatorship.
+
+## Sources
+
+- [Naji al-Ali — Wikipedia](https://en.wikipedia.org/wiki/Naji_al-Ali)
+- [Naji al-Ali remembered: A Palestinian cartoonist gunned down in London — Middle East Eye](https://www.middleeasteye.net/discover/palestine-naji-ali-handala-creator-remembered)
+- [UK police reopen unsolved 1987 murder of popular Palestinian cartoonist — Middle East Eye](https://www.middleeasteye.net/news/uk-police-reopen-unsolved-1987-murder-popular-palestinian-cartoonist)
+- [How murder of Naji al-Ali led Thatcher to shut Mossad — The Jewish Chronicle](https://www.thejc.com/opinion/analysis/how-murder-of-naji-salim-hussain-al-ali-led-thatcher-to-shut-mossad-ltl978ug)
+- [Met reopens cartoonist Naji al-Ali murder case — Al Jazeera](https://www.aljazeera.com/features/2017/8/29/met-reopens-cartoonist-naji-al-ali-murder-case)
+- [Naji al-Ali: Police reopen case of murdered cartoonist — CNN](https://edition.cnn.com/2017/08/29/middleeast/naji-al-ali-palestinian-cartoonist-murder)
+- [Naji al-Ali — Palestine Open Maps / PalQuest](https://www.palquest.org/en/biography/14303/naji-al-ali)
+- [Naji al-Ali: The timeless conscience of Palestine — Electronic Intifada](https://electronicintifada.net/content/naji-al-ali-timeless-conscience-palestine/5166)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,114 @@
+# Detlev Karsten Rohwedder
+
+Head of the Treuhandanstalt -- the powerful agency charged with privatizing the entire economy of former East Germany -- shot dead by a sniper through the window of his Dusseldorf home on April 1, 1991. The Red Army Faction claimed responsibility, but his wife accused the Stasi, and the case remains officially unsolved. The subject of the Netflix documentary "A Perfect Crime."
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Detlev Karsten Rohwedder |
+| **Born** | October 16, 1932, Gotha, Thuringia, Germany |
+| **Died** | April 1, 1991 |
+| **Age at Death** | 58 |
+| **Location of Death** | Dusseldorf, Germany |
+| **Cause of Death** | Gunshot wound (sniper) |
+| **Official Ruling** | Homicide (claimed by Red Army Faction; no one charged) |
+| **Alleged Intelligence Connection** | Stasi (East German intelligence), possibly Red Army Faction acting as proxy |
+| **Victim Was Intel Employee** | No |
+| **Category** | Political Figure |
+
+## Assessment: SUSPICIOUS
+
+Detlev Rohwedder was assassinated by a highly skilled sniper who fired three shots from 63 meters through the first-floor window of his private residence at 11:30 PM on April 1, 1991. The first shot killed him instantly as he stood at his desk; the second wounded his wife Hergard in the arm; the third struck a bookshelf. While a confession letter from the Red Army Faction's "Commando Ulrich Wessel" was found at the scene, no one has ever been arrested or charged. Rohwedder's position -- overseeing the privatization of East Germany's entire economy, worth hundreds of billions of marks -- gave him an extraordinary number of potential enemies: former Stasi operatives protecting hidden assets, West German industrialists seeking favorable deals, East German workers facing mass unemployment, and intelligence services on both sides navigating the chaos of reunification. The case is one of postwar Germany's most significant unsolved political murders.
+
+## Circumstances of Death
+
+On the night of April 1, 1991, Detlev Rohwedder was working at his desk in his private villa in the Oberkassel district of Dusseldorf. At approximately 11:30 PM, a sniper positioned in a garden allotment approximately 63 meters (207 feet) from the house fired three rounds from a Belgian FN FAL (G1) rifle chambered in 7.62x51mm NATO.
+
+The first round struck Rohwedder, killing him. The second round hit his wife Hergard, a judge, in the upper arm, wounding but not killing her. The third round struck a bookshelf. The precision of the shooting -- a kill shot at 63 meters in darkness through a window -- indicated either a highly trained marksman or a shooter with military sniper experience.
+
+### The RAF Claim
+
+At the scene, investigators found a letter claiming responsibility on behalf of the Red Army Faction's "Commando Ulrich Wessel." The letter contained RAF-typical political rhetoric about the "exploitation of the working class" through privatization. However, the claim raised as many questions as it answered. The RAF had been in decline throughout the late 1980s, and serious doubts existed about whether the organization still possessed the operational capability for such a precise assassination.
+
+In 2007, former RAF member Eva Haule publicly stated that the RAF was indeed responsible for Rohwedder's murder. However, this claim has not been corroborated by forensic evidence or other testimony, and no arrests have been made.
+
+### The Investigation
+
+Despite decades of investigation by German federal prosecutors, no one has ever been charged with Rohwedder's murder. The investigation has explored multiple theories without conclusively establishing who pulled the trigger or who ordered the killing. The case remains officially open.
+
+## Background
+
+### Early Career and Politics
+
+Detlev Karsten Rohwedder was born on October 16, 1932, in Gotha, Thuringia -- a city that would end up in East Germany after the war. He grew up in western Schleswig-Holstein, graduating from high school in Meldorf in 1953 before studying law and economics at the universities of Hamburg and Mainz.
+
+Rohwedder joined the Social Democratic Party (SPD) in 1969 and served as State Secretary in the Federal Ministry of Economics. He later moved to the private sector, becoming head of the Dortmund steel group Hoesch in 1979.
+
+### Head of the Treuhandanstalt
+
+On July 3, 1990, Rohwedder was appointed chairman of the Treuhandanstalt (Treuhand) -- the agency created to manage, restructure, and privatize the approximately 8,500 state-owned enterprises of the former German Democratic Republic. This made him arguably the most powerful economic figure in post-reunification Germany, with control over assets worth hundreds of billions of marks and employment decisions affecting millions of East German workers.
+
+The Treuhand was enormously controversial. Its mandate required converting a command economy into a market economy virtually overnight. Many East German enterprises were uncompetitive and required massive restructuring or closure. By the time of Rohwedder's death, the Treuhand's privatization process was generating intense opposition from East Germans facing mass unemployment, from West German industrialists competing for undervalued assets, and from political figures across the spectrum who criticized the pace and methods of privatization.
+
+### Rohwedder's Approach
+
+Rohwedder was known for favoring restructuring and preservation of East German enterprises over rapid sell-offs. His motto was reportedly "Sanierung vor Privatisierung" (restructuring before privatization) -- an approach that put him at odds with those who wanted faster, more radical privatization that would have allowed Western investors to acquire East German assets at fire-sale prices. His successor, Birgit Breuel, took a markedly different approach, accelerating privatization and closures.
+
+## Intelligence Connections
+
+* **Stasi theory:** Rohwedder's wife Hergard publicly accused the Stasi of involvement in her husband's murder. The former East German intelligence service had extensive networks that survived the formal dissolution of the GDR. Former Stasi operatives had strong motives to prevent a thorough accounting of East German state assets, which could have exposed hidden Stasi financial networks, slush funds, and Western agent relationships
+* **Stasi-RAF connections:** The relationship between the Stasi and the Red Army Faction is well documented. East Germany provided safe houses, training, and logistical support to RAF members throughout the Cold War. The question of whether the RAF carried out the Rohwedder assassination independently or at the direction of former Stasi operatives is central to the case
+* **Hidden asset protection:** The Treuhand's mandate included cataloging and accounting for all East German state assets. This process threatened to expose hidden financial networks established by the Stasi for covert operations, Western intelligence contacts, and personal enrichment by regime insiders. According to the Stasi theory, eliminating Rohwedder was a way to disrupt or redirect this process
+* **Western intelligence interests:** The Netflix documentary "A Perfect Crime" also raises the possibility that Western intelligence services or economic interests may have played a role, as the chaotic privatization created opportunities for massive wealth extraction that a more careful process under Rohwedder would have constrained
+* **The rifle:** The Belgian FN FAL G1 rifle used in the assassination was a NATO-standard military weapon, not a weapon typically available to civilian terrorists. Its provenance has never been established
+
+## Why This Death Raises Questions
+
+- The sniper demonstrated professional-level marksmanship: a kill shot at 63 meters in darkness through a window, with the precision to hit a specific person at a desk
+- The Belgian FN FAL G1 rifle used was a NATO-standard military weapon, not a typical terrorist firearm, and its origin has never been traced
+- While the RAF claimed responsibility, the organization was in severe decline by 1991 and its operational capability for such a precision assassination was questionable
+- Federal prosecutors have never charged anyone despite over three decades of investigation
+- Rohwedder's wife Hergard publicly accused the Stasi rather than the RAF, suggesting she had information or suspicions beyond the official RAF claim
+- Rohwedder controlled the privatization of an economy worth hundreds of billions of marks, creating an extraordinarily large number of potential beneficiaries of his death
+- His successor took a markedly different approach -- accelerating privatization rather than restructuring -- suggesting the assassination may have achieved its purpose by changing the direction of economic policy
+- The documented Stasi-RAF relationship means the RAF claim and Stasi involvement are not mutually exclusive -- one could have been the instrument of the other
+- The timing -- April 1991, during the most sensitive phase of East German asset transfer -- maximized the impact on privatization policy
+- No physical evidence (DNA, fingerprints, witnesses) has ever linked a specific individual to the shooting
+
+## Key Quotes
+
+> "The question remains open: Was it the last spectacular murder of the Red Army Faction? Was the East-German secret service Stasi behind the murder? Or were other forces -- for example, Western ones -- at work?" -- Netflix's "A Perfect Crime" documentary series, 2020
+
+> "My husband was not killed by the RAF." -- Hergard Rohwedder, according to multiple reports, publicly accusing the Stasi of responsibility
+
+## Counterarguments / Alternative Explanations
+
+- **RAF was responsible:** Former RAF member Eva Haule publicly claimed in 2007 that the RAF carried out the assassination. The claim letter found at the scene was consistent with RAF methodology and rhetoric. The RAF had previously carried out sophisticated attacks, including the 1977 Schleyer kidnapping and the 1985 assassination of arms manufacturer Ernst Zimmermann
+- **No definitive Stasi evidence:** Despite Hergard Rohwedder's accusations and extensive investigation, no declassified Stasi documents or confirmed testimony has definitively linked former Stasi operatives to the assassination
+- **Terrorist capability not impossible:** While the precision of the shooting was exceptional, it does not necessarily require state-level training. The RAF had access to military weapons and included members with shooting experience
+- **Simple unsolved murder:** Some investigators believe the case is unsolved simply because the physical evidence was insufficient for prosecution, not because of a deeper conspiracy. Cold cases exist in every jurisdiction, and not every unsolved murder involves intelligence services
+
+## See Also
+
+- [Alfred Herrhausen](Alfred_Herrhausen.md) -- Deutsche Bank chairman killed by sophisticated bomb in 1989, in another unsolved German assassination attributed to the RAF
+- [Olof Palme](Olof_Palme.md) -- Swedish Prime Minister assassinated in 1986 in another long-unsolved European political killing
+- [Roberto Calvi](Roberto_Calvi.md) -- Italian banker found dead under Blackfriars Bridge, linked to intelligence services and financial conspiracies
+- [Hilda Murrell](Hilda_Murrell.md) -- British activist murdered in 1984, with suspected intelligence service involvement
+
+## Other Shocking Stories
+
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB agent poisoned with radioactive polonium-210 in his London tea. Took three weeks to die.
+- [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader dissolved in acid by Belgian agents after a CIA-backed coup.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower run off the road the night she was delivering proof of contamination cover-ups.
+- [Fred Hampton](Fred_Hampton.md): Black Panther leader drugged by an informant, then shot in bed by police at age 21.
+
+## Sources
+
+- [Detlev Karsten Rohwedder - Wikipedia](https://en.wikipedia.org/wiki/Detlev_Karsten_Rohwedder)
+- [Inside The Assassination Of Detlev Rohwedder - All That's Interesting](https://allthatsinteresting.com/detlev-rohwedder)
+- [A Perfect Crime - Netflix Documentary Series](https://www.netflix.com/title/81022994)
+- [A Perfect Crime - Wikipedia](https://en.wikipedia.org/wiki/A_Perfect_Crime_(TV_series))
+- [Who Killed Detlev Rohwedder? Theories - The Cinemaholic](https://thecinemaholic.com/who-killed-detlev-rohwedder/)
+- [A Perfect Crime review - Ready Steady Cut](https://readysteadycut.com/2020/09/25/a-perfect-crime-netflix-review/)
+- [37 Facts About Detlev Rohwedder - Facts.net](https://facts.net/history/people/37-facts-about-detlev-rohwedder/)
+
+*This information was built by Grok and Claude AI research.*

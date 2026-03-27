@@ -1,0 +1,123 @@
+# Lasantha Wickrematunge
+
+Fearless Sri Lankan newspaper editor who predicted his own assassination in a posthumous editorial, bludgeoned to death by motorcycle-riding assailants linked to military intelligence.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Lasantha Manilal Wickrematunge |
+| **Born** | April 5, 1958, Kotahena, Colombo, Sri Lanka |
+| **Died** | January 8, 2009 |
+| **Age at Death** | 50 |
+| **Location of Death** | Colombo, Sri Lanka |
+| **Cause of Death** | Bludgeoned to death (blunt force trauma to the head) |
+| **Official Ruling** | Homicide; investigation stalled; no convictions |
+| **Alleged Intelligence Connection** | Sri Lankan military intelligence; the Tripoli Platoon (a special military intelligence unit); according to a U.S. federal lawsuit, allegedly ordered by then-Defense Secretary Gotabaya Rajapaksa |
+| **Victim Was Intel Employee** | No |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Lasantha Wickrematunge was assassinated in broad daylight in a professional hit bearing the hallmarks of a military intelligence operation. Investigators subsequently identified a special military intelligence unit known as the Tripoli Platoon, led by Major Prabhath Bulathwatte, as allegedly responsible for the murder and several other attacks on journalists. Wickrematunge himself, in a posthumous editorial written before his death, directly named the Rajapaksa government as his likely killer. A U.S. federal lawsuit was filed against then-Defense Secretary Gotabaya Rajapaksa, but was dismissed on foreign official immunity grounds. No one has been convicted of the murder.
+
+## Circumstances of Death
+
+On the morning of January 8, 2009, Lasantha Wickrematunge was driving to the offices of The Sunday Leader in Colombo when his vehicle was intercepted. According to eyewitness accounts, two men on motorcycles — wearing helmets that obscured their faces — stopped alongside his white Toyota and attacked him through the vehicle's window using pointed metal rods or iron bars. The assailants bludgeoned Wickrematunge repeatedly in the head with brutal efficiency.
+
+The attack occurred on a busy road in the Attidiya area of Ratmalana, a suburb of Colombo, in broad daylight. Despite the public location, the attackers escaped on their motorcycles without interference. Wickrematunge was rushed to the National Hospital of Sri Lanka in critical condition. He was pronounced dead shortly after arrival.
+
+The professional execution of the attack — coordinated motorcycle riders, targeted head strikes, rapid escape — bore the hallmarks of a trained military unit rather than common criminals.
+
+## Background
+
+Lasantha Wickrematunge was born on April 5, 1958, in Kotahena, Colombo, the youngest of six children. His father, Harris Wickrematunge, was a prominent politician who served as a Municipal Councillor for 30 years and as Deputy Mayor. Wickrematunge attended St. Benedict's College in Colombo.
+
+After completing his education, Wickrematunge practiced as a defense attorney and served as private secretary to former Prime Minister Sirimavo Bandaranaike. In 1994, he co-founded The Sunday Leader with his brother Lal Wickrematunge. Under Lasantha's editorship, the newspaper became Sri Lanka's most prominent independent weekly, known for fearless investigative journalism and sharp political commentary.
+
+Wickrematunge was a relentless critic of the Rajapaksa government during the intensifying civil war between the Sri Lankan military and the Liberation Tigers of Tamil Eelam (LTTE). His investigations exposed:
+
+* Government corruption and misuse of public funds
+* Human rights abuses by the Sri Lankan military during the civil war
+* Arms procurement scandals
+* Alleged war crimes committed against Tamil civilians
+* Financial improprieties involving senior government officials
+
+His journalism earned him both national fame and powerful enemies. He had been locked in a protracted legal battle with Gotabaya Rajapaksa, who was then serving as Defense Secretary under his brother, President Mahinda Rajapaksa. Wickrematunge had also survived a previous assassination attempt in 2008, when an unidentified gunman fired at his vehicle.
+
+## Intelligence Connections
+
+* According to investigators, a special military intelligence unit known as the **Tripoli Platoon**, led by Major Prabhath Bulathwatte, was allegedly responsible for Wickrematunge's murder and several other attacks on high-profile media targets
+* According to the Center for Justice and Accountability (CJA), the Tripoli Platoon allegedly operated under the authority of the Ministry of Defence, then headed by Gotabaya Rajapaksa
+* A U.S. federal lawsuit (Wickrematunge v. Rajapaksa) was filed in 2019 by Wickrematunge's daughter Ahimsa against Gotabaya Rajapaksa, alleging he ordered the killing as part of a systematic campaign against journalists
+* According to CJA, which brought the lawsuit, Rajapaksa allegedly oversaw a network of military intelligence operatives who targeted journalists, activists, and perceived enemies of the state
+* According to the lawsuit filings, the same military intelligence unit was allegedly linked to attacks on other Sri Lankan journalists and media outlets
+* Sri Lankan army reportedly reinstated an official suspected in connection with Wickrematunge's murder, according to CPJ reporting in 2019
+
+## Why This Death Raises Questions
+
+- Wickrematunge predicted his own murder in a posthumous editorial, directly naming the government as his likely killer — a prediction that proved accurate
+- The attack was executed with military precision: coordinated motorcycle riders, targeted strikes, and clean escape in broad daylight
+- According to investigators, a specific military intelligence unit (the Tripoli Platoon) was identified as allegedly responsible
+- According to the CJA lawsuit, the assassination was allegedly part of a broader pattern of intelligence-directed attacks on journalists critical of the Rajapaksa government
+- The Sri Lankan government undertook no meaningful investigation into the murder despite widespread international pressure
+- According to press freedom organizations, the investigation was actively blocked and obstructed by officials within the defense establishment
+- Wickrematunge had survived a prior assassination attempt in 2008, indicating an ongoing campaign against him
+- His body was exhumed in 2016 for forensic examination, suggesting the original investigation was inadequate
+- The U.S. federal lawsuit against Gotabaya Rajapaksa was dismissed on foreign official immunity grounds after Rajapaksa became president — effectively shielding him from accountability
+- According to Just Security, 15 years after the murder, Sri Lanka continues to deny justice for Wickrematunge
+- Major Prabhath Bulathwatte, the alleged Tripoli Platoon leader, was reportedly reinstated by the Sri Lankan army in 2019
+
+## Key Quotes
+
+> "When finally I am killed, it will be the government that kills me." — Lasantha Wickrematunge, from his posthumous editorial published in The Sunday Leader after his death
+
+> "In the name of patriotism you have trampled on human rights, nurtured racists, and all but eliminated social justice. In the name of protecting the nation, you have sold the rights of the people. In the name of fighting terrorism, you have replaced it with state terrorism." — Lasantha Wickrematunge, from his posthumous editorial addressed to President Mahinda Rajapaksa
+
+> "No one has been punished for the killing. The masterminds remain free. Justice has not been served." — Ahimsa Wickrematunge, Lasantha's daughter, as reported by CJA
+
+> "Unbowed and unafraid." — The Sunday Leader's motto under Wickrematunge's editorship
+
+## Counterarguments / Alternative Explanations
+
+The Rajapaksa government consistently denied involvement in Wickrematunge's murder. Officials suggested that the LTTE (Tamil Tigers) may have been responsible, noting that the rebels had their own reasons to target journalists. However, this theory has been widely dismissed by investigators and press freedom organizations, given that Wickrematunge was a critic of the government rather than the LTTE, and the LTTE had no known motive to target him.
+
+Some government allies suggested Wickrematunge's legal disputes and personal conflicts could have provided alternative motives, but the professional military nature of the attack and the subsequent identification of the Tripoli Platoon undercut these arguments.
+
+In the U.S. federal lawsuit, Gotabaya Rajapaksa did not defend the allegations on their merits but instead successfully argued that he was entitled to foreign official immunity for acts performed in his official capacity. The court dismissed the case on jurisdictional grounds without ruling on the factual allegations.
+
+Gotabaya Rajapaksa has not publicly responded to the specific allegations that he ordered Wickrematunge's killing. He subsequently became President of Sri Lanka in 2019 before being ousted by mass protests in 2022.
+
+## Legal Proceedings
+
+In April 2019, CJA filed a civil lawsuit in U.S. federal court (Central District of California) on behalf of Ahimsa Wickrematunge against Gotabaya Rajapaksa, alleging extrajudicial killing and command responsibility. In October 2019, the court dismissed the case, ruling that Rajapaksa was entitled to common law foreign official immunity. An appeal was filed but Rajapaksa's election as president further complicated the legal proceedings. Wickrematunge's daughter has continued to seek accountability through international legal channels.
+
+## Posthumous Editorial
+
+Wickrematunge's final editorial, written in the weeks before his death and published by The Sunday Leader after his assassination, remains one of the most powerful documents in the history of press freedom. In it, he addressed President Mahinda Rajapaksa directly, accused the government of murdering journalists, and predicted that the investigation into his own death would go nowhere. The editorial has been translated into multiple languages and is widely cited by press freedom organizations worldwide.
+
+## See Also
+
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist killed inside a consulate by state intelligence operatives
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Maltese journalist killed by car bomb for investigating corruption
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Russian journalist murdered for investigating war crimes
+- [Daniel Pearl](Daniel_Pearl.md): American journalist kidnapped and killed while reporting abroad
+
+## Other Shocking Stories
+
+- [Gary Webb](Gary_Webb.md): Journalist who exposed CIA-crack cocaine connection found dead with two gunshots to the head, ruled "suicide."
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Star columnist investigating the JFK assassination found dead the day after interviewing Jack Ruby.
+- [Georgi Markov](Georgi_Markov.md): Bulgarian dissident assassinated on a London bridge with a ricin-tipped umbrella fired by a secret agent.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her Moscow apartment elevator on Vladimir Putin's birthday for reporting on Chechnya.
+
+## Sources
+
+- [Lasantha Wickrematunge — Wikipedia](https://en.wikipedia.org/wiki/Lasantha_Wickrematunge)
+- [Who Was Behind the Killing of Sri Lankan Journalist Lasantha Wickrematunge? — Global Investigative Journalism Network](https://gijn.org/stories/who-was-behind-the-killing-of-sri-lankan-journalist-lasantha-wickrematunge/)
+- [Wickrematunge v. Rajapaksa — Center for Justice and Accountability](https://cja.org/what-we-do/litigation/wickrematunge-v-rajapaksa/)
+- [15 Years Later, Sri Lanka Continues to Deny Justice — Just Security](https://www.justsecurity.org/91189/15-years-later-sri-lanka-continues-to-deny-justice-to-murdered-journalist/)
+- [Lasantha Wickrematunge Killed — Committee to Protect Journalists](https://cpj.org/data/people/lasantha-wickrematunge/)
+- [11 years later: Sri Lanka fails to investigate — International Press Institute](https://ipi.media/11-years-later-sri-lanka-fails-to-investigate-journalist-murder/)
+- [Sri Lanka exhumes body of journalist who predicted his own murder — CBC](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.3782437/sri-lanka-exhumes-body-of-journalist-who-predicted-his-own-murder-1.3782441)
+- [Sri Lanka Journalists Still on Edge After Editor's Death — TIME](https://time.com/archive/6949062/sri-lanka-journalists-still-on-edge-after-editors-death/)
+- [Sri Lankan army reinstates official suspected in Lasantha murder — CPJ](https://cpj.org/2019/05/sri-lankan-army-reinstates-official-suspected-in-l/)
+
+*This information was built by Grok and Claude AI research.*
