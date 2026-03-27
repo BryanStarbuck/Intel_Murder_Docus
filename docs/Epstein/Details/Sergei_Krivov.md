@@ -1,0 +1,158 @@
+# Sergei Krivov
+Russian consulate security officer who died under disputed circumstances at the Russian Consulate in New York City on U.S. Election Day, November 8, 2016. Initial reports said he fell from the roof; the consulate said heart attack; NYPD noted head trauma; the medical examiner said tumor-related bleeding with no head wound.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Sergei Krivov (transliterated as "Cergej" in NYPD files) |
+| **Born** | c. 1953 (exact date unknown) |
+| **Died** | November 8, 2016 |
+| **Age at Death** | 63 |
+| **Location of Death** | Consulate General of Russia, 9 East 91st Street, Upper East Side, Manhattan, New York City |
+| **Cause of Death** | Internal bleeding related to a tumor (per NYC Medical Examiner) |
+| **Official Ruling** | Natural causes |
+| **Category** | Intelligence / Diplomatic Security |
+
+## Assessment: SUSPICIOUS
+
+Krivov was a Russian consulate security officer with access to the mission's top-secret cryptographic equipment who was found dead on U.S. Election Day 2016. The case is marked by wildly conflicting accounts: initial reports of a rooftop fall, a consulate claim of heart attack, NYPD documentation of head trauma, and a medical examiner ruling of tumor-related bleeding that contradicted the NYPD's own findings. The NYPD refused to release the incident report. The FBI initially denied involvement but later admitted participating in the investigation. His listed address was a Smithsonian museum office building, not a residence. No public records existed for anyone matching his name in Manhattan. His death was the first in a cluster of at least nine Russian diplomats and officials who died within the following nine months.
+
+## Circumstances of Death
+
+On the morning of November 8, 2016 — approximately one hour after the first polls opened in New York City — police received a 911 call about an unconscious man inside the Russian Consulate on the Upper East Side. When officers arrived, they found Sergei Krivov, 63, unresponsive. Emergency responders declared him dead at the scene.
+
+### The Three Conflicting Narratives
+
+**Narrative 1 — Rooftop Fall:** Initial reports, according to BuzzFeed News investigative reporter Ali Watkins, stated that Krivov had fallen to his death from the roof of the consulate building. This narrative was quickly abandoned.
+
+**Narrative 2 — Heart Attack:** Russian consular officials changed the account, stating that Krivov had suffered a heart attack in the security office, fallen, hit his head, and died. In a statement, the consulate said: "The employee of the Consulate General of Russia Sergei Krivov passed away on November 8, 2016. An American doctor that was admitted to the Consulate General stated without a doubt that the death was by natural reasons."
+
+**Narrative 3 — Head Trauma:** The initial NYPD police report filed on the day of the incident described Krivov as found "with an unknown trauma to the head," according to an NYPD spokesman. Officers listed the case as "closed" with "no criminology suspected, natural causes."
+
+**Narrative 4 — Tumor:** The New York City Medical Examiner ultimately ruled that Krivov died from internal bleeding in the chest area related to a tumor. Critically, as reported by BuzzFeed News in March 2017, the medical examiner's office stated that "the medical examiner's findings do not include head trauma" — directly contradicting the NYPD's initial report of a head wound.
+
+No explanation was given for the discrepancy between the NYPD's documentation of head trauma and the medical examiner's finding of no head trauma.
+
+### Investigation Anomalies
+
+According to BuzzFeed News reporting by Ali Watkins:
+
+- **Body removed rapidly:** Krivov's body left the morgue by November 9 — one day after his death — before the investigation had reached its conclusions.
+- **Medical examiner delayed ruling:** As of February 2017 (three months after the death), the medical examiner's office still listed the cause and manner of death as "pending further studies."
+- **FBI denied involvement, then admitted it:** The FBI told BuzzFeed News in February 2017 that it was not involved in investigating Krivov's death. A U.S. intelligence official later confirmed that the bureau had in fact taken part in a joint inquiry with the NYPD and did not find the death to be suspicious.
+- **NYPD refused to release incident report:** The NYPD denied a FOIA request for the incident report, first claiming it did not contain enough identifying details (despite BuzzFeed providing all relevant information), then separately claiming the report "is not a public record and can only be obtained through due process of law (Court Ordered Subpoena)." According to MuckRock founder Michael Morisy: "The incident report, after an investigation is closed, typically that is releasable. It's really weird that they would categorically state that was rejected... incident reports are not broadly exempt from public records law."
+- **Address was a museum:** The address NYPD had on file for Krivov — 11 East 90th Street — was actually a Smithsonian-owned office building for the Cooper Hewitt design museum, located one block behind the consulate. As a Smithsonian employee told BuzzFeed News: "No one is living here — this is where my desk is right now." The NYPD acknowledged that Russian consular officials had provided them with this address.
+- **No public records:** No public records existed for anyone named Sergei Krivov in Manhattan, despite the NYPD listing him as a Manhattan resident.
+- **Disposition of body unknown:** As of Ali Watkins' February 2017 reporting, Krivov's body disposition and funeral arrangements remained unknown.
+
+## Background
+
+Sergei Krivov served as the "consular duty commander" at the Russian Consulate General in New York, according to Russian state media outlet Sputnik. This role placed him in charge of security and intelligence matters at the Russian facility.
+
+According to BuzzFeed News' investigation, the duty commander position would have included:
+
+- **Access to the consulate's crypto-card** — the top-secret codebreaker used to encrypt and decrypt messages transmitted between the consulate and other Russian channels
+- **Responsibility for transmitting cables** in and out of the heavily guarded building
+- **Prevention of sabotage and suppression of secret intrusion attempts** at the consulate
+
+English-language reports described him as a "security officer," but the Russian-language description of his role — consular duty commander — suggests a position with significantly more responsibility and access to classified communications than a standard security guard.
+
+Despite being described as a Manhattan resident and having served at the consulate, Krivov left virtually no trace in public records.
+
+## Epstein Network Connection
+
+Social media posts, particularly on X (formerly Twitter), have described Krivov as Epstein's alleged "Russian courier" for kompromat (blackmail material) to Putin. **This specific claim is not substantiated by any major news outlet, court document, or official investigation.** It appears to originate from social media speculation connecting two separate story threads: Krivov's suspicious death and the broader allegations about Epstein's connections to Russian intelligence.
+
+However, the broader context of Epstein-Russia connections is relevant:
+
+- According to documents released by the U.S. Department of Justice in early 2026, Epstein had extensive contacts with Russian officials and repeatedly sought a meeting with President Vladimir Putin.
+- According to released files reported by the Washington Post, CNN, and Al Jazeera, Epstein had a relationship with Sergei Belyakov, a graduate of the FSB Academy and former deputy minister of economic development, dating to at least 2014.
+- According to Euromaidan Press, the files reveal that in 2015, Epstein reached out to Belyakov for advice about what he described as an attempt to blackmail a group of "powerful" businessmen in New York.
+- Former MI6 chief Sir Richard Dearlove told The Sun that Epstein was "likely" recruited by the KGB to run a "kompromat scheme."
+- Poland's prime minister and multiple intelligence commentators have described Epstein's network as possibly co-opted by Russian intelligence for blackmail purposes.
+
+**The connection between Krivov specifically and Epstein remains unsubstantiated speculation.** What is documented is that Krivov held a sensitive intelligence-related position at the Russian Consulate in New York, and that Epstein maintained documented contacts with Russian intelligence-linked individuals. Whether these threads intersect through Krivov personally is not established by available evidence.
+
+## The 2016-2017 Russian Diplomat Death Cluster
+
+Krivov's death was the first in a striking cluster of Russian diplomats and officials who died within approximately nine months, as documented by CNN, Axios, and other major outlets:
+
+1. **Sergei Krivov** — November 8, 2016 — Consulate security officer, New York — disputed cause of death
+2. **Andrei Karlov** — December 19, 2016 — Russian Ambassador to Turkey — assassinated by an off-duty Turkish police officer at an art exhibition in Ankara
+3. **Petr Polshikov** — December 19, 2016 — Senior Russian diplomat — shot dead in his Moscow home (same day as Karlov)
+4. **Andrei Malanin** — December 19, 2016 — Russian consul in Athens, Greece — found dead in his apartment
+5. **Alexander Kadakin** — January 26, 2017 — Russian Ambassador to India — died after "a short illness"
+6. **Vitaly Churkin** — February 20, 2017 — Russian Ambassador to the United Nations — died of apparent heart attack in his office; autopsy report sealed at the request of the U.S. Mission to the UN
+7. **Denis Voronenkov** — March 23, 2017 — Former Russian lawmaker who defected to Ukraine — shot dead in broad daylight in Kyiv
+
+Former Director of National Intelligence James Clapper stated on CNN in May 2017 that there was a "curious pattern" of deaths among Russian officials, though he acknowledged: "We have had difficulty, though, in actually generating an evidentiary trail that could equate convincingly and compellingly in a court of law a direct connection between certain figures that have been eliminated who apparently ran afoul of Putin."
+
+## Why This Death Raises Questions
+
+- **Election Day timing:** Krivov died on the morning of November 8, 2016 — U.S. Election Day — at a time of unprecedented focus on Russian interference in the American election. As the consulate's duty commander with access to encrypted communications, he would have been a key figure in any communications between the consulate and Moscow during this sensitive period.
+- **Three conflicting narratives:** The cause of death changed from rooftop fall, to heart attack with head injury, to tumor-related bleeding with no head injury — each version contradicting the last.
+- **NYPD vs. Medical Examiner contradiction:** The NYPD documented "unknown trauma to the head" while the medical examiner explicitly stated "the medical examiner's findings do not include head trauma." No explanation was provided for this discrepancy.
+- **FBI lied about involvement:** The FBI initially denied participating in the investigation, then a U.S. intelligence official confirmed the bureau had in fact conducted a joint inquiry with the NYPD.
+- **Rapid body removal:** The body was removed from the morgue the day after death, before the investigation was complete.
+- **Delayed cause of death:** Three months after the death, the medical examiner still had not finalized a cause of death.
+- **NYPD blocked records release:** The NYPD refused to release the incident report through standard FOIA procedures, using unusual legal justifications that government transparency experts called "really weird."
+- **Fake address on file:** The address provided by Russian consular officials was a Smithsonian museum building, not a residence.
+- **No public records:** No public records for Krivov existed in Manhattan, despite his being described as a Manhattan resident — consistent with someone operating under diplomatic cover for intelligence purposes.
+- **Part of a cluster:** His death was the first in a series of at least seven Russian diplomat/official deaths within nine months.
+- **Sensitive position:** As duty commander with access to the consulate's cryptographic equipment, Krivov would have had knowledge of classified communications between the consulate and Moscow — making him a potential target for any party seeking to prevent disclosure of those communications.
+
+## The Counterargument
+
+- The New York City Medical Examiner, after conducting an autopsy and completing its investigation, ruled the death was from natural causes — internal bleeding related to a tumor. This is a specific medical finding from an independent city agency.
+- NYPD police sources told reporters that foul play was not suspected and that Krivov had been in poor health.
+- The FBI, after participating in a joint inquiry with the NYPD, reportedly did not find the death suspicious.
+- The Russian consulate stated that "an American doctor" confirmed the death was from natural causes.
+- The head trauma discrepancy could potentially be explained by initial first-responder observations being revised upon more thorough medical examination — though no official explanation was offered.
+- The fake address could reflect standard diplomatic/intelligence practice for consular employees rather than evidence of wrongdoing.
+- Russian health statistics show that nearly half (48.7%) of Russian citizens die from coronary-related illnesses, and there may be nothing extraordinary about a 63-year-old Russian man dying from a medical condition.
+- The cluster of Russian diplomat deaths in 2016-2017, while striking in number, involved diverse causes (assassination, shooting, illness, heart attack) across multiple countries with no demonstrated common thread.
+
+## Key Quotes
+
+> "The employee of the Consulate General of Russia Sergei Krivov passed away on November 8, 2016. An American doctor that was admitted to the Consulate General stated without a doubt that the death was by natural reasons."
+> — **Russian Consulate statement**, as reported by [BuzzFeed News](https://www.buzzfeednews.com/article/alimwatkins/the-strange-case-of-the-russian-diplomat-who-got-his-head-sm)
+
+> "The medical examiner's findings do not include head trauma."
+> — **New York City Medical Examiner's Office**, contradicting NYPD's initial report, as reported by [BuzzFeed News](https://www.buzzfeednews.com/article/alimwatkins/medical-examiner-contradicts-nypd-dead-russian-diplomat-had)
+
+> "No one is living here — this is where my desk is right now."
+> — **Smithsonian employee** at 11 East 90th Street, the address NYPD had on file for Krivov, as reported by [BuzzFeed News](https://www.buzzfeednews.com/article/alimwatkins/the-strange-case-of-the-russian-diplomat-who-got-his-head-sm)
+
+> "The incident report, after an investigation is closed, typically that is releasable. It's really weird that they would categorically state that was rejected... incident reports are not broadly exempt from public records law."
+> — **Michael Morisy**, founder of MuckRock, on the NYPD's refusal to release the Krivov incident report, as reported by [BuzzFeed News](https://www.buzzfeednews.com/article/alimwatkins/the-strange-case-of-the-russian-diplomat-who-got-his-head-sm)
+
+> "Well, this obviously has been a curious pattern... We have had difficulty, though, in actually generating an evidentiary trail that could equate convincingly and compellingly in a court of law a direct connection between certain figures that have been eliminated who apparently ran afoul of Putin."
+> — **James Clapper**, former Director of National Intelligence, on the pattern of Russian diplomat deaths, as reported by [The Hill](https://thehill.com/homenews/sunday-talk-shows/333362-clapper-curious-pattern-of-russian-deaths/)
+
+## See Also
+
+- [Umar Dzhabrailov](Umar_Dzhabrailov.md) — Russian mogul with Maxwell/Epstein connections, found dead of gunshot to head in Moscow in 2026
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Recently released DOJ files reveal extensive contacts with Russian intelligence-linked officials
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Kazakh-born model who appeared on Epstein's jet, fell from 9th floor in Manhattan
+- [Danny Casolaro](Danny_Casolaro.md) — Investigator of PROMIS intelligence software with connections to both intelligence operations and the Epstein orbit
+
+## Other Shocking Stories
+
+- [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser posted "not suicidal," then died by gunshot in strict-gun-law Australia. Father says "somebody got to her."
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in French prison awaiting trafficking trial — same method as Epstein, same result.
+- [Daniel Anderl](Daniel_Anderl.md): Judge's 20-year-old son shot dead at home four days after she drew the Epstein-Deutsche Bank case.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted about CIA/Mossad sex trafficking ring in Puerto Rico. Drowned four hours later.
+
+## Sources
+
+- [The Strange Case Of The Russian Diplomat Who Got His Head Smashed In On Election Day](https://www.buzzfeednews.com/article/alimwatkins/the-strange-case-of-the-russian-diplomat-who-got-his-head-sm) — BuzzFeed News, Ali Watkins, February 15, 2017
+- [Medical Examiner Contradicts NYPD: Dead Russian Diplomat Had No Head Wound After All](https://www.buzzfeednews.com/article/alimwatkins/medical-examiner-contradicts-nypd-dead-russian-diplomat-had) — BuzzFeed News, Ali Watkins, March 1, 2017
+- [Nine months, nine prominent Russians dead](https://www.cnn.com/2017/03/24/europe/dead-russians/index.html) — CNN, March 24, 2017
+- [Russian diplomats keep dying unexpectedly](https://www.axios.com/2017/12/15/russian-diplomats-keep-dying-unexpectedly-1513303951) — Axios, December 15, 2017
+- [Clapper notes 'curious pattern' of Russian deaths](https://thehill.com/homenews/sunday-talk-shows/333362-clapper-curious-pattern-of-russian-deaths/) — The Hill, May 14, 2017
+- [Sergei Krivov FOIA Request](https://www.muckrock.com/foi/united-states-of-america-10/sergei-krivov-33375/) — MuckRock, February 15, 2017
+- [Sergei Krivov NYPD FOIA Request](https://www.muckrock.com/foi/new-york-city-17/sergei-krivov-new-york-city-police-department-33449/) — MuckRock
+- [Epstein built ties to Russians and sought to meet Putin, files show](https://www.washingtonpost.com/world/2026/02/06/epstein-files-russia-putin/) — Washington Post, February 6, 2026
+- [Honeytrap empire: Epstein files reveal deep ties to Belarusian and Russian individuals](https://euromaidanpress.com/2026/02/03/epstein-russia-connections-kompromat/) — Euromaidan Press, February 3, 2026
+- [Why Are the Details of One Russian Diplomat's Death So Hazy?](https://longreads.com/2017/02/18/why-are-the-details-of-one-russian-diplomats-death-so-hazy/) — Longreads, February 18, 2017
+
+*This information was built by Grok and Claude AI research.*
