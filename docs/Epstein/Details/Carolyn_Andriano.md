@@ -14,9 +14,9 @@ Epstein victim who testified against Maxwell, died of overdose after reportedly 
 | **Official Ruling** | Accidental overdose |
 | **Category** | Underage Victim / Confirmed Victim |
 
-## Assessment: MODERATE SUSPICION
+## Assessment: HIGHLY SUSPICIOUS
 
-While Andriano had a documented addiction history tied to childhood trauma (consistent with overdose), several facts add suspicion: she had testified against Maxwell just two years earlier; her mother publicly questioned the circumstances; she had reportedly told her mother she was recently free of drugs and had purchased property in North Carolina to start a new life weeks before her death; and she was the second Epstein victim to die of an overdose in a Palm Beach hotel room. Her mother stated things about the overdose "don't make sense."
+Andriano testified against Ghislaine Maxwell at trial — her testimony was described by a juror as "the most gripping" — and died just two years later. Her mother stated she was drug-free, had purchased property in North Carolina, and was "turning her whole life around" weeks before her death. She was the second Epstein victim to die of an overdose in a Palm Beach hotel room (following [Leigh Skye Patrick](Leigh_Skye_Patrick.md) in 2017). Her mother publicly said the circumstances "don't make sense." Her death was not publicly announced for months. While Andriano had a documented addiction history tied to childhood trauma, the specific timing — after Maxwell trial testimony — and her mother's account of her recovery trajectory elevate the suspicion level. Rep. Anna Paulina Luna has publicly raised questions about the circumstances of her death.
 
 ## Circumstances of Death
 

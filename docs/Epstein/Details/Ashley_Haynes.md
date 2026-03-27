@@ -1,0 +1,91 @@
+
+
+# Ashley Haynes
+Yoga teacher found drowned in Arkansas River with ankle bound to a 58-pound concrete block by an extension cord. Alleged connection to Epstein associate Mark Middleton is disputed.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ashley Schwarz Haynes |
+| **Born** | ~1975 |
+| **Died** | January 12, 2022 |
+| **Age at Death** | 47 |
+| **Location of Death** | Arkansas River near Maumelle, Arkansas, USA |
+| **Cause of Death** | Drowning |
+| **Official Ruling** | Suicide |
+| **Category** | Alleged Whistleblower / Disputed Connection |
+
+## Assessment: SUSPICIOUS
+
+Ashley Haynes was found drowned in the Arkansas River with a 58-pound concrete block strapped to her ankle by an extension cord — an elaborate method that has drawn significant public attention. Her death occurred approximately four months before the death of [Mark Middleton](Mark_Middleton.md), a former Clinton aide and alleged Epstein associate who was also found dead with an extension cord involved. However, a Lead Stories fact-check found no documentary evidence or credible on-the-record source linking the two deaths beyond the extension cord detail and an anonymous source cited by Radar Online. Claims that Haynes "vowed to expose an elite pedophile ring" or was "last seen visiting" Middleton originate from partisan and anonymous sources that have not been independently verified by mainstream reporting.
+
+## Circumstances of Death
+
+According to THV11 and the Arkansas Democrat-Gazette, Ashley Haynes was reported missing at approximately 6 p.m. on Wednesday, January 12, 2022, after she had left to paddleboard on the Arkansas River near Maumelle at about 1 p.m. She was wearing a wetsuit. Her paddleboard was found Thursday by search crews.
+
+Multiple agencies — including Maumelle police, Arkansas State Police, the Pulaski County sheriff's office, and the Arkansas Game and Fish Commission — conducted a search. Her body was found around noon on Sunday, January 16, in approximately 10 feet of water on the north side of the Arkansas River.
+
+According to reports, a large concrete block weighing approximately 58 pounds was found in a bag strapped to her leg with a green extension cord. Police initially stated there did not appear to be signs of foul play. The case was closed and ruled a suicide.
+
+## Background
+
+Haynes was a yoga teacher from Maumelle, Arkansas. She was known in the local paddleboarding community. According to Fox 16, the paddleboarding community mourned her loss.
+
+## Alleged Epstein/Middleton Connection
+
+Claims connecting Haynes to the Epstein network and Mark Middleton first appeared in a Radar Online article published on May 27, 2022 — months after her death and shortly after Middleton's death on May 7, 2022. The article cited "an anonymous business associate" as the sole source for the connection. According to a [Lead Stories fact-check](https://leadstories.com/hoax-alert/2022/08/fact-check-woman-found-dead-in-arkansas-river-is-not-linked-to-death-of-former-clinton-advisor.html):
+
+- No documentary evidence or credible on-the-record person has confirmed a connection between Haynes and Middleton.
+- No evidence has been presented that Haynes was associated with the Clintons or the Epstein network.
+- The only documented commonality between the two deaths is the use of extension cords — Haynes had one binding a concrete block to her ankle; Middleton was found hanging from a tree by one.
+- Claims that Haynes "vowed to expose an elite pedophile ring" have not been substantiated by mainstream reporting.
+
+These claims circulated widely on social media and partisan outlets following Middleton's death.
+
+## Why This Death Possibly Raises Questions
+
+- The method of death — drowning with a 58-pound concrete block strapped to her ankle by an extension cord — is unusually elaborate for a suicide.
+- Her death occurred approximately four months before Mark Middleton's death, which also involved an extension cord in Perryville, Arkansas.
+- Both deaths occurred in Arkansas, the same state where multiple Clinton-associated deaths have occurred.
+- The case was closed relatively quickly as a suicide.
+
+## The Counterargument
+
+- According to a Lead Stories fact-check, no credible evidence links Haynes to Middleton, the Clintons, or the Epstein network.
+- The anonymous source connecting the two deaths was never identified or corroborated.
+- The extension cord commonality may be coincidental.
+- Paddleboarding in January in a river carries inherent risks, though the concrete block makes an accidental drowning explanation implausible.
+- The claims originated from partisan outlets (Radar Online, clinton.news) and social media, not investigative journalism.
+
+## Key Quotes from Media Coverage
+
+> "Officials say there does not appear to be any signs of foul play."
+> — **Maumelle Police**, initial statement, as reported by [THV11](https://www.thv11.com/article/news/local/officials-search-for-woman-disappeared-paddleboarding/91-98fcdeff-cc70-459d-8cf3-c8aa1694fa28)
+
+> "The element of the extension cord and 'an anonymous business associate' appear to be the only things linking the two [deaths]."
+> — **Lead Stories** fact-check ([Lead Stories](https://leadstories.com/hoax-alert/2022/08/fact-check-woman-found-dead-in-arkansas-river-is-not-linked-to-death-of-former-clinton-advisor.html))
+
+## See Also
+
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide found dead in Arkansas with extension cord, four months after Haynes
+- [Don Henry & Kevin Ives](Don_Henry_Kevin_Ives.md) — "Boys on the Tracks" — another suspicious death in Arkansas with intelligence/Clinton-era connections
+- [Barry Seal](Barry_Seal.md) — CIA drug pilot connected to Arkansas operations
+
+## Other Shocking Stories
+
+- [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser. Posted "not suicidal." Died by gunshot in strict-gun-law Australia. Father says "somebody got to her."
+- [Aaron Owen](Aaron_Owen.md): 17 years old. Found hanged in jail cell hours before his sister was to testify about an elite child abuse network.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted about CIA/Mossad sex trafficking ring. Drowned four hours later in Puerto Rico.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator exposed CPS child trafficking. Shot in the back with an untraceable gun.
+
+## Sources
+
+- [THV11: Crews Continue Search for Woman Who Disappeared Paddleboarding](https://www.thv11.com/article/news/local/officials-search-for-woman-disappeared-paddleboarding/91-98fcdeff-cc70-459d-8cf3-c8aa1694fa28)
+- [Fox 16: Paddleboarding Community Mourns Loss of Maumelle Paddler](https://www.fox16.com/news/local-news/paddleboarding-community-mourns-loss-of-maumelle-paddler/)
+- [KARK: Maumelle Police Say They Have Found the Body of Missing Paddleboarder Ashley Haynes](https://www.kark.com/news/local-news/maumelle-police-say-they-have-found-body-of-missing-paddleboarder-ashley-haynes/)
+- [Arkansas Democrat-Gazette: Body of Maumelle Paddleboarder Found in Arkansas River](https://www.arkansasonline.com/news/2022/jan/16/body-of-maumelle-paddleboater-found-in-arkansas-ri/)
+- [Lead Stories Fact-Check: Woman Found Dead in Arkansas River Is NOT Provably Linked to Clinton Advisor](https://leadstories.com/hoax-alert/2022/08/fact-check-woman-found-dead-in-arkansas-river-is-not-linked-to-death-of-former-clinton-advisor.html)
+- [Heavy: Ashley Haynes: Maumelle, Arkansas, Woman Dies in River](https://heavy.com/news/ashley-haynes-missing/)
+- [Published Reporter: Woman Found at Bottom of River Bound by Concrete Block](https://publishedreporter.com/2022/06/07/woman-found-at-bottom-of-river-bound-by-concrete-block-linked-to-suspicious-death-of-former-clinton-advisor-epstein-fixer/)
+- [Websleuths: AR - Ashley Schwarz Haynes, Paddleboarding on Arkansas River](https://websleuths.com/threads/ar-ashley-schwarz-haynes-paddleboarding-on-arkansas-river-maumelle-12-jan-2022.609051/)
+
+*This information was built by Grok and Claude AI research.*

@@ -14,9 +14,9 @@ Major Clinton donor named in Epstein files, fell from 27th floor with documented
 | **Official Ruling** | Suicide (LAPD found no evidence of foul play) |
 | **Category** | Business Associate / Movie Producer / Major Democratic Donor |
 
-## Assessment: MODERATE SUSPICION
+## Assessment: HIGHLY SUSPICIOUS
 
-Bing had connections to both [Epstein](Jeffrey_Epstein.md) and the Clinton orbit, and his name appeared in Epstein files released in 2026. While he suffered from documented depression, drug use, and financial decline, the timing of his death during the post-Epstein investigation period, combined with his connections, has drawn attention. The claim that he "talked to the FBI" about Epstein is not verified by any mainstream source.
+Bing was deeply embedded in the Clinton-Epstein orbit — donating up to $25 million to the Clinton Foundation, providing his personal 737 for Clinton's North Korea trip, and naming the Clinton Foundation as sole beneficiary of his trust. His name appeared in 2026 Epstein file releases in communications between Doug Band and [Ghislaine Maxwell](Ghislaine_Maxwell.md). He died during the 2019-2020 period when multiple Epstein-connected individuals died, and his death fits the "fall from height" pattern seen in other Epstein-linked cases ([Ruslana Korshunova](Ruslana_Korshunova.md), [Anastasia Drozdova](Anastasia_Drozdova.md), [Wendy Leigh](Wendy_Leigh.md)). Some social media posts claim he spoke to the FBI about Epstein connections shortly before his death — this claim has **not been substantiated** by mainstream reporting but has not been definitively debunked. While he had documented depression, drug use, and financial decline, his position as someone who may have known details about Clinton-Epstein interactions, combined with the timing and method, elevates suspicion.
 
 ## Circumstances of Death
 

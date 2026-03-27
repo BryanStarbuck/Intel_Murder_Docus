@@ -1,0 +1,161 @@
+# Juvenal Habyarimana
+
+President of Rwanda, killed alongside President Cyprien Ntaryamira of Burundi when their plane was shot down by surface-to-air missiles on approach to Kigali airport -- the assassination that triggered the 1994 Rwandan genocide in which approximately 800,000 people were murdered in 100 days.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Juvenal Habyarimana |
+| **Born** | March 8, 1937, Gisenyi, Ruanda-Urundi (now Rwanda) |
+| **Died** | April 6, 1994 |
+| **Age at Death** | 57 |
+| **Location of Death** | Kigali, Rwanda (plane shot down on approach to Kigali International Airport) |
+| **Cause of Death** | Plane shot down by surface-to-air missiles (SA-16 type) |
+| **Official Ruling** | Assassination confirmed; perpetrator disputed |
+| **Alleged Intelligence Connection** | Rwandan Patriotic Front / RPF intelligence (alleged by French investigation), Rwandan Presidential Guard / Hutu extremists (alleged by Rwandan and U.S. investigations), French intelligence / DGSE (alleged to have had advance knowledge) |
+| **Victim Was Intel Employee** | No |
+| **Category** | Foreign Leader |
+
+## Assessment: CONFIRMED (assassination confirmed, perpetrator disputed)
+
+The assassination itself is beyond dispute -- surface-to-air missiles struck the Dassault Falcon 50 carrying Presidents Habyarimana and Ntaryamira, killing everyone on board. What remains one of the most consequential unsolved questions in modern African history is who fired the missiles. A French judicial investigation under Judge Jean-Louis Bruguiere concluded in 2006 that RPF commander Paul Kagame (now president of Rwanda) ordered the attack. However, subsequent French ballistics experts pinpointed the missile launch site at the Kanombe military camp controlled by Habyarimana's own presidential guard, and a U.S. Defense Intelligence Agency report stated that "Hutu military hardliners" were believed responsible. The French investigation was ultimately dropped in 2018 for lack of sufficient evidence. A Rwandan government investigation concluded that Hutu extremists carried out the attack to derail peace negotiations and create a pretext for genocide.
+
+## Circumstances of Death
+
+On the evening of April 6, 1994, a Dassault Falcon 50 jet (registration 9XR-NN) carrying Rwandan President Juvenal Habyarimana and Burundian President Cyprien Ntaryamira was returning from a regional summit in Dar es Salaam, Tanzania, where the two leaders had been discussing implementation of the Arusha Peace Accords.
+
+At approximately 8:20 PM local time, as the aircraft made its final approach to Kigali International Airport, at least one surface-to-air missile struck the plane. The aircraft crashed in the garden of the presidential palace, killing all twelve people on board: both presidents, their entourage of senior officials, and the three-member French flight crew.
+
+Within one hour of the crash, roadblocks began appearing throughout Kigali, manned by the Presidential Guard and Interahamwe militia. By the next morning, the systematic extermination of Tutsi and moderate Hutu had begun. Over the next 100 days, approximately 800,000 people -- primarily ethnic Tutsi -- were slaughtered in what became the Rwandan genocide, one of the fastest and most efficient mass killings in human history.
+
+The assassination served as the trigger -- though not the root cause -- of the genocide. Extensive planning for the mass killings had been underway for months, including the stockpiling of weapons (primarily machetes imported from China), the training of Interahamwe militia, the compilation of death lists, and the establishment of the Radio Television Libre des Mille Collines (RTLM) hate radio station.
+
+## Background
+
+### Early Life and Military Rise
+
+Juvenal Habyarimana was born on March 8, 1937, in Gisenyi, in what was then the Belgian-administered territory of Ruanda-Urundi, to a wealthy Hutu family. He attended Catholic primary school, studied mathematics at St. Paul College, and briefly studied medicine at Lovanium University in Leopoldville (now Kinshasa).
+
+Habyarimana joined the Rwandan National Guard and on December 23, 1961, became the first Black officer in the Guard when he was promoted to Second Lieutenant. He rose rapidly through the military ranks, becoming Chief of Staff to the Commander of the National Guard in 1963, Minister of Defense and Chief of the National Police in 1965, and General by 1973.
+
+### Seizure of Power
+
+On July 5, 1973, Habyarimana, then serving as Army Chief of Staff and Minister of Defense, seized power in a bloodless coup d'etat against President Gregoire Kayibanda. He dissolved the National Assembly, abolished all political parties, and established the Mouvement Revolutionnaire National pour le Developpement (MRND) as the country's sole legal party in 1975.
+
+### Authoritarian Rule
+
+Habyarimana ruled Rwanda as a one-party state for over two decades. As president of the MRND, he was the only candidate in presidential elections held in 1978, 1983, and 1988. Rwanda under Habyarimana became a totalitarian state in which citizens were required to participate in mass pageants of political "animation" -- chanting and dancing in adulation of the president. The regime enforced a system of ethnic identity cards that classified all Rwandans as Hutu, Tutsi, or Twa, institutionalizing the ethnic divisions that would later facilitate genocide.
+
+### The RPF Invasion and Civil War
+
+In October 1990, the Rwandan Patriotic Front (RPF), a Tutsi-led rebel movement based in Uganda and commanded by Paul Kagame, invaded Rwanda from the north. The ensuing civil war lasted three years and put enormous pressure on Habyarimana's regime. Under international pressure, Habyarimana signed the Arusha Peace Accords on August 4, 1993, which provided for power-sharing with the RPF and the integration of RPF fighters into the national army.
+
+The Arusha Accords were bitterly opposed by Hutu hardliners within Habyarimana's own government, military, and party -- the so-called "Hutu Power" faction, which included his wife Agathe Habyarimana and her circle of influence known as the "Akazu" (little house). These extremists viewed any power-sharing with the Tutsi minority as an existential threat and had been planning a "final solution" to the Tutsi question.
+
+## Intelligence Connections
+
+### Theory 1: RPF / Paul Kagame Ordered the Attack
+
+According to the French judicial investigation led by Judge Jean-Louis Bruguiere (2006):
+
+* According to Bruguiere's findings, RPF commander Paul Kagame ordered the assassination to seize power militarily, having calculated that the Arusha Accords' power-sharing arrangement was less advantageous than outright military victory
+* According to the investigation, RPF operatives fired the missiles from a location near the airport
+* According to Bruguiere, multiple witnesses, including RPF defectors, testified that Kagame had planned the attack
+* Rwanda severed diplomatic relations with France in response to the Bruguiere report
+* Kagame and the RPF have consistently denied any involvement
+
+However, in 2012, a new team of French ballistics experts re-examined the evidence and concluded that the missiles were fired from the Kanombe military camp, which was controlled by Habyarimana's Presidential Guard -- directly contradicting Bruguiere's conclusions. In 2018, French investigating judges Herbaut and Poux dropped the case for "lack of sufficient evidence." In 2020, the Paris Court of Appeal upheld this dismissal.
+
+### Theory 2: Hutu Extremists / Presidential Guard
+
+According to a U.S. Defense Intelligence Agency report dated May 9, 1994:
+
+* According to the DIA, "It is believed that the plane crash [...] was actually an assassination conducted by Hutu military hardliners"
+* According to a declassified U.S. State Department intelligence report from April 7, 1994, an unidentified source told the U.S. ambassador in Rwanda that "rogue Hutu elements of the military -- possibly the elite presidential guard -- were responsible for shooting down the plane"
+* According to this theory, Hutu extremists assassinated their own president because he was implementing the Arusha Accords, which would have required power-sharing with the Tutsi
+* The assassination provided the pretext the extremists needed to launch the genocide they had been planning for months
+* The 2012 French ballistics analysis placing the missile launch site at the Kanombe military camp (controlled by the Presidential Guard) supports this theory
+
+### Theory 3: Rwandan Government Investigation (2010)
+
+In January 2010, the RPF-led Rwandan government released the findings of its own investigation:
+
+* According to the Rwandan investigation, Hutu extremist soldiers within the presidential guard shot down the plane to derail peace negotiations and create a pretext for genocide
+* According to the investigation, Colonel Theoneste Bagosora, a Hutu hardliner who was later convicted of genocide by the International Criminal Tribunal for Rwanda (ICTR), was a central figure in the plot
+* Critics note that this investigation was conducted by the RPF government and therefore cannot be considered independent
+
+### French Intelligence (DGSE)
+
+* According to various reports, France maintained close relations with the Habyarimana regime and had French military advisors in Rwanda
+* The French flight crew on the presidential aircraft raises questions about what French intelligence knew about threats to the plane
+* According to some accounts, France may have had intelligence suggesting an attack was imminent but failed to act on it
+* France has denied any foreknowledge of the assassination
+
+## Why This Death Raises Questions
+
+- The assassination triggered the fastest genocide in modern history, killing approximately 800,000 people in 100 days
+- The perpetrator of the shoot-down has never been conclusively identified despite multiple investigations spanning decades
+- A French judge blamed the RPF/Kagame, but subsequent French ballistics experts traced the missile launch to Habyarimana's own Presidential Guard camp
+- The U.S. Defense Intelligence Agency assessed that Hutu military hardliners were responsible
+- The genocide had been planned for months before the assassination, suggesting the shoot-down was a pre-arranged trigger rather than a spontaneous response
+- Weapons, militia training, death lists, and hate radio infrastructure were all in place before April 6, indicating advance preparation by those who used the assassination as justification
+- President Cyprien Ntaryamira of Burundi was also killed, yet little attention has been paid to the Burundian dimension of the assassination
+- The French investigation was dropped for insufficient evidence after 28 years, leaving the question officially unresolved
+- Every party with a motive -- RPF, Hutu extremists, and potentially French intelligence -- has denied responsibility
+- The assassination remains one of the most consequential unsolved political killings in history
+
+## Key Quotes
+
+> According to a declassified U.S. Defense Intelligence Agency report dated May 9, 1994: "It is believed that the plane crash [...] was actually an assassination conducted by Hutu military hardliners."
+
+> According to a declassified U.S. State Department intelligence report from April 7, 1994, an unidentified source told the U.S. ambassador: "Rogue Hutu elements of the military -- possibly the elite presidential guard -- were responsible for shooting down the plane."
+
+> According to the Human Rights Watch report *Leave None to Tell the Story*, the genocide "was not a spontaneous eruption of ancient hatreds but a carefully planned campaign by a small elite in response to the prospect of losing their grip on power."
+
+> According to the French Court of Appeal's 2020 ruling, the case was dismissed for "lack of sufficient evidence" to identify the perpetrators of the shoot-down.
+
+## Counterarguments / Alternative Explanations
+
+The question of who assassinated Habyarimana remains genuinely unsettled, with credible evidence pointing in multiple directions:
+
+**Arguments for RPF responsibility:**
+- The RPF had the military capability and training to carry out a missile attack
+- The RPF ultimately benefited from the ensuing chaos, winning the civil war and seizing power
+- According to Judge Bruguiere's investigation, RPF defectors testified about Kagame's role
+- Kagame's subsequent authoritarian rule in Rwanda raises questions about his willingness to use extreme measures
+
+**Arguments for Hutu extremist responsibility:**
+- French ballistics experts placed the missile launch at the Presidential Guard's Kanombe camp
+- The genocide was pre-planned, requiring a triggering event
+- Hutu extremists viewed Habyarimana as a traitor for signing the Arusha Accords
+- The DIA and State Department intelligence pointed to Hutu hardliners
+- Colonel Bagosora, later convicted of genocide, was documented as having said months before: "The only solution is to go back to 1959" -- a reference to the anti-Tutsi pogroms
+
+**The uncomfortable truth:** Both sides had motive and capability. The investigation's failure after nearly three decades suggests the answer may never be definitively known.
+
+## See Also
+
+- [Patrice Lumumba](Patrice_Lumumba.md) -- Congo's first elected leader, assassinated with CIA involvement in 1961
+- [Thomas Sankara](Thomas_Sankara.md) -- Burkina Faso's president, assassinated in 1987 coup
+- [Dag Hammarskjold](Dag_Hammarskjold.md) -- UN Secretary-General killed in suspicious 1961 plane crash in Africa
+- [Aldo Moro](Aldo_Moro.md) -- Italian prime minister kidnapped and murdered with alleged intelligence dimensions
+
+## Other Shocking Stories
+
+- [Olof Palme](Olof_Palme.md): Swedish prime minister shot dead on a Stockholm street while walking home from the cinema with his wife.
+- [Benazir Bhutto](Benazir_Bhutto.md): Pakistani prime minister assassinated at a campaign rally -- her death still disputed between shooting and bomb blast.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanese prime minister killed by massive truck bomb that left a crater 30 feet deep in central Beirut.
+- [Boris Nemtsov](Boris_Nemtsov.md): Russian opposition leader shot four times in the back on a bridge within sight of the Kremlin walls.
+
+## Sources
+
+- [Assassination of Juvenal Habyarimana and Cyprien Ntaryamira - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Juv%C3%A9nal_Habyarimana_and_Cyprien_Ntaryamira)
+- [Juvenal Habyarimana - Wikipedia](https://en.wikipedia.org/wiki/Juv%C3%A9nal_Habyarimana)
+- [Juvenal Habyarimana - Britannica](https://www.britannica.com/biography/Juvenal-Habyarimana)
+- [France closes probe into plane attack that sparked Rwanda genocide - France 24](https://www.france24.com/en/africa/20220215-france-closes-probe-into-plane-attack-that-sparked-rwanda-genocide)
+- [French court rejects new inquiry into death of president Habyarimana - France 24](https://www.france24.com/en/20200703-france-rwanda-president-plane-assassination-appeal-paul-kagame-juvenal-habyarimana)
+- [TWE Remembers: Habyarimana's Plane Crashes and the Rwandan Genocide Begins - Council on Foreign Relations](https://www.cfr.org/articles/twe-remembers-juvenal-habyarimanas-plane-crashes-and-rwandan-genocide-begins)
+- [Understanding the Strategic Value of the Assassination - University of South Florida](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2289&context=jss)
+- [Habyarimana, Juvenal - Sciences Po Mass Violence and Resistance](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/habyarimana-juva-nal.html)
+- [Leave None to Tell the Story: Genocide in Rwanda - Human Rights Watch](https://www.hrw.org/reports/1999/rwanda/Geno1-3-02.htm)
+
+*This information was built by Grok and Claude AI research.*

@@ -14,9 +14,9 @@ Epstein victim lured to his mansion at 16, died of heroin overdose linked to abu
 | **Official Ruling** | Accidental overdose |
 | **Category** | Underage Victim / Confirmed Victim |
 
-## Assessment: LOW SUSPICION — LIKELY TRAUMA-RELATED
+## Assessment: HIGHLY SUSPICIOUS
 
-Patrick's death is most likely a direct consequence of the trauma Epstein inflicted on her as a child. Medical research confirms that survivors of childhood sexual exploitation have significantly elevated risk of addiction and overdose. Her family directly attributed her addiction to Epstein's abuse. While the death is tragic and arguably caused by Epstein, it is more likely a consequence of his crimes than an act of silencing.
+Patrick was a documented Epstein victim lured to his mansion at 16 and died of a heroin overdose in a West Palm Beach hotel room — the same type of location and same area where another Epstein victim, [Carolyn Andriano](Carolyn_Andriano.md), would die of an overdose six years later. Her family directly attributed her addiction to the trauma of Epstein's abuse. The pattern of two Epstein survivors dying of overdoses in Palm Beach hotel rooms is part of a broader cluster of Epstein victim deaths that social media threads and investigators have flagged as potentially connected to silencing victims before major revelations. Patrick died in 2017, two years before Epstein's arrest. While her addiction history is consistent with trauma-related overdose, the specific pattern — Epstein victim, hotel room, Palm Beach — elevates the suspicion level.
 
 ## Circumstances of Death
 
