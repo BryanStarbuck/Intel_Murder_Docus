@@ -256,12 +256,10 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
 
 ## Sorting Criteria
 
-**Every table and list across ALL investigation pages (index.md, by_country.md, timeline.md, methods.md, etc.) must follow this sort order:**
+**Every table and list across ALL investigation pages (index.md, by_country.md, timeline.md, methods.md, etc.) must follow this sort order. These factors are applied in sequence — each one breaks ties from the level above.**
 
-1. **Americans killed on American soil first** — This is the **highest priority sorting rule**. An American murdered on US soil always appears above all other entries, regardless of any other criteria. This reflects the core audience impact: intelligence agencies killing Americans in their own country is the most alarming and actionable category.
-2. **Americans killed abroad second** — American citizens murdered outside the US come next, above all non-American entries.
-3. **Non-intelligence people above intelligence service employees** — Within each geographic group (American/US soil, American/abroad, international), non-intel victims always sort above intel employees. A murdered journalist, scientist, activist, or elected leader appears above a murdered spy or defector.
-4. **Victim category priority (highest-impact categories first)** — Within each geographic/intel group, sort by victim category in this priority order:
+1. **Non-intelligence people above intelligence service employees** — This is the primary divide. Non-intel victims always appear above intel employees in every table and list.
+2. **Victim category priority (highest-impact categories first)** — Within each intel/non-intel group, sort by victim category in this priority order:
    1. **Child trafficking linked** — Any victim whose death is connected to child trafficking investigations or exposure gets the highest category boost, regardless of their other category. This crosses all categories.
    2. **Scientists / Weapons Researchers / UAP Researchers** — Researchers killed over sensitive knowledge, including weapons programs, classified technology, and UAP/UFO research.
    3. **Civilians** — Ordinary people with no intelligence, political, or activist role who were murdered by intelligence services. The most innocent victims.
@@ -271,23 +269,34 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
    7. **Political Activists / Organizers** — Targeted by intelligence/law enforcement. Important but lower priority than civilians, whistleblowers, and journalists.
    8. **Military / Law Enforcement / Bankers** — Non-intelligence but institutional roles.
    9. **Intelligence service employees** — Defectors, officers, intel whistleblowers (always last).
-5. **Decade (most recent first)** — Within each group, sort by decade: 2020s > 2010s > 2000s > 1990s > 1980s > 1970s > 1960s and earlier. Readers connect more with recent cases, and recent deaths are more actionable.
-6. **Suspicion level (highest first)** — Within the same decade, sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
-7. **Year (most recent first)** — When two entries share the same decade and suspicion level, put the more recent year first.
+3. **Nationality and death location (Americans and US soil sort higher)** — Within the same category group, sort by nationality and where the death occurred:
+   - **Americans killed on American soil** sort highest — intelligence agencies killing Americans in their own country is the most alarming category for our audience.
+   - **Americans killed abroad** sort next — American citizens murdered outside the US.
+   - **Non-Americans killed on US soil** sort next — foreign nationals killed within the United States.
+   - **Non-Americans killed outside the US** sort lowest.
+4. **Decade (most recent first)** — Within the same nationality/location group, sort by decade: 2020s > 2010s > 2000s > 1990s > 1980s > 1970s > 1960s and earlier. Recent deaths have more audience impact and are more actionable.
+5. **Suspicion level (highest first)** — Within the same decade, sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
+6. **Year (most recent first)** — When two entries share the same decade and suspicion level, put the more recent year first.
+
+### How This Applies to Category-Divided Tables
+
+When tables are already divided by category (as in the Intel index.md), criterion #2 is satisfied by the table structure itself. Within each category table, sort by: **nationality/location → decade → suspicion level → year.**
+
+When tables are NOT divided by category (as in the Epstein index.md which uses one large table sorted primarily by suspicion level), apply criteria in this order within each suspicion group: **nationality/location → decade → year.**
 
 ### Table Placement on Investigation Pages
 
 Tables and sections that are **heavily international** (e.g., tables dominated by non-American victims in foreign countries) should be positioned **lower on the page**. Tables featuring Americans murdered on American soil should appear at the top. This applies to index.md and all sub-pages.
 
 ### Example sort order within a table:
-1. American journalist killed in Washington DC, 2023, SUSPICIOUS (American, US soil, non-intel, 2020s — top of list)
-2. American activist killed in New York, 1985, CONFIRMED (American, US soil, non-intel, 1980s — US soil trumps recency)
-3. American scientist killed in London, 2018, CONFIRMED (American, abroad, non-intel, 2010s)
-4. British journalist killed in London, 2023, SUSPICIOUS (international, non-intel, 2020s)
-5. Russian activist killed in Moscow, 2020, CONFIRMED (international, non-intel, 2020s)
-6. Chilean leader killed in Santiago, 1973, CONFIRMED (international, non-intel, 1970s)
-7. American defector killed in US, 2022, CONFIRMED (American, US soil, but intel employee — below ALL non-intel in same geo group)
-8. Russian defector killed in London, 2019, HIGHLY SUSPICIOUS (international, intel employee — bottom)
+1. American journalist killed in Washington DC, 2023, SUSPICIOUS (American, US soil, non-intel, 2020s — top)
+2. American journalist killed in Washington DC, 1985, CONFIRMED (American, US soil, non-intel, 1980s — same nationality/location, older decade)
+3. American scientist killed in London, 2018, CONFIRMED (American, abroad, non-intel, 2010s — abroad sorts below US soil)
+4. British journalist killed in London, 2023, SUSPICIOUS (non-American, non-US soil, 2020s)
+5. Russian activist killed in Moscow, 2020, CONFIRMED (non-American, non-US soil, 2020s — same geo group, lower suspicion than SUSPICIOUS? No — CONFIRMED > SUSPICIOUS, but decade tie, so CONFIRMED above)
+6. Chilean leader killed in Santiago, 1973, CONFIRMED (non-American, non-US soil, 1970s — older decade)
+7. American defector killed in US, 2022, CONFIRMED (American, US soil, but intel employee — below ALL non-intel)
+8. Russian defector killed in London, 2019, HIGHLY SUSPICIOUS (non-American, intel employee — bottom)
 
 ## Suspicion Ratings
 

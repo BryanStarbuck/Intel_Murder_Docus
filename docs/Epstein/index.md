@@ -5,17 +5,11 @@ sidebar_position: 1
 slug: /
 ---
 
-# Deaths Possibly Connected to the Jeffrey Epstein Cover-Up
+# Deaths Connected to the Jeffrey Epstein Cover-Up
 
-Jeffrey Epstein operated a sex trafficking network involving underage girls and powerful individuals over the course of decades. He was arrested in July 2019 on federal sex trafficking charges and was found dead in his jail cell on August 10, 2019. His death was ruled a suicide, though his brother and many members of the public dispute that finding.
+People connected to Epstein's sex trafficking and blackmail operation keep dying under suspicious circumstances. This documents every known death.
 
-In the years before and after Epstein's death, a striking number of individuals connected to the case — victims, witnesses, investigators, journalists, associates, and co-conspirators — have died under circumstances that range from clearly natural to deeply questionable. Multiple individuals were found hanged. Others died shortly after cooperating with the FBI or testifying in court. Death records were sealed by judges. Key witnesses died before they could be deposed. Individuals who possessed damaging evidence died before that evidence could be fully explored.
-
-This also includes clones-of-Jeffrey Epstein blackmail operations (that are ran by intelligence services). The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved. **For intelligence service assassinations of journalists, scientists, and political leaders, see [Intelligence Service Murders](/intelligence-service-murders/).**
-
-**139 profiles documented. All profiles expanded with web research, sources formatted, and cross-links improved. March 2026.**
-
-We're not sure that any of these individuals were killed as part of a cover-up. What we do know is that an unusual number of people connected to this case have died, and that the circumstances surrounding several of these deaths contain elements that reasonable people find troubling. The list below documents every known death connected to the Epstein case so that the public can examine the pattern and draw their own conclusions.
+**139 profiles documented. 91 suspicious deaths. March 2026.** | **[Intelligence Service Murders](/intelligence-service-murders/)**
 
 | Name | Cause of Death | Suspicion Level | Details |
 |------|----------------|-----------------|---------|
@@ -341,3 +335,15 @@ This research documents deaths and events connected to the Epstein case from pub
 *Last Updated: March 27, 2026 — Added Janet Ossebaard (Fall of the Cabal documentary creator)*
 
 **Suspicious deaths documented in this investigation: 91** — individuals who died under circumstances rated Moderate Suspicion or higher, connected to the Epstein network, elite blackmail operations, or related cover-ups.
+
+---
+
+## Background
+
+Jeffrey Epstein operated a sex trafficking network involving underage girls and powerful individuals over the course of decades. He was arrested in July 2019 on federal sex trafficking charges and was found dead in his jail cell on August 10, 2019. His death was ruled a suicide, though his brother and many members of the public dispute that finding.
+
+In the years before and after Epstein's death, a striking number of individuals connected to the case — victims, witnesses, investigators, journalists, associates, and co-conspirators — have died under circumstances that range from clearly natural to deeply questionable. Multiple individuals were found hanged. Others died shortly after cooperating with the FBI or testifying in court. Death records were sealed by judges. Key witnesses died before they could be deposed. Individuals who possessed damaging evidence died before that evidence could be fully explored.
+
+This also includes clones-of-Jeffrey Epstein blackmail operations (that are ran by intelligence services). The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved.
+
+We're not sure that any of these individuals were killed as part of a cover-up. What we do know is that an unusual number of people connected to this case have died, and that the circumstances surrounding several of these deaths contain elements that reasonable people find troubling. The list below documents every known death connected to the Epstein case so that the public can examine the pattern and draw their own conclusions.

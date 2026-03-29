@@ -7,19 +7,11 @@ slug: /
 
 [Timeline](timeline.md) | [By Country](by_country.md) | [By Method](methods.md)
 
-# Intelligence Service Murders: Political Assassinations and Suspicious Deaths (1953–Present)
+# Intelligence Service Murders
 
-Since the Church Commission exposed CIA assassination plots in 1975, the public has known that intelligence services murder people. What the Church Commission revealed — plots against Castro, Lumumba, Trujillo, Schneider, and Diem — was supposed to end the practice. President Ford signed Executive Order 11905 in 1976: *"No employee of the United States Government shall engage in, or conspire to engage in, political assassination."* Reagan's E.O. 12333 repeated it verbatim in 1981.
+Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-The killings never stopped. They evolved.
-
-This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
-
-**181 profiles documented. All profiles expanded with web research, sources formatted, and cross-links improved. March 2026.**
-
-**For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](/epstein-murders/).**
-
----
+**181 profiles documented. 146 deaths. March 2026.** | **[Epstein Kill List](/epstein-murders/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -364,3 +356,13 @@ Senator Frank Church, 1975: *"The United States must not adopt the tactics of th
 *Last Updated: March 26, 2026 — Major overhaul: fixed all navigation links, formatted all sources, expanded 130+ profiles with web research, improved cross-linking, added new patterns (Iranian scientists, Russian executives), created timeline/geographic/methods indexes, added FSB group profile. Added death count.*
 
 **Deaths documented in this investigation: 146** — political figures, dissidents, journalists, scientists, whistleblowers, and activists killed by or connected to CIA, MI6, Mossad, KGB/FSB/GRU, and other intelligence services (1953-present).
+
+---
+
+## Background
+
+Since the Church Commission exposed CIA assassination plots in 1975, the public has known that intelligence services murder people. What the Church Commission revealed — plots against Castro, Lumumba, Trujillo, Schneider, and Diem — was supposed to end the practice. President Ford signed Executive Order 11905 in 1976: *"No employee of the United States Government shall engage in, or conspire to engage in, political assassination."* Reagan's E.O. 12333 repeated it verbatim in 1981.
+
+The killings never stopped. They evolved.
+
+This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
