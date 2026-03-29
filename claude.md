@@ -254,16 +254,19 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
 **Every table and list in index.md must follow this sort order:**
 
 1. **Non-intelligence people above intelligence service employees** — Always. A murdered journalist, scientist, activist, or elected leader appears above a murdered spy or defector, regardless of suspicion level. This is the most important sorting rule.
-2. **Suspicion level (highest first)** — Within each group (non-intel vs. intel), sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
-3. **Year (most recent first)** — When two entries share the same victim type and suspicion level, put the more recent case first.
+2. **Decade (most recent first)** — Within each group (non-intel vs. intel), sort by decade: 2020s > 2010s > 2000s > 1990s > 1980s > 1970s > 1960s and earlier. This is a high-priority criterion — readers connect more with recent cases, and recent deaths are more actionable.
+3. **Suspicion level (highest first)** — Within the same decade, sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
+4. **Year (most recent first)** — When two entries share the same decade and suspicion level, put the more recent year first.
 
 ### Example sort order within a table:
-1. Journalist, CONFIRMED (non-intel person, highest suspicion)
-2. Activist, CONFIRMED (non-intel person, highest suspicion)
-3. Scientist, HIGHLY SUSPICIOUS (non-intel person, high suspicion)
-4. Elected leader, SUSPICIOUS (non-intel person, moderate suspicion)
-5. Defector, CONFIRMED (intel employee, even though confirmed — goes below all non-intel)
-6. Intelligence officer, HIGHLY SUSPICIOUS (intel employee)
+1. Journalist, 2023, SUSPICIOUS (non-intel, 2020s decade — recent decade wins even with lower suspicion)
+2. Activist, 2020, CONFIRMED (non-intel, 2020s decade)
+3. Scientist, 2018, CONFIRMED (non-intel, 2010s decade)
+4. Elected leader, 2015, HIGHLY SUSPICIOUS (non-intel, 2010s decade)
+5. Journalist, 2003, CONFIRMED (non-intel, 2000s decade — older decade, below 2010s even though CONFIRMED)
+6. Activist, 1985, CONFIRMED (non-intel, 1980s decade)
+7. Defector, 2022, CONFIRMED (intel employee — goes below ALL non-intel regardless of decade)
+8. Intelligence officer, 2019, HIGHLY SUSPICIOUS (intel employee)
 
 ## Suspicion Ratings
 

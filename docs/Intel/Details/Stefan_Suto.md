@@ -1,0 +1,243 @@
+# Stefan Suto
+
+80-year-old Slovakian immigrant killed by hydrogen peroxide poisoning administered by an unlicensed doctor in his home. Forensic autopsy ruled his death a homicide. His family alleges the killing was an intelligence-directed assassination targeting his son-in-law, a self-described former CIA operative who had been exposing Mossad operations.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Stefan Suto |
+| **Born** | July 8, 1941 |
+| **Died** | December 23, 2021 |
+| **Age at Death** | 80 |
+| **Location of Death** | Hotel room, Gulf Breeze/Cantonment, Florida |
+| **Cause of Death** | Hemolytic anemia due to toxicities of inhaled and intravenous hydrogen peroxide |
+| **Official Ruling** | Initially natural causes; reclassified as **HOMICIDE** after post-exhumation forensic autopsy |
+| **Alleged Intelligence Connection** | Mossad (alleged by family); unverified |
+| **Victim Was Intel Employee** | No |
+| **Category** | Civilian Casualty |
+
+## Assessment: UNCERTAIN
+
+Stefan Suto's death is a confirmed homicide — the forensic autopsy by Dr. Daniel Shultz and a concurring review by Dr. Thomas Andrew both classify the manner of death as homicide caused by hydrogen peroxide and ozone toxicity. A Tennessee civil court awarded $1.33 million in damages against Dr. Carrie Madej, who administered the initial treatment without a medical license. The intelligence connection, however, rests entirely on the family's allegation that Madej was deployed by Mossad to target Suto's son-in-law, Steven Ben-Nun (host of Israeli News Live), who describes himself as a former CIA operative who exposed Israeli intelligence operations. No independent evidence of intelligence involvement has been reported. The Tennessee District Attorney attributed the death to medical recklessness, not espionage, and declined to prosecute for reasons unrelated to intelligence activity.
+
+## Circumstances of Death
+
+### Initial Treatment in Tennessee — December 5, 2021
+
+Stefan Suto, his daughter Jana Sutoova, and son-in-law Steven Ben-Nun all developed COVID-19 symptoms in early December 2021. According to court filings, Dr. Carrie Madej — an osteopathic physician who was **not licensed to practice medicine in Tennessee** — came to the family's home in Morgan County and administered treatment to all three patients.
+
+According to the civil complaint (Bennun v. Carrie Lynn Madej, Ninth Judicial District Circuit Court, Morgan County, Tennessee), Madej administered:
+
+- **Nebulizer treatment:** 21 mL of 3% hydrogen peroxide with 0.5 mL distilled water, inhaled
+- **IV infusion:** 500 mL of D5NS (dextrose 5% in normal saline) with 21 mL of 3% hydrogen peroxide
+
+According to the forensic pathologist's findings, the hydrogen peroxide concentration used was approximately 2.4% — 171 times higher than the 0.014% concentration typically used in medical settings. No medical history was taken and no lab work was performed, according to court documents.
+
+### Rapid Deterioration
+
+Following the treatment, according to the autopsy report and court filings, Suto developed:
+- Oral blistering and tongue inflammation
+- White discolorations on his tongue and airway lining
+- Respiratory tract irritation
+- Impaired eating, drinking, and speech
+- Progressive weight loss and diminished mobility
+
+On December 10, 2021, Dr. Deborah Viglione reportedly prescribed antifungal medications (Diflucan and nystatin) to a CVS pharmacy for Suto.
+
+### Treatment in Florida Hotel Room
+
+Rather than seeking conventional hospital treatment, the family transported Suto to Florida, where — according to the DA's summary of forensic findings — Drs. James Thorpe and Deborah Viglione treated him in a hotel room near Pensacola. According to the forensic pathologist's findings as described in the DA's letter:
+
+- Approximately five additional IV hydrogen peroxide infusions were administered
+- Approximately 20–30 cc of ozone (O3) gas was injected directly into Suto's veins
+- Ozone saline was administered intravenously
+- Dr. Thorpe reportedly transfused his own blood into Suto **without a cross-match** — described by the pathologist as "unbelievable"
+- Morphine was administered in Suto's final hours
+
+### Death — December 23, 2021
+
+Stefan Suto died in the hotel room on December 23, 2021, eighteen days after Madej's initial treatment. His death was initially recorded as natural causes. The family subsequently had the body exhumed for an independent forensic autopsy.
+
+## Background
+
+Stefan Suto was born in 1941. He was the father of Jana Sutoova and Monika Rjabincakova, and father-in-law of Steven Ben-Nun (also known as Steven Bennun or Steven DeNoon). According to his obituary, he was buried at Jordan Cemetery in Pensacola, Florida, following a graveside service on December 30, 2021.
+
+His son-in-law, Steven Ben-Nun, hosts Israeli News Live, a media platform covering Israeli affairs, geopolitics, and biblical scholarship. According to family claims reported on Israeli News Live and the family's advocacy website, Ben-Nun describes himself as a former CIA operative who turned against Mossad and began exposing Israeli intelligence operations. These claims have not been independently verified. The Tennessee District Attorney's letter noted credibility concerns about Ben-Nun as a potential witness, citing his promotion of "flat earth" theories.
+
+## Intelligence Connections
+
+The intelligence angle in this case comes exclusively from the family's allegations:
+
+- **Family's theory:** According to Steven Ben-Nun and Jana Sutoova, Madej was allegedly deployed as a "Trojan Horse" by Mossad to infiltrate the medical freedom movement and gain access to the family, with the intent of retaliating against Ben-Nun for exposing Israeli intelligence operations
+- **Ben-Nun's claimed background:** Ben-Nun describes himself as a former CIA operative, according to his Israeli News Live platform. This claim has not been independently verified
+- **No independent corroboration:** No law enforcement agency, journalist, or intelligence analyst has publicly corroborated the Mossad connection theory
+- **DA's assessment:** District Attorney Russell Johnson, who investigated the case, attributed the death to medical recklessness by the treating doctors. His letter made no mention of intelligence involvement and expressed frustration at what he called "misguided and misinformed theories" held by the family regarding alternative medicine — though this comment was directed at medical theories, not intelligence theories
+
+### What IS Established
+
+While the intelligence connection remains unverified, the following are established by court records and forensic evidence:
+
+- **Homicide:** Two independent forensic pathologists classified the death as homicide
+- **Unlicensed practice:** Madej was not licensed to practice medicine in Tennessee
+- **Pattern of deception:** Madej used sovereign-citizen language when served legal papers and never appeared in court to defend her treatment protocol
+- **License surrender:** Madej voluntarily surrendered her Georgia medical license on January 6, 2023
+- **DEA revocation:** The DEA revoked Madej's narcotics registration on July 24, 2024, per a Federal Register decision and order
+- **Civil judgment:** A Tennessee circuit court judge awarded $1.33 million in damages against Madej
+
+## The Autopsy
+
+**Pathologist:** Dr. Daniel Shultz, forensic pathologist, Final Diagnosis Inc., Tampa, Florida. Board certified in forensic, anatomic, and clinical pathology with nearly 8,000 autopsies performed.
+
+**Type:** Post-exhumation forensic autopsy
+
+**Cause of Death:** Hemolytic anemia due to toxicities of inhaled and intravenous hydrogen peroxide
+
+**Manner of Death:** HOMICIDE
+
+**Key findings per the autopsy and DA's summary:**
+- Significant damage to respiratory tract including blistering, irritation, and inflammation
+- White discolorations on tongue and airway lining
+- Left arm cellulitis, edema, and hand necrosis
+- Hypoxemia episodes below 80% oxygen saturation
+- Hemolytic anemia — red blood cells destroyed
+- The hydrogen peroxide concentration (2.4%) was 171 times higher than the 0.014% used in legitimate medical settings
+
+**Concurring review:** Dr. Thomas Andrew, a veteran pathologist, independently reviewed the case and concurred — death from peroxide and ozone toxicity, manner of death: homicide.
+
+**Shultz's conclusions** (per the DA's letter):
+- Madej's treatment in Tennessee contributed to a "further decline" in Suto's condition
+- The IV peroxide and ozone treatments by Drs. Thorpe and Viglione in Florida were "the clear cause of death"
+- Hospital treatment in Tennessee could have reversed Suto's condition
+- The hotel setting was improper for medical treatment
+- Called the death "highly unusual" and a "direct consequence of many unfortunate choices and distrust of traditional medicine"
+- Called the physicians' conduct "reckless"
+- Florida doctors failed to report the death as required by Florida law
+
+## Legal Proceedings
+
+### Civil Lawsuit
+
+- **Case:** Bennun v. Carrie Lynn Madej
+- **Court:** Ninth Judicial District Circuit Court, Morgan County, Tennessee
+- **Filed:** February 27, 2023
+- **Plaintiffs:** Jana Sutoova Bennun and Steven Bennun, individually and on behalf of Stefan Suto's estate
+- **Defendant:** Carrie Lynn Madej, DO
+- **Default judgment filed:** May 9, 2023 (Madej failed to respond)
+- **Default judgment granted:** August 11, 2023
+- **Final ruling:** May 19, 2025, Judge Michael Pemberton
+- **Damages awarded:**
+  - Estate of Stefan Suto: $1,000,000 punitive + $181,000 compensatory
+  - Jana Sutoova Bennun individually: $100,000 compensatory + $50,000 punitive
+  - **Total: $1.33 million** plus court costs
+
+Madej responded to legal service using sovereign-citizen language, claiming "Carrie Lynn Beneficiary" status, and redirected correspondence to state medical board officials. She never appeared in court.
+
+### DA Investigation
+
+District Attorney Russell Johnson (covering Loudon, Meigs, Morgan, and Roane Counties, Tennessee) investigated but declined to prosecute, stating:
+
+- He held a "firm belief that Mr. Suto was a victim of all of the doctors"
+- Could not prosecute homicide in Tennessee due to "intervening cause defense" — Madej's Tennessee treatment was legally superseded by subsequent treatment in Florida
+- Statute of limitations had expired for unlicensed practice of medicine charges
+- Venue was uncertain (family may have been in Claiborne County, not Morgan County)
+- Credibility concerns about Ben-Nun as a witness
+- Grand jury could potentially indict family members for "initiating and supporting the treatment"
+- Stated the most significant charges should be filed in Florida
+- Expressed frustration that Florida authorities had not acted
+- Told the family: "each of you as family members must re-evaluate your misguided and misinformed theories that led to your actions in the treatment of Mr. Suto"
+- Described the photos as "horrible to view"
+
+### Regulatory Actions Against Madej
+
+- **Georgia medical license:** Voluntarily surrendered January 6, 2023 (License No. 53123)
+- **DEA narcotics registration:** Revoked July 24, 2024 (Federal Register decision and order)
+- **Tennessee license:** None — Madej was never licensed in Tennessee
+
+## Why This Death Raises Questions
+
+- **Autopsy rules homicide:** Two independent forensic pathologists classified the death as homicide — this is not speculation
+- **Unlicensed practice:** Madej administered IV treatments in a state where she had no license
+- **Hydrogen peroxide concentration 171x normal:** The dosage was far beyond any legitimate medical protocol
+- **No medical history or labs:** Madej allegedly began invasive IV treatment without basic medical assessment
+- **Hotel room treatment:** Rather than a hospital, the Florida doctors treated a critically ill 80-year-old in a hotel room
+- **Blood transfusion without cross-match:** Dr. Thorpe reportedly transfused his own blood into Suto without testing compatibility
+- **Death certificate falsification:** The family alleges the initial death certificate was falsified to conceal the true cause of death
+- **Failure to report:** Florida doctors failed to report the death as required by Florida law
+- **Madej's subsequent behavior:** Surrendered medical license, used sovereign-citizen tactics to evade legal process, never defended her treatment protocol in court
+- **No criminal prosecution:** Despite two forensic pathologists ruling homicide, no criminal charges have been filed in any jurisdiction
+- **Family's intelligence theory:** The family alleges the killing was targeted retaliation for Ben-Nun's exposure of Mossad operations — if true, this would represent intelligence services using medical practitioners as assassination instruments
+
+## Counterarguments / Alternative Explanations
+
+- **Medical malpractice, not assassination:** The DA's investigation found reckless medical conduct, not intelligence involvement. The DA wrote that the death resulted from "many unfortunate choices and distrust of traditional medicine"
+- **Family complicity:** The DA noted that family members participated in the decision to pursue alternative treatment and transport Suto to Florida rather than a hospital, and warned that a grand jury could potentially indict them as well
+- **Madej's pattern:** Madej was a prominent anti-vaccine figure who promoted dangerous alternative medicine protocols broadly, not just to this family — suggesting ideology rather than targeted assassination
+- **Default judgment limitations:** The civil judgment was entered by default because Madej never appeared. No adversarial proceeding tested the evidence
+- **Ben-Nun credibility:** The DA specifically flagged credibility concerns about Ben-Nun, citing his promotion of "flat earth" theories
+- **No independent intelligence evidence:** No law enforcement agency, intelligence analyst, or investigative journalist has corroborated the Mossad theory
+
+## Dr. Carrie Madej — Background
+
+According to public records and reporting:
+
+- **Degree:** Doctor of Osteopathic Medicine (DO), Kansas City University of Medical Biosciences (2001)
+- **Specialty:** Internal Medicine; later practiced "functional medicine"
+- **Practice location:** McDonough and Canton, Georgia
+- **Public persona:** Became a prominent anti-vaccine figure, making claims described by McGill University as those of "a menace to society." According to reporting, she claimed vaccines contain a "liquified computing system" and that a vaccine sample was "self-aware" with "tentacles"
+- **Plane crash:** In June 2022, Madej was in a small plane crash near Warm Springs, Georgia. According to reporting, she later made false claims about the emergency response
+- **Madej has not publicly responded to the intelligence assassination allegations.** She did not appear in court and has not defended her treatment protocol publicly
+
+## Family Response
+
+According to Jana Sutoova's published account on her Substack and the family advocacy website:
+
+- Jana described the experience as "the absolute betrayal" by doctors the family trusted
+- She stated: "In some respects, we were duped"
+- The family reports lasting PTSD symptoms affecting the entire family including children
+- Jana published an open letter to Madej on Israeli News Live titled "His Name Was Stefan Suto, and Heaven Remembers"
+- The family operates [justiceforstefansuto.org](http://justiceforstefansuto.org) to advocate for accountability
+
+## Key Quotes
+
+> "We have formed the firm belief that Mr. Suto was a victim of all of the doctors that you allege treated him."
+> — District Attorney Russell Johnson, in his letter to the family
+
+> "The photos are horrible to view and the condition that he was in is hard to comprehend."
+> — District Attorney Russell Johnson
+
+> "No reasonable person would have continued down this path of 'treatment', especially when his condition was not responding favorably."
+> — District Attorney Russell Johnson
+
+> "In some respects, we were duped."
+> — Jana Sutoova, Stefan Suto's daughter
+
+## See Also
+
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist dismembered by intelligence-linked team — another case where intelligence services allegedly used trusted access to kill
+- [Georgi Markov](Georgi_Markov.md): Bulgarian dissident killed by ricin-tipped umbrella — intelligence assassination disguised as medical event
+- [Alexander Litvinenko](Alexander_Litvinenko.md): FSB officer killed by polonium poisoning — intelligence assassination via ingested toxin
+
+## Other Shocking Stories
+
+- [Job Price](Job_Price.md): SEAL Team 4 commander "suicided" in Afghanistan — bullet casing under body, blood flow proves body moved three times.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands broken in stadium, then machine-gunned 44 times during Pinochet's coup.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist walked into consulate for wedding papers — walked out in pieces in suitcases.
+- [Trevor Moore](Trevor_Moore.md): Comedian exposed elite trafficking and CIA ops to millions — fell from balcony at 2:30 a.m., age 41.
+
+## Sources
+
+- [WSMV Nashville — Lawsuit: Doctor used hydrogen peroxide to treat COVID symptoms (September 2024)](https://www.wsmv.com/2024/09/17/lawsuit-doctor-used-hydrogen-peroxide-treat-covid-symptoms/)
+- [Quackwatch — Dr. Carrie Madej Accused of Negligent COVID-19 Treatment](https://quackwatch.org/cases/dr-carrie-madej-accused-of-negligent-covid-19-treatment/)
+- [Federal Register — Carrie L. Madej, D.O.; Decision and Order (DEA revocation, July 24, 2024)](https://www.federalregister.gov/documents/2024/07/24/2024-16213/carrie-l-madej-do-decision-and-order)
+- [NaturalNews — Madej ordered to pay $1.3M for negligence and wrongful death (July 2025)](https://www.naturalnews.com/2025-07-02-madej-ordered-to-pay-for-negligence-wrongful-death.html)
+- [NaturalNews — Autopsy reveals lethal hydrogen peroxide concentration (July 2025)](https://www.naturalnews.com/2025-07-14-autopsy-reveals-lethal-hydrogen-peroxide-concentration-in-wrongful-death-case.html)
+- [The Sidebar — Exclusive on lawsuit filing (April 2023)](https://www.the-sidebar.com/2023/04/exclusive-notorious-anti-vax-doctor.html)
+- [HillMD Substack — Did a "medical freedom" doctor become an assassin?](https://hillmd.substack.com/p/did-a-medical-freedom-doctor-become)
+- [Justice for Stefan Suto — Family advocacy website](http://justiceforstefansuto.org)
+- [Jana Sutoova Substack — The Betrayal of Stefan Suto](https://janasutoova.substack.com/p/the-betrayal-of-stefan-suto-a-story)
+- [Israeli News Live — His Name Was Stefan Suto](https://israelinewslive.org/to-carrie-madej-his-name-was-stefan-suto/)
+- [Center for Inquiry — Complaint filing (PDF)](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/33/2024/09/22161908/madej_complaint.pdf)
+- [Center for Inquiry — Default judgment (PDF)](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/33/2024/09/22165912/default.pdf)
+- [Center for Inquiry — DA Russell Johnson letter (PDF)](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/33/2024/09/22175512/Letter-from-Russell-Johnson.pdf)
+- [Stefan Suto obituary — EchoVita](https://www.echovita.com/us/obituaries/fl/cantonment/stefan-suto-13903139)
+
+*This information was built by Grok and Claude AI research.*
