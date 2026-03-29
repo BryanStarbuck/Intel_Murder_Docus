@@ -78,6 +78,9 @@ Colby was also reportedly advising the Nebraska Legislature's investigation into
 - [Jeffrey Epstein](Jeffrey_Epstein.md) -- Ran the sexual blackmail operation that CIA programs like Midnight Climax prefigured
 - [Ted Gunderson](Ted_Gunderson.md) -- Former FBI Special Agent in Charge who investigated the Franklin scandal and described "brownstone operations" -- intelligence-run sexual blackmail using minors
 - [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating intelligence blackmail operations; found dead in 1991
+- [Nancy Schaefer](Nancy_Schaefer.md) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
+- [Troy Boner](Troy_Boner.md) -- Franklin scandal witness who later recanted under alleged pressure; found dead
+- **Intelligence investigation profile:** [William Colby](/intelligence-service-murders/Details/William_Colby) — documents his CIA career, Church Committee cooperation, and suspicious drowning death in detail
 
 ## Sources
 

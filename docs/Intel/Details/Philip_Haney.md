@@ -89,6 +89,8 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 - [David Kelly](David_Kelly.md) -- government whistleblower found dead, ruled suicide
 - [Gary Webb](Gary_Webb.md) -- investigative journalist who died from two gunshots to the head, ruled suicide
 - [Danny Casolaro](Danny_Casolaro.md) -- journalist investigating government corruption found dead, ruled suicide
+- [Seth Rich](Seth_Rich.md) -- DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- **Epstein investigation profile:** [Philip Haney](/epstein-murders/Details/Philip_Haney) — documents his DHS trafficking investigations connected to the Epstein network
 
 ## Other Shocking Stories
 

@@ -74,6 +74,15 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 - PROMIS / The Octopus — Backdoored software Maxwell allegedly distributed worldwide for Mossad
 - Jeffrey Epstein Network — The operation his daughter Ghislaine co-ran with Epstein
 
+## See Also
+
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — His daughter, convicted sex trafficker who allegedly inherited his intelligence methodology
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Sex trafficker whose operation is alleged to be a successor to Maxwell's intelligence-blackmail network
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS software distribution that Maxwell allegedly facilitated for Mossad
+- [William Colby](William_Colby.md) — Former CIA Director who exposed intelligence blackmail operations; died under suspicious circumstances
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — Epstein's early business partner; found dead in 2022
+- [Edmund Safra](Edmund_Safra.md) — Banker whose death intersected with intelligence and financial networks
+
 ## Related Locations
 
 - United Kingdom — British media mogul based in London; built his publishing empire in the UK

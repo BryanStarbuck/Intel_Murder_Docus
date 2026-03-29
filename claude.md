@@ -86,10 +86,15 @@ The right sidebar on every doc page displays a curated list of 80 assassinated i
 ### Selection Criteria
 
 People are selected and ordered by:
-1. How shocking/dramatic the death was
-2. How important the person was or what they knew
-3. Higher priority for "Highly Suspicious" and "Confirmed" over "Suspicious" and "Moderate"
-4. Endearing details (age, children, what they stood for) increase impact
+1. **Child trafficking linked** — Anyone connected to child trafficking investigations or exposure gets top priority
+2. **Scientists / Weapons Researchers / UAP Researchers** — Killed over sensitive knowledge (weapons, classified tech, UAP/UFO)
+3. **Civilians / Whistleblowers / Insiders** — The most innocent victims and those who risked everything to expose truth
+4. **Journalists / Investigators** — Killed for reporting on intelligence operations
+5. **Political Activists / Organizers** — Targeted by intelligence services (lower than civilians/whistleblowers/journalists)
+6. How shocking/dramatic the death was
+7. How important the person was or what they knew
+8. Higher priority for "Highly Suspicious" and "Confirmed" over "Suspicious" and "Moderate"
+9. Endearing details (age, children, what they stood for) increase impact
 
 ### Adding/Editing Entries
 
@@ -233,7 +238,7 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
   * Intelligence officers killed by rival services
   * Intelligence officers killed by their own service
   * These are included but sorted below non-intelligence victims
-* **Geographic focus:** Worldwide, with special attention to operations targeting Americans or conducted on American soil
+* **Geographic focus:** Worldwide, but **Americans murdered on American soil are the highest priority**. American victims abroad are second priority. International cases are included but sorted and positioned below American cases in all tables and on the main investigation page.
 * **What stays in the Epstein section:** Deaths connected primarily to sex-trafficking blackmail operations remain in `/epstein-murders/`. Some overlap exists (e.g., Danny Casolaro investigated both PROMIS/intelligence and the Epstein orbit) — cross-link where appropriate.
 
 ## Focus Areas (in priority order)
@@ -251,22 +256,38 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
 
 ## Sorting Criteria
 
-**Every table and list in index.md must follow this sort order:**
+**Every table and list across ALL investigation pages (index.md, by_country.md, timeline.md, methods.md, etc.) must follow this sort order:**
 
-1. **Non-intelligence people above intelligence service employees** — Always. A murdered journalist, scientist, activist, or elected leader appears above a murdered spy or defector, regardless of suspicion level. This is the most important sorting rule.
-2. **Decade (most recent first)** — Within each group (non-intel vs. intel), sort by decade: 2020s > 2010s > 2000s > 1990s > 1980s > 1970s > 1960s and earlier. This is a high-priority criterion — readers connect more with recent cases, and recent deaths are more actionable.
-3. **Suspicion level (highest first)** — Within the same decade, sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
-4. **Year (most recent first)** — When two entries share the same decade and suspicion level, put the more recent year first.
+1. **Americans killed on American soil first** — This is the **highest priority sorting rule**. An American murdered on US soil always appears above all other entries, regardless of any other criteria. This reflects the core audience impact: intelligence agencies killing Americans in their own country is the most alarming and actionable category.
+2. **Americans killed abroad second** — American citizens murdered outside the US come next, above all non-American entries.
+3. **Non-intelligence people above intelligence service employees** — Within each geographic group (American/US soil, American/abroad, international), non-intel victims always sort above intel employees. A murdered journalist, scientist, activist, or elected leader appears above a murdered spy or defector.
+4. **Victim category priority (highest-impact categories first)** — Within each geographic/intel group, sort by victim category in this priority order:
+   1. **Child trafficking linked** — Any victim whose death is connected to child trafficking investigations or exposure gets the highest category boost, regardless of their other category. This crosses all categories.
+   2. **Scientists / Weapons Researchers / UAP Researchers** — Researchers killed over sensitive knowledge, including weapons programs, classified technology, and UAP/UFO research.
+   3. **Civilians** — Ordinary people with no intelligence, political, or activist role who were murdered by intelligence services. The most innocent victims.
+   4. **Whistleblowers / Insiders** — People who exposed intelligence crimes, whether from inside or outside the intelligence community.
+   5. **Journalists / Investigators** — Researched or reported on intelligence operations.
+   6. **Foreign Leaders / Political Figures** — Elected leaders and politicians assassinated.
+   7. **Political Activists / Organizers** — Targeted by intelligence/law enforcement. Important but lower priority than civilians, whistleblowers, and journalists.
+   8. **Military / Law Enforcement / Bankers** — Non-intelligence but institutional roles.
+   9. **Intelligence service employees** — Defectors, officers, intel whistleblowers (always last).
+5. **Decade (most recent first)** — Within each group, sort by decade: 2020s > 2010s > 2000s > 1990s > 1980s > 1970s > 1960s and earlier. Readers connect more with recent cases, and recent deaths are more actionable.
+6. **Suspicion level (highest first)** — Within the same decade, sort by suspicion rating: CONFIRMED > HIGHLY SUSPICIOUS > SUSPICIOUS > MODERATE SUSPICION > UNCERTAIN.
+7. **Year (most recent first)** — When two entries share the same decade and suspicion level, put the more recent year first.
+
+### Table Placement on Investigation Pages
+
+Tables and sections that are **heavily international** (e.g., tables dominated by non-American victims in foreign countries) should be positioned **lower on the page**. Tables featuring Americans murdered on American soil should appear at the top. This applies to index.md and all sub-pages.
 
 ### Example sort order within a table:
-1. Journalist, 2023, SUSPICIOUS (non-intel, 2020s decade — recent decade wins even with lower suspicion)
-2. Activist, 2020, CONFIRMED (non-intel, 2020s decade)
-3. Scientist, 2018, CONFIRMED (non-intel, 2010s decade)
-4. Elected leader, 2015, HIGHLY SUSPICIOUS (non-intel, 2010s decade)
-5. Journalist, 2003, CONFIRMED (non-intel, 2000s decade — older decade, below 2010s even though CONFIRMED)
-6. Activist, 1985, CONFIRMED (non-intel, 1980s decade)
-7. Defector, 2022, CONFIRMED (intel employee — goes below ALL non-intel regardless of decade)
-8. Intelligence officer, 2019, HIGHLY SUSPICIOUS (intel employee)
+1. American journalist killed in Washington DC, 2023, SUSPICIOUS (American, US soil, non-intel, 2020s — top of list)
+2. American activist killed in New York, 1985, CONFIRMED (American, US soil, non-intel, 1980s — US soil trumps recency)
+3. American scientist killed in London, 2018, CONFIRMED (American, abroad, non-intel, 2010s)
+4. British journalist killed in London, 2023, SUSPICIOUS (international, non-intel, 2020s)
+5. Russian activist killed in Moscow, 2020, CONFIRMED (international, non-intel, 2020s)
+6. Chilean leader killed in Santiago, 1973, CONFIRMED (international, non-intel, 1970s)
+7. American defector killed in US, 2022, CONFIRMED (American, US soil, but intel employee — below ALL non-intel in same geo group)
+8. Russian defector killed in London, 2019, HIGHLY SUSPICIOUS (international, intel employee — bottom)
 
 ## Suspicion Ratings
 
@@ -329,6 +350,8 @@ One-line summary: who they were and how they died.
 | **Location of Death** | City, State/Country |
 | **Cause of Death** | How they died |
 | **Official Ruling** | Suicide / Accidental / Homicide / etc. |
+| **Nationality** | American / British / Russian / etc. |
+| **Killed on US Soil** | Yes / No — was the death on American soil? |
 | **Alleged Intelligence Connection** | Which service(s) are implicated |
 | **Victim Was Intel Employee** | Yes / No — was the victim an employee of an intelligence service? |
 | **Category** | See categories above |
@@ -413,7 +436,7 @@ Pick 4 other people from the Details/ directory (not the current person). Choose
 
 * Add to the appropriate category table
 * Row format: `| [Name](Details/Filename.md) | Year | Cause of Death | **SUSPICION LEVEL** | One-line summary. |`
-* **Sort position:** Non-intelligence people go above intelligence employees within every table. Then sort by suspicion level (highest first), then by year (most recent first). See "Sorting Criteria" section above.
+* **Sort position:** Americans killed on American soil first, then Americans killed abroad, then international cases. Within each geographic group, non-intelligence people go above intelligence employees. Then sort by decade (most recent first), suspicion level (highest first), then year (most recent first). See "Sorting Criteria" section above.
 
 ### Step 5: Update Patterns if Applicable
 
@@ -459,14 +482,23 @@ Pick 4 other people from the Details/ directory (not the current person). Choose
 * Pattern of official ruling contradicted by forensic evidence
 * Operations on foreign soil (extraterritorial assassinations)
 
-## Cross-Linking with Epstein Section
+## Cross-Linking Between Investigations
+
+### Investigation Cross-Links in index.md
+
+Each investigation's index.md **must** include a one-line cross-link to the other investigation, placed in the introductory paragraphs (near the end of the intro, before the first table):
+
+* **Epstein index.md** includes: `**For intelligence service assassinations of journalists, scientists, and political leaders, see [Intelligence Service Murders](/intelligence-service-murders/).**`
+* **Intel index.md** includes: `**For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](/epstein-murders/).**`
+
+### Individual Profile Cross-Links
 
 Some individuals appear in both investigations:
 * **Danny Casolaro** — investigated PROMIS (intelligence) AND Maxwell/Epstein connections
 * **Ted Gunderson** — investigated both elite blackmail rings AND intelligence operations
 * **William Colby** — former CIA director with connections to multiple investigations
 
-When a person has a profile in both sections, link between them. Use `/epstein-murders/Details/Name` for Epstein section profiles.
+When a person has a profile in both sections, link between them. Use `/epstein-murders/Details/Name` for Epstein section profiles and `/intelligence-service-murders/Details/Name` for Intel section profiles.
 
 ## Research Approach
 

@@ -52,6 +52,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Tonight our city mourns a tragedy. We won't let anyone struggle alone. I want every one of New York's Finest to know we are here for you. We value you. Help is available. Please reach out."
 > — New York City Mayor Bill de Blasio ([Newsweek](https://www.newsweek.com/day-after-eighth-nypd-suicide-this-year-veteran-officer-kills-himself-queens-1454435))
+
+## See Also
+
+- [Steven Silks](Steven_Silks.md) — NYPD Deputy Chief, first death in the June 2019 cluster
+- [Joseph Calabrese](Joseph_Calabrese.md) — NYPD detective, second death in the cluster
+- [Michael Caddy](Michael_Caddy.md) — NYPD officer, third death in the cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the cluster
+- [Terrence McAvoy](Terrence_McAvoy.md) — NYPD sergeant, fifth death in the cluster
+- [Johnny Rios](Johnny_Rios.md) — NYPD officer, alleged Weiner laptop viewer
+
 ## Other Shocking Stories
 
 - [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.

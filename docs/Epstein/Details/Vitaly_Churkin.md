@@ -57,6 +57,10 @@ CNN reported an official confirmation of no foul play. Cardiac events are the le
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
 - [Chris Cornell](Chris_Cornell.md)
 - [Chester Bennington](Chester_Bennington.md)
+- [Bill Richardson](Bill_Richardson.md) — New Mexico governor linked to Epstein who died shortly after being named in Giuffre's deposition
+- [John Ashe](John_Ashe.md) — UN official who died before his corruption trial
+- **Intelligence investigation profile:** [Vitaly Churkin](/intelligence-service-murders/Details/Vitaly_Churkin) — documents his death from the intelligence operations perspective
+
 ## Other Shocking Stories
 
 - [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.

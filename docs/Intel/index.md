@@ -21,17 +21,138 @@ This project documents intelligence service murders, political assassinations, a
 
 ---
 
+## Activists, Domestic Targets, and Civilian Casualties
+
+*Sorted by decade (most recent first), then suspicion level, then year.*
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Blunt force head trauma (balcony fall) | **HIGHLY SUSPICIOUS** | Comedian (age 41) who used Comedy Central/IFC/YouTube (100M+ views) to expose elite corruption, Hollywood child trafficking, CIA operations, Illuminati, and 9/11 truth to millions. Created viral Epstein/COVID "kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19 emergence (Nov 2019). Fell from second-story balcony at 2:30 a.m., ~10 months after the Epstein theory. BAC 0.21-0.27. Ruled accident. Was on livestream hours before death. |
+| [Jeff Webb](Details/Jeff_Webb.md) | 2026 | Head injury from pickleball fall | **SUSPICIOUS** | Charlie Kirk's longtime mentor and conservative media figure. Died from "freak pickleball accident" six months after Kirk's assassination. Fatal pickleball injuries are extraordinarily rare. Stood with Kirk's family at White House for Presidential Medal of Freedom. |
+| [Charlie Kirk](Details/Charlie_Kirk.md) | 2025 | Single gunshot to neck (sniper, 142 yards) | **SUSPICIOUS** | Turning Point USA founder shot by rooftop sniper at campus debate. Had been increasingly critical of Israel and calling for Epstein file transparency. Over 72,000 social media posts alleged Mossad involvement; Israel denied. Suspect Tyler Robinson charged; some question lone-wolf narrative given operational sophistication. |
+| [Melissa Hortman](Details/Melissa_Hortman.md) | 2025 | Shot in home, Brooklyn Park MN | **SUSPICIOUS** | Minnesota House DFL leader. Cast sole Democratic vote stripping healthcare from undocumented immigrants. Assassinated 4 days later. Killer wore silicone mask, fake police uniform, hit multiple legislators' homes in one night. Claimed in letter to FBI Director he was covert military asset whose family was threatened. |
+| [Robert Mueller](Details/Robert_Mueller.md) | 2026 | Parkinson's disease (undisclosed) | **MODERATE SUSPICION** | FBI Director (2001-2013). Alleged cover-up of Saudi 9/11 connections, botched anthrax case, FBI documents link his name to Seth Rich murder. Subpoenaed for Epstein testimony — died before testifying. |
+| [Stefan Suto](Details/Stefan_Suto.md) | 2021 | Hydrogen peroxide poisoning (homicide) | **UNCERTAIN** | 80-year-old civilian. Forensic autopsy ruled homicide — unlicensed doctor injected lethal hydrogen peroxide concentration 171x normal. $1.33M civil judgment. Family alleges Mossad assassination targeting son-in-law, a self-described former CIA whistleblower. No independent intelligence evidence. |
+| [Seth Rich](Details/Seth_Rich.md) | 2016 | Shot twice in back, DC | **SUSPICIOUS** | DNC voter expansion data director. Officially a botched robbery, but nothing stolen. Case remains unsolved. Theories he leaked DNC emails to WikiLeaks are unverified; Mueller found Russian GRU was the source. |
+| [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
+| [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
+| [Fred Hampton](Details/Fred_Hampton.md) | 1969 | Shot in bed during police raid | **CONFIRMED** | Black Panther leader. FBI COINTELPRO provided floor plans via informant. Drugged beforehand. Police fired 99 shots; Panthers fired 1. $1.85M settlement. |
+| [Mark Clark](Details/Mark_Clark.md) | 1969 | Shot during same raid as Hampton | **CONFIRMED** | Black Panther killed alongside Fred Hampton. Single Panther shot came from his gun as he was killed. |
+| [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) | 1964 | Shot twice on Georgetown towpath | **HIGHLY SUSPICIOUS** | JFK's alleged mistress, ex-wife of CIA's Cord Meyer. Execution-style killing weeks after Warren Commission report. CIA's Angleton seized and destroyed her diary. Suspect acquitted; case unsolved. |
+| [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) | 1967 | Shot from rooftop, Arlington VA | **SUSPICIOUS** | American Nazi Party founder and presidential candidate. Shot while FBI COINTELPRO-WHITE HATE was actively infiltrating his organization. Circumstantial evidence only. Army intel agent was eyewitness. |
+| [Job Price](Details/Job_Price.md) | 2012 | Gunshot wound to head, ruled suicide | **HIGHLY SUSPICIOUS** | SEAL Team 4 commander found dead in Afghanistan. Bullet casing under his body (impossible if lying down), blood flow proves body moved 3 times, gun placed in hand post-mortem per 4 independent forensic experts. No GSR testing on hands; body washed destroying evidence; crime scene unsecured 9 hours. Had discovered missing CIA cash, sexual assault by a teammate, and was refusing dangerous orders. Hegseth reviewed evidence, texted "no way this was suicide" — now Secretary of Defense, won't return calls. |
+| [Pat Tillman](Details/Pat_Tillman.md) | 2004 | "Friendly fire" in Afghanistan | **HIGHLY SUSPICIOUS** | NFL star turned Army Ranger. Shot three times in head at close range. Pentagon covered up friendly fire for weeks. Had become critical of Iraq War, planned to meet Noam Chomsky. |
+| [Charles Horman](Details/Charles_Horman.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American journalist. Subject of film "Missing." US government complicity confirmed by declassified documents. Chilean court convictions 2015. |
+| [Frank Teruggi](Details/Frank_Teruggi.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American student killed alongside Horman. US intelligence aware. Chilean court convictions 2015. |
+| [Berta Caceres](Details/Berta_Caceres.md) | 2016 | Shot at home, Honduras | **CONFIRMED** | Environmental activist. US-trained military intelligence agents involved. She had criticized US-backed 2009 coup. Goldman Prize winner. |
+| [Fidan Dogan](Details/Fidan_Dogan.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish activist shot execution-style in Paris. Turkish intelligence (MIT) suspected. |
+| [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
+| [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
+| [David Webster](Details/David_Webster.md) | 1989 | Shotgun blast | **CONFIRMED** | South African anti-apartheid academic shot dead outside his Johannesburg home by an agent of South African military intelligence. |
+| [Fernando Pereira](Details/Fernando_Pereira.md) | 1985 | Drowned in bombed ship | **CONFIRMED** | Photographer killed when French DGSE bombed the Rainbow Warrior in Auckland. France confirmed responsibility. Agents convicted. |
+| [Ruth First](Details/Ruth_First.md) | 1982 | Letter bomb in Mozambique | **CONFIRMED** | South African anti-apartheid activist and journalist. South African Military Intelligence confirmed. Assassin confessed at TRC. |
+| [Dulcie September](Details/Dulcie_September.md) | 1988 | Shot in Paris | **HIGHLY SUSPICIOUS** | ANC representative. South African intelligence (CCB) widely suspected. She was investigating arms deals. Case unsolved. |
+| [Gerard Hoarau](Details/Gerard_Hoarau.md) | 1985 | Shot in London | **HIGHLY SUSPICIOUS** | Seychelles opposition leader. South African intelligence suspected. Case unsolved. |
+| [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
+| [Steve Biko](Details/Steve_Biko.md) | 1977 | Beaten to death in police custody | **CONFIRMED** | South African anti-apartheid leader. Initially ruled death by hunger strike. Security police confessed at TRC. |
+| [Victor Jara](Details/Victor_Jara.md) | 1973 | Tortured and shot 44 times | **CONFIRMED** | Chilean folk singer. Hands broken, then machine-gunned in Santiago stadium during Pinochet coup. Convictions obtained decades later. |
+| [Rick Turner](Details/Rick_Turner.md) | 1978 | Gunshot wound | **HIGHLY SUSPICIOUS** | South African political scientist shot dead through the front door of his Durban home. Security police suspected. |
+
+
+## Whistleblowers and Insiders Killed
+
+*Sorted by decade (most recent first), then suspicion level, then year.*
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Philip Haney](Details/Philip_Haney.md) | 2020 | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on terrorism. Family disputes suicide. Had been threatening to expose more. |
+| [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot who flew for Barry Seal. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
+| [Isaac Kappy](Details/Isaac_Kappy.md) | 2019 | Fell from bridge onto I-40 | **SUSPICIOUS** | Actor who publicly accused Hollywood elites of pedophilia and claimed to possess intelligence-linked Epstein blackmail files. Repeatedly said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest. |
+| [John Rossi](Details/John_Rossi.md) | 2016 | Hanging, ruled suicide | **MODERATE SUSPICION** | Two-star Army general died two days before promotion to three-star and command of Space and Missile Defense Command. First general suicide on record. Anti-suicide advocate. Unverified 2026 claims allege he was killed for refusing nuclear material transfers. |
+| [Bill Cooper](Details/Bill_Cooper.md) | 2001 | Shot by sheriff's deputies, Eagar AZ | **SUSPICIOUS** | The original 9/11 conspiracy theorist — because he predicted it. Told his audience in June 2001 they would blame it on Osama bin Laden: "Don't you believe it." Shot and killed by police less than two months after 9/11. |
+| [Barry Seal](Details/Barry_Seal.md) | 1986 | Machine-gunned in car, Baton Rouge | **HIGHLY SUSPICIOUS** | CIA-connected drug pilot turned DEA informant. Medellín Cartel ordered hit, but CIA allegedly exposed his cover. Judge forced him into unprotected halfway house. |
+| [Karen Silkwood](Details/Karen_Silkwood.md) | 1974 | Car crash en route to meet reporter | **HIGHLY SUSPICIOUS** | Nuclear whistleblower. Carrying documents to NY Times. Rear bumper dent suggests forced off road. Kerr-McGee settled for $1.38M. |
+| [William Colby](Details/William_Colby.md) | 1996 | Drowned during canoe trip | **SUSPICIOUS** | Former CIA Director who cooperated with Church Commission. Left dinner half-eaten, computer on. Found in river 9 days later. |
+| [John Paisley](Details/John_Paisley.md) | 1978 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Senior CIA officer found floating in Chesapeake Bay with gunshot wound and weighted dive belt. Body four inches shorter than official records. |
+| [Frank Olson](Details/Frank_Olson.md) | 1953 | Fell from hotel window | **HIGHLY SUSPICIOUS** | CIA scientist dosed with LSD without consent (MKULTRA). 1994 exhumation: cranial injuries indicate he was knocked unconscious first. Medical examiner ruled homicide. |
+| [Enrique Camarena](Details/Enrique_Camarena.md) | 1985 | Kidnapped, tortured, murdered in Mexico | **HIGHLY SUSPICIOUS** | DEA agent. CIA allegedly had assets involved in the kidnapping. CIA reportedly knew about the plot and failed to intervene. |
+| [Philip Agee](Details/Philip_Agee.md) | 2008 | Peritonitis after ulcer surgery, Cuba | **MODERATE SUSPICION** | CIA's most famous whistleblower. Published *Inside the Company* (1975), naming ~250 CIA agents. Passport revoked, expelled from 5 countries. Died in Havana at 72. |
+| [Sergei Magnitsky](Details/Sergei_Magnitsky.md) | 2009 | Beaten in prison, denied medical care | **CONFIRMED** | Russian tax advisor who exposed $230M government fraud. ECHR found Russia responsible. Led to Magnitsky Act sanctions worldwide. |
+| [David Kelly](Details/David_Kelly.md) | 2003 | Wrist slashed, ruled suicide | **HIGHLY SUSPICIOUS** | UK weapons inspector who challenged Iraq WMD claims. Extremely rare cause of death. Almost no blood at scene. Records sealed until 2073. |
+
+
+## Journalists and Investigators Killed
+
+*Sorted by decade (most recent first), then suspicion level, then year.*
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Michael Hastings](Details/Michael_Hastings.md) | 2013 | Car crash at high speed, Los Angeles | **SUSPICIOUS** | Investigating CIA Director Brennan. Car exploded. Richard Clarke said crash "consistent with car cyber attack." |
+| [Jenny Moore](Details/Jenny_Moore.md) | 2018 | Found dead in DC hotel | **UNCERTAIN** | Citizen journalist investigating trafficking. Filed FBI report weeks before death. |
+| [Gary Webb](Details/Gary_Webb.md) | 2004 | Two gunshots to head, ruled suicide | **HIGHLY SUSPICIOUS** | Exposed CIA-Contra-crack cocaine connection. Career destroyed by CIA-aligned media. Two gunshots to the head. |
+| [Mark Lombardi](Details/Mark_Lombardi.md) | 2000 | Hanging | **SUSPICIOUS** | Artist whose diagrams mapped BCCI, Iran-Contra, and intelligence financial networks. Found hanged in his studio. FBI visited his studio after 9/11. |
+| [Danny Casolaro](Details/Danny_Casolaro.md) | 1991 | Wrists slashed in hotel room | **HIGHLY SUSPICIOUS** | Investigating PROMIS software, "The Octopus" — CIA/DOJ/intelligence connections. Briefcase missing. Told friends "if I die, it wasn't suicide." |
+| [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | 1965 | Combined overdose of alcohol and barbiturates | **HIGHLY SUSPICIOUS** | Prominent journalist found dead after privately interviewing Jack Ruby about JFK assassination. Notes vanished. |
+| [Shireen Abu Akleh](Details/Shireen_Abu_Akleh.md) | 2022 | Shot in head wearing press vest | **CONFIRMED** | Palestinian-American Al Jazeera journalist. Multiple independent investigations (UN, CNN, Bellingcat) confirmed targeted Israeli fire in Jenin. |
+| [Daniel Pearl](Details/Daniel_Pearl.md) | 2002 | Beheaded | **HIGHLY SUSPICIOUS** | Wall Street Journal journalist investigating links between Pakistani ISI and Al-Qaeda. Kidnapped and beheaded in Karachi. |
+| [Paul Klebnikov](Details/Paul_Klebnikov.md) | 2004 | Shot outside Moscow office | **SUSPICIOUS** | American journalist, founding editor of Forbes Russia. Contract killing. First US journalist murdered in Russia. Suspects acquitted. |
+| [Arshad Sharif](Details/Arshad_Sharif.md) | 2022 | Shot at roadblock, Kenya | **HIGHLY SUSPICIOUS** | Pakistani journalist. Pakistan's own investigation called it "planned, targeted assassination." ISI implicated. Kenyan court ruled killing unlawful. |
+| [Marine Vlahovic](Details/Marine_Vlahovic.md) | 2024 | Unknown — found dead on rooftop terrace | **SUSPICIOUS** | French journalist found dead in Marseille while working on documentary about Israel's war on Gaza. Cause of death never publicly disclosed. Mossad alleged by pro-Palestinian media. |
+| [Jan Kuciak](Details/Jan_Kuciak.md) | 2018 | Shot at home, Slovakia | **CONFIRMED** | Investigative journalist exposing Italian mafia-government ties. Killed with fiancee. Led to PM's resignation. |
+| [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) | 2017 | Car bomb, Malta | **CONFIRMED** | Panama Papers journalist. Maltese government inquiry found state bore responsibility. |
+| [Syed Saleem Shahzad](Details/Syed_Saleem_Shahzad.md) | 2011 | Tortured, found dead in canal | **CONFIRMED** | Pakistani journalist. US government confirmed ISI responsibility based on CIA intercepts. Investigating al-Qaeda in Pakistani Navy. |
+| [Pavel Sheremet](Details/Pavel_Sheremet.md) | 2016 | Car bomb, Kyiv | **HIGHLY SUSPICIOUS** | Belarusian-born investigative journalist killed by car bomb in Kyiv. One of the most prominent unsolved journalist killings in Europe. |
+| [Max Spiers](Details/Max_Spiers.md) | 2016 | Pneumonia / drug intoxication | **SUSPICIOUS** | UK conspiracy researcher investigating MKUltra, elite pedophile rings, and super soldier programs. Vomited two litres of black fluid and died in Warsaw apartment. Texted mother "if anything happens to me, investigate" two days before death. Polish police investigation called "wholly incompetent" by British coroner. |
+| [Serena Shim](Details/Serena_Shim.md) | 2014 | Car crash, Turkey | **SUSPICIOUS** | Press TV journalist who reported on ISIS using UN WFP trucks. Told she was accused of espionage by Turkish intelligence. Died in car crash two days later. |
+| [Hrant Dink](Details/Hrant_Dink.md) | 2007 | Shot outside office, Istanbul | **CONFIRMED** | Armenian-Turkish editor of Agos. Turkish intelligence (MIT) had foreknowledge, agents threatened him. Court proved intelligence involvement. |
+| [Anna Politkovskaya](Details/Anna_Politkovskaya.md) | 2006 | Shot in Moscow apartment elevator | **CONFIRMED** | Journalist critical of Putin and Chechen war. Killed on Putin's birthday. Six convicted; mastermind unidentified. |
+| [Georgiy Gongadze](Details/Georgiy_Gongadze.md) | 2000 | Kidnapped, tortured, beheaded | **CONFIRMED** | Ukrainian journalist, founded Ukrainska Pravda. Secret tapes captured president ordering action. Interior Minister "suicided" before testifying. |
+| [Natalya Estemirova](Details/Natalya_Estemirova.md) | 2009 | Kidnapped and shot, Chechnya | **HIGHLY SUSPICIOUS** | Human rights activist documenting Chechen atrocities. Kidnapped from Kadyrov-controlled territory. Case unsolved 15+ years later. |
+| [Stanislav Markelov](Details/Stanislav_Markelov.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Human rights lawyer investigating Chechen war crimes. Shot alongside journalist Anastasia Baburova. Neo-Nazi nationalists convicted. |
+| [Anastasia Baburova](Details/Anastasia_Baburova.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Killed alongside Stanislav Markelov when she tried to intervene. |
+| [Lasantha Wickrematunge](Details/Lasantha_Wickrematunge.md) | 2009 | Bludgeoned in car, Colombo | **HIGHLY SUSPICIOUS** | Sri Lankan editor. Military intelligence unit identified as attackers. Wrote posthumous editorial naming his killers. |
+| [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) | 2003 | Mysterious illness (suspected thallium poisoning) | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Died days before meeting FBI. Symptoms matched poisoning. Medical records sealed. |
+| [Sergei Yushenkov](Details/Sergei_Yushenkov.md) | 2003 | Shot outside his Moscow home | **HIGHLY SUSPICIOUS** | Russian Duma member investigating FSB apartment bombings. Shot hours after registering his political party. |
+| [Artyom Borovik](Details/Artyom_Borovik.md) | 2000 | Plane crash | **SUSPICIOUS** | Russian investigative journalist killed three days after meeting with Boris Berezovsky. Was investigating FSB apartment bombings. |
+| [Dmitry Kholodov](Details/Dmitry_Kholodov.md) | 1994 | Briefcase bomb, Moscow | **HIGHLY SUSPICIOUS** | Russian journalist, age 27. Lured with promise of secret military documents. GRU/military intelligence implicated. All defendants acquitted. |
+| [Ilaria Alpi](Details/Ilaria_Alpi.md) | 1994 | Shot in ambush, Mogadishu | **HIGHLY SUSPICIOUS** | Italian RAI journalist investigating arms trafficking and toxic waste involving SISMI. Only conviction overturned; €3M awarded for wrongful imprisonment. |
+| [Manuel Buendia](Details/Manuel_Buendia.md) | 1984 | Shot in the back, Mexico City | **CONFIRMED** | Mexico's most influential columnist. Investigating CIA-DFS-drug trafficking nexus. DFS chief Zorrilla convicted. Killed 9 months before DEA agent Camarena. |
+| [Naji al-Ali](Details/Naji_al_Ali.md) | 1987 | Shot in face, London | **HIGHLY SUSPICIOUS** | Most famous Palestinian cartoonist, creator of "Handala." Arrested suspect was confirmed Mossad double agent. Case reopened 2017. |
+| [Dele Giwa](Details/Dele_Giwa.md) | 1986 | Letter bomb, Lagos | **HIGHLY SUSPICIOUS** | Nigerian journalist. Parcel bomb bore presidential coat-of-arms. State Security Service interrogated him 4 days before. No conviction in 40 years. |
+| [Ghassan Kanafani](Details/Ghassan_Kanafani.md) | 1972 | Car bomb, Beirut | **CONFIRMED** | Palestinian novelist and journalist. Mossad car bomb also killed his 17-year-old niece. Part of post-Munich campaign. |
+| [Mino Pecorelli](Details/Mino_Pecorelli.md) | 1979 | Shot in car, Rome | **HIGHLY SUSPICIOUS** | Italian investigative journalist with deep intelligence contacts. PM Andreotti convicted of ordering murder (later overturned). P2 lodge connections. |
+
+
+## Scientists and Weapons Researchers Killed
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Christopher Fallen](Details/Christopher_Fallen.md) | 2024 | Asphyxiation (bound and suffocated in home) | **SUSPICIOUS** | AFRL senior research physicist and former HAARP chief scientist. Found bound with duct tape and asphyxiated in Albuquerque home. One suspect convicted; co-defendant died of overdose. Part of 2024 NM defense corridor cluster. |
+| [Philip Leonard](Details/Philip_Leonard.md) | 2024 | Head-on car crash on road to LANL | **SUSPICIOUS** | LANL high-explosives synthesis chemist. Killed when another driver crossed center line on NM 501 near the lab. Part of 2024 NM defense corridor cluster. |
+| [Jason Thomas](Details/Jason_Thomas.md) | 2025/2026 | Found in frozen lake | **MODERATE SUSPICION** | Novartis cancer researcher with DOD contracts. Disappeared Dec 2025, body recovered from Lake Quannapowitt after ice thawed March 2026. Part of 2025-2026 scientist death cluster. |
+| [Charles McMillan](Details/Charles_McMillan.md) | 2024 | Head-on car crash in Los Alamos | **UNCERTAIN** | Former LANL director (2011–2017). Killed when another driver swerved into his lane. Driver charged with traffic violations. Adds to 2024 NM cluster. |
+| [Don Wiley](Details/Don_Wiley.md) | 2001 | Found in Mississippi River | **SUSPICIOUS** | Harvard immunologist. Disappeared during 2001 anthrax crisis when 11+ microbiologists died within months. Official bridge-fall explanation widely questioned. |
+| [Frank Olson](Details/Frank_Olson.md) | 1953 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | CIA biological weapons scientist. MKULTRA victim. |
+| [Mohsen Fakhrizadeh](Details/Mohsen_Fakhrizadeh.md) | 2020 | See Targeted Killings section above | **CONFIRMED** | Iranian nuclear scientist. Mossad operation. |
+| [Fadi al-Batsh](Details/Fadi_al_Batsh.md) | 2018 | Shot 10+ times, Kuala Lumpur | **HIGHLY SUSPICIOUS** | Palestinian engineer. Hamas arrested participant who confessed to Mossad involvement. Professional motorcycle hit in Malaysia. |
+| [Aziz Asbar](Details/Aziz_Asbar.md) | 2018 | Car bomb, Masyaf, Syria | **HIGHLY SUSPICIOUS** | Syria's top rocket scientist. Senior intel official confirmed Mossad planted the bomb. Led secret "Sector 4" unit with Iran's Soleimani. |
+| [Mohamed Zouari](Details/Mohamed_Zouari.md) | 2016 | Shot ~20 times, Sfax, Tunisia | **HIGHLY SUSPICIOUS** | Tunisian aeronautical engineer heading Hamas drone program. Silenced weapons, Bosnian passports. Mossad multi-team operation. |
+| [David Kelly](Details/David_Kelly.md) | 2003 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | UK weapons inspector on Iraq WMDs. |
+| [Paul Vigay](Details/Paul_Vigay.md) | 2009 | Found in sea off Portsmouth | **SUSPICIOUS** | British UFO/crop circle researcher and computer scientist. Coroner recorded open verdict — unable to determine suicide or accident. Family disputed suicide. |
+| [Gerald Bull](Details/Gerald_Bull.md) | 1990 | Shot at Brussels apartment | **HIGHLY SUSPICIOUS** | See Dissidents section above. Building Iraqi "supergun." Mossad widely blamed. |
+| [Yahya El Mashad](Details/Yahya_El_Mashad.md) | 1980 | Bludgeoned/stabbed in Paris hotel | **HIGHLY SUSPICIOUS** | Egyptian nuclear physicist heading Iraqi nuclear program. Mossad implicated. Key witness killed in hit-and-run weeks later. |
+
+
 ## Foreign Leaders and Political Figures Assassinated
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
-| [Hassan Nasrallah](Details/Hassan_Nasrallah.md) | 2024 | Killed by Israeli airstrike | **CONFIRMED** | Secretary-General of Hezbollah for over three decades. Killed by massive Israeli airstrike on underground headquarters in Beirut. |
+| [Paul Wellstone](Details/Paul_Wellstone.md) | 2002 | Plane crash, Eveleth, Minnesota | **SUSPICIOUS** | U.S. Senator. Most vocal Iraq War opponent. Died 11 days before election. NTSB ruled pilot error. Alleged Cheney threats. 69% of Minnesotans suspected foul play. |
 | [Rafik Hariri](Details/Rafik_Hariri.md) | 2005 | Massive car bomb, Beirut | **CONFIRMED** | Lebanese PM. UN Special Tribunal convicted Hezbollah operative. Syrian intelligence widely suspected of involvement. |
 | [Ahmad Shah Massoud](Details/Ahmad_Shah_Massoud.md) | 2001 | Bomb hidden in camera | **CONFIRMED** | Afghan "Lion of Panjshir" killed two days before 9/11 by al-Qaeda. ISI allegedly complicit. Had warned the West about imminent attack. |
 | [Pierre Gemayel](Details/Pierre_Gemayel.md) | 2006 | Shot in car, Beirut | **HIGHLY SUSPICIOUS** | Lebanese anti-Syrian politician. Part of wave of assassinations targeting March 14 Alliance figures. Syrian/Hezbollah intelligence suspected. |
 | [Laurent-Desire Kabila](Details/Laurent_Desire_Kabila.md) | 2001 | Shot by bodyguard | **HIGHLY SUSPICIOUS** | DRC president. Al Jazeera investigation found Rwandan intelligence involvement with alleged US backing. CIA FOIA documents exist. |
 | [Benazir Bhutto](Details/Benazir_Bhutto.md) | 2007 | Bomb and gunshot, Rawalpindi | **SUSPICIOUS** | Pakistani PM. UN investigation found Pakistani government failed to protect her. ISI involvement alleged. |
-| [Paul Wellstone](Details/Paul_Wellstone.md) | 2002 | Plane crash, Eveleth, Minnesota | **SUSPICIOUS** | U.S. Senator. Most vocal Iraq War opponent. Died 11 days before election. NTSB ruled pilot error. Alleged Cheney threats. 69% of Minnesotans suspected foul play. |
 | [Juvenal Habyarimana](Details/Juvenal_Habyarimana.md) | 1994 | Plane shot down by SAMs | **CONFIRMED** | Rwandan president. Assassination triggered genocide killing 800,000. Also killed Burundian president Ntaryamira. Perpetrator disputed. |
 | [Galina Starovoitova](Details/Galina_Starovoitova.md) | 1998 | Multiple gunshot wounds | **HIGHLY SUSPICIOUS** | Russian liberal lawmaker and human rights champion shot dead in her St. Petersburg apartment lobby. |
 | [Chris Hani](Details/Chris_Hani.md) | 1993 | Shot at home | **SUSPICIOUS** | South African Communist Party leader. Assassin convicted; alleged South African intelligence connections. Nearly derailed democratic transition. |
@@ -68,13 +189,22 @@ This project documents intelligence service murders, political assassinations, a
 | [Eduardo Mondlane](Details/Eduardo_Mondlane.md) | 1969 | Book bomb | **HIGHLY SUSPICIOUS** | Mozambican independence leader. Portuguese PIDE and possibly CIA implicated. |
 | [Dag Hammarskjold](Details/Dag_Hammarskjold.md) | 1961 | Plane crash, Zambia | **HIGHLY SUSPICIOUS** | UN Secretary-General. 2019 UN inquiry found "plausible" that plane was shot down. CIA, MI6, South African intelligence implicated. |
 
+
+## Bankers and Financiers with Intelligence Connections
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Ronni Moffitt](Details/Ronni_Moffitt.md) | 1976 | Car bomb (killed alongside Letelier) | **CONFIRMED** | American citizen killed by DINA car bomb meant for Letelier. 25-year-old US citizen killed on US soil by foreign intelligence. |
+| [Edmond Safra](Details/Edmond_Safra.md) | 1999 | Smoke inhalation in Monaco fire | **SUSPICIOUS** | Billionaire banker. Mossad-trained security absent night of fire. Had reported Russian money laundering to FBI. Nurse convicted but motive questioned. |
+| [Roberto Calvi](Details/Roberto_Calvi.md) | 1982 | Found hanging under Blackfriars Bridge, London | **HIGHLY SUSPICIOUS** | "God's Banker." Linked to Vatican Bank, P2 Masonic lodge, and Italian intelligence. Bricks in pockets. Ruled murder after second inquest. |
+| [Alfred Herrhausen](Details/Alfred_Herrhausen.md) | 1989 | Sophisticated roadside bomb | **SUSPICIOUS** | Deutsche Bank chairman. Bomb hidden in child's knapsack detonated by photoelectric beam. Sophistication exceeded RAF capabilities. Stasi/KGB suspected. Case unsolved. |
+
+
 ## Dissidents, Defectors, and Exiles Killed
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
-| [Vladimir Kara-Murza](Details/Vladimir_Kara_Murza.md) | Survived | Poisoned twice (2015, 2017); imprisoned | **CONFIRMED (Attempted)** | Russian-British opposition activist who survived two FSB poisoning attempts. Sentenced to 25 years, released in 2024 prisoner swap. |
 | [Alexei Navalny](Details/Alexei_Navalny.md) | 2024 | Died in Arctic penal colony | **HIGHLY SUSPICIOUS** | Russian opposition leader. Survived 2020 Novichok poisoning by FSB. Died in prison under suspicious circumstances. |
-| [Maxim Kuzminov](Details/Maxim_Kuzminov.md) | 2024 | Shot and run over, Spain | **HIGHLY SUSPICIOUS** | Russian helicopter pilot who defected to Ukraine. Found dead in Spanish parking garage. Russian-made ammunition. SVR chief called him "traitor." |
 | [Yevgeny Prigozhin](Details/Yevgeny_Prigozhin.md) | 2023 | Plane crash (bomb) | **HIGHLY SUSPICIOUS** | Wagner Group founder. Killed exactly two months after armed mutiny against Putin. Hand grenade fragments found in bodies. |
 | [Ravil Maganov](Details/Ravil_Maganov.md) | 2022 | Fall from sixth-floor window | **HIGHLY SUSPICIOUS** | Chairman of Lukoil, fell from hospital window. Lukoil board had called for end to Ukraine war. |
 | [Alexander Tyulakov](Details/Alexander_Tyulakov.md) | 2022 | Hanging (reported as suicide) | **SUSPICIOUS** | Gazprom executive found dead the morning after Russia invaded Ukraine in February 2022. |
@@ -84,174 +214,50 @@ This project documents intelligence service murders, political assassinations, a
 | [Jamal Khashoggi](Details/Jamal_Khashoggi.md) | 2018 | Strangled and dismembered, Istanbul | **CONFIRMED** | Saudi journalist. CIA concluded MBS ordered it. 15-man Saudi hit squad recorded by Turkish intelligence. |
 | [Arkady Babchenko](Details/Arkady_Babchenko.md) | 2018 | **Survived** — faked death with Ukrainian SBU | **CONFIRMED** | Russian journalist. Ukraine staged his assassination to expose Russian plot to kill him. Russian intelligence confirmed as threat. |
 | [Kim Jong-nam](Details/Kim_Jong_nam.md) | 2017 | VX nerve agent at Kuala Lumpur airport | **CONFIRMED** | Half-brother of North Korean leader. Two women smeared VX on his face. North Korean intelligence operation. |
-| [Sergei Skripal](Details/Sergei_Skripal.md) | 2018 | Novichok poisoning, Salisbury (survived) | **CONFIRMED** | Former GRU double agent. UK inquiry (2025): Putin ordered the attack. GRU Unit 29155 identified. Bystander Dawn Sturgess killed. |
 | [Nikolai Glushkov](Details/Nikolai_Glushkov.md) | 2018 | Strangulation, London | **HIGHLY SUSPICIOUS** | Russian exile found strangled in his home. Death staged to look like suicide. One week after Skripal poisoning. Counter Terrorism Command investigated. |
-| [Denis Voronenkov](Details/Denis_Voronenkov.md) | 2017 | Shot in Kyiv | **HIGHLY SUSPICIOUS** | Russian Duma defector. Shot dead in broad daylight after testifying against Russian government. |
 | [Boris Nemtsov](Details/Boris_Nemtsov.md) | 2015 | Shot near Kremlin, Moscow | **HIGHLY SUSPICIOUS** | Russian opposition leader shot four times on bridge within sight of Kremlin. Chechen security forces convicted; mastermind never identified. |
 | [Alexander Perepilichnyy](Details/Alexander_Perepilichnyy.md) | 2012 | Sudden cardiac arrest (disputed: possible poisoning) | **HIGHLY SUSPICIOUS** | Russian whistleblower who helped expose the $230M Russian treasury fraud at the heart of the Magnitsky case. |
 | [Alexander Zakharchenko](Details/Alexander_Zakharchenko.md) | 2018 | Bomb in Donetsk cafe | **SUSPICIOUS** | Donetsk People's Republic leader. Ukrainian intelligence suspected. Internal power struggle also possible. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | 2017 | Sudden death in New York | **SUSPICIOUS** | Russian UN Ambassador. NYC medical examiner initially refused to release cause of death. Part of cluster of Russian diplomat deaths. |
-| [Boris Berezovsky](Details/Boris_Berezovsky.md) | 2013 | Hanging (ligature around neck) | **SUSPICIOUS** | Russian oligarch and Kremlin critic. Coroner recorded open verdict. German pathologist said evidence consistent with third-party strangulation. |
 | [Zelimkhan Yandarbiyev](Details/Zelimkhan_Yandarbiyev.md) | 2004 | Car bomb, Doha Qatar | **CONFIRMED** | Former Chechen Republic president. Car bomb by GRU agents. Two Russian agents convicted by Qatari court. |
-| [Alexander Litvinenko](Details/Alexander_Litvinenko.md) | 2006 | Polonium-210 poisoning, London | **CONFIRMED** | Former FSB officer. UK inquiry: "probably approved by Putin." European Court ruled Russia responsible. |
-| [Roman Tsepov](Details/Roman_Tsepov.md) | 2004 | Radioactive poisoning | **HIGHLY SUSPICIOUS** | Putin's former personal security provider, died of radioactive poisoning in St. Petersburg — two years before Litvinenko. |
 | [Gerald Bull](Details/Gerald_Bull.md) | 1990 | Shot at Brussels apartment | **HIGHLY SUSPICIOUS** | Canadian weapons designer building Iraqi "supergun." Mossad widely believed responsible. Five shots to head and neck. |
 | [Georgi Markov](Details/Georgi_Markov.md) | 1978 | Ricin-tipped umbrella, London | **CONFIRMED** | Bulgarian dissident killed by Bulgarian DS with KGB assistance. Poison pellet fired into leg on Waterloo Bridge. |
+| [Vladimir Kara-Murza](Details/Vladimir_Kara_Murza.md) | Survived | Poisoned twice (2015, 2017); imprisoned | **CONFIRMED (Attempted)** | Russian-British opposition activist who survived two FSB poisoning attempts. Sentenced to 25 years, released in 2024 prisoner swap. |
+| [Maxim Kuzminov](Details/Maxim_Kuzminov.md) | 2024 | Shot and run over, Spain | **HIGHLY SUSPICIOUS** | Russian helicopter pilot who defected to Ukraine. Found dead in Spanish parking garage. Russian-made ammunition. SVR chief called him "traitor." |
+| [Sergei Skripal](Details/Sergei_Skripal.md) | 2018 | Novichok poisoning, Salisbury (survived) | **CONFIRMED** | Former GRU double agent. UK inquiry (2025): Putin ordered the attack. GRU Unit 29155 identified. Bystander Dawn Sturgess killed. |
+| [Denis Voronenkov](Details/Denis_Voronenkov.md) | 2017 | Shot in Kyiv | **HIGHLY SUSPICIOUS** | Russian Duma defector. Shot dead in broad daylight after testifying against Russian government. |
+| [Boris Berezovsky](Details/Boris_Berezovsky.md) | 2013 | Hanging (ligature around neck) | **SUSPICIOUS** | Russian oligarch and Kremlin critic. Coroner recorded open verdict. German pathologist said evidence consistent with third-party strangulation. |
+| [Alexander Litvinenko](Details/Alexander_Litvinenko.md) | 2006 | Polonium-210 poisoning, London | **CONFIRMED** | Former FSB officer. UK inquiry: "probably approved by Putin." European Court ruled Russia responsible. |
+| [Roman Tsepov](Details/Roman_Tsepov.md) | 2004 | Radioactive poisoning | **HIGHLY SUSPICIOUS** | Putin's former personal security provider, died of radioactive poisoning in St. Petersburg — two years before Litvinenko. |
+
 
 ## Intelligence Service Targeted Killings (Mossad and Others)
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
+| [Anwar al-Awlaki](Details/Anwar_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **CONFIRMED** | US-born cleric. First known deliberate killing of US citizen by US government without trial. Obama authorized the strike. |
+| [Abdulrahman al-Awlaki](Details/Abdulrahman_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **HIGHLY SUSPICIOUS** | 16-year-old US citizen killed two weeks after his father Anwar. Obama administration said he was not specifically targeted. |
 | [Ismail Haniyeh](Details/Ismail_Haniyeh.md) | 2024 | Bomb in Tehran guesthouse | **CONFIRMED** | Hamas political bureau chief. Mossad widely blamed. Killed in Iranian capital during presidential inauguration. |
 | [Salah al-Arouri](Details/Salah_al_Arouri.md) | 2024 | Israeli drone strike, Beirut | **CONFIRMED** | Hamas deputy leader. Killed during Israel-Gaza war. |
 | [Fuad Shukr](Details/Fuad_Shukr.md) | 2024 | Israeli airstrike, Beirut | **CONFIRMED** | Hezbollah senior military commander. Killed during Israel-Lebanon escalation. |
 | [Mohsen Fakhrizadeh](Details/Mohsen_Fakhrizadeh.md) | 2020 | Remote-controlled gun, near Tehran | **CONFIRMED** | Iranian nuclear scientist. Mossad widely blamed. Reportedly used AI-assisted remote weapon system. |
-| [Qasem Soleimani](Details/Qasem_Soleimani.md) | 2020 | US drone strike, Baghdad airport | **CONFIRMED** | Iranian IRGC Quds Force commander. Trump ordered the strike. Near-act of war. |
-| [Anwar al-Awlaki](Details/Anwar_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **CONFIRMED** | US-born cleric. First known deliberate killing of US citizen by US government without trial. Obama authorized the strike. |
 | [Mahmoud Al-Mabhouh](Details/Mahmoud_Al_Mabhouh.md) | 2010 | Suffocated in Dubai hotel | **CONFIRMED** | Hamas commander. Mossad operation using forged passports. Captured on hotel CCTV. Caused diplomatic crisis. |
 | [Mostafa Ahmadi Roshan](Details/Mostafa_Ahmadi_Roshan.md) | 2012 | Magnetic bomb attached to car, Tehran | **HIGHLY SUSPICIOUS** | Iranian nuclear scientist and Natanz enrichment facility director. Fourth Iranian scientist killed in similar attacks. |
-| [Abdulrahman al-Awlaki](Details/Abdulrahman_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **HIGHLY SUSPICIOUS** | 16-year-old US citizen killed two weeks after his father Anwar. Obama administration said he was not specifically targeted. |
 | [Darioush Rezaeinejad](Details/Darioush_Rezaeinejad.md) | 2011 | Shot by motorcycle-riding gunmen, Tehran | **HIGHLY SUSPICIOUS** | Iranian electronics engineer shot five times in front of his wife and daughter. Part of campaign against Iranian nuclear program. |
 | [Majid Shahriari](Details/Majid_Shahriari.md) | 2010 | Magnetic bomb attached to car, Tehran | **HIGHLY SUSPICIOUS** | Iranian nuclear scientist killed by motorcycle-riding assassins. Mossad widely blamed. |
 | [Masoud Alimohammadi](Details/Masoud_Alimohammadi.md) | 2010 | Remote-controlled motorcycle bomb, Tehran | **HIGHLY SUSPICIOUS** | Iranian physics professor killed by bomb outside his home. Part of campaign against Iranian nuclear scientists. |
-| [Imad Mughniyeh](Details/Imad_Mughniyeh.md) | 2008 | Car bomb, Damascus | **CONFIRMED** | Hezbollah military commander. Joint CIA-Mossad operation confirmed. One of the most wanted terrorists in the world. |
 | [Ahmed Yassin](Details/Ahmed_Yassin.md) | 2004 | Israeli helicopter strike, Gaza | **CONFIRMED** | Hamas founder and spiritual leader. Killed in wheelchair by Israeli missile. Widely condemned internationally. |
 | [Abdel Aziz al-Rantisi](Details/Abdel_Aziz_al_Rantisi.md) | 2004 | Israeli missile strike, Gaza | **CONFIRMED** | Hamas leader. Killed one month after Yassin. Israel's policy of targeted killings against Hamas leadership. |
 | [Yahya Ayyash](Details/Yahya_Ayyash.md) | 1996 | Booby-trapped cell phone | **CONFIRMED** | Hamas bomb maker. Shin Bet placed explosive in his mobile phone. Israel acknowledged the operation. |
 | [Fathi Shaqaqi](Details/Fathi_Shaqaqi.md) | 1995 | Shot on Malta street | **CONFIRMED** | Palestinian Islamic Jihad leader. Mossad agents shot him six times. Malta investigation identified Israeli operatives. |
-| [Atef Bseiso](Details/Atef_Bseiso.md) | 1992 | Shot by two gunmen with silenced pistols, Paris | **CONFIRMED** | PLO intelligence chief. Shot dead in Paris as part of Operation Wrath of God. Mossad operation. |
-| [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) | 1979 | Car bomb, Beirut | **CONFIRMED** | PLO intelligence chief and alleged Munich planner. Also a CIA asset. Mossad car bomb killed 4 bystanders. |
 | [Mahmoud Hamshari](Details/Mahmoud_Hamshari.md) | 1973 | Phone bomb in Paris | **CONFIRMED** | PLO representative. Mossad planted explosive under his telephone. Part of Operation Wrath of God. |
 | [Hussein al-Bashir](Details/Hussein_al_Bashir.md) | 1973 | Bomb detonated under hotel bed, Cyprus | **CONFIRMED** | Fatah representative killed when Mossad detonated explosives under his hotel bed. Operation Wrath of God. |
 | [Wael Zwaiter](Details/Wael_Zwaiter.md) | 1972 | Shot 12 times in Rome | **CONFIRMED** | Palestinian intellectual. First killing in Mossad's Operation Wrath of God after Munich Olympics. Possibly misidentified. |
 | [Wadie Haddad](Details/Wadie_Haddad.md) | 1978 | Allegedly poisoned (chocolate laced with biological agent) | **HIGHLY SUSPICIOUS** | PFLP hijacking mastermind. Mossad reportedly poisoned via contaminated Belgian chocolate. Died of "leukemia." |
-
-## Journalists and Investigators Killed
-
-*Sorted by decade (most recent first), then suspicion level, then year.*
-
-| Name | Year | Cause of Death | Suspicion Level | Details |
-|------|------|----------------|-----------------|---------|
-| [Shireen Abu Akleh](Details/Shireen_Abu_Akleh.md) | 2022 | Shot in head wearing press vest | **CONFIRMED** | Palestinian-American Al Jazeera journalist. Multiple independent investigations (UN, CNN, Bellingcat) confirmed targeted Israeli fire in Jenin. |
-| [Arshad Sharif](Details/Arshad_Sharif.md) | 2022 | Shot at roadblock, Kenya | **HIGHLY SUSPICIOUS** | Pakistani journalist. Pakistan's own investigation called it "planned, targeted assassination." ISI implicated. Kenyan court ruled killing unlawful. |
-| [Marine Vlahovic](Details/Marine_Vlahovic.md) | 2024 | Unknown — found dead on rooftop terrace | **SUSPICIOUS** | French journalist found dead in Marseille while working on documentary about Israel's war on Gaza. Cause of death never publicly disclosed. Mossad alleged by pro-Palestinian media. |
-| [Jan Kuciak](Details/Jan_Kuciak.md) | 2018 | Shot at home, Slovakia | **CONFIRMED** | Investigative journalist exposing Italian mafia-government ties. Killed with fiancee. Led to PM's resignation. |
-| [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) | 2017 | Car bomb, Malta | **CONFIRMED** | Panama Papers journalist. Maltese government inquiry found state bore responsibility. |
-| [Syed Saleem Shahzad](Details/Syed_Saleem_Shahzad.md) | 2011 | Tortured, found dead in canal | **CONFIRMED** | Pakistani journalist. US government confirmed ISI responsibility based on CIA intercepts. Investigating al-Qaeda in Pakistani Navy. |
-| [Pavel Sheremet](Details/Pavel_Sheremet.md) | 2016 | Car bomb, Kyiv | **HIGHLY SUSPICIOUS** | Belarusian-born investigative journalist killed by car bomb in Kyiv. One of the most prominent unsolved journalist killings in Europe. |
-| [Max Spiers](Details/Max_Spiers.md) | 2016 | Pneumonia / drug intoxication | **SUSPICIOUS** | UK conspiracy researcher investigating MKUltra, elite pedophile rings, and super soldier programs. Vomited two litres of black fluid and died in Warsaw apartment. Texted mother "if anything happens to me, investigate" two days before death. Polish police investigation called "wholly incompetent" by British coroner. |
-| [Serena Shim](Details/Serena_Shim.md) | 2014 | Car crash, Turkey | **SUSPICIOUS** | Press TV journalist who reported on ISIS using UN WFP trucks. Told she was accused of espionage by Turkish intelligence. Died in car crash two days later. |
-| [Michael Hastings](Details/Michael_Hastings.md) | 2013 | Car crash at high speed, Los Angeles | **SUSPICIOUS** | Investigating CIA Director Brennan. Car exploded. Richard Clarke said crash "consistent with car cyber attack." |
-| [Jenny Moore](Details/Jenny_Moore.md) | 2018 | Found dead in DC hotel | **UNCERTAIN** | Citizen journalist investigating trafficking. Filed FBI report weeks before death. |
-| [Hrant Dink](Details/Hrant_Dink.md) | 2007 | Shot outside office, Istanbul | **CONFIRMED** | Armenian-Turkish editor of Agos. Turkish intelligence (MIT) had foreknowledge, agents threatened him. Court proved intelligence involvement. |
-| [Anna Politkovskaya](Details/Anna_Politkovskaya.md) | 2006 | Shot in Moscow apartment elevator | **CONFIRMED** | Journalist critical of Putin and Chechen war. Killed on Putin's birthday. Six convicted; mastermind unidentified. |
-| [Georgiy Gongadze](Details/Georgiy_Gongadze.md) | 2000 | Kidnapped, tortured, beheaded | **CONFIRMED** | Ukrainian journalist, founded Ukrainska Pravda. Secret tapes captured president ordering action. Interior Minister "suicided" before testifying. |
-| [Natalya Estemirova](Details/Natalya_Estemirova.md) | 2009 | Kidnapped and shot, Chechnya | **HIGHLY SUSPICIOUS** | Human rights activist documenting Chechen atrocities. Kidnapped from Kadyrov-controlled territory. Case unsolved 15+ years later. |
-| [Stanislav Markelov](Details/Stanislav_Markelov.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Human rights lawyer investigating Chechen war crimes. Shot alongside journalist Anastasia Baburova. Neo-Nazi nationalists convicted. |
-| [Anastasia Baburova](Details/Anastasia_Baburova.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Killed alongside Stanislav Markelov when she tried to intervene. |
-| [Lasantha Wickrematunge](Details/Lasantha_Wickrematunge.md) | 2009 | Bludgeoned in car, Colombo | **HIGHLY SUSPICIOUS** | Sri Lankan editor. Military intelligence unit identified as attackers. Wrote posthumous editorial naming his killers. |
-| [Gary Webb](Details/Gary_Webb.md) | 2004 | Two gunshots to head, ruled suicide | **HIGHLY SUSPICIOUS** | Exposed CIA-Contra-crack cocaine connection. Career destroyed by CIA-aligned media. Two gunshots to the head. |
-| [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) | 2003 | Mysterious illness (suspected thallium poisoning) | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Died days before meeting FBI. Symptoms matched poisoning. Medical records sealed. |
-| [Sergei Yushenkov](Details/Sergei_Yushenkov.md) | 2003 | Shot outside his Moscow home | **HIGHLY SUSPICIOUS** | Russian Duma member investigating FSB apartment bombings. Shot hours after registering his political party. |
-| [Daniel Pearl](Details/Daniel_Pearl.md) | 2002 | Beheaded | **HIGHLY SUSPICIOUS** | Wall Street Journal journalist investigating links between Pakistani ISI and Al-Qaeda. Kidnapped and beheaded in Karachi. |
-| [Paul Klebnikov](Details/Paul_Klebnikov.md) | 2004 | Shot outside Moscow office | **SUSPICIOUS** | American journalist, founding editor of Forbes Russia. Contract killing. First US journalist murdered in Russia. Suspects acquitted. |
-| [Artyom Borovik](Details/Artyom_Borovik.md) | 2000 | Plane crash | **SUSPICIOUS** | Russian investigative journalist killed three days after meeting with Boris Berezovsky. Was investigating FSB apartment bombings. |
-| [Mark Lombardi](Details/Mark_Lombardi.md) | 2000 | Hanging | **SUSPICIOUS** | Artist whose diagrams mapped BCCI, Iran-Contra, and intelligence financial networks. Found hanged in his studio. FBI visited his studio after 9/11. |
-| [Dmitry Kholodov](Details/Dmitry_Kholodov.md) | 1994 | Briefcase bomb, Moscow | **HIGHLY SUSPICIOUS** | Russian journalist, age 27. Lured with promise of secret military documents. GRU/military intelligence implicated. All defendants acquitted. |
-| [Ilaria Alpi](Details/Ilaria_Alpi.md) | 1994 | Shot in ambush, Mogadishu | **HIGHLY SUSPICIOUS** | Italian RAI journalist investigating arms trafficking and toxic waste involving SISMI. Only conviction overturned; €3M awarded for wrongful imprisonment. |
-| [Danny Casolaro](Details/Danny_Casolaro.md) | 1991 | Wrists slashed in hotel room | **HIGHLY SUSPICIOUS** | Investigating PROMIS software, "The Octopus" — CIA/DOJ/intelligence connections. Briefcase missing. Told friends "if I die, it wasn't suicide." |
-| [Manuel Buendia](Details/Manuel_Buendia.md) | 1984 | Shot in the back, Mexico City | **CONFIRMED** | Mexico's most influential columnist. Investigating CIA-DFS-drug trafficking nexus. DFS chief Zorrilla convicted. Killed 9 months before DEA agent Camarena. |
-| [Naji al-Ali](Details/Naji_al_Ali.md) | 1987 | Shot in face, London | **HIGHLY SUSPICIOUS** | Most famous Palestinian cartoonist, creator of "Handala." Arrested suspect was confirmed Mossad double agent. Case reopened 2017. |
-| [Dele Giwa](Details/Dele_Giwa.md) | 1986 | Letter bomb, Lagos | **HIGHLY SUSPICIOUS** | Nigerian journalist. Parcel bomb bore presidential coat-of-arms. State Security Service interrogated him 4 days before. No conviction in 40 years. |
-| [Ghassan Kanafani](Details/Ghassan_Kanafani.md) | 1972 | Car bomb, Beirut | **CONFIRMED** | Palestinian novelist and journalist. Mossad car bomb also killed his 17-year-old niece. Part of post-Munich campaign. |
-| [Mino Pecorelli](Details/Mino_Pecorelli.md) | 1979 | Shot in car, Rome | **HIGHLY SUSPICIOUS** | Italian investigative journalist with deep intelligence contacts. PM Andreotti convicted of ordering murder (later overturned). P2 lodge connections. |
-| [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | 1965 | Combined overdose of alcohol and barbiturates | **HIGHLY SUSPICIOUS** | Prominent journalist found dead after privately interviewing Jack Ruby about JFK assassination. Notes vanished. |
-
-## Whistleblowers and Insiders Killed
-
-*Sorted by decade (most recent first), then suspicion level, then year.*
-
-| Name | Year | Cause of Death | Suspicion Level | Details |
-|------|------|----------------|-----------------|---------|
-| [Philip Haney](Details/Philip_Haney.md) | 2020 | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on terrorism. Family disputes suicide. Had been threatening to expose more. |
-| [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot who flew for Barry Seal. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
-| [Isaac Kappy](Details/Isaac_Kappy.md) | 2019 | Fell from bridge onto I-40 | **SUSPICIOUS** | Actor who publicly accused Hollywood elites of pedophilia and claimed to possess intelligence-linked Epstein blackmail files. Repeatedly said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest. |
-| [John Rossi](Details/John_Rossi.md) | 2016 | Hanging, ruled suicide | **MODERATE SUSPICION** | Two-star Army general died two days before promotion to three-star and command of Space and Missile Defense Command. First general suicide on record. Anti-suicide advocate. Unverified 2026 claims allege he was killed for refusing nuclear material transfers. |
-| [Sergei Magnitsky](Details/Sergei_Magnitsky.md) | 2009 | Beaten in prison, denied medical care | **CONFIRMED** | Russian tax advisor who exposed $230M government fraud. ECHR found Russia responsible. Led to Magnitsky Act sanctions worldwide. |
-| [David Kelly](Details/David_Kelly.md) | 2003 | Wrist slashed, ruled suicide | **HIGHLY SUSPICIOUS** | UK weapons inspector who challenged Iraq WMD claims. Extremely rare cause of death. Almost no blood at scene. Records sealed until 2073. |
-| [Bill Cooper](Details/Bill_Cooper.md) | 2001 | Shot by sheriff's deputies, Eagar AZ | **SUSPICIOUS** | The original 9/11 conspiracy theorist — because he predicted it. Told his audience in June 2001 they would blame it on Osama bin Laden: "Don't you believe it." Shot and killed by police less than two months after 9/11. |
-| [Philip Agee](Details/Philip_Agee.md) | 2008 | Peritonitis after ulcer surgery, Cuba | **MODERATE SUSPICION** | CIA's most famous whistleblower. Published *Inside the Company* (1975), naming ~250 CIA agents. Passport revoked, expelled from 5 countries. Died in Havana at 72. |
-| [William Colby](Details/William_Colby.md) | 1996 | Drowned during canoe trip | **SUSPICIOUS** | Former CIA Director who cooperated with Church Commission. Left dinner half-eaten, computer on. Found in river 9 days later. |
-| [Barry Seal](Details/Barry_Seal.md) | 1986 | Machine-gunned in car, Baton Rouge | **HIGHLY SUSPICIOUS** | CIA-connected drug pilot turned DEA informant. Medellín Cartel ordered hit, but CIA allegedly exposed his cover. Judge forced him into unprotected halfway house. |
-| [Enrique Camarena](Details/Enrique_Camarena.md) | 1985 | Kidnapped, tortured, murdered in Mexico | **HIGHLY SUSPICIOUS** | DEA agent. CIA allegedly had assets involved in the kidnapping. CIA reportedly knew about the plot and failed to intervene. |
-| [Karen Silkwood](Details/Karen_Silkwood.md) | 1974 | Car crash en route to meet reporter | **HIGHLY SUSPICIOUS** | Nuclear whistleblower. Carrying documents to NY Times. Rear bumper dent suggests forced off road. Kerr-McGee settled for $1.38M. |
-| [John Paisley](Details/John_Paisley.md) | 1978 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Senior CIA officer found floating in Chesapeake Bay with gunshot wound and weighted dive belt. Body four inches shorter than official records. |
-| [Frank Olson](Details/Frank_Olson.md) | 1953 | Fell from hotel window | **HIGHLY SUSPICIOUS** | CIA scientist dosed with LSD without consent (MKULTRA). 1994 exhumation: cranial injuries indicate he was knocked unconscious first. Medical examiner ruled homicide. |
-
-## Activists, Domestic Targets, and Civilian Casualties
-
-*Sorted by decade (most recent first), then suspicion level, then year.*
-
-| Name | Year | Cause of Death | Suspicion Level | Details |
-|------|------|----------------|-----------------|---------|
-| [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Blunt force head trauma (balcony fall) | **HIGHLY SUSPICIOUS** | Comedian (age 41) who used Comedy Central/IFC/YouTube (100M+ views) to expose elite corruption, Hollywood child trafficking, CIA operations, Illuminati, and 9/11 truth to millions. Created viral Epstein/COVID "kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19 emergence (Nov 2019). Fell from second-story balcony at 2:30 a.m., ~10 months after the Epstein theory. BAC 0.21-0.27. Ruled accident. Was on livestream hours before death. |
-| [Jeff Webb](Details/Jeff_Webb.md) | 2026 | Head injury from pickleball fall | **SUSPICIOUS** | Charlie Kirk's longtime mentor and conservative media figure. Died from "freak pickleball accident" six months after Kirk's assassination. Fatal pickleball injuries are extraordinarily rare. Stood with Kirk's family at White House for Presidential Medal of Freedom. |
-| [Charlie Kirk](Details/Charlie_Kirk.md) | 2025 | Single gunshot to neck (sniper, 142 yards) | **SUSPICIOUS** | Turning Point USA founder shot by rooftop sniper at campus debate. Had been increasingly critical of Israel and calling for Epstein file transparency. Over 72,000 social media posts alleged Mossad involvement; Israel denied. Suspect Tyler Robinson charged; some question lone-wolf narrative given operational sophistication. |
-| [Melissa Hortman](Details/Melissa_Hortman.md) | 2025 | Shot in home, Brooklyn Park MN | **SUSPICIOUS** | Minnesota House DFL leader. Cast sole Democratic vote stripping healthcare from undocumented immigrants. Assassinated 4 days later. Killer wore silicone mask, fake police uniform, hit multiple legislators' homes in one night. Claimed in letter to FBI Director he was covert military asset whose family was threatened. |
-| [Robert Mueller](Details/Robert_Mueller.md) | 2026 | Parkinson's disease (undisclosed) | **MODERATE SUSPICION** | FBI Director (2001-2013). Alleged cover-up of Saudi 9/11 connections, botched anthrax case, FBI documents link his name to Seth Rich murder. Subpoenaed for Epstein testimony — died before testifying. |
-| [Stefan Suto](Details/Stefan_Suto.md) | 2021 | Hydrogen peroxide poisoning (homicide) | **UNCERTAIN** | 80-year-old civilian. Forensic autopsy ruled homicide — unlicensed doctor injected lethal hydrogen peroxide concentration 171x normal. $1.33M civil judgment. Family alleges Mossad assassination targeting son-in-law, a self-described former CIA whistleblower. No independent intelligence evidence. |
-| [Berta Caceres](Details/Berta_Caceres.md) | 2016 | Shot at home, Honduras | **CONFIRMED** | Environmental activist. US-trained military intelligence agents involved. She had criticized US-backed 2009 coup. Goldman Prize winner. |
-| [Fidan Dogan](Details/Fidan_Dogan.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish activist shot execution-style in Paris. Turkish intelligence (MIT) suspected. |
-| [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
-| [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
-| [Job Price](Details/Job_Price.md) | 2012 | Gunshot wound to head, ruled suicide | **HIGHLY SUSPICIOUS** | SEAL Team 4 commander found dead in Afghanistan. Bullet casing under his body (impossible if lying down), blood flow proves body moved 3 times, gun placed in hand post-mortem per 4 independent forensic experts. No GSR testing on hands; body washed destroying evidence; crime scene unsecured 9 hours. Had discovered missing CIA cash, sexual assault by a teammate, and was refusing dangerous orders. Hegseth reviewed evidence, texted "no way this was suicide" — now Secretary of Defense, won't return calls. |
-| [Seth Rich](Details/Seth_Rich.md) | 2016 | Shot twice in back, DC | **SUSPICIOUS** | DNC voter expansion data director. Officially a botched robbery, but nothing stolen. Case remains unsolved. Theories he leaked DNC emails to WikiLeaks are unverified; Mueller found Russian GRU was the source. |
-| [Pat Tillman](Details/Pat_Tillman.md) | 2004 | "Friendly fire" in Afghanistan | **HIGHLY SUSPICIOUS** | NFL star turned Army Ranger. Shot three times in head at close range. Pentagon covered up friendly fire for weeks. Had become critical of Iraq War, planned to meet Noam Chomsky. |
-| [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
-| [David Webster](Details/David_Webster.md) | 1989 | Shotgun blast | **CONFIRMED** | South African anti-apartheid academic shot dead outside his Johannesburg home by an agent of South African military intelligence. |
-| [Fernando Pereira](Details/Fernando_Pereira.md) | 1985 | Drowned in bombed ship | **CONFIRMED** | Photographer killed when French DGSE bombed the Rainbow Warrior in Auckland. France confirmed responsibility. Agents convicted. |
-| [Ruth First](Details/Ruth_First.md) | 1982 | Letter bomb in Mozambique | **CONFIRMED** | South African anti-apartheid activist and journalist. South African Military Intelligence confirmed. Assassin confessed at TRC. |
-| [Dulcie September](Details/Dulcie_September.md) | 1988 | Shot in Paris | **HIGHLY SUSPICIOUS** | ANC representative. South African intelligence (CCB) widely suspected. She was investigating arms deals. Case unsolved. |
-| [Gerard Hoarau](Details/Gerard_Hoarau.md) | 1985 | Shot in London | **HIGHLY SUSPICIOUS** | Seychelles opposition leader. South African intelligence suspected. Case unsolved. |
-| [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
-| [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
-| [Steve Biko](Details/Steve_Biko.md) | 1977 | Beaten to death in police custody | **CONFIRMED** | South African anti-apartheid leader. Initially ruled death by hunger strike. Security police confessed at TRC. |
-| [Victor Jara](Details/Victor_Jara.md) | 1973 | Tortured and shot 44 times | **CONFIRMED** | Chilean folk singer. Hands broken, then machine-gunned in Santiago stadium during Pinochet coup. Convictions obtained decades later. |
-| [Charles Horman](Details/Charles_Horman.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American journalist. Subject of film "Missing." US government complicity confirmed by declassified documents. Chilean court convictions 2015. |
-| [Frank Teruggi](Details/Frank_Teruggi.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American student killed alongside Horman. US intelligence aware. Chilean court convictions 2015. |
-| [Rick Turner](Details/Rick_Turner.md) | 1978 | Gunshot wound | **HIGHLY SUSPICIOUS** | South African political scientist shot dead through the front door of his Durban home. Security police suspected. |
-| [Fred Hampton](Details/Fred_Hampton.md) | 1969 | Shot in bed during police raid | **CONFIRMED** | Black Panther leader. FBI COINTELPRO provided floor plans via informant. Drugged beforehand. Police fired 99 shots; Panthers fired 1. $1.85M settlement. |
-| [Mark Clark](Details/Mark_Clark.md) | 1969 | Shot during same raid as Hampton | **CONFIRMED** | Black Panther killed alongside Fred Hampton. Single Panther shot came from his gun as he was killed. |
-| [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) | 1964 | Shot twice on Georgetown towpath | **HIGHLY SUSPICIOUS** | JFK's alleged mistress, ex-wife of CIA's Cord Meyer. Execution-style killing weeks after Warren Commission report. CIA's Angleton seized and destroyed her diary. Suspect acquitted; case unsolved. |
-| [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) | 1967 | Shot from rooftop, Arlington VA | **SUSPICIOUS** | American Nazi Party founder and presidential candidate. Shot while FBI COINTELPRO-WHITE HATE was actively infiltrating his organization. Circumstantial evidence only. Army intel agent was eyewitness. |
-
-## Scientists and Weapons Researchers Killed
-
-| Name | Year | Cause of Death | Suspicion Level | Details |
-|------|------|----------------|-----------------|---------|
-| [Mohsen Fakhrizadeh](Details/Mohsen_Fakhrizadeh.md) | 2020 | See Targeted Killings section above | **CONFIRMED** | Iranian nuclear scientist. Mossad operation. |
-| [Christopher Fallen](Details/Christopher_Fallen.md) | 2024 | Asphyxiation (bound and suffocated in home) | **SUSPICIOUS** | AFRL senior research physicist and former HAARP chief scientist. Found bound with duct tape and asphyxiated in Albuquerque home. One suspect convicted; co-defendant died of overdose. Part of 2024 NM defense corridor cluster. |
-| [Philip Leonard](Details/Philip_Leonard.md) | 2024 | Head-on car crash on road to LANL | **SUSPICIOUS** | LANL high-explosives synthesis chemist. Killed when another driver crossed center line on NM 501 near the lab. Part of 2024 NM defense corridor cluster. |
-| [Jason Thomas](Details/Jason_Thomas.md) | 2025/2026 | Found in frozen lake | **MODERATE SUSPICION** | Novartis cancer researcher with DOD contracts. Disappeared Dec 2025, body recovered from Lake Quannapowitt after ice thawed March 2026. Part of 2025-2026 scientist death cluster. |
-| [Charles McMillan](Details/Charles_McMillan.md) | 2024 | Head-on car crash in Los Alamos | **UNCERTAIN** | Former LANL director (2011–2017). Killed when another driver swerved into his lane. Driver charged with traffic violations. Adds to 2024 NM cluster. |
-| [Fadi al-Batsh](Details/Fadi_al_Batsh.md) | 2018 | Shot 10+ times, Kuala Lumpur | **HIGHLY SUSPICIOUS** | Palestinian engineer. Hamas arrested participant who confessed to Mossad involvement. Professional motorcycle hit in Malaysia. |
-| [Aziz Asbar](Details/Aziz_Asbar.md) | 2018 | Car bomb, Masyaf, Syria | **HIGHLY SUSPICIOUS** | Syria's top rocket scientist. Senior intel official confirmed Mossad planted the bomb. Led secret "Sector 4" unit with Iran's Soleimani. |
-| [Mohamed Zouari](Details/Mohamed_Zouari.md) | 2016 | Shot ~20 times, Sfax, Tunisia | **HIGHLY SUSPICIOUS** | Tunisian aeronautical engineer heading Hamas drone program. Silenced weapons, Bosnian passports. Mossad multi-team operation. |
-| [David Kelly](Details/David_Kelly.md) | 2003 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | UK weapons inspector on Iraq WMDs. |
-| [Paul Vigay](Details/Paul_Vigay.md) | 2009 | Found in sea off Portsmouth | **SUSPICIOUS** | British UFO/crop circle researcher and computer scientist. Coroner recorded open verdict — unable to determine suicide or accident. Family disputed suicide. |
-| [Don Wiley](Details/Don_Wiley.md) | 2001 | Found in Mississippi River | **SUSPICIOUS** | Harvard immunologist. Disappeared during 2001 anthrax crisis when 11+ microbiologists died within months. Official bridge-fall explanation widely questioned. |
-| [Gerald Bull](Details/Gerald_Bull.md) | 1990 | Shot at Brussels apartment | **HIGHLY SUSPICIOUS** | See Dissidents section above. Building Iraqi "supergun." Mossad widely blamed. |
-| [Yahya El Mashad](Details/Yahya_El_Mashad.md) | 1980 | Bludgeoned/stabbed in Paris hotel | **HIGHLY SUSPICIOUS** | Egyptian nuclear physicist heading Iraqi nuclear program. Mossad implicated. Key witness killed in hit-and-run weeks later. |
-| [Frank Olson](Details/Frank_Olson.md) | 1953 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | CIA biological weapons scientist. MKULTRA victim. |
-
-## Bankers and Financiers with Intelligence Connections
-
-| Name | Year | Cause of Death | Suspicion Level | Details |
-|------|------|----------------|-----------------|---------|
-| [Edmond Safra](Details/Edmond_Safra.md) | 1999 | Smoke inhalation in Monaco fire | **SUSPICIOUS** | Billionaire banker. Mossad-trained security absent night of fire. Had reported Russian money laundering to FBI. Nurse convicted but motive questioned. |
-| [Roberto Calvi](Details/Roberto_Calvi.md) | 1982 | Found hanging under Blackfriars Bridge, London | **HIGHLY SUSPICIOUS** | "God's Banker." Linked to Vatican Bank, P2 Masonic lodge, and Italian intelligence. Bricks in pockets. Ruled murder after second inquest. |
-| [Alfred Herrhausen](Details/Alfred_Herrhausen.md) | 1989 | Sophisticated roadside bomb | **SUSPICIOUS** | Deutsche Bank chairman. Bomb hidden in child's knapsack detonated by photoelectric beam. Sophistication exceeded RAF capabilities. Stasi/KGB suspected. Case unsolved. |
-| [Ronni Moffitt](Details/Ronni_Moffitt.md) | 1976 | Car bomb (killed alongside Letelier) | **CONFIRMED** | American citizen killed by DINA car bomb meant for Letelier. 25-year-old US citizen killed on US soil by foreign intelligence. |
+| [Qasem Soleimani](Details/Qasem_Soleimani.md) | 2020 | US drone strike, Baghdad airport | **CONFIRMED** | Iranian IRGC Quds Force commander. Trump ordered the strike. Near-act of war. |
+| [Imad Mughniyeh](Details/Imad_Mughniyeh.md) | 2008 | Car bomb, Damascus | **CONFIRMED** | Hezbollah military commander. Joint CIA-Mossad operation confirmed. One of the most wanted terrorists in the world. |
+| [Atef Bseiso](Details/Atef_Bseiso.md) | 1992 | Shot by two gunmen with silenced pistols, Paris | **CONFIRMED** | PLO intelligence chief. Shot dead in Paris as part of Operation Wrath of God. Mossad operation. |
+| [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) | 1979 | Car bomb, Beirut | **CONFIRMED** | PLO intelligence chief and alleged Munich planner. Also a CIA asset. Mossad car bomb killed 4 bystanders. |
 
 ---
 

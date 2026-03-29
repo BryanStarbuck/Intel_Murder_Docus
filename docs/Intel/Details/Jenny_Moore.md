@@ -81,6 +81,8 @@ That said, her law enforcement background, psychology degree, and the documented
 - [Michael Hastings](Michael_Hastings.md) — journalist killed in suspicious single-car crash while investigating intelligence agencies
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA-crack cocaine connection, died of two gunshot wounds ruled suicide
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances
+- [Serena Shim](Serena_Shim.md) — journalist who reported on intelligence operations in Syria, killed in a suspicious car crash
+- **Epstein investigation profile:** [Jenny Moore](/epstein-murders/Details/Jenny_Moore) — documents her investigation into elite trafficking networks connected to the Epstein case
 
 ## Other Shocking Stories
 

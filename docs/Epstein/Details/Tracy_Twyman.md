@@ -61,6 +61,15 @@ The official ruling is suicide. Her husband was investigated and formally cleare
 >
 > — [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 10, 2019)
 
+## See Also
+
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who made public accusations about elite pedophilia; died two months before Twyman; she was continuing his research
+- [Jenny Moore](Jenny_Moore.md) — Former police officer investigating elite trafficking, found dead in a DC hotel
+- [Max Spiers](Max_Spiers.md) — British conspiracy researcher investigating elite pedophilia, died in Warsaw after texting his mother a warning
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — Tweeted about CIA/Mossad trafficking ring, drowned hours later
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "DC Madam" who said she would never kill herself; found hanged
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot dead alongside her husband
+
 ## Related Groups
 
 - Jeffrey Epstein Network — Continued Kappy's research into elite pedophilia

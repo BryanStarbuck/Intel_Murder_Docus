@@ -44,7 +44,7 @@ Ismail Haniyeh was born in the Al-Shati refugee camp in the Gaza Strip in 1962. 
 - Haniyeh was the most senior Hamas figure involved in ceasefire negotiations, raising questions about whether the killing was intended to derail peace talks
 - The operation occurred during the inauguration of Iran's new president, a moment of heightened diplomatic sensitivity
 - Iran's inability to protect a high-profile guest in its own capital exposed severe security vulnerabilities
-- The killing was part of a broader Israeli campaign of targeted assassinations in 2024 that also eliminated Hezbollah leader Hassan Nasrallah and Fuad Shukr
+- The killing was part of a broader Israeli campaign of targeted assassinations in 2024 that also eliminated Hezbollah commander Fuad Shukr
 - The operation occurred just hours before Israel killed Fuad Shukr in Beirut, creating a dual-front escalation
 
 ## Key Quotes
@@ -61,7 +61,6 @@ Ismail Haniyeh was born in the Al-Shati refugee camp in the Gaza Strip in 1962. 
 
 - Mossad (Group Profile) — intelligence service connected to this case
 
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
 ## Other Shocking Stories
 
 - [Ngo Dinh Diem](Ngo_Dinh_Diem.md): South Vietnam's president surrendered during a CIA-backed coup. They shot him in the back of an armored vehicle.

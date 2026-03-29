@@ -82,6 +82,15 @@ Police found handwritten suicide notes dated approximately a week before her dea
 - Craig Spence Operation — Another DC-area political sex operation from the 1980s
 - Franklin Scandal — Earlier DC-connected child trafficking ring
 
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Ran a parallel elite sex operation targeting powerful figures; both operations involved blackmail
+- [Craig Spence](Craig_Spence.md) — Washington lobbyist connected to intelligence and elite abuse networks; also found dead
+- [Jean Luc Brunel](Jean_Luc_Brunel.md) — Epstein associate found hanged in his Paris jail cell; another hanging death connected to elite sex trafficking
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide found dead by hanging; another suspicious hanging connected to powerful networks
+- [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank exec who handled Epstein's money, found hanged at home
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher investigating elite pedophilia, found hanged in her garage in 2019
+
 ## Related Locations
 
 - South Florida — Found hanged at her mother's mobile home in Tarpon Springs, Florida

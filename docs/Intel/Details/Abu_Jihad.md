@@ -75,7 +75,6 @@ Israel has argued that Abu Jihad was a legitimate military target responsible fo
 
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — PLO security chief killed by Mossad car bomb, 1979
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed by Israeli airstrike, 2024
 - [Wael Zwaiter](Wael_Zwaiter.md) — Palestinian intellectual shot in Rome, first kill in Mossad's post-Munich campaign
 - Mossad (Group Profile) — intelligence service connected to this case
 

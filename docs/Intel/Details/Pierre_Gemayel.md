@@ -77,7 +77,6 @@ Syria officially denied any involvement in Gemayel's assassination and condemned
 - [Rafik Hariri](Rafik_Hariri.md) — Lebanese PM assassinated by massive car bomb in 2005, triggering the Cedar Revolution
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Journalist assassinated by car bomb for investigations into corruption
 - [Benazir Bhutto](Benazir_Bhutto.md) — Political figure assassinated in a bombing and shooting attack
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader, the organization accused of benefiting from anti-Syrian assassinations
 
 ## Other Shocking Stories
 

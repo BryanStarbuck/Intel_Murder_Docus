@@ -126,7 +126,6 @@ Within hours of the death announcement, Yulia Navalnaya appeared at the Munich S
 
 - [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
 - [Benazir Bhutto](Benazir_Bhutto.md): Pakistan's first female prime minister. UN found her own government failed to protect her from assassination.
-- [Hassan Nasrallah](Hassan_Nasrallah.md): Led Hezbollah for 32 years. Israel buried him under Beirut with a single massive airstrike.
 - [Paul Wellstone](Paul_Wellstone.md): The Senate's loudest Iraq War opponent died in a plane crash eleven days before his election.
 
 ## Sources

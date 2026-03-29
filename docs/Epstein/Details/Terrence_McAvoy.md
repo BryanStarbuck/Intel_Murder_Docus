@@ -52,6 +52,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "It is okay to feel vulnerable. It is okay if you are facing struggles. And it is okay to seek help from others."
 > — NYPD Commissioner James P. O'Neill ([Patch](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide))
+
+## See Also
+
+- [Steven Silks](Steven_Silks.md) — NYPD Deputy Chief, first death in the June 2019 cluster
+- [Joseph Calabrese](Joseph_Calabrese.md) — NYPD detective, second death in the cluster
+- [Michael Caddy](Michael_Caddy.md) — NYPD officer, third death in the cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the cluster
+- [Johnny Rios](Johnny_Rios.md) — NYPD officer, alleged Weiner laptop viewer
+- [Robert Echeverria](Robert_Echeverria.md) — NYPD officer, another alleged Weiner laptop viewer found dead
+
 ## Other Shocking Stories
 
 - [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.

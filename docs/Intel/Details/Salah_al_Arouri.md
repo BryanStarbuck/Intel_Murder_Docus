@@ -44,7 +44,7 @@ Saleh al-Arouri was born in the village of Arura near Ramallah in the West Bank.
 - Al-Arouri was reportedly involved in ceasefire negotiations, and his killing complicated diplomatic efforts
 - The strike killed six other people in addition to al-Arouri, raising civilian casualty concerns
 - Hezbollah faced pressure to respond but ultimately chose restraint in the immediate aftermath
-- Al-Arouri's killing was the first in a series of Israeli targeted assassinations in 2024 that would escalate to include Fuad Shukr, Ismail Haniyeh, and Hassan Nasrallah
+- Al-Arouri's killing was the first in a series of Israeli targeted assassinations in 2024 that would escalate to include Fuad Shukr and Ismail Haniyeh
 - The strike demonstrated that Israeli intelligence could locate and target Hamas leaders even inside Hezbollah-controlled territory
 
 ## Key Quotes
@@ -61,7 +61,6 @@ Saleh al-Arouri was born in the village of Arura near Ramallah in the West Bank.
 
 - Mossad (Group Profile) — intelligence service connected to this case
 
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed later in 2024
 ## Other Shocking Stories
 
 - [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.

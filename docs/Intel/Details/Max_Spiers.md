@@ -79,6 +79,9 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 - [Bill Cooper](Bill_Cooper.md) — Author and broadcaster killed after exposing government conspiracies
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking, found dead in DC hotel
 - [Philip Marshall](Philip_Marshall.md) — Author exposing CIA connections, found dead
+- [Paul Vigay](Paul_Vigay.md) — British IT consultant and conspiracy researcher found dead in the sea under suspicious circumstances
+- **Epstein investigation profile:** [Max Spiers](/epstein-murders/Details/Max_Spiers) — documents his research into elite pedophilia networks connected to the Epstein case
+
 ## Other Shocking Stories
 
 - [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.

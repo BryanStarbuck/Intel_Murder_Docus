@@ -65,7 +65,6 @@ Despite being one of the most wanted men in the world, Mughniyeh eluded capture 
 - CIA (Group Profile) — intelligence service connected to this case
 - Mossad (Group Profile) — intelligence service connected to this case
 
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed in 2024
 ## Other Shocking Stories
 
 - [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'

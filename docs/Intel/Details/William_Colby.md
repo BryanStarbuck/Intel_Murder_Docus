@@ -126,7 +126,9 @@ However, Colby's wife Sally Shelton-Colby, his other children, and his biographe
 - [John Paisley](John_Paisley.md) — CIA officer found dead in Chesapeake Bay in 1978; another intelligence figure who died in Maryland waters under suspicious circumstances
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite murdered in 1964; James Angleton, whom Colby fired, was at the center of the cover-up
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack cocaine connection, died by alleged suicide in 2004
+- [Philip Marshall](Philip_Marshall.md) — Pilot who wrote about CIA drug flights, found dead alongside his two children in 2013
 - CIA (Group Profile) — Intelligence service connected to this case
+- **Epstein investigation profile:** [William Colby](/epstein-murders/Details/William_Colby) — documents his connection to the Franklin scandal and sexual blackmail operations that prefigured Epstein
 
 ## Other Shocking Stories
 

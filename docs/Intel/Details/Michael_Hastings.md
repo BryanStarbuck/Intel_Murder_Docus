@@ -121,7 +121,9 @@ Hastings' widow Elise Jordan has stated she does not believe in conspiracy theor
 - [Serena Shim](Serena_Shim.md) -- Journalist who reported on intelligence operations in Syria, killed in a suspicious car crash days after saying she feared for her life
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) -- Journalist investigating the JFK assassination found dead under suspicious circumstances
 
+- [Anna Politkovskaya](Anna_Politkovskaya.md) -- Russian journalist investigating Chechen war crimes, shot dead in her apartment building
 - CIA (Group Profile) -- intelligence service connected to this case
+- **Epstein investigation profile:** [Michael Hastings](/epstein-murders/Details/Michael_Hastings) — documents connections between his investigation and the broader intelligence-criminal network
 
 ## Other Shocking Stories
 

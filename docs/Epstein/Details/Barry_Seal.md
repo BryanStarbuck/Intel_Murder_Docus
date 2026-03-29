@@ -79,6 +79,9 @@ The Medellin Cartel had clear motive to kill Seal: his cooperation with the DEA 
 
 - [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating interconnected intelligence scandals who was found dead in 1991
 - [Craig Spence](Craig_Spence.md) -- Washington lobbyist connected to intelligence and elite abuse networks
+- [Gary Webb](Gary_Webb_Journalist.md) -- Journalist who exposed CIA-Contra-crack cocaine connection; died of two gunshot wounds to the head, ruled suicide
+- [William Colby](William_Colby.md) -- Former CIA Director who died under suspicious circumstances; oversaw the agency during the era of CIA drug operations
+- **Intelligence investigation profile:** [Barry Seal](/intelligence-service-murders/Details/Barry_Seal) — documents the CIA drug pilot assassination from the intelligence operations perspective
 
 ## Sources
 

@@ -61,7 +61,6 @@ Fuad Shukr was born in Al-Nabi Sheeth in the Bekaa Valley around 1961. He was a 
 
 - Mossad (Group Profile) — intelligence service connected to this case
 
-- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
 - [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad
 ## Other Shocking Stories
 

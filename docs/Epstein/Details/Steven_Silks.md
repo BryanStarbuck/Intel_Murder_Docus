@@ -58,6 +58,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - Allegedly connected to Weiner laptop examination
 - Part of a year in which 10 NYPD officers died by suicide — an unprecedented number
 - The cluster timing mirrors patterns seen in other Epstein-adjacent death clusters
+
+## See Also
+
+- [Joseph Calabrese](Joseph_Calabrese.md) — NYPD detective found dead the day after Silks; second in the June 2019 cluster
+- [Michael Caddy](Michael_Caddy.md) — NYPD officer, third death in the June 2019 cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the June 2019 cluster
+- [Terrence McAvoy](Terrence_McAvoy.md) — NYPD sergeant, fifth named officer to die in the 2019 cluster
+- [Johnny Rios](Johnny_Rios.md) — NYPD officer, allegedly viewed the Weiner laptop; died by gunshot
+- [Robert Echeverria](Robert_Echeverria.md) — NYPD officer, another alleged Weiner laptop viewer found dead
+
 ## Other Shocking Stories
 
 - [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.

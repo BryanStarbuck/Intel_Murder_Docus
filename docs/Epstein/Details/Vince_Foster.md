@@ -62,6 +62,15 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 
 - Jeffrey Epstein Network — Referenced in Epstein's 2016 emails
 
+## See Also
+
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
+- [Peter Smith](Peter_Smith.md) — Republican operative who died after speaking to journalists about Clinton emails
+- [Seth Rich](Seth_Rich.md) — DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Sex trafficker whose emails referenced Foster and the Clintons
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti; another death connected to Clinton-adjacent networks
+- [Philip Haney](Philip_Haney.md) — DHS whistleblower found shot dead; suicide ruling disputed
+
 ## Related Locations
 
 - Washington DC Area — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel

@@ -55,6 +55,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "There is no shame in seeking assistance from the many resources available, both inside and outside the department. Accepting help is never a sign of weakness — it's a sign of great strength."
 > — NYPD Commissioner James O'Neill, in a message to all 55,000 officers ([NBC News](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471))
+
+## See Also
+
+- [Steven Silks](Steven_Silks.md) — NYPD Deputy Chief, first death in the June 2019 cluster
+- [Joseph Calabrese](Joseph_Calabrese.md) — NYPD detective, second death in the cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the cluster
+- [Terrence McAvoy](Terrence_McAvoy.md) — NYPD sergeant, fifth death in the cluster
+- [Johnny Rios](Johnny_Rios.md) — NYPD officer, alleged Weiner laptop viewer
+- [Robert Echeverria](Robert_Echeverria.md) — NYPD officer, another alleged Weiner laptop viewer found dead
+
 ## Other Shocking Stories
 
 - [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.

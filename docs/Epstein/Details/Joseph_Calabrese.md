@@ -55,6 +55,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better."
 > — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+## See Also
+
+- [Steven Silks](Steven_Silks.md) — NYPD Deputy Chief who died the day before Calabrese; first in the cluster
+- [Michael Caddy](Michael_Caddy.md) — NYPD officer, third death in the June 2019 cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the cluster
+- [Terrence McAvoy](Terrence_McAvoy.md) — NYPD sergeant, fifth death in the cluster
+- [Johnny Rios](Johnny_Rios.md) — NYPD officer, alleged Weiner laptop viewer
+- [Robert Echeverria](Robert_Echeverria.md) — NYPD officer, another alleged Weiner laptop viewer found dead
+
 ## Other Shocking Stories
 
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.

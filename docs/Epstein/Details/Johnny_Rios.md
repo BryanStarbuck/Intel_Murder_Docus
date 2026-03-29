@@ -55,6 +55,16 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Tonight our city mourns a tragedy. We won't let anyone struggle alone. I want every one of New York's Finest to know we are here for you."
 > — New York City Mayor Bill de Blasio, the following day after the ninth NYPD suicide ([Newsweek](https://www.newsweek.com/day-after-eighth-nypd-suicide-this-year-veteran-officer-kills-himself-queens-1454435))
+
+## See Also
+
+- [Steven Silks](Steven_Silks.md) — NYPD Deputy Chief, first death in the June 2019 cluster
+- [Joseph Calabrese](Joseph_Calabrese.md) — NYPD detective, second death in the cluster
+- [Michael Caddy](Michael_Caddy.md) — NYPD officer, third death in the cluster
+- [Kevin Preiss](Kevin_Preiss.md) — NYPD officer, fourth death in the cluster
+- [Terrence McAvoy](Terrence_McAvoy.md) — NYPD sergeant, fifth death in the cluster
+- [Robert Echeverria](Robert_Echeverria.md) — NYPD officer, another alleged Weiner laptop viewer found dead
+
 ## Other Shocking Stories
 
 - [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.

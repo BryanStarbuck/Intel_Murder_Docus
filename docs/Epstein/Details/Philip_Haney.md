@@ -62,6 +62,15 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 >
 > — Friends of Philip Haney ([The New American: Suicide or Deep State Murder?](https://thenewamerican.com/us/crime/suicide-or-deep-state-murder-death-of-dhs-whistleblower-philip-haney/))
 
+## See Also
+
+- [Seth Rich](Seth_Rich.md) — DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- [Vince Foster](Vince_Foster.md) — Clinton deputy counsel found dead; another government figure whose suicide ruling is disputed
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
+- [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel
+- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
+- **Intelligence investigation profile:** [Philip Haney](/intelligence-service-murders/Details/Philip_Haney) — documents his whistleblowing and death from the intelligence operations perspective
+
 ## Related Groups
 
 - Jeffrey Epstein Network — DHS whistleblower on trafficking
