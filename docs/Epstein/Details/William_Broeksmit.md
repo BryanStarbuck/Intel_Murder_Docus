@@ -68,6 +68,7 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 - [Val Broeksmit](Val_Broeksmit.md) — Son, Deutsche Bank whistleblower, found dead (2022)
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in jail cell
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison
+- [Gabriel Magee](Gabriel_Magee.md) — JPMorgan banker found dead after falling from bank headquarters in 2014
 
 ## Related Locations
 

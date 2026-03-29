@@ -60,6 +60,7 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 - [William Broeksmit](William_Broeksmit.md) — Fellow Deutsche Bank senior executive, also found hanged (2014)
 - [Val Broeksmit](Val_Broeksmit.md) — Deutsche Bank whistleblower, son of William, found dead (2022)
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Co-conspirator, still alive
+- [Gabriel Magee](Gabriel_Magee.md) — JPMorgan banker found dead after falling from bank headquarters in 2014
 
 ## Related Locations
 

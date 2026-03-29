@@ -67,6 +67,9 @@ His work systematically documented the merger of Russian business, organized cri
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md) — Journalist likely poisoned, 2003
 
 - [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch whom Klebnikov investigated
+- [Dmitry Kholodov](Dmitry_Kholodov.md) — 27-year-old Russian journalist killed by a briefcase bomb in 1994 while investigating military corruption; an early case in the pattern of murdered Russian journalists
+- [Georgiy Gongadze](Georgiy_Gongadze.md) — Ukrainian journalist kidnapped, tortured, and beheaded by Interior Ministry officers; the most documented state-ordered killing of a journalist in post-Soviet history
+
 ## Other Shocking Stories
 
 - [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.

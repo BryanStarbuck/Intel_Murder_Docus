@@ -69,6 +69,8 @@ The current location of the full document has not been disclosed. According to T
 - [Joe Recarey](Joe_Recarey.md) — Lead detective investigating Epstein's Palm Beach crimes
 - [Virginia Giuffre](Virginia_Giuffre.md) — Named in the black book
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+- [Andrew Stewart](Andrew_Stewart.md) — Epstein's personal chef who "knew everything"; died in his sleep as lawyers sought to subpoena him
+
 ## Other Shocking Stories
 
 - [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.

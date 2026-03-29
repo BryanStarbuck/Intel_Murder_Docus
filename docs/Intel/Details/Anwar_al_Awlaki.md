@@ -77,6 +77,7 @@ The legal framework established by the al-Awlaki killing — that the executive 
 - [Abdulrahman al-Awlaki](Abdulrahman_al_Awlaki.md) — His 16-year-old son, killed by a US drone strike two weeks later
 - [Pat Tillman](Pat_Tillman.md) — US soldier killed by friendly fire in circumstances involving intelligence cover-up
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian commander killed by US drone strike in 2020
+- [Ahmad Shah Massoud](Ahmad_Shah_Massoud.md) — Afghan commander assassinated by al-Qaeda two days before 9/11; al-Awlaki's rise paralleled the post-9/11 war on terror that Massoud's death helped trigger
 
 - CIA (Group Profile) — intelligence service connected to this case
 

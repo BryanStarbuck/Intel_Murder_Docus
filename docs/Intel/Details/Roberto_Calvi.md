@@ -120,6 +120,7 @@ The original 1982 inquest jury concluded Calvi died by suicide. Proponents of th
 - [Mark Lombardi](Mark_Lombardi.md) -- artist who mapped financial networks including BCCI and Vatican Bank connections, found hanged
 - [Boris Berezovsky](Boris_Berezovsky.md) -- Russian oligarch found hanged under disputed circumstances
 - [David Kelly](David_Kelly.md) -- British weapons inspector whose death was ruled suicide despite forensic questions
+- [Edmond Safra](Edmond_Safra.md) -- Billionaire banker killed in an arson fire at his Monaco penthouse; his Mossad-trained security team was absent that night, and he had reported Russian money laundering to the FBI
 
 ## Other Shocking Stories
 

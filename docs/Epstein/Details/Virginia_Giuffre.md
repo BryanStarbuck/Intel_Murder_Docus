@@ -165,6 +165,7 @@ Even accepting that Giuffre was in severe psychological distress, questions rema
 - [Carolyn Andriano](Carolyn_Andriano.md) — Fellow victim who testified at Maxwell trial
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Fellow victim who died of overdose
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
+- [Mary Kennedy](Mary_Kennedy.md) — RFK Jr.'s ex-wife who flew on Epstein's plane; Epstein emailed "whoops" when she died
 
 ## Related Locations
 

@@ -146,6 +146,9 @@ Saudi Arabia maintains that the killing was a "rogue operation" carried out by o
 - [Daniel Pearl](Daniel_Pearl.md) -- journalist murdered abroad with intelligence dimensions
 - [Kim Jong-nam](Kim_Jong_nam.md) -- state-ordered assassination of a dissident family member abroad
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) -- Mossad assassination in a foreign country documented by surveillance cameras
+- [Shireen Abu Akleh](Shireen_Abu_Akleh.md) -- Palestinian-American Al Jazeera journalist shot by Israeli forces while wearing press gear; multiple independent investigations confirmed IDF responsibility
+- [Hrant Dink](Hrant_Dink.md) -- Armenian-Turkish journalist shot outside his Istanbul office; intelligence had foreknowledge but allowed the killing to proceed
+- [Lasantha Wickrematunge](Lasantha_Wickrematunge.md) -- Sri Lankan editor who predicted his own murder in a posthumous editorial; military intelligence unit identified as responsible
 
 ## Other Shocking Stories
 

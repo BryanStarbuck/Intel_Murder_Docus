@@ -117,6 +117,9 @@ Thomas Sankara remains one of the most beloved and admired leaders in African hi
 - [Eduardo Mondlane](Eduardo_Mondlane.md) -- Mozambican independence leader assassinated by Portuguese intelligence; another African liberation figure eliminated by colonial powers
 - [Olof Palme](Olof_Palme.md) -- Swedish leader who supported African liberation movements, assassinated in 1986
 - [Omar Torrijos](Omar_Torrijos.md) -- Panamanian leader who challenged US control, died in suspicious plane crash in 1981
+- [Samora Machel](Samora_Machel.md) -- First president of Mozambique, killed when his plane was lured into mountains by a decoy beacon allegedly planted by South African intelligence
+- [Marien Ngouabi](Marien_Ngouabi.md) -- President of the Republic of Congo, assassinated at 38; French intelligence implicated
+- [Juvenal Habyarimana](Juvenal_Habyarimana.md) -- Rwandan president assassinated by surface-to-air missile, triggering the 1994 genocide
 
 ## Other Shocking Stories
 

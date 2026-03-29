@@ -111,6 +111,7 @@ The seizure ignited a political scandal in Britain, drawing in Members of Parlia
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) -- Iranian nuclear scientist killed by Mossad
 - [David Kelly](David_Kelly.md) -- British weapons inspector who died in connection with Iraq WMD claims
 - [Imad Mughniyeh](Imad_Mughniyeh.md) -- Hezbollah commander assassinated by joint CIA-Mossad operation
+- [Aziz Asbar](Aziz_Asbar.md) -- Syrian rocket scientist killed by Mossad car bomb in 2018; like Bull, a weapons designer assassinated for developing missile technology for Israel's enemies
 
 - CIA (Group Profile) -- intelligence service connected to this case
 - Mossad (Group Profile) -- intelligence service connected to this case

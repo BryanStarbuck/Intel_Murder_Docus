@@ -151,6 +151,8 @@ Eric Olson died on February 12, 2024, at the age of 79, without ever obtaining a
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist who investigated intelligence-connected cases, found dead in 1965
 - [Karen Silkwood](Karen_Silkwood.md) — whistleblower at a nuclear facility who died in a suspicious car crash before meeting with a journalist
 - [David Kelly](David_Kelly.md) — British weapons inspector who died under suspicious circumstances after challenging government claims about WMDs
+- [John Rossi](John_Rossi.md) — Two-star Army general found dead two days before assuming command of Space and Missile Defense Command; first Army general suicide on record
+- [Stefan Suto](Stefan_Suto.md) — 80-year-old civilian killed by hydrogen peroxide poisoning administered by an unlicensed doctor; forensic autopsy reclassified as homicide
 
 - CIA (Group Profile) — intelligence service directly responsible for this case
 

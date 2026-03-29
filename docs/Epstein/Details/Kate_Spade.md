@@ -69,6 +69,7 @@ No verified evidence connects Kate Spade to any anti-trafficking documentary, in
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — 2017-2018 death cluster; died weeks before Spade
 - [Ines Zorreguieta](Ines_Zorreguieta.md) — Died same week as Spade; three high-profile hangings in one week
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Central figure in the network linked to the death cluster
+- [Mary Kennedy](Mary_Kennedy.md) — Kennedy family death; another high-profile woman whose hanging was ruled suicide amid disputed circumstances
 - Jeffrey Epstein Network — The network connected to the 2017-2018 death cluster
 
 ## Other Shocking Stories

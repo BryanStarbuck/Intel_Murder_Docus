@@ -77,6 +77,7 @@ Shaqaqi was deported by Israel to Lebanon in 1988 and eventually settled in Dama
 - [Wadie Haddad](Wadie_Haddad.md) — PFLP leader allegedly poisoned by Mossad (1978)
 - [Yahya Ayyash](Yahya_Ayyash.md) — Hamas bomb-maker killed by Mossad explosive device in phone (1996)
 - [Yitzhak Rabin](Yitzhak_Rabin.md) — Israeli PM who ordered the operation, assassinated weeks later
+- [Naji al-Ali](Naji_al_Ali.md) — Palestinian cartoonist shot in London; Mossad double agents linked to the murder and Britain expelled Israeli diplomats
 
 - Mossad (Group Profile) — intelligence service connected to this case
 

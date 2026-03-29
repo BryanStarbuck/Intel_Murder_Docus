@@ -67,6 +67,7 @@ Zia's regime funneled billions of dollars in CIA and Saudi money to the Afghan m
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in suspicious plane crash
 - [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani leader assassinated in 2007
 - [Yevgeny Prigozhin](Yevgeny_Prigozhin.md) — Killed in suspicious plane crash
+- [Ahmad Shah Massoud](Ahmad_Shah_Massoud.md) — Afghan commander assassinated by al-Qaeda two days before 9/11; ISI allegedly facilitated the plot, connecting Pakistan's intelligence to both cases
 
 - CIA (Group Profile) — intelligence service connected to this case
 

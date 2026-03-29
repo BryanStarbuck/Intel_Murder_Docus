@@ -128,6 +128,8 @@ According to multiple accounts from friends and colleagues, the Schaefers were r
 - [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated mid-air in 1990
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she'd never hang herself, found hanged
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Mexican woman who accused elites on camera, never seen again
+- [Gina Pardaens](Gina_Pardaens.md) — Belgian social worker investigating Dutroux child abuse network; killed in suspicious car crash while documenting elite trafficking
+
 ## Other Shocking Stories
 
 - [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.

@@ -90,6 +90,8 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 - [Gary Webb](Gary_Webb.md) -- investigative journalist who died from two gunshots to the head, ruled suicide
 - [Danny Casolaro](Danny_Casolaro.md) -- journalist investigating government corruption found dead, ruled suicide
 - [Seth Rich](Seth_Rich.md) -- DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- [John Rossi](John_Rossi.md) — Army general found dead two days before assuming command of Space and Missile Defense Command; like Haney, a government insider whose death was ruled suicide under suspicious timing
+- [Paul Vigay](Paul_Vigay.md) — British IT consultant and researcher found dead in the sea; open verdict at inquest, family disputed suicide theory
 - **Epstein investigation profile:** [Philip Haney](/epstein-murders/Details/Philip_Haney) — documents his DHS trafficking investigations connected to the Epstein network
 
 ## Other Shocking Stories

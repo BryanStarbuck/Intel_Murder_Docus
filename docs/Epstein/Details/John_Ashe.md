@@ -64,6 +64,8 @@ The death was ruled accidental by the medical examiner. The connection to Epstei
 - [Mark Middleton](Mark_Middleton.md) — Clinton aide who died suspiciously; both connected to Clinton orbit
 - [Vince Foster](Vince_Foster.md) — Earlier suspicious death of Clinton associate; similar pattern of timing
 - Jeffrey Epstein Network — Overlapping financial and political networks with Ashe's bribery case
+- [Klaus Eberwein](Klaus_Eberwein.md) — Haitian official who also died before testifying; both UN-connected figures who died on the eve of giving testimony
+- [Sergei Krivov](Sergei_Krivov.md) — Russian diplomat who died at Russian consulate in NYC; another death in the diplomatic/international arena with suppressed details
 
 ## Other Shocking Stories
 

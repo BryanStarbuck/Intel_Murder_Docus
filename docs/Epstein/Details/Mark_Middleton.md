@@ -88,6 +88,9 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - [John Connolly](John_Connolly.md) — January 2022 (natural causes)
 - [Steve Bing](Steve_Bing.md) — Also a Clinton associate, fell from building
 
+- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac story; found dead of gunshot in 2021
+- [Ashley Haynes](Ashley_Haynes.md) — Found drowned in Arkansas River with concrete block tied to ankle by extension cord, four months before Middleton
+
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md) | [Thomas Bowers](Thomas_Bowers.md)
 
 ## Key Quotes from Media Coverage

@@ -82,6 +82,8 @@ Palestinian artist Emily Jacir created a major art installation about Zwaiter's 
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer allegedly assassinated by Mossad
 - [Yahya Ayyash](Yahya_Ayyash.md) — Hamas bomb maker killed by Shin Bet
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence officer assassinated by Mossad in Paris (1992)
+- [Ghassan Kanafani](Ghassan_Kanafani.md) — Palestinian novelist and PFLP spokesperson killed by Mossad car bomb in Beirut alongside his 17-year-old niece; part of the same 1972 assassination campaign
+- [Naji al-Ali](Naji_al_Ali.md) — Palestine's most famous political cartoonist, shot in the face in London; arrested suspects were confirmed Mossad double agents
 
 - Mossad (Group Profile) — intelligence service connected to this case
 

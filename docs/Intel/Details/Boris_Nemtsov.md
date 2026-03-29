@@ -123,6 +123,7 @@ A makeshift memorial was erected on the bridge where Nemtsov was killed. Russian
 - [Natalya Estemirova](Natalya_Estemirova.md) — Human rights activist investigating Chechen abuses, abducted and murdered, 2009
 - [Denis Voronenkov](Denis_Voronenkov.md) — Russian defector shot dead in Kyiv, 2017
 - [Boris Berezovsky](Boris_Berezovsky.md) — Oligarch and Putin critic found dead in London, 2013
+- [Dmitry Kholodov](Dmitry_Kholodov.md) — Russian journalist killed by a briefcase bomb in 1994 while investigating military corruption; established the pattern of journalists murdered with impunity in Russia
 - FSB / Federal Security Service — Russian domestic intelligence service implicated in surveillance of Nemtsov
 
 ## Other Shocking Stories

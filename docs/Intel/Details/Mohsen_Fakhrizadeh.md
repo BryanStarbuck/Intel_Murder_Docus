@@ -107,6 +107,8 @@ In the aftermath, Iran's parliament passed legislation to accelerate uranium enr
 - [Imad Mughniyeh](Imad_Mughniyeh.md) -- Hezbollah commander killed by joint CIA-Mossad car bomb in 2008
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) -- Hamas commander killed by Mossad in Dubai hotel, 2010
 - [Gerald Bull](Gerald_Bull.md) -- Weapons designer killed in Brussels, Mossad widely blamed
+- [Aziz Asbar](Aziz_Asbar.md) -- Syria's top rocket scientist killed by a car bomb attributed to Mossad; part of Israel's campaign against enemy weapons engineers
+- [Don Wiley](Don_Wiley.md) -- Harvard structural biologist who vanished during the 2001 anthrax crisis; one of eleven microbiologists who died suspiciously within five months of 9/11
 
 - Mossad (Group Profile) -- intelligence service connected to this case
 

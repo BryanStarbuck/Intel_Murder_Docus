@@ -151,6 +151,9 @@ After her death, Reach All Women in WAR (RAW in WAR) established the **Anna Poli
 - [Alexei Navalny](Alexei_Navalny.md) — Russian opposition leader who survived Novichok poisoning, later died in Arctic penal colony in 2024
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md) — Fellow *Novaya Gazeta* journalist who died of suspected thallium poisoning in 2003
 - [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor, shot in Moscow in 2004 after investigating Chechen money flows
+- [Dmitry Kholodov](Dmitry_Kholodov.md) — 27-year-old Russian journalist killed by a briefcase bomb while investigating military corruption; his 1994 murder marked the start of journalist killings with impunity in Russia
+- [Georgiy Gongadze](Georgiy_Gongadze.md) — Ukrainian journalist kidnapped, tortured, and beheaded by Interior Ministry officers; secret recordings captured the president ordering action against him
+- [Syed Saleem Shahzad](Syed_Saleem_Shahzad.md) — Pakistani journalist kidnapped, tortured, and killed by ISI after exposing military-intelligence links to al-Qaeda
 - FSB / Federal Security Service — Russia's domestic intelligence service, implicated in surveillance and facilitation of the murder
 
 ## Other Shocking Stories

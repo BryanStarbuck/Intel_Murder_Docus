@@ -177,6 +177,7 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 - [Daniel Anderl](Daniel_Anderl.md) — Her son, murdered by the gunman
 - [Roy Den Hollander](Roy_Den_Hollander.md) — The gunman; former Kroll Associates operative in Moscow
 - [Marc Angelucci](Marc_Angelucci.md) — Men's rights lawyer killed by the same gunman eight days earlier
+- [Gabriel Magee](Gabriel_Magee.md) — JPMorgan VP who fell from bank headquarters; Salas was assigned the Epstein-Deutsche Bank case when her family was attacked
 
 ## Related Groups
 

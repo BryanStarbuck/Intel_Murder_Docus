@@ -93,6 +93,7 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [Arthur Shapiro](Arthur_Shapiro.md) — Predecessor whose murder created Epstein's opening
 - [Joe Recarey](Joe_Recarey.md) — Lead detective on the original investigation
 - Weiner Laptop Officers — NYPD officers who allegedly died after viewing related evidence
+- [Andrew Stewart](Andrew_Stewart.md) — Epstein's personal chef on Little St. James island
 
 ## Related Locations
 

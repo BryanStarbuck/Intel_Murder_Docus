@@ -137,6 +137,7 @@ The litigation dragged on until August 1986, when Kerr-McGee agreed to an out-of
 - [David Kelly](David_Kelly.md) — British weapons inspector found dead after challenging government claims about Iraq WMDs
 - [Hilda Murrell](Hilda_Murrell.md) — British anti-nuclear activist found murdered after her research papers went missing
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — investigative journalist killed by car bomb while pursuing corruption investigations
+- [Don Wiley](Don_Wiley.md) — Harvard biologist who vanished during the 2001 anthrax crisis; like Silkwood, a scientist connected to sensitive research whose death was ruled accidental despite suspicious circumstances
 
 ## Other Shocking Stories
 

@@ -106,6 +106,7 @@ Red Ribbon Week — the nation's largest drug prevention campaign — was founde
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-cocaine connections in his 1996 "Dark Alliance" series; died of two gunshot wounds to the head, ruled suicide
 - [Manuel Buendia](Manuel_Buendia.md) — Mexico's most prominent political columnist, assassinated in 1984 while investigating CIA operations and drug trafficking in Mexico; reportedly investigating the same CIA-DFS nexus as Camarena
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence-criminal networks (including PROMIS software) who died suspiciously in 1991
+- [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated at a rally after the intelligence chief deliberately weakened his security; the DAS director was convicted of conspiracy
 
 - CIA (Group Profile) — intelligence service connected to this case
 

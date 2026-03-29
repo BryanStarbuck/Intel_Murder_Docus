@@ -84,6 +84,7 @@ Hani remains one of the most revered figures in South African political history.
 - [Dulcie September](Dulcie_September.md) — ANC representative assassinated in Paris in 1988
 - [Steve Biko](Steve_Biko.md) — Anti-apartheid activist killed in police custody in 1977
 - [David Webster](David_Webster.md) — South African academic killed by military intelligence for documenting death squads
+- [Samora Machel](Samora_Machel.md) — Mozambican president killed in a plane crash caused by a decoy beacon planted by apartheid-era South African intelligence
 
 ## Other Shocking Stories
 

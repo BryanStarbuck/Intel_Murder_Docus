@@ -72,6 +72,8 @@ In a remarkable double life, Salameh simultaneously developed a secret relations
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer killed in operation widely attributed to Mossad (1990)
 - [Abu Jihad](Abu_Jihad.md) — PLO military commander assassinated by Israeli commandos in Tunis (1988)
 - [Mehdi Ben Barka](Mehdi_Ben_Barka.md) — Another case involving Mossad cooperation with allied intelligence services
+- [Ghassan Kanafani](Ghassan_Kanafani.md) — Palestinian novelist and PFLP spokesperson killed by Mossad car bomb in Beirut in 1972; another Palestinian figure targeted by Israeli intelligence
+- [Naji al-Ali](Naji_al_Ali.md) — Palestinian cartoonist shot in London in 1987; arrested suspect was a confirmed Mossad double agent
 
 - CIA (Group Profile) — intelligence service connected to this case
 - Mossad (Group Profile) — intelligence service connected to this case

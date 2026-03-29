@@ -123,6 +123,7 @@ After Guevara's death in Bolivia in 1967, the photograph was reproduced globally
 - [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader who died in a 1981 plane crash allegedly arranged by the CIA
 - [Thomas Sankara](Thomas_Sankara.md) — Revolutionary leader of Burkina Faso, assassinated in 1987 in a French-backed coup
 - [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator assassinated with CIA-supplied weapons in 1961
+- [Laurent-Desire Kabila](Laurent_Desire_Kabila.md) — DRC president assassinated after he turned against his Rwandan backers; Guevara had fought in the same Congolese conflict decades earlier
 
 - CIA (Group Profile) — intelligence service connected to this case
 

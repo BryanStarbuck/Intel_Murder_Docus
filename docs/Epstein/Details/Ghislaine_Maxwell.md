@@ -81,6 +81,8 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 - [Carolyn Andriano](Carolyn_Andriano.md) — Testified against Maxwell at trial
 - [Steven Hoffenberg](Steven_Hoffenberg.md) — Confessed about Epstein-Maxwell blackmail operation
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
+- [Andrew Stewart](Andrew_Stewart.md) — Epstein's personal chef on Little St. James island
+
 ## Other Shocking Stories
 
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.

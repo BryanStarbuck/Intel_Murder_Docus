@@ -79,6 +79,8 @@ The UN Commission's lead investigator, Chilean diplomat Heraldo Munoz, later pub
 - [Zia ul-Haq](Zia_ul_Haq.md) — Pakistani military ruler who executed Bhutto's father; killed in suspicious plane crash in 1988
 - [Yitzhak Rabin](Yitzhak_Rabin.md) — leader assassinated amid intelligence security failures
 - [Rafik Hariri](Rafik_Hariri.md) — another political leader killed by bombing in a context of intelligence manipulation
+- [Ahmad Shah Massoud](Ahmad_Shah_Massoud.md) — Afghan military commander assassinated by al-Qaeda suicide bombers two days before 9/11; ISI allegedly facilitated the plot
+- [Syed Saleem Shahzad](Syed_Saleem_Shahzad.md) — Pakistani journalist tortured and killed by ISI for exposing military-al-Qaeda connections; U.S. intelligence confirmed ISI responsibility
 
 ## Other Shocking Stories
 

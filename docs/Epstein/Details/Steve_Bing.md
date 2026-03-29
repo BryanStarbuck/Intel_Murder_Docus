@@ -82,6 +82,8 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Also died from building fall
 - [Wendy Leigh](Wendy_Leigh.md) — Also fell from building
 - [Mark Middleton](Mark_Middleton.md) — Also Clinton associate
+- [Edmund Safra](Edmund_Safra.md) — International banker with intelligence connections who died in suspicious arson; another financier whose death raised questions about intelligence entanglements
+
 ## Other Shocking Stories
 
 - [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.

@@ -110,6 +110,8 @@ Nearly nine years after the assassination, the family continues to press for ful
 - [Jamal Khashoggi](Jamal_Khashoggi.md) -- journalist killed by state actors inside a consulate
 - [Gary Webb](Gary_Webb.md) -- investigative journalist who exposed CIA-drug connections, found dead from two gunshots to the head, ruled suicide
 - [Sergei Magnitsky](Sergei_Magnitsky.md) -- the anti-corruption whistleblower whose name was given to the human rights award Caruana Galizia's sons received
+- [Ilaria Alpi](Ilaria_Alpi.md) -- Italian journalist ambushed and shot dead in Mogadishu while investigating arms trafficking and toxic waste dumping involving Italian intelligence
+- [Hrant Dink](Hrant_Dink.md) -- Armenian-Turkish journalist shot outside his Istanbul office; Turkish intelligence had foreknowledge; over 100,000 mourned at his funeral
 
 ## Other Shocking Stories
 

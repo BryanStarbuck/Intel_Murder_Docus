@@ -134,6 +134,8 @@ While Natacha Jaitt's accusations were focused on Argentine figures rather than 
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Mexican woman who accused elites on camera, never seen again
 - [Virginia Giuffre](Virginia_Giuffre.md) — Epstein's primary accuser, posted "not suicidal"
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she'd never hang herself, found hanged
+- [Janet Ossebaard](Janet_Ossebaard.md) — Dutch filmmaker behind "Fall of the Cabal" trafficking documentary; said she'd never commit suicide, found dead in 2023
+
 ## Other Shocking Stories
 
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.

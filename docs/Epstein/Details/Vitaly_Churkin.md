@@ -60,6 +60,7 @@ CNN reported an official confirmation of no foul play. Cardiac events are the le
 - [Bill Richardson](Bill_Richardson.md) — New Mexico governor linked to Epstein who died shortly after being named in Giuffre's deposition
 - [John Ashe](John_Ashe.md) — UN official who died before his corruption trial
 - **Intelligence investigation profile:** [Vitaly Churkin](/intelligence-service-murders/Details/Vitaly_Churkin) — documents his death from the intelligence operations perspective
+- [Sergei Krivov](Sergei_Krivov.md) — Russian diplomat found dead at Russian consulate in New York in 2016, months before Churkin
 
 ## Other Shocking Stories
 

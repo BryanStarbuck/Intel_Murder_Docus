@@ -67,6 +67,9 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 - [Two Unnamed Foreign Women](Zorro_Ranch_Unnamed_Victims.md) — Alleged burial at Zorro Ranch
 - [Brice and Karen Gordon](Brice_Karen_Gordon.md) — Zorro Ranch managers who vanished
 - [Virginia Giuffre](Virginia_Giuffre.md) — Accused Richardson of abuse
+- [Mary Kennedy](Mary_Kennedy.md) — RFK Jr.'s ex-wife who flew on Epstein's plane; found hanged; Epstein emailed "whoops" upon learning of her death
+- [Sergei Krivov](Sergei_Krivov.md) — Russian diplomat found dead at Russian consulate in NYC on Election Day 2016; another death with suppressed investigation details
+
 ## Other Shocking Stories
 
 - [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.

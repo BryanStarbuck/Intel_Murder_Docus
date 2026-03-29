@@ -116,6 +116,8 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 - [Tracy Twyman](Tracy_Twyman.md) — Investigated elite pedophilia; hanged in garage
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking; found dead in DC hotel
+- [Gina Pardaens](Gina_Pardaens.md) — Belgian social worker investigating Dutroux child abuse network; car crashed into bridge pillar with no brake marks, one day after predicting her own murder
+
 ## Other Shocking Stories
 
 - [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.

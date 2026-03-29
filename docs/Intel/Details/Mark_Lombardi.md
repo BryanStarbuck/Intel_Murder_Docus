@@ -106,6 +106,7 @@ Lombardi's work gained even greater significance after his death. The traveling 
 - [Roberto Calvi](Roberto_Calvi.md) — Italian banker known as "God's Banker," found hanging under London's Blackfriars Bridge in 1982. Connected to Vatican Bank, the Mafia, and the P2 Masonic lodge. Like Lombardi, Calvi was found hanging in a death initially ruled suicide and later contested. Lombardi's diagrams mapped the same shadowy banking networks — BCCI, Vatican finance, intelligence-linked money laundering — that Calvi was embedded in.
 - [Gary Webb](Gary_Webb.md) — investigative journalist who exposed CIA-Contra drug trafficking; ruled suicide by two gunshots to the head
 - [William Colby](William_Colby.md) — former CIA director found dead in a canoeing accident under disputed circumstances
+- [Edmond Safra](Edmond_Safra.md) — Billionaire banker killed in arson fire at his Monaco penthouse; had reported Russian money laundering to the FBI and employed Mossad-trained security, connecting to the same intelligence-financial networks Lombardi mapped
 
 - CIA (Group Profile) — intelligence service whose financial networks Lombardi documented extensively
 

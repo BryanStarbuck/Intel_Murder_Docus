@@ -74,6 +74,8 @@ On October 17, 2014 — two days before her death — Shim appeared on a live Pr
 - [Jan Kuciak](Jan_Kuciak.md) — Journalist killed for investigative reporting
 - [Sakine Cansiz](Sakine_Cansiz.md) — Kurdish activist killed in Paris, Turkish intelligence suspected
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Journalist murdered for war crimes reporting
+- [Shireen Abu Akleh](Shireen_Abu_Akleh.md) — Palestinian-American journalist shot by Israeli forces while wearing press gear in Jenin; UN classified it as an unlawful killing
+- [Ilaria Alpi](Ilaria_Alpi.md) — Italian journalist executed in Mogadishu while investigating intelligence-linked arms trafficking; case remains unsolved decades later
 
 ## Other Shocking Stories
 

@@ -137,6 +137,9 @@ Pearl's family established the Daniel Pearl Foundation to promote cross-cultural
 - [Jamal Khashoggi](Jamal_Khashoggi.md) — Journalist murdered by Saudi intelligence, 2018; parallel case of state-linked killing of a journalist
 - [David Kelly](David_Kelly.md) — British weapons scientist who died before he could testify about intelligence failures
 - [Serena Shim](Serena_Shim.md) — American journalist killed in Turkey while investigating intelligence connections to extremist groups
+- [Syed Saleem Shahzad](Syed_Saleem_Shahzad.md) — Pakistani journalist tortured and killed by ISI; like Pearl, murdered in Pakistan for exposing intelligence-militant connections
+- [Hrant Dink](Hrant_Dink.md) — Armenian-Turkish journalist shot outside his Istanbul office; Turkish intelligence had foreknowledge and did nothing
+- [Lasantha Wickrematunge](Lasantha_Wickrematunge.md) — Sri Lankan editor bludgeoned to death by military intelligence operatives; predicted his own assassination in a posthumous editorial
 
 ## Other Shocking Stories
 

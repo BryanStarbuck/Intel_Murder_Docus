@@ -69,6 +69,7 @@ The official ruling is suicide. Her husband was investigated and formally cleare
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — Tweeted about CIA/Mossad trafficking ring, drowned hours later
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "DC Madam" who said she would never kill herself; found hanged
 - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot dead alongside her husband
+- [Janet Ossebaard](Janet_Ossebaard.md) — Dutch filmmaker behind "Fall of the Cabal" series on elite trafficking; said she'd never commit suicide, found dead in 2023
 
 ## Related Groups
 

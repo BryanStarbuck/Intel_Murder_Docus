@@ -70,6 +70,7 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Sex trafficker whose emails referenced Foster and the Clintons
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti; another death connected to Clinton-adjacent networks
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower found shot dead; suicide ruling disputed
+- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac story; found dead of gunshot in 2021
 
 ## Related Locations
 

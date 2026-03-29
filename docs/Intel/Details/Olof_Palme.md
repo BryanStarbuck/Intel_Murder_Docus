@@ -117,6 +117,7 @@ Palme's assassination may have been the act of a lone individual motivated by pe
 - [Thomas Sankara](Thomas_Sankara.md) -- African leader assassinated; Palme supported African liberation movements
 - [Orlando Letelier](Orlando_Letelier.md) -- Chilean dissident assassinated by DINA intelligence in Washington, D.C.
 - [David Webster](David_Webster.md) -- South African anti-apartheid activist killed by Civil Cooperation Bureau operatives
+- [Samora Machel](Samora_Machel.md) -- Mozambican president killed by plane crash caused by South African intelligence decoy beacon; like Palme, an anti-apartheid leader killed with South African intelligence implicated
 
 - CIA (Group Profile) -- intelligence service connected to this case
 - South African Intelligence (Group Profile) -- BOSS/NIS, primary suspects according to Swedish CID chief

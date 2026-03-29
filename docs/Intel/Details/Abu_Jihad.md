@@ -76,6 +76,8 @@ Israel has argued that Abu Jihad was a legitimate military target responsible fo
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — PLO security chief killed by Mossad car bomb, 1979
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
 - [Wael Zwaiter](Wael_Zwaiter.md) — Palestinian intellectual shot in Rome, first kill in Mossad's post-Munich campaign
+- [Ghassan Kanafani](Ghassan_Kanafani.md) — Palestinian novelist and PFLP spokesperson assassinated by Mossad car bomb in Beirut (1972)
+- [Shireen Abu Akleh](Shireen_Abu_Akleh.md) — Palestinian-American Al Jazeera journalist shot by Israeli forces in Jenin (2022); pattern of targeting prominent Palestinian voices
 - Mossad (Group Profile) — intelligence service connected to this case
 
 ## Other Shocking Stories

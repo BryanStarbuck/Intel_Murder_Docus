@@ -61,6 +61,8 @@ The connection to Epstein is speculative, running through Haiti and the Clinton 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md)
 - [Jenny Moore](Jenny_Moore.md)
 - [Max Spiers](Max_Spiers.md)
+- [Klaus Eberwein](Klaus_Eberwein.md) — Haitian government official found dead before testifying about Clinton Foundation operations in Haiti
+
 ## Other Shocking Stories
 
 - [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.

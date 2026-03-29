@@ -122,6 +122,7 @@ Whitney Webb's *One Nation Under Blackmail* places the Mena operations within a 
 - [Gary Caradori](Gary_Caradori.md) -- Private investigator for the Franklin scandal whose plane disintegrated mid-air in 1990. Both cases feature witnesses who died before they could testify.
 - [Linda Collins-Smith](Linda_Collins_Smith.md) -- Arkansas state senator investigating child trafficking; murdered in 2019. Another Arkansas case where an individual pursuing trafficking-related investigations was killed.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) -- The broader pattern of intelligence-protected criminal enterprises that Whitney Webb documents as connecting Mena, the Franklin scandal, and Epstein's operation.
+- [Ashley Haynes](Ashley_Haynes.md) -- Yoga teacher found drowned in Arkansas River with a 58-pound concrete block tied to her ankle; another suspicious death in Arkansas ruled suicide
 
 ## Related Groups
 

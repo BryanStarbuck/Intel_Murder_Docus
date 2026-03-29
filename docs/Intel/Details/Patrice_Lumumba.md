@@ -130,6 +130,9 @@ In 2020, during the global Black Lives Matter movement, Lumumba's case received 
 - [Salvador Allende](Salvador_Allende.md) -- another democratically elected leader overthrown with CIA support, following the template established in the Congo
 - [Eduardo Mondlane](Eduardo_Mondlane.md) -- Mozambican independence leader assassinated in 1969, part of the pattern of African liberation leaders killed during the Cold War
 - [Chris Hani](Chris_Hani.md) -- South African anti-apartheid leader assassinated in 1993
+- [Juvenal Habyarimana](Juvenal_Habyarimana.md) -- Rwandan president whose plane was shot down, triggering the 1994 genocide that killed 800,000 people
+- [Laurent-Desire Kabila](Laurent_Desire_Kabila.md) -- President of the DRC, shot by his own bodyguard in a palace assassination allegedly orchestrated by Rwandan intelligence with U.S. foreknowledge
+- [Marien Ngouabi](Marien_Ngouabi.md) -- President of the Republic of Congo, shot 12 times at his residence; French intelligence implicated after he refused to cooperate with oil annexation plans
 
 - CIA (Group Profile) -- intelligence service that plotted Lumumba's assassination
 

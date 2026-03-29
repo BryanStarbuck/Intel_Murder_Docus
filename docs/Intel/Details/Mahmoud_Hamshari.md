@@ -80,6 +80,7 @@ Israel accused him of involvement in the Black September network and of helping 
 - [Wadie Haddad](Wadie_Haddad.md) — PFLP leader allegedly poisoned by Mossad (1978)
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai (2010)
 - [Yahya Ayyash](Yahya_Ayyash.md) — Hamas bomb maker killed by explosive cell phone, evolution of the phone-bomb concept (1996)
+- [Ghassan Kanafani](Ghassan_Kanafani.md) — Palestinian novelist killed by Mossad car bomb in Beirut the same month as Hamshari's targeting, alongside his 17-year-old niece
 
 - Mossad (Group Profile) — intelligence service connected to this case
 

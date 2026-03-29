@@ -149,6 +149,7 @@ The Church Committee concluded that while the CIA did not directly participate i
 - [Victor Jara](Victor_Jara.md) — Chilean folk singer and activist, tortured and murdered by the military in the days following the coup
 - [Charles Horman](Charles_Horman.md) — American journalist detained and killed by the Chilean military after the coup, subject of the film *Missing*
 - [Juan Jose Torres](Juan_Jose_Torres.md) — Bolivian president assassinated in 1976 as part of Operation Condor
+- [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated with the complicity of his own country's intelligence chief; another Latin American case of intelligence services eliminating democratic leaders
 - CIA (Group Profile) — intelligence service that directed the destabilization of Chile
 
 ## Other Shocking Stories

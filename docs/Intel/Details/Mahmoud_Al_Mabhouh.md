@@ -73,6 +73,7 @@ The assassination triggered one of the most significant diplomatic crises betwee
 - [Wael Zwaiter](Wael_Zwaiter.md) -- PLO representative killed by Mossad in Operation Wrath of God
 - [Imad Mughniyeh](Imad_Mughniyeh.md) -- Hezbollah commander killed in joint CIA-Mossad operation
 - [Fathi Shaqaqi](Fathi_Shaqaqi.md) -- Palestinian Islamic Jihad leader assassinated by Mossad in Malta
+- [Naji al-Ali](Naji_al_Ali.md) -- Palestine's most famous cartoonist, shot in London; Mossad double agents linked to the killing, Britain expelled Israeli diplomats
 
 - Mossad (Group Profile) -- intelligence service connected to this case
 

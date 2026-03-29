@@ -69,6 +69,7 @@ Alisha Owen was among the most vocal accusers. She was contacted by Caradori on 
 - [Craig Spence](Craig_Spence.md) -- Washington D.C. lobbyist connected to the Franklin network who was found dead in a hotel room in November 1989, ruled a suicide.
 - [Ted Gunderson](Ted_Gunderson.md) -- Former FBI Special Agent in Charge who investigated the Franklin case and described intelligence-run "brownstone operations" using children for sexual blackmail.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) -- The sexual blackmail operation that the Franklin scandal prefigured, as documented by Nick Bryant and Whitney Webb.
+- [Gina Pardaens](Gina_Pardaens.md) -- Belgian social worker investigating Dutroux child abuse network; killed in suspicious car crash. Both were witnesses to institutional child abuse who died before they could fully testify.
 
 ## Related Groups
 

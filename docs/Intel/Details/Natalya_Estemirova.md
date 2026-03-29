@@ -84,6 +84,7 @@ Estemirova received numerous international awards in recognition of her courage,
 - [Anastasia Baburova](Anastasia_Baburova.md) — Journalist killed alongside Markelov
 - [Boris Nemtsov](Boris_Nemtsov.md) — Opposition leader shot near Kremlin, 2015 (also by Chechen operatives)
 - [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor murdered, 2004
+- [Dmitry Kholodov](Dmitry_Kholodov.md) — Russian journalist killed by a briefcase bomb in 1994; his murder established the pattern of journalists investigating Russian military/intelligence being killed with impunity
 
 ## Other Shocking Stories
 

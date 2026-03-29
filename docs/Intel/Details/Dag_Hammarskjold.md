@@ -117,6 +117,9 @@ Hammarskjold's death at 56 cut short a career that had already reshaped internat
 - [Thomas Sankara](Thomas_Sankara.md) -- Burkina Faso's revolutionary president assassinated in a 1987 coup with alleged French backing
 - [Roberto Calvi](Roberto_Calvi.md) -- another death involving multiple intelligence agencies and financial interests
 - [Olof Palme](Olof_Palme.md) -- Swedish Prime Minister assassinated in 1986; another prominent Swede whose unsolved murder raised questions about intelligence involvement
+- [Samora Machel](Samora_Machel.md) -- Mozambican president killed when his plane was lured into mountains by a decoy beacon; South African intelligence implicated, another African leader killed by plane sabotage
+- [Juvenal Habyarimana](Juvenal_Habyarimana.md) -- Rwandan president killed when his plane was shot down by surface-to-air missiles, triggering the 1994 genocide
+- [Laurent-Desire Kabila](Laurent_Desire_Kabila.md) -- DRC president shot by his own bodyguard; Rwandan intelligence allegedly orchestrated the assassination with U.S. foreknowledge
 
 - CIA (Group Profile) -- intelligence service connected to this case
 

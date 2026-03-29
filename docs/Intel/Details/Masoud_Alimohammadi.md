@@ -85,6 +85,7 @@ The truth remains unclear. What is certain is that his death inaugurated a campa
 - [Darioush Rezaeinejad](Darioush_Rezaeinejad.md) — Iranian scientist shot in Tehran, 2011
 - [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
+- [Aziz Asbar](Aziz_Asbar.md) — Syria's top rocket scientist killed by Mossad car bomb in 2018; part of the same pattern of Mossad assassinating enemy weapons scientists
 
 - Mossad (Group Profile) — intelligence service connected to this case
 

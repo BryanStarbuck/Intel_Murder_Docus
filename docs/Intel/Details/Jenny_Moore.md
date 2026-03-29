@@ -82,6 +82,8 @@ That said, her law enforcement background, psychology degree, and the documented
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA-crack cocaine connection, died of two gunshot wounds ruled suicide
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances
 - [Serena Shim](Serena_Shim.md) — journalist who reported on intelligence operations in Syria, killed in a suspicious car crash
+- [Stefan Suto](Stefan_Suto.md) — 80-year-old civilian killed by hydrogen peroxide poisoning; his family alleges intelligence targeting of his son-in-law, a self-described former CIA operative
+- [Lasantha Wickrematunge](Lasantha_Wickrematunge.md) — Sri Lankan journalist who predicted his own assassination; killed by military intelligence operatives on motorcycles
 - **Epstein investigation profile:** [Jenny Moore](/epstein-murders/Details/Jenny_Moore) — documents her investigation into elite trafficking networks connected to the Epstein case
 
 ## Other Shocking Stories

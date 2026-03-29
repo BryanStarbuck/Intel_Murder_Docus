@@ -88,6 +88,8 @@ Collins-Smith had also reportedly been tracking financial discrepancies at Arkan
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks; found shot dead in 2020, ruled suicide
 - [Vince Foster](Vince_Foster.md) — Another politically connected Arkansas death ruled suicide under disputed circumstances
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Epstein had extensive Arkansas connections through Bill Clinton; Collins-Smith's death came weeks before Epstein's July 2019 arrest
+- [Klaus Eberwein](Klaus_Eberwein.md) — Haitian government official who died before testifying about aid fund mismanagement; another official who died before giving testimony
+
 ## Other Shocking Stories
 
 - [Ines Zorreguieta](Ines_Zorreguieta.md): Queen Maxima's sister. Hanged in Buenos Aires the same week as Spade and Bourdain. Three hangings, one week.

@@ -77,6 +77,8 @@ Despite Mondlane's assassination, FRELIMO continued the armed struggle under new
 - [Patrice Lumumba](Patrice_Lumumba.md) — Congolese independence leader assassinated with Western intelligence involvement (1961)
 - [Thomas Sankara](Thomas_Sankara.md) — African leader assassinated with alleged foreign intelligence backing (1987)
 - [Ruth First](Ruth_First.md) — anti-apartheid activist killed by a letter bomb in Mozambique (1982)
+- [Samora Machel](Samora_Machel.md) — Mondlane's successor as leader of Mozambican independence, killed when his presidential plane was lured into mountains by a South African intelligence decoy beacon
+- [Marien Ngouabi](Marien_Ngouabi.md) — President of the Republic of Congo, shot 12 times at his residence; French intelligence implicated in another assassination of an African head of state
 
 - CIA (Group Profile) — intelligence service with alleged awareness of the operation
 

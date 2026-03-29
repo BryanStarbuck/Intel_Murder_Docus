@@ -78,6 +78,8 @@ Kocner's defense argued that there was insufficient direct evidence linking him 
 
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Maltese journalist killed by car bomb five months earlier while investigating corruption
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — journalist killed for investigative reporting in Russia
+- [Georgiy Gongadze](Georgiy_Gongadze.md) — Ukrainian journalist kidnapped and beheaded by security forces; secret recordings implicated the president
+- [Ilaria Alpi](Ilaria_Alpi.md) — Italian journalist executed in Mogadishu after investigating intelligence-connected arms trafficking; the only conviction was later overturned
 
 ## Other Shocking Stories
 

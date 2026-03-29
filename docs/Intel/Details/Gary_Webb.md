@@ -145,6 +145,7 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections including PROMIS software; found dead in 1991
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director; killed in car crash, 2013
 - [Philip Marshall](Philip_Marshall.md) — author investigating CIA drug and arms operations; found dead in apparent murder-suicide
+- [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated by cartel hitmen with intelligence complicity; his anti-extradition stance threatened the same CIA-connected drug networks Webb exposed
 
 - CIA (Group Profile) — intelligence service connected to this case
 

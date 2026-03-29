@@ -135,6 +135,7 @@ In other emails sent the same day, Kelly did not sound like a man contemplating 
 - [Frank Olson](Frank_Olson.md) -- government scientist killed after questioning CIA programs
 - [Hilda Murrell](Hilda_Murrell.md) -- British anti-nuclear campaigner murdered with alleged MI5 connections
 - [William Colby](William_Colby.md) -- former CIA director found dead under suspicious circumstances
+- [Don Wiley](Don_Wiley.md) -- Harvard biologist who vanished during the 2001 anthrax crisis; like Kelly, a scientist with sensitive knowledge who died under suspicious circumstances
 - CIA (Group Profile) -- intelligence service connected to Iraq WMD intelligence
 - Mossad (Group Profile) -- intelligence service with Iraq weapons intelligence connections
 
