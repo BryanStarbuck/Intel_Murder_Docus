@@ -15,7 +15,7 @@ The killings never stopped. They evolved.
 
 This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
 
-**182 profiles documented. All profiles expanded with web research, sources formatted, and cross-links improved. March 2026.**
+**181 profiles documented. All profiles expanded with web research, sources formatted, and cross-links improved. March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](/epstein-murders/).**
 

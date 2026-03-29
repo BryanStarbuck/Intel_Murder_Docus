@@ -13,6 +13,8 @@ In the years before and after Epstein's death, a striking number of individuals 
 
 This also includes clones-of-Jeffrey Epstein blackmail operations (that are ran by intelligence services). The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved. **For intelligence service assassinations of journalists, scientists, and political leaders, see [Intelligence Service Murders](/intelligence-service-murders/).**
 
+**139 profiles documented. All profiles expanded with web research, sources formatted, and cross-links improved. March 2026.**
+
 We're not sure that any of these individuals were killed as part of a cover-up. What we do know is that an unusual number of people connected to this case have died, and that the circumstances surrounding several of these deaths contain elements that reasonable people find troubling. The list below documents every known death connected to the Epstein case so that the public can examine the pattern and draw their own conclusions.
 
 | Name | Cause of Death | Suspicion Level | Details |

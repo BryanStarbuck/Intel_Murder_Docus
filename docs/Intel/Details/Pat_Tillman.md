@@ -158,6 +158,7 @@ The official position, maintained across seven investigations, is that Tillman's
 - [Karen Silkwood](Karen_Silkwood.md) -- whistleblower killed in suspicious car crash while carrying evidence of safety violations
 - [David Kelly](David_Kelly.md) -- British weapons inspector who died before he could testify about intelligence failures on Iraq WMDs
 - [Danny Casolaro](Danny_Casolaro.md) -- investigative journalist found dead in a bathtub, ruled suicide, while investigating intelligence operations
+- [John Rossi](John_Rossi.md) -- Two-star Army general found dead two days before assuming command of Space and Missile Defense Command; like Tillman, a military case where the official narrative has been questioned
 
 ## Other Shocking Stories
 
