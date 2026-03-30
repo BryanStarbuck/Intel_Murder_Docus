@@ -123,7 +123,7 @@ However, these counterarguments do not explain the missing briefcase, the illega
 - [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances, 1996
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances, 1965
 - [Barry Seal](Barry_Seal.md) — CIA drug pilot turned informant, assassinated 1986
-- [Danny Casolaro (Epstein Kill List)](/epstein-murders/Details/Danny_Casolaro) — cross-reference for PROMIS/Maxwell/Epstein connections
+- [Danny Casolaro (Epstein Kill List)](/epstein/Details/Danny_Casolaro) — cross-reference for PROMIS/Maxwell/Epstein connections
 - PROMIS / The Octopus — the intelligence network Casolaro was investigating
 - [Edmond Safra](Edmond_Safra.md) — Banker who reported Russian money laundering to the FBI, killed in suspicious arson; his death intersected intelligence-financial networks similar to what Casolaro was investigating
 - CIA — intelligence service implicated in PROMIS theft and distribution

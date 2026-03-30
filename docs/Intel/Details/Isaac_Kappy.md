@@ -41,7 +41,7 @@ The intelligence angle of Kappy's case rests on several layers of claims:
 
 The foundational claim is that Jeffrey Epstein's sex-trafficking and blackmail operation was run by or connected to intelligence services — primarily Mossad, with CIA involvement or complicity. This theory draws from:
 
-- **Robert Maxwell's Mossad ties:** [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell)'s father Robert was a confirmed Mossad asset. According to journalist Seymour Hersh and multiple biographers, Robert Maxwell was recruited by Israeli intelligence and used his media empire for intelligence purposes. He was given a state funeral in Israel on the Mount of Olives.
+- **Robert Maxwell's Mossad ties:** [Ghislaine Maxwell](/epstein/Details/Ghislaine_Maxwell)'s father Robert was a confirmed Mossad asset. According to journalist Seymour Hersh and multiple biographers, Robert Maxwell was recruited by Israeli intelligence and used his media empire for intelligence purposes. He was given a state funeral in Israel on the Mount of Olives.
 - **Ari Ben-Menashe's claims:** Former Israeli military intelligence officer Ari Ben-Menashe stated in a sworn affidavit and in his book *Profits of War* that Robert Maxwell introduced Epstein to Israeli intelligence, and that Epstein was tasked with running a sexual blackmail operation targeting American politicians.
 - **Alexander Acosta's comment:** According to reporting by journalist Vicky Ward, when asked about the lenient 2008 plea deal for Epstein, then-U.S. Attorney (later Labor Secretary) Alexander Acosta reportedly said he was told to back off because Epstein "belonged to intelligence."
 
@@ -69,11 +69,11 @@ Kappy's death falls within a cluster of deaths in 2019 of people connected to ex
 
 | Person | Date | Connection |
 |--------|------|------------|
-| [Natacha Jaitt](/epstein-murders/Details/Natacha_Jaitt) | February 2019 | Named Argentine pedophiles on TV; said "if I die, it wasn't me" |
-| [Sabrina Bittencourt](/epstein-murders/Details/Sabrina_Bittencourt) | February 2019 | Anti-trafficking activist; found dead in Spain |
+| [Natacha Jaitt](/epstein/Details/Natacha_Jaitt) | February 2019 | Named Argentine pedophiles on TV; said "if I die, it wasn't me" |
+| [Sabrina Bittencourt](/epstein/Details/Sabrina_Bittencourt) | February 2019 | Anti-trafficking activist; found dead in Spain |
 | **Isaac Kappy** | **May 2019** | **Named Hollywood pedophiles; claimed Epstein files** |
-| [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman) | July 2019 | Continued Kappy's research; found hanged |
-| [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) | August 2019 | Found dead in federal custody |
+| [Tracy Twyman](/epstein/Details/Tracy_Twyman) | July 2019 | Continued Kappy's research; found hanged |
+| [Jeffrey Epstein](/epstein/Details/Jeffrey_Epstein) | August 2019 | Found dead in federal custody |
 
 If Epstein's operation was indeed intelligence-connected, as multiple sources allege, then the systematic elimination of those threatening to expose it would represent intelligence service killings — making Kappy's death relevant to this project.
 
@@ -119,7 +119,7 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; died of two gunshots to the head, ruled suicide
 - [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*; predicted 9/11-type event; killed in tactical operation 2001
 - [Philip Marshall](Philip_Marshall.md) — CIA-connected pilot who wrote about Saudi-9/11 connections; found dead with his two children 2013
-- [Epstein Kill List profile](/epstein-murders/Details/Isaac_Kappy) — Full Epstein-network analysis of Kappy's case
+- [Epstein Kill List profile](/epstein/Details/Isaac_Kappy) — Full Epstein-network analysis of Kappy's case
 ## Other Shocking Stories
 
 - [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.

@@ -22,7 +22,7 @@ Trevor Moore was not an investigative journalist. He was something potentially m
 
 In October 2020, Moore connected Jeffrey Epstein's arrest (July 2019), Epstein's death (August 2019), and the emergence of COVID-19 (November-December 2019) into a single narrative: Epstein had a bioweapon "kill switch" that triggered when he was taken down. Ten months later, Moore was dead at 41 — found on his backyard patio after allegedly falling from a second-story balcony at 2:30 a.m.
 
-The official ruling is accident. The reported BAC was extremely high (0.21-0.27). Security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure — [Isaac Kappy](/epstein-murders/Details/Isaac_Kappy), [Steve Bing](/epstein-murders/Details/Steve_Bing), [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova), [Aaron Carter](/epstein-murders/Details/Aaron_Carter). Moore's content touched Hollywood child exploitation, Epstein, the CIA, secret societies, and elite pedophile rings. If even one of these "comedy bits" was too close to the truth, the people it threatened had both motive and demonstrated willingness to silence threats. Moore had been on a livestream ("Newsboyz") with WKUK co-star Zach Cregger just hours before his death.
+The official ruling is accident. The reported BAC was extremely high (0.21-0.27). Security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure — [Isaac Kappy](/epstein/Details/Isaac_Kappy), [Steve Bing](/epstein/Details/Steve_Bing), [Ruslana Korshunova](/epstein/Details/Ruslana_Korshunova), [Aaron Carter](/epstein/Details/Aaron_Carter). Moore's content touched Hollywood child exploitation, Epstein, the CIA, secret societies, and elite pedophile rings. If even one of these "comedy bits" was too close to the truth, the people it threatened had both motive and demonstrated willingness to silence threats. Moore had been on a livestream ("Newsboyz") with WKUK co-star Zach Cregger just hours before his death.
 
 The question is not whether Moore had proof — it's whether his comedy, reaching millions, made the wrong people decide he was a threat.
 
@@ -53,7 +53,7 @@ These sketches predated mainstream awareness of Epstein's trafficking operation 
 
 ### The Epstein "Kill Switch" / COVID-19 Theory (October 2020)
 
-In October 2020, during a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented what he framed as a conspiracy theory: [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon that would be released if Epstein were ever arrested or killed, causing global chaos to protect him and his network.
+In October 2020, during a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented what he framed as a conspiracy theory: [Jeffrey Epstein](/epstein/Details/Jeffrey_Epstein) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon that would be released if Epstein were ever arrested or killed, causing global chaos to protect him and his network.
 
 **The timeline Moore laid out for a mass audience:**
 - **July 6, 2019:** Jeffrey Epstein arrested at Teterboro Airport, New Jersey, on new sex-trafficking charges upon returning from France
@@ -195,7 +195,7 @@ No family members or WKUK co-stars have publicly suggested murder. Co-stars late
 - **Systematic anti-elite content:** Moore's entire career was a sustained assault on elite power — Hollywood child trafficking, CIA operations, secret societies, Illuminati control, 9/11 truth, Vatican corruption, elite pedophile rings, and calls for violent revolution against the wealthy. This was not a single viral moment; it was a decade-plus body of work reaching millions
 - **The comedy delivery mechanism:** Moore's format — embedding explosive accusations in comedy — was uniquely threatening because it bypassed the skepticism filters that protect powerful people. Conspiracy blogs can be dismissed; a Comedy Central comedian making people laugh about the same content cannot be controlled the same way
 - **Mainstream platform:** Unlike fringe content creators, Moore had Comedy Central, IFC, 100+ million YouTube views, and a massive social media following. He was bringing elite crimes to audiences who would never otherwise encounter this information
-- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths connected to elite exposure: [Isaac Kappy](/epstein-murders/Details/Isaac_Kappy) (fell from bridge after discussing Hollywood pedophilia, 2019), [Steve Bing](/epstein-murders/Details/Steve_Bing) (fell from 27th floor, Los Angeles, 2020), [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova) (fell from 9th floor, 2008). As social media commentators note: *"Don't a lot of folks in the know about sex trafficking 'fall' off balconies?"*
+- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths connected to elite exposure: [Isaac Kappy](/epstein/Details/Isaac_Kappy) (fell from bridge after discussing Hollywood pedophilia, 2019), [Steve Bing](/epstein/Details/Steve_Bing) (fell from 27th floor, Los Angeles, 2020), [Ruslana Korshunova](/epstein/Details/Ruslana_Korshunova) (fell from 9th floor, 2008). As social media commentators note: *"Don't a lot of folks in the know about sex trafficking 'fall' off balconies?"*
 - **Extreme intoxication as potential cover:** A BAC of 0.21-0.27 could indicate someone was deliberately incapacitated — whether drugged or encouraged to drink to dangerous levels — before being pushed or placed in a position to fall. High BAC provides a ready-made explanation that discourages further investigation. As one X user noted: *"It does follow that someone pushed him.. when he was too drunk"*
 - **Age 41:** Young, healthy, no reported medical conditions that would predispose him to accidental death
 - **2:30 a.m. timing:** The fall occurred in the middle of the night — a time when there would be minimal witnesses and maximum opportunity for covert action
@@ -311,9 +311,9 @@ The conspiracy theory follows the same trajectory as other cases in this project
 
 ## See Also
 
-- [Trevor Moore](/epstein-murders/Details/Trevor_Moore) — Profile in the Epstein Kill List (focuses on Epstein network connection)
-- [Isaac Kappy](/epstein-murders/Details/Isaac_Kappy) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
-- [Steve Bing](/epstein-murders/Details/Steve_Bing) — Fell from 27th floor in Los Angeles (2020)
+- [Trevor Moore](/epstein/Details/Trevor_Moore) — Profile in the Epstein Kill List (focuses on Epstein network connection)
+- [Isaac Kappy](/epstein/Details/Isaac_Kappy) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
+- [Steve Bing](/epstein/Details/Steve_Bing) — Fell from 27th floor in Los Angeles (2020)
 - [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*, predicted 9/11-type attack on radio, killed less than two months after 9/11. Same pattern: mass-audience platform, dangerous theories, dead
 - [Michael Hastings](Michael_Hastings.md) — Journalist investigating CIA Director Brennan, died in suspicious high-speed car crash in Los Angeles (2013)
 - [Seth Rich](Seth_Rich.md) — DNC data director, shot in DC under disputed circumstances (2016)

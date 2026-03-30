@@ -74,7 +74,7 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
 - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot dead alongside her husband
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks found shot dead; suicide ruling disputed by family
-- **Intelligence investigation profile:** [Jenny Moore](/intelligence-service-murders/Details/Jenny_Moore) — documents her death from the intelligence operations perspective
+- **Intelligence investigation profile:** [Jenny Moore](/intel/Details/Jenny_Moore) — documents her death from the intelligence operations perspective
 
 ## Other Shocking Stories
 

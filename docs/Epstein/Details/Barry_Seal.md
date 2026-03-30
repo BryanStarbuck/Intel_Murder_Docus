@@ -82,7 +82,7 @@ The Medellin Cartel had clear motive to kill Seal: his cooperation with the DEA 
 - [Gary Webb](Gary_Webb_Journalist.md) -- Journalist who exposed CIA-Contra-crack cocaine connection; died of two gunshot wounds to the head, ruled suicide
 - [William Colby](William_Colby.md) -- Former CIA Director who died under suspicious circumstances; oversaw the agency during the era of CIA drug operations
 - [Ashley Haynes](Ashley_Haynes.md) — Found drowned in Arkansas River with concrete block tied to ankle; another suspicious death in Arkansas
-- **Intelligence investigation profile:** [Barry Seal](/intelligence-service-murders/Details/Barry_Seal) — documents the CIA drug pilot assassination from the intelligence operations perspective
+- **Intelligence investigation profile:** [Barry Seal](/intel/Details/Barry_Seal) — documents the CIA drug pilot assassination from the intelligence operations perspective
 
 ## Sources
 

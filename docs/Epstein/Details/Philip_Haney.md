@@ -75,7 +75,7 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel
 - [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
-- **Intelligence investigation profile:** [Philip Haney](/intelligence-service-murders/Details/Philip_Haney) — documents his whistleblowing and death from the intelligence operations perspective
+- **Intelligence investigation profile:** [Philip Haney](/intel/Details/Philip_Haney) — documents his whistleblowing and death from the intelligence operations perspective
 
 ## Related Groups
 

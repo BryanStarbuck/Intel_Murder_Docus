@@ -35,7 +35,7 @@ const config: Config = {
       {
         docs: {
           path: "docs/Epstein",
-          routeBasePath: "epstein-murders",
+          routeBasePath: "epstein",
           sidebarPath: "./sidebarsEpstein.ts",
         },
         blog: false,
@@ -52,7 +52,7 @@ const config: Config = {
       {
         id: "intelligence-service-murders",
         path: "docs/Intel",
-        routeBasePath: "intelligence-service-murders",
+        routeBasePath: "intel",
         sidebarPath: "./sidebarsIntelligence.ts",
       },
     ],

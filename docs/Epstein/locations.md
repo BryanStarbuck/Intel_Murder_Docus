@@ -1,4 +1,4 @@
-[< Back to Main List](./) | Locations Directory | Groups Directory | Books | Podcasts | YouTube | [Intel Murders](/intelligence-service-murders/) | UAP Deaths | Energy Suppression
+[< Back to Main List](./) | Locations Directory | Groups Directory | Books | Podcasts | YouTube | [Intel Murders](/intel/) | UAP Deaths | Energy Suppression
 
 # Locations
 

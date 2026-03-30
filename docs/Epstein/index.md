@@ -9,7 +9,7 @@ slug: /
 
 People connected to Epstein's sex trafficking and blackmail operation keep dying under suspicious circumstances. This documents every known death.
 
-**139 profiles documented. 91 suspicious deaths. March 2026.** | **[Intelligence Service Murders](/intelligence-service-murders/)**
+**139 profiles documented. 91 suspicious deaths. March 2026.** | **[Intelligence Service Murders](/intel/)**
 
 | Name | Cause of Death | Suspicion Level | Details |
 |------|----------------|-----------------|---------|
@@ -262,7 +262,7 @@ The [Locations](locations.md) index maps every death and operation geographicall
 
 These companion projects document deaths and suppression connected to intelligence operations, UAP secrecy, and energy technology suppression:
 
-- **[Intelligence Service Murders](/intelligence-service-murders/)** — 105 profiles of political assassinations and suspicious deaths carried out by or connected to CIA, MI6, Mossad, KGB/FSB/GRU, and other intelligence services (1953–present)
+- **[Intelligence Service Murders](/intel/)** — 105 profiles of political assassinations and suspicious deaths carried out by or connected to CIA, MI6, Mossad, KGB/FSB/GRU, and other intelligence services (1953–present)
 - **UAP-Related Deaths** — Researchers, whistleblowers, and scientists who died under suspicious circumstances after investigating or disclosing UAP/UFO programs
 - **Suppressed Energy Breakthroughs** — Suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, water fuel cells, and other suppressed technologies (41 profiles)
 

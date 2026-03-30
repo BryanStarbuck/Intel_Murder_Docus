@@ -133,7 +133,7 @@ In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X vi
 
 ## See Also
 
-- [Trevor Moore — Intel Murders Profile](/intelligence-service-murders/Details/Trevor_Moore) — Extended profile with full discography and intelligence connection analysis
+- [Trevor Moore — Intel Murders Profile](/intel/Details/Trevor_Moore) — Extended profile with full discography and intelligence connection analysis
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
 - [Steve Bing](Steve_Bing.md) — Fell from 27th floor in Los Angeles (2020)
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Fell from 9th floor in New York (2008)

@@ -125,7 +125,7 @@ docs/Epstein/
 ```
 
 **Domain:** https://IntelligenceMurders.com/
-**This section URL:** https://IntelligenceMurders.com/epstein-murders/
+**This section URL:** https://IntelligenceMurders.com/epstein/
 
 **Rules:**
 - **One person per file** in `Details/`. Never combine people.

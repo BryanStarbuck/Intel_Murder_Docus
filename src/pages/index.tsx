@@ -23,7 +23,7 @@ export default function Home(): React.ReactElement {
                 <h2>Epstein Murders</h2>
                 <p>
                   <strong>110+ profiles</strong> |{' '}
-                  <Link to="/epstein-murders/">View Full Investigation</Link>
+                  <Link to="/epstein/">View Full Investigation</Link>
                 </p>
                 <p>
                   Deaths possibly connected to the Jeffrey Epstein cover-up. An unusual number
@@ -33,29 +33,29 @@ export default function Home(): React.ReactElement {
                 <p><strong>Notable cases:</strong></p>
                 <ul>
                   <li>
-                    <Link to="/epstein-murders/Details/Jean_Luc_Brunel">Jean-Luc Brunel</Link>{' '}
+                    <Link to="/epstein/Details/Jean_Luc_Brunel">Jean-Luc Brunel</Link>{' '}
                     — Found hanged in prison awaiting trafficking trial, same method as Epstein
                   </li>
                   <li>
-                    <Link to="/epstein-murders/Details/Virginia_Giuffre">Virginia Giuffre</Link>{' '}
+                    <Link to="/epstein/Details/Virginia_Giuffre">Virginia Giuffre</Link>{' '}
                     — Top Epstein accuser, posted "not suicidal," died by gunshot in strict-gun-law Australia
                   </li>
                   <li>
-                    <Link to="/epstein-murders/Details/Daniel_Anderl">Daniel Anderl</Link>{' '}
+                    <Link to="/epstein/Details/Daniel_Anderl">Daniel Anderl</Link>{' '}
                     — Judge's son killed 4 days after Epstein-Deutsche Bank case assignment
                   </li>
                   <li>
-                    <Link to="/epstein-murders/Details/Mark_Middleton">Mark Middleton</Link>{' '}
+                    <Link to="/epstein/Details/Mark_Middleton">Mark Middleton</Link>{' '}
                     — Clinton aide who logged Epstein into the White House; hanged and shot, records sealed by judge
                   </li>
                   <li>
-                    <Link to="/epstein-murders/Details/Steven_Silks">4 NYPD officers</Link>{' '}
+                    <Link to="/epstein/Details/Steven_Silks">4 NYPD officers</Link>{' '}
                     who allegedly viewed Weiner laptop — all dead by suicide within weeks
                   </li>
                 </ul>
                 <p>
                   <Link
-                    to="/epstein-murders/"
+                    to="/epstein/"
                     style={{
                       display: 'inline-block',
                       padding: '0.5rem 1.25rem',
@@ -75,7 +75,7 @@ export default function Home(): React.ReactElement {
                 <h2>Intelligence Service Murders</h2>
                 <p>
                   <strong>149+ profiles</strong> |{' '}
-                  <Link to="/intelligence-service-murders/">View Full Investigation</Link>
+                  <Link to="/intel/">View Full Investigation</Link>
                 </p>
                 <p>
                   Political assassinations and suspicious deaths from 1953 to the present,
@@ -85,31 +85,31 @@ export default function Home(): React.ReactElement {
                 <p><strong>Notable cases:</strong></p>
                 <ul>
                   <li>
-                    <Link to="/intelligence-service-murders/Details/Patrice_Lumumba">
+                    <Link to="/intel/Details/Patrice_Lumumba">
                       Patrice Lumumba
                     </Link>{' '}
                     — Congolese PM, CIA and Belgian intelligence orchestrated overthrow and assassination
                   </li>
                   <li>
-                    <Link to="/intelligence-service-murders/Details/Orlando_Letelier">
+                    <Link to="/intel/Details/Orlando_Letelier">
                       Orlando Letelier
                     </Link>{' '}
                     — Chilean diplomat killed by car bomb in Washington DC by DINA agents
                   </li>
                   <li>
-                    <Link to="/intelligence-service-murders/Details/Alexander_Litvinenko">
+                    <Link to="/intel/Details/Alexander_Litvinenko">
                       Alexander Litvinenko
                     </Link>{' '}
                     — Former FSB officer poisoned with polonium-210 in London
                   </li>
                   <li>
-                    <Link to="/intelligence-service-murders/Details/Dag_Hammarskjold">
+                    <Link to="/intel/Details/Dag_Hammarskjold">
                       Dag Hammarskjold
                     </Link>{' '}
                     — UN Secretary-General, 2019 inquiry found plane "plausibly" shot down
                   </li>
                   <li>
-                    <Link to="/intelligence-service-murders/Details/Alexei_Navalny">
+                    <Link to="/intel/Details/Alexei_Navalny">
                       Alexei Navalny
                     </Link>{' '}
                     — Russian opposition leader, died in Arctic penal colony
@@ -117,7 +117,7 @@ export default function Home(): React.ReactElement {
                 </ul>
                 <p>
                   <Link
-                    to="/intelligence-service-murders/"
+                    to="/intel/"
                     style={{
                       display: 'inline-block',
                       padding: '0.5rem 1.25rem',

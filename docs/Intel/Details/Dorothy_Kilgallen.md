@@ -156,7 +156,7 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose 1953 death was reopened decades later; pattern of intelligence agencies staging deaths
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite investigating JFK assassination, shot dead in 1964; diary seized by James Angleton
 - CIA (Group Profile) — intelligence service connected to this case
-- **Epstein investigation profile:** [Dorothy Kilgallen](/epstein-murders/Details/Dorothy_Kilgallen) — documents her investigation's connection to sexual blackmail networks linked to Roy Cohn and J. Edgar Hoover
+- **Epstein investigation profile:** [Dorothy Kilgallen](/epstein/Details/Dorothy_Kilgallen) — documents her investigation's connection to sexual blackmail networks linked to Roy Cohn and J. Edgar Hoover
 
 ## Other Shocking Stories
 

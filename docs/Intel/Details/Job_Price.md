@@ -262,7 +262,7 @@ Kubler has stated that the family's primary goal is not prosecution of the kille
 
 - [Pat Tillman](Pat_Tillman.md) — NFL star turned Army Ranger, killed by friendly fire in Afghanistan; military covered up the truth for weeks
 - [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist whose death was ruled suicide despite strong evidence of murder
-- [Philip Haney](/epstein-murders/Details/Philip_Haney) — DHS whistleblower whose death was ruled suicide; family disputes the ruling
+- [Philip Haney](/epstein/Details/Philip_Haney) — DHS whistleblower whose death was ruled suicide; family disputes the ruling
 - John Chapman — Air Force Combat Controller left on Takur Ghar mountain during a SEAL Team Six operation; fought alone for 80 minutes; the full circumstances were not publicly known for 15 years until drone footage emerged. According to Kubler, Tim Somansky (who, per Kubler, argued with Job ~10 days before his death) was involved in the handling of the Chapman incident.
 
 ## Other Shocking Stories

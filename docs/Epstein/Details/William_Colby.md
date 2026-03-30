@@ -80,7 +80,7 @@ Colby was also reportedly advising the Nebraska Legislature's investigation into
 - [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating intelligence blackmail operations; found dead in 1991
 - [Nancy Schaefer](Nancy_Schaefer.md) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
 - [Troy Boner](Troy_Boner.md) -- Franklin scandal witness who later recanted under alleged pressure; found dead
-- **Intelligence investigation profile:** [William Colby](/intelligence-service-murders/Details/William_Colby) — documents his CIA career, Church Committee cooperation, and suspicious drowning death in detail
+- **Intelligence investigation profile:** [William Colby](/intel/Details/William_Colby) — documents his CIA career, Church Committee cooperation, and suspicious drowning death in detail
 
 ## Sources
 

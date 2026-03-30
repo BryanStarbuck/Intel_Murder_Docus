@@ -151,7 +151,7 @@ The official position is that Seal was killed by the Medellin Cartel in retaliat
 - [Bill Cooper](Bill_Cooper.md) — author and broadcaster who exposed government conspiracies including CIA drug operations; shot dead by law enforcement in 2001
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating the CIA, killed in a fiery car crash in 2013 after telling colleagues he needed to "go off the radar"
 - CIA (Group Profile) — intelligence service connected to this case
-- **Epstein investigation profile:** [Barry Seal](/epstein-murders/Details/Barry_Seal) — documents the Mena/Arkansas operations as part of the intelligence-criminal infrastructure connected to the Epstein network
+- **Epstein investigation profile:** [Barry Seal](/epstein/Details/Barry_Seal) — documents the Mena/Arkansas operations as part of the intelligence-criminal infrastructure connected to the Epstein network
 
 ## Other Shocking Stories
 

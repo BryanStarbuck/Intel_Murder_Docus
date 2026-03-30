@@ -106,8 +106,8 @@ Write {MISSING_CSV_FILE} with these columns:
     underscores with spaces)
   * profile_file: relative path to their profile from {ROOT_DIR}
   * website_url: the URL path to the person's page on the website
-    * Epstein profiles: /epstein-murders/Details/{FirstName_LastName}
-    * Intel profiles: /intelligence-service-murders/Details/{FirstName_LastName}
+    * Epstein profiles: /epstein/Details/{FirstName_LastName}
+    * Intel profiles: /intel/Details/{FirstName_LastName}
   * category: the person's category extracted from the | **Category** | row
     in their profile's info table (e.g. "Journalist / Investigator",
     "Scientist / Weapons Expert"). Empty if the profile has no category row.
@@ -139,3 +139,16 @@ Output to stdout:
   * Total people with images
   * Total people missing images
   * Path to {MISSING_CSV_FILE}
+
+
+
+
+====================================================================
+Update
+====================================================================
+
+There is the list of people, and there's the CSV. In the detail structures, we have an images directory under the detail structures of each investigation. We have missing_images.csv.
+
+When we do an iteration pass to walk through each person in the investigation, we're going to do a number of things. We're going to go check if we need to go move an image over to the right location because it comes from that incoming drop location. Fine, we can do that work, but then also, when we're done, we're doing this work on a per-person basis. We want to make sure that they either have an image in detail/images, or we have them as an entry in the CSV file. We prefer them having an image, but otherwise we need to get them in the CSV so we can go make sure we search and find images for them later.
+
+This update is just to make sure that, when this prompt is running and it's going to go do that loop to go walk through each person, we do these additional steps. Just make sure that CSV is including everybody that is in these missing images that we couldn't find so far. 

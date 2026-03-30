@@ -95,7 +95,7 @@ Dorothy Kilgallen's investigation positioned her at the intersection of sexual b
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent who investigated elite pedophile rings and described intelligence "brownstone operations"
 - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking who was found shot dead alongside her husband
-- **Intelligence investigation profile:** [Dorothy Kilgallen](/intelligence-service-murders/Details/Dorothy_Kilgallen) — documents her JFK assassination investigation and CIA/FBI surveillance in detail
+- **Intelligence investigation profile:** [Dorothy Kilgallen](/intel/Details/Dorothy_Kilgallen) — documents her JFK assassination investigation and CIA/FBI surveillance in detail
 
 ## Sources
 

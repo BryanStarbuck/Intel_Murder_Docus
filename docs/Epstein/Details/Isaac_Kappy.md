@@ -70,7 +70,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - **Final Instagram note anomalies:** The note's tone — claiming to be "the reincarnation of Judas Iscariot," apologizing to Trump, QAnon, and Jesus Christ — struck some observers as coerced or written under duress rather than reflecting genuine suicidal ideation. Others interpret it as a mental health crisis
 - **No prior suicidal history:** Kappy had no documented history of suicidal ideation before the final note. He was actively producing content and engaging with followers up until his last days
 - **Claimed possession of blackmail materials:** If Kappy did possess hacked files from Epstein's operation — a claim amplified by Lin Wood — this would represent a clear motive for silencing him
-- **Intelligence service connection theory:** Theories linking Kappy to Mossad/CIA through the Epstein blackmail operation are discussed in his [Intel Murders profile](/intelligence-service-murders/Details/Isaac_Kappy)
+- **Intelligence service connection theory:** Theories linking Kappy to Mossad/CIA through the Epstein blackmail operation are discussed in his [Intel Murders profile](/intel/Details/Isaac_Kappy)
 
 ## The Counterargument
 
@@ -116,7 +116,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she would not commit suicide; found hanged 2008
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
 - Jeffrey Epstein Network — The network Kappy claimed to be exposing
-- [Intel Murders profile](/intelligence-service-murders/Details/Isaac_Kappy) — Intelligence service connection analysis
+- [Intel Murders profile](/intel/Details/Isaac_Kappy) — Intelligence service connection analysis
 ## Other Shocking Stories
 
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.

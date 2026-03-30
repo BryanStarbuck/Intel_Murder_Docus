@@ -62,7 +62,7 @@ Churkin was one of Russia's most prominent and skilled diplomats. He served as R
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian intelligence defector poisoned in London
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader killed in Moscow
 - [Nikolai Glushkov](Nikolai_Glushkov.md) — Russian exile found dead in London
-- [Vitaly Churkin (Epstein Kill List)](/epstein-murders/Details/Vitaly_Churkin) — Epstein Kill List cross-reference
+- [Vitaly Churkin (Epstein Kill List)](/epstein/Details/Vitaly_Churkin) — Epstein Kill List cross-reference
 ## Other Shocking Stories
 
 - [Carlos Prats](Carlos_Prats.md): Chilean general killed by a DINA car bomb in Buenos Aires. Operation Condor hunted dissidents across continents.

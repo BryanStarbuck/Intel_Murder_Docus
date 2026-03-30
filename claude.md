@@ -101,7 +101,7 @@ People are selected and ordered by:
 Edit `src/data/sidebarPeople.ts`. Each entry has:
 - `name` — Person's name (displayed as link text)
 - `blurb` — 28 words or less, maximum audience impact
-- `url` — Path like `/epstein-murders/Details/Name` or `/intelligence-service-murders/Details/Name`
+- `url` — Path like `/epstein/Details/Name` or `/intel/Details/Name`
 
 ## Config Files
 
@@ -208,7 +208,7 @@ If you are unsure whether a claim about a living person is safe to state as fact
 ## The /Intel/ Investigation — Charter
 
 **Domain:** https://IntelligenceMurders.com/
-**URL path:** `/intelligence-service-murders/` (the `/Intel/` docs instance)
+**URL path:** `/intel/` (the `/Intel/` docs instance)
 
 The core question: **When intelligence agencies murder people who aren't spies — journalists, scientists, elected leaders, activists, whistleblowers, and ordinary citizens — what does that reveal about the real purpose of these agencies?**
 
@@ -239,7 +239,7 @@ When a spy kills another spy, that's the game they signed up for. When a spy age
   * Intelligence officers killed by their own service
   * These are included but sorted below non-intelligence victims
 * **Geographic focus:** Worldwide, but **Americans murdered on American soil are the highest priority**. American victims abroad are second priority. International cases are included but sorted and positioned below American cases in all tables and on the main investigation page.
-* **What stays in the Epstein section:** Deaths connected primarily to sex-trafficking blackmail operations remain in `/epstein-murders/`. Some overlap exists (e.g., Danny Casolaro investigated both PROMIS/intelligence and the Epstein orbit) — cross-link where appropriate.
+* **What stays in the Epstein section:** Deaths connected primarily to sex-trafficking blackmail operations remain in `/epstein/`. Some overlap exists (e.g., Danny Casolaro investigated both PROMIS/intelligence and the Epstein orbit) — cross-link where appropriate.
 
 ## Focus Areas (in priority order)
 
@@ -399,7 +399,7 @@ Who this person was. Their role, career, relationships. Why they mattered to int
 ## See Also
 
 - Links to related profiles (use relative paths like [Name](Name.md))
-- Links to Epstein section profiles if overlap exists (use `/epstein-murders/Details/Name`)
+- Links to Epstein section profiles if overlap exists (use `/epstein/Details/Name`)
 
 ## Other Shocking Stories
 
@@ -473,7 +473,7 @@ Pick 4 other people from the Details/ directory (not the current person). Choose
 * Include family members' statements when they dispute official rulings
 * Note when evidence was destroyed, sealed, classified, or went missing
 * Cross-link to related profiles
-* Cross-link to Epstein section profiles where overlap exists (use `/epstein-murders/Details/Name`)
+* Cross-link to Epstein section profiles where overlap exists (use `/epstein/Details/Name`)
 * End every profile with `*This information was built by Grok and Claude AI research.*`
 
 ## Key Patterns to Watch For
@@ -497,8 +497,8 @@ Pick 4 other people from the Details/ directory (not the current person). Choose
 
 Each investigation's index.md **must** include a one-line cross-link to the other investigation, placed in the introductory paragraphs (near the end of the intro, before the first table):
 
-* **Epstein index.md** includes: `**For intelligence service assassinations of journalists, scientists, and political leaders, see [Intelligence Service Murders](/intelligence-service-murders/).**`
-* **Intel index.md** includes: `**For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](/epstein-murders/).**`
+* **Epstein index.md** includes: `**For intelligence service assassinations of journalists, scientists, and political leaders, see [Intelligence Service Murders](/intel/).**`
+* **Intel index.md** includes: `**For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](/epstein/).**`
 
 ### Individual Profile Cross-Links
 
@@ -507,7 +507,7 @@ Some individuals appear in both investigations:
 * **Ted Gunderson** — investigated both elite blackmail rings AND intelligence operations
 * **William Colby** — former CIA director with connections to multiple investigations
 
-When a person has a profile in both sections, link between them. Use `/epstein-murders/Details/Name` for Epstein section profiles and `/intelligence-service-murders/Details/Name` for Intel section profiles.
+When a person has a profile in both sections, link between them. Use `/epstein/Details/Name` for Epstein section profiles and `/intel/Details/Name` for Intel section profiles.
 
 ## Research Approach
 

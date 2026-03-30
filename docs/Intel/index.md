@@ -11,7 +11,7 @@ slug: /
 
 Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-**181 profiles documented. 146 deaths. March 2026.** | **[Epstein Kill List](/epstein-murders/)**
+**181 profiles documented. 146 deaths. March 2026.** | **[Epstein Kill List](/epstein/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -314,11 +314,11 @@ Despite the assassination ban, the US government developed legal frameworks for 
 
 ## Cross-References
 
-**Epstein Kill List (sex-trafficking blackmail deaths):** [../../README.md](/epstein-murders/)
-* [Danny Casolaro](/epstein-murders/Details/Danny_Casolaro) — investigated PROMIS (intelligence) AND Epstein orbit
-* [Isaac Kappy](Details/Isaac_Kappy.md) — claimed intelligence-linked Epstein blackmail files; also profiled in [Epstein Kill List](/epstein-murders/Details/Isaac_Kappy)
-* [Trevor Moore](Details/Trevor_Moore.md) — comedian who exposed elite child trafficking, Epstein/COVID kill switch theory, CIA operations to mass audience; also profiled in [Epstein Kill List](/epstein-murders/Details/Trevor_Moore)
-* [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — investigated both intelligence operations AND elite blackmail rings
+**Epstein Kill List (sex-trafficking blackmail deaths):** [../../README.md](/epstein/)
+* [Danny Casolaro](/epstein/Details/Danny_Casolaro) — investigated PROMIS (intelligence) AND Epstein orbit
+* [Isaac Kappy](Details/Isaac_Kappy.md) — claimed intelligence-linked Epstein blackmail files; also profiled in [Epstein Kill List](/epstein/Details/Isaac_Kappy)
+* [Trevor Moore](Details/Trevor_Moore.md) — comedian who exposed elite child trafficking, Epstein/COVID kill switch theory, CIA operations to mass audience; also profiled in [Epstein Kill List](/epstein/Details/Trevor_Moore)
+* [Ted Gunderson](/epstein/Details/Ted_Gunderson) — investigated both intelligence operations AND elite blackmail rings
 * [William Colby](Details/William_Colby.md) — former CIA Director
 
 **Groups:**

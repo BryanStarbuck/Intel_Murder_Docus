@@ -126,7 +126,7 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 - [Michael Hastings](Michael_Hastings.md) — journalist who died in suspicious car crash while investigating intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died after exposing CIA operations
 - [Stefan Suto](Stefan_Suto.md) — 80-year-old civilian killed by hydrogen peroxide poisoning; death initially ruled natural causes, later reclassified as homicide after forensic autopsy
-- [Seth Rich (Epstein Kill List)](/epstein-murders/Details/Seth_Rich) — Epstein Kill List cross-reference
+- [Seth Rich (Epstein Kill List)](/epstein/Details/Seth_Rich) — Epstein Kill List cross-reference
 
 ## Other Shocking Stories
 

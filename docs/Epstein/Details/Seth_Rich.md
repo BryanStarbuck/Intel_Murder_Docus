@@ -178,7 +178,7 @@ Important context often omitted from conspiracy narratives:
 - [John Ashe](John_Ashe.md) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
 - [Mark Middleton](Mark_Middleton.md) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
 - [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
-- **Intelligence investigation profile:** [Seth Rich](/intelligence-service-murders/Details/Seth_Rich) — documents the intelligence dimensions of his murder
+- **Intelligence investigation profile:** [Seth Rich](/intel/Details/Seth_Rich) — documents the intelligence dimensions of his murder
 
 ## Other Shocking Stories
 

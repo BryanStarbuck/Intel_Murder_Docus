@@ -98,7 +98,7 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 - [Seth Rich](Seth_Rich.md) -- DNC staffer shot dead in DC; another politically connected death with disputed circumstances
 - [John Rossi](John_Rossi.md) — Army general found dead two days before assuming command of Space and Missile Defense Command; like Haney, a government insider whose death was ruled suicide under suspicious timing
 - [Paul Vigay](Paul_Vigay.md) — British IT consultant and researcher found dead in the sea; open verdict at inquest, family disputed suicide theory
-- **Epstein investigation profile:** [Philip Haney](/epstein-murders/Details/Philip_Haney) — documents his DHS trafficking investigations connected to the Epstein network
+- **Epstein investigation profile:** [Philip Haney](/epstein/Details/Philip_Haney) — documents his DHS trafficking investigations connected to the Epstein network
 
 ## Other Shocking Stories
 
