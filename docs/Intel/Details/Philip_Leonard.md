@@ -3,6 +3,12 @@
 # Philip Leonard
 Los Alamos National Laboratory high-explosives synthesis chemist killed in a head-on collision on the road to LANL in February 2024, when another driver crossed the center line into oncoming traffic.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Leonard](images/Philip_Leonard.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dr. Philip William Leonard |

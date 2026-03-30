@@ -4,6 +4,12 @@
 
 British conspiracy researcher investigating elite pedophilia networks who died in Poland at 39 after telling his mother "if anything happens to me, investigate."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Max Spiers](images/Max_Spiers.jpg)
+
+</div>
+
 ## Key Facts
 
 - **Full Name:** Maxwell Bates-Spiers (Max Spiers)

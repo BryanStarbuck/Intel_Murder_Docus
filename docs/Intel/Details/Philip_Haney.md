@@ -3,6 +3,12 @@
 # Philip Haney
 DHS founding member and terrorism analyst turned whistleblower who was found dead of a single gunshot wound in 2020. His death was ruled a suicide two years later, but family members and colleagues have publicly disputed the finding.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Haney](images/Philip_Haney.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Philip B. Haney |

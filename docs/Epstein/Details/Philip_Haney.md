@@ -4,6 +4,12 @@
 
 DHS whistleblower on trafficking networks found shot dead near his car; family seriously doubts the suicide ruling.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Haney](images/Philip_Haney.jpg)
+
+</div>
+
 ## Key Facts
 
 - **Full Name:** Philip Haney

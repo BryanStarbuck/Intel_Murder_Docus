@@ -3,6 +3,12 @@
 # Christopher Fallen
 Senior research physicist at the Air Force Research Laboratory and former chief scientist of the HAARP ionospheric research program, found bound and asphyxiated in his Albuquerque home in February 2024. One suspect was convicted of first-degree murder; the co-defendant fled and died of an overdose.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Christopher Fallen](images/Christopher_Fallen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Christopher Thomas Fallen |

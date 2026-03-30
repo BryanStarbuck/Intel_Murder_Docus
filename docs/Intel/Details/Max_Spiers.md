@@ -3,6 +3,12 @@
 # Max Spiers
 British conspiracy researcher and lecturer who died in Warsaw, Poland, after vomiting two litres of black fluid — days after texting his mother: "Your boy's in trouble. If anything happens to me, investigate."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Max Spiers](images/Max_Spiers.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Maxwell Lindsay Herbert Bates-Spiers |
