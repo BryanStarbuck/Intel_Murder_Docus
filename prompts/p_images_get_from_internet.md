@@ -175,3 +175,21 @@ Output to stdout:
   * Total people with images
   * Total people missing images
   * Path to {MISSING_CSV_FILE}
+
+
+
+
+====================================================================
+New
+====================================================================
+
+This prompt from line 1 to 180 is the old prompt we copied from somewhere else. The goal here is to do a complete rewrite of that with this new goal. The line 181 at the end of the file is the new meaning of this prompt. Use that when you're doing the rewrite. 
+
+
+
+This will be run by Claude's desktop application. The goal is it needs to search the internet and it needs to find images of people and then download those. It might be able to find multiple versions of what it thinks might be images of people, but it needs to do the best it can to figure out the right one, and it might need to download several different versions. It then uses a local brew install tool to sort of find out which ones appear to be the same people.
+
+It might do Google image search. It might go look at news articles about that person. We're generally dealing with people who have died or are missing and often have news articles or websites about them that include their image on that. If we find websites like that, we can download those images. Some of those might be an advertisement or something else; some might be the person. By looking at Google image search, finding, downloading 30 pictures for the top search of that, and also the news articles, other websites talking about them, and whatever images are on there, and then by using brew install local tools that will try to go find the similarity of faces. When we find ones that have the most that can be verified as a face and also be the most likely to be the same face appearing in many of those images, then that's the best way to go to find the best image.
+
+The goal here is that we will end up having these missing_image.csv. We have them in two different website directories, and each website is a Docusaurus website, so there'll be a path to get to those. Go to one, and then the goal there is to walk through the CSV and then do all the internet searches and image downloads and pick the best image, and then go move that over for each website. They end up having two or three or so investigations underneath them, and then there are details directories under each investigation. Find out which investigation they should go into, which website, and then put them in the right details directory under their correct investigation. Make sure the file name is renamed to have their first name_ last name, and that we want to have the appropriate image type there. We do want to convert them over to JPEG if they are PNG or some other type, and then make sure we use high compression, high lossy so that way they compress to be small. We want to keep the high resolution but have it compressed well, and repeat that process, and then even when we found images for a person, then we remove that one person from their missing_image.csv. 
+
