@@ -6,21 +6,35 @@ INTEL_DOCS_DIR dir is {ROOT_DIR}/docs/Intel
 DROP_OFF_DIR dir is {ROOT_DIR}/prompts/images
 MISSING_CSV_FILE is file {DROP_OFF_DIR}/missing_images.csv
 
+TEMP_DOWNLOAD_DIR dir is {DROP_OFF_DIR}/download_candidates
+
 ====================================================================
 GOAL
 ====================================================================
 
-Two loops. First, process any incoming images from the drop-off directory
-— unpack, convert, compress, and move each image to the correct person's
-destination. Second, walk through every person in both investigations and
-make sure each person either has an image or is tracked in the missing
-images CSV for later follow-up.
+Search the internet for images of people listed in {MISSING_CSV_FILE},
+download candidate images, use local face-matching tools to pick the
+best one, convert and compress it, move it to the correct investigation
+directory, and remove the person from {MISSING_CSV_FILE}.
+
+This prompt is designed to be run by Claude's desktop application which
+has internet access for searching and downloading.
 
 ====================================================================
 DESTINATION DIRECTORIES
 ====================================================================
 
-Images go into a per-investigation images directory next to the profiles:
+DIR_TO_WEBSITE dir is ~/BGit/Bryan/Intel_Murder_Docus/
+
+Images go into a per-investigation images directory under the website's
+docs directory, inside the investigation's Details folder:
+
+  {DIR_TO_WEBSITE}/docs/{Investigation_Name}/Details/images/{FirstName_LastName}.jpg
+
+Where {Investigation_Name} matches the investigation column from the CSV
+(e.g. "Epstein" or "Intel").
+
+Concrete paths:
 
 * Epstein: {EPSTEIN_DOCS_DIR}/Details/images/{FirstName_LastName}.jpg
 * Intel:   {INTEL_DOCS_DIR}/Details/images/{FirstName_LastName}.jpg
@@ -28,168 +42,203 @@ Images go into a per-investigation images directory next to the profiles:
 Create the images/ directory if it does not exist.
 
 ====================================================================
-LOOP 1 — PROCESS THE DROP-OFF DIRECTORY
+TOOLS SETUP
 ====================================================================
 
-This loop handles any new images that have been dropped into
-{DROP_OFF_DIR}. It unpacks, converts, compresses, and moves them.
+Before starting, verify the following tools are available. If any are
+missing, install them via brew.
 
---------------------------------------------------------------------
-Step 1.1 — Unpack and inventory
---------------------------------------------------------------------
+* ImageMagick (convert/magick) — for image conversion and compression
+  * brew install imagemagick
+* face_recognition (Python face_recognition CLI) — for face detection
+  and comparison across downloaded candidate images
+  * pip install face_recognition
+  * Requires dlib. If dlib fails: brew install cmake && pip install dlib
 
-* Look in {DROP_OFF_DIR} for any files or zip archives
-* Unpack every .zip file into {DROP_OFF_DIR} (flatten nested folders so
-  image files end up directly in {DROP_OFF_DIR})
-* After unpacking, list every image file found (.jpg, .jpeg, .png, .webp,
-  .bmp, .tiff, .gif)
-* For each image file, determine the person's name from the filename
-  * Filenames may use underscores, spaces, dashes, or camelCase
-  * Match the name against existing profile filenames in both
-    {EPSTEIN_DOCS_DIR}/Details/ and {INTEL_DOCS_DIR}/Details/
-
---------------------------------------------------------------------
-Step 1.2 — Convert and compress
---------------------------------------------------------------------
-
-For each image found in Step 1.1:
-
-* If the file is NOT already JPEG (.jpg / .jpeg):
-  * Convert it to JPEG using an available CLI tool (sips, ImageMagick, or
-    brew-installed tools)
-  * Keep the original pixel resolution — do NOT downscale
-  * Delete the original non-JPEG file after successful conversion
-
-* Whether converted or already JPEG, compress the file:
-  * Target high compression (quality 70-80) to reduce file size
-  * Do NOT reduce pixel dimensions
-  * Use sips, ImageMagick (convert/magick), or jpegoptim — whatever is
-    available on the system
-
-* Rename the file to match the standard format:
-  {FirstName_LastName}.jpg
-  * Use underscores, no spaces
-  * Match the casing used by the person's profile filename
-
---------------------------------------------------------------------
-Step 1.3 — Move to destination
---------------------------------------------------------------------
-
-For each processed image:
-
-* Determine which investigation the person belongs to by checking which
-  Details/ directory contains their profile:
-  * If found in {EPSTEIN_DOCS_DIR}/Details/ → move to
-    {EPSTEIN_DOCS_DIR}/Details/images/
-  * If found in {INTEL_DOCS_DIR}/Details/ → move to
-    {INTEL_DOCS_DIR}/Details/images/
-  * If found in both, copy to both locations
-  * If found in neither, output to stdout:
-    "UNMATCHED IMAGE: {filename} — no matching profile found in either
-    investigation. Leaving in drop-off."
-
-* Output to stdout each image moved:
-  "MOVED: {filename} → {destination_path}"
-
---------------------------------------------------------------------
-Step 1.4 — Cleanup drop-off
---------------------------------------------------------------------
-
-* Delete any unpacked zip contents that were successfully moved
-* Delete empty zip files after unpacking
-* Leave unmatched images in {DROP_OFF_DIR} for manual review
-* Leave the original zip files intact (do not delete them)
+If face_recognition is not available or cannot be installed, fall back
+to a manual visual comparison approach: download candidates, display
+them to the user, and ask the user to pick the best one.
 
 ====================================================================
-LOOP 2 — WALK THROUGH EVERY PERSON
+MAIN LOOP — WALK THROUGH {MISSING_CSV_FILE}
 ====================================================================
 
-This loop iterates over every person profile in both investigations.
-For each person, it makes sure they either have an image in their
-Details/images/ directory or are tracked in {MISSING_CSV_FILE} so we
-can search for images later.
-
---------------------------------------------------------------------
-Step 2.1 — Build the full person list
---------------------------------------------------------------------
-
-For each investigation ({EPSTEIN_DOCS_DIR}, {INTEL_DOCS_DIR}):
-
-  * List every .md file in Details/ (each file is one person)
-  * Build a list of all people with these fields:
-    * investigation: "Epstein" or "Intel"
-    * person_name: display name (from the filename, replacing underscores
-      with spaces)
-    * profile_file: relative path to their profile from {ROOT_DIR}
-    * website_url: the URL path to the person's page on the website
-      * Epstein profiles: /epstein/Details/{FirstName_LastName}
-      * Intel profiles: /intel/Details/{FirstName_LastName}
-    * category: extracted from the | **Category** | row in their profile's
-      info table (e.g. "Journalist / Investigator", "Scientist / Weapons
-      Expert"). Empty if the profile has no category row. Replace commas
-      with semicolons so the CSV stays valid.
-
---------------------------------------------------------------------
-Step 2.2 — Per-person check
---------------------------------------------------------------------
-
-For each person in the list:
-
-  * Check if a matching .jpg exists in their investigation's
-    Details/images/ directory
-  * If an image from Loop 1 was just moved there, that counts — the person
-    now has an image
-  * If no image exists, add the person to the missing list
-
-Every person ends up in one of two buckets:
-  * HAS IMAGE — person has a .jpg in Details/images/
-  * MISSING IMAGE — person has no .jpg, gets added to the CSV
-
---------------------------------------------------------------------
-Step 2.3 — Write the missing images CSV
---------------------------------------------------------------------
-
-Write {MISSING_CSV_FILE} with these columns:
-
+Read {MISSING_CSV_FILE}. It has columns:
   investigation,person_name,profile_file,website_url,category
 
-Include every person from Step 2.2 who is in the MISSING IMAGE bucket.
-Sort alphabetically by person_name within each investigation.
+For each row in the CSV, do Steps 1 through 5 below.
 
-This CSV is the canonical list of people who still need images. Every
-person in both investigations must either have an image file or appear
-in this CSV. No one falls through the cracks.
+--------------------------------------------------------------------
+Step 1 — Read the person's profile for context
+--------------------------------------------------------------------
+
+* Open the person's profile at {ROOT_DIR}/{profile_file}
+* Extract key facts that will help identify the right person in search
+  results:
+  * Full name
+  * Year of birth and death (if available)
+  * Nationality
+  * What they were known for (journalist, scientist, politician, etc.)
+  * Any other distinguishing details (organization, location, etc.)
+* These facts are used in Step 2 to build better search queries and in
+  Step 3 to verify we found the right person.
+
+--------------------------------------------------------------------
+Step 2 — Search the internet for candidate images
+--------------------------------------------------------------------
+
+Use multiple search strategies to find images of this person:
+
+* Strategy A — Google Image Search
+  * Search: "{Full Name}" with context like year of death, occupation,
+    or organization to narrow results
+  * Download up to 10 of the top image results
+
+* Strategy B — News articles and obituaries
+  * Search: "{Full Name}" + keywords from their profile (e.g. "death",
+    "killed", "obituary", their organization name, their country)
+  * Visit the top 3-5 news articles or obituary pages
+  * Download any images found on those pages that appear to be photos
+    of a person (skip ads, logos, stock photos, site chrome)
+
+* Strategy C — Wikipedia, memorial pages, court documents
+  * Check if the person has a Wikipedia page, a Find a Grave page, a
+    memorial page, or appears in court document archives
+  * Download any portrait or headshot images found
+
+Save all downloaded candidates into:
+  {TEMP_DOWNLOAD_DIR}/{FirstName_LastName}/
+Create the directory if it does not exist.
+
+Name files sequentially: candidate_01.jpg, candidate_02.jpg, etc.
+(preserve original format for now — conversion happens in Step 4)
+
+Target: download 10-30 candidate images per person. More candidates
+means better face-matching accuracy.
+
+If zero candidate images are found after all strategies, output to
+stdout:
+  "NO CANDIDATES FOUND: {person_name} — skipping, leaving in CSV"
+Skip to the next person.
+
+--------------------------------------------------------------------
+Step 3 — Face detection and matching to find the best image
+--------------------------------------------------------------------
+
+The goal is to figure out which downloaded images actually show the
+same person, and which are ads, logos, wrong people, or unrelated.
+
+* Step 3a — Run face detection on every candidate image
+  * Use face_recognition or equivalent to detect faces in each image
+  * Discard any image where no face is detected (likely a logo, ad,
+    landscape, or text-only image)
+  * Record how many faces appear in each image
+
+* Step 3b — Generate face encodings for single-face images
+  * For images with exactly one face, generate the face encoding
+  * For images with multiple faces, skip them for now (we cannot
+    reliably identify which face is the target person)
+
+* Step 3c — Cluster the face encodings
+  * Compare all single-face encodings against each other
+  * Group images whose face encodings match within a tolerance of 0.6
+    (the default for face_recognition)
+  * The largest cluster of matching faces is most likely the correct
+    person — these are images from different sources that all show
+    the same individual
+
+* Step 3d — Pick the best image from the winning cluster
+  * From the largest cluster, pick the image that:
+    * Has the highest resolution (most pixels)
+    * Shows a clear, front-facing or near-front-facing view
+    * Is a headshot or upper-body shot (not a distant group photo)
+    * Has good lighting and contrast
+  * If the largest cluster has only 1 image, that is still our best
+    candidate — use it
+  * If there are multiple clusters of the same size, output to stdout:
+    "AMBIGUOUS: {person_name} — multiple face clusters of equal size.
+    Using largest cluster with best resolution."
+
+* If face_recognition is not available:
+  * Look at the filenames and source URLs for clues
+  * Prefer images from news articles or Wikipedia over random results
+  * Prefer images that appear multiple times across different sources
+  * Output to stdout:
+    "MANUAL MODE: {person_name} — face_recognition not available.
+    Picked best candidate by source quality and resolution."
+
+--------------------------------------------------------------------
+Step 4 — Convert and compress the selected image
+--------------------------------------------------------------------
+
+Take the winning image from Step 3 and process it:
+
+* If the file is NOT already JPEG (.jpg / .jpeg):
+  * Convert to JPEG using ImageMagick:
+    magick {input} -quality 75 {output}.jpg
+  * Keep original pixel resolution — do NOT downscale
+
+* If already JPEG, recompress:
+  * magick {input} -quality 75 {output}.jpg
+
+* Rename to the standard format: {FirstName_LastName}.jpg
+  * Use underscores, no spaces
+  * Match the casing used in the person's profile filename
+
+* Target file size: under 200KB if possible while keeping full
+  resolution. If the image is still over 200KB at quality 75, try
+  quality 60. Do not go below quality 50.
+
+--------------------------------------------------------------------
+Step 5 — Move to destination and update CSV
+--------------------------------------------------------------------
+
+* Determine the investigation from the CSV row's "investigation" column
+  * "Epstein" → move to {EPSTEIN_DOCS_DIR}/Details/images/
+  * "Intel" → move to {INTEL_DOCS_DIR}/Details/images/
+
+* Move the processed image to the destination directory
+
+* Output to stdout:
+  "PLACED: {person_name} → {destination_path}"
+
+* Remove this person's row from {MISSING_CSV_FILE}
+  * Rewrite the CSV without this row
+  * Keep the header row intact
+
+* Clean up: delete {TEMP_DOWNLOAD_DIR}/{FirstName_LastName}/ and all
+  candidate images inside it
 
 ====================================================================
-FINAL SUMMARY
+AFTER ALL ROWS PROCESSED
 ====================================================================
 
-Output to stdout:
+* Delete {TEMP_DOWNLOAD_DIR} if it is empty
 
-  * Total images found in drop-off (after unpacking)
-  * Images converted from other formats to JPEG
-  * Images successfully moved to Epstein
-  * Images successfully moved to Intel
-  * Unmatched images (no profile found)
-  * Total people across both investigations
-  * Total people with images
-  * Total people missing images
-  * Path to {MISSING_CSV_FILE}
+* Output to stdout a final summary:
 
-
-
+  ================================================
+  IMAGE SEARCH COMPLETE
+  ================================================
+  * People processed from CSV: {count}
+  * Images successfully found and placed: {count}
+  * People with no candidates found (still in CSV): {count}
+  * People with ambiguous results (still placed best guess): {count}
+  * Remaining entries in {MISSING_CSV_FILE}: {count}
+  ================================================
 
 ====================================================================
-New
+NOTES
 ====================================================================
 
-This prompt from line 1 to 180 is the old prompt we copied from somewhere else. The goal here is to do a complete rewrite of that with this new goal. The line 181 at the end of the file is the new meaning of this prompt. Use that when you're doing the rewrite. 
-
-
-
-This will be run by Claude's desktop application. The goal is it needs to search the internet and it needs to find images of people and then download those. It might be able to find multiple versions of what it thinks might be images of people, but it needs to do the best it can to figure out the right one, and it might need to download several different versions. It then uses a local brew install tool to sort of find out which ones appear to be the same people.
-
-It might do Google image search. It might go look at news articles about that person. We're generally dealing with people who have died or are missing and often have news articles or websites about them that include their image on that. If we find websites like that, we can download those images. Some of those might be an advertisement or something else; some might be the person. By looking at Google image search, finding, downloading 30 pictures for the top search of that, and also the news articles, other websites talking about them, and whatever images are on there, and then by using brew install local tools that will try to go find the similarity of faces. When we find ones that have the most that can be verified as a face and also be the most likely to be the same face appearing in many of those images, then that's the best way to go to find the best image.
-
-The goal here is that we will end up having these missing_image.csv. We have them in two different website directories, and each website is a Docusaurus website, so there'll be a path to get to those. Go to one, and then the goal there is to walk through the CSV and then do all the internet searches and image downloads and pick the best image, and then go move that over for each website. They end up having two or three or so investigations underneath them, and then there are details directories under each investigation. Find out which investigation they should go into, which website, and then put them in the right details directory under their correct investigation. Make sure the file name is renamed to have their first name_ last name, and that we want to have the appropriate image type there. We do want to convert them over to JPEG if they are PNG or some other type, and then make sure we use high compression, high lossy so that way they compress to be small. We want to keep the high resolution but have it compressed well, and repeat that process, and then even when we found images for a person, then we remove that one person from their missing_image.csv. 
-
+* Process people in the order they appear in the CSV
+* If the script is interrupted, it can be re-run safely — it reads
+  {MISSING_CSV_FILE} each time and skips people who already have an
+  image in their destination directory
+* Some people may be obscure and have no findable images. That is
+  expected. They stay in the CSV for future manual follow-up.
+* When searching, be mindful that some names are common. Use the
+  context from Step 1 (year of death, nationality, occupation) to
+  narrow searches and avoid downloading images of the wrong person.
+* Prefer portrait/headshot images over group photos, action shots,
+  or low-resolution thumbnails.
