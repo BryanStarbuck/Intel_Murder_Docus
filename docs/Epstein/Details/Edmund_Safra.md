@@ -2,6 +2,12 @@
 
 Lebanese-Brazilian billionaire banker who died in an arson fire at his Monaco penthouse while cooperating with the FBI on Russian money laundering investigations through his Republic National Bank.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Edmond Safra](images/Edmund_Safra.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Edmond Jacob Safra |

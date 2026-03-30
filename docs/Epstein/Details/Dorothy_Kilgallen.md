@@ -4,6 +4,12 @@
 
 Pioneering journalist and television star who was investigating the JFK assassination, secured a private interview with Jack Ruby, told friends she was about to "break the case wide open," and was found dead of a barbiturate overdose with her investigation notes missing.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Dorothy Kilgallen](images/Dorothy_Kilgallen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dorothy Mae Kilgallen |

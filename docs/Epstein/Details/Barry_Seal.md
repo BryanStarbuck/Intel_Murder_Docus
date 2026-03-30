@@ -2,6 +2,12 @@
 
 CIA-connected drug pilot and DEA informant assassinated in Baton Rouge while under federal supervision; his Mena, Arkansas operations are documented as part of the intelligence-criminal network that later enabled the Epstein operation.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Barry Seal](images/Barry_Seal.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Adler Berriman "Barry" Seal |

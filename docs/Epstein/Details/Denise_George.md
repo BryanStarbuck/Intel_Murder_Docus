@@ -3,6 +3,12 @@
 # Denise George
 USVI Attorney General fired days after suing JPMorgan over Epstein; told FBI she felt threatened.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Denise George](images/Denise_George.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Denise George |

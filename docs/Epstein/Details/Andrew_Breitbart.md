@@ -3,6 +3,12 @@
 # Andrew Breitbart
 Conservative media founder died of heart attack in 2012, weeks before releasing exposing videos; linked to Clinton/Weiner circles.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Andrew Breitbart](images/Andrew_Breitbart.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Andrew James Breitbart |

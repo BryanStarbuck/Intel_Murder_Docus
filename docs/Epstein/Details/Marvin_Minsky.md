@@ -3,6 +3,12 @@
 # Marvin Minsky
 MIT scientist named in Epstein court filings, died at 88 of cerebral hemorrhage; not suspicious.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Marvin Minsky](images/Marvin_Minsky.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Marvin Lee Minsky |

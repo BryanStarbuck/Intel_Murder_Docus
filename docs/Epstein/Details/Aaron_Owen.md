@@ -2,6 +2,12 @@
 
 Seventeen-year-old brother of Franklin scandal witness Alisha Owen, found hanged in his jail cell shortly before his sister was to appear in court -- ruled a suicide despite signs of a beating.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Aaron Owen](images/Aaron_Owen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Aaron Owen |

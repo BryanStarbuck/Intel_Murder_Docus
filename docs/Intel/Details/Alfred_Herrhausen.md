@@ -2,6 +2,12 @@
 
 Chairman of Deutsche Bank killed by a sophisticated remote-controlled roadside bomb in Bad Homburg, Germany, just 21 days after the fall of the Berlin Wall. The Red Army Faction claimed responsibility, but the bomb's military-grade sophistication far exceeded known RAF capabilities, fueling theories of Stasi or KGB involvement. The case remains officially unsolved.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Alfred Herrhausen](images/Alfred_Herrhausen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Alfred Herrhausen |

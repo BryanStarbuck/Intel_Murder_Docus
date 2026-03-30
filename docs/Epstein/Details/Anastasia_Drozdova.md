@@ -3,6 +3,12 @@
 # Anastasia Drozdova
 Model linked to Korshunova through cult psych sessions, died identically by fall one year later.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Anastasia Drozdova](images/Anastasia_Drozdova.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Anastasia Drozdova |

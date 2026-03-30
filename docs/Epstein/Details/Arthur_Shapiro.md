@@ -3,6 +3,12 @@
 # Arthur Shapiro
 Lawyer gunned down in unsolved murder; Epstein took his position weeks later.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Arthur Shapiro](images/Arthur_Shapiro.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Arthur Shapiro |

@@ -3,6 +3,12 @@
 # Brice and Karen Gordon
 Zorro Ranch managers for two decades who vanished after Epstein's death and Maxwell's arrest.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Brice Karen Gordon](images/Brice_Karen_Gordon.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Names** | Brice Gordon, Karen Gordon |

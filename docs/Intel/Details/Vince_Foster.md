@@ -4,6 +4,12 @@
 
 Clinton's White House deputy counsel found shot dead in 1993; Epstein's 2016 emails appear to reference an affair between Hillary Clinton and Foster.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Vince Foster](images/Vince_Foster.jpg)
+
+</div>
+
 ## Key Facts
 
 - **Full Name:** Vincent Walker Foster Jr.

@@ -3,6 +3,12 @@
 # Rafael Trujillo
 Dominican Republic dictator assassinated in 1961 by conspirators using CIA-supplied weapons, ambushed in his car on the highway to San Cristobal after 31 years of brutal rule.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Rafael Trujillo](images/Rafael_Trujillo.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Rafael Leonidas Trujillo Molina |

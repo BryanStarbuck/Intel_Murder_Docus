@@ -3,6 +3,12 @@
 # Ella Rich
 Fiancee of [Frank Yassenoff](Frank_Yassenoff.md), shot to death alongside him in unsolved double homicide connected to the Kessler-Wexner network.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ella Rich](images/Ella_Rich.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ella Rich |

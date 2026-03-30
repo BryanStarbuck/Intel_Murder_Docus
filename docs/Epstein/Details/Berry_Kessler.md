@@ -3,6 +3,12 @@
 # Berry L. Kessler
 Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison at 84.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Berry Kessler](images/Berry_Kessler.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Berry L. Kessler |

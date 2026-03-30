@@ -4,6 +4,12 @@
 
 Pulitzer Prize-winning investigative journalist who exposed CIA complicity in the crack cocaine epidemic, then was found dead with two gunshot wounds to the head, ruled a suicide.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gary Webb Journalist](images/Gary_Webb_Journalist-0.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gary Stephen Webb |

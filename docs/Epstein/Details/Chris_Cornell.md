@@ -3,6 +3,12 @@
 # Chris Cornell
 Soundgarden vocalist linked to trafficking documentary, found hanged after concert; wife disputes suicide.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Chris Cornell](images/Chris_Cornell.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Christopher John Cornell |

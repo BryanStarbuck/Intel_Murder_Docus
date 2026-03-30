@@ -3,6 +3,12 @@
 # Ines Zorreguieta
 Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her Buenos Aires apartment at age 33.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ines Zorreguieta](images/Ines_Zorreguieta.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ines Zorreguieta Cerruti |

@@ -4,6 +4,12 @@
 
 ABC News anchor who broke the story of the secret Clinton-Lynch tarmac meeting, wrote a book about it, received death threats, and was found dead at age 45.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Christopher Sign](images/Christopher_Sign.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Christopher Paul Sign |

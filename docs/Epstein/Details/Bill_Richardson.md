@@ -3,6 +3,12 @@
 # Bill Richardson
 Former NM governor who met Epstein 9+ times after conviction; name removed from children's hospital.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Bill Richardson](images/Bill_Richardson.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Bill Richardson |

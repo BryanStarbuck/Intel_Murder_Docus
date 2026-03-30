@@ -3,6 +3,12 @@
 # Alfredo Rodriguez
 Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Alfredo Rodriguez](images/Alfredo_Rodriguez.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Alfredo Rodriguez |

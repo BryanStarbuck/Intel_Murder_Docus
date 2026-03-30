@@ -3,6 +3,12 @@
 # Alexis Arquette
 Transgender actress and member of the Arquette acting family who publicly accused Hollywood figures of sexual misconduct and was reportedly planning a tell-all memoir exposing industry secrets before dying of cardiac arrest related to HIV at age 47.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Alexis Arquette](images/Alexis_Arquette.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Alexis Arquette (born Robert Arquette) |

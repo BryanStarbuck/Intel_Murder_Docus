@@ -3,6 +3,12 @@
 # Ghislaine Maxwell (Living — At Risk)
 Only convicted Epstein co-conspirator still alive, serving 20 years with multiple documented threats.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ghislaine Maxwell](images/Ghislaine_Maxwell.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ghislaine Noelle Marion Maxwell |

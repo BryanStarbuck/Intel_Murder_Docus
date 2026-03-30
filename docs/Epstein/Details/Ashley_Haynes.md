@@ -3,6 +3,12 @@
 # Ashley Haynes
 Yoga teacher found drowned in Arkansas River with ankle bound to a 58-pound concrete block by an extension cord. Alleged connection to Epstein associate Mark Middleton is disputed.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ashley Haynes](images/Ashley_Haynes.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ashley Schwarz Haynes |

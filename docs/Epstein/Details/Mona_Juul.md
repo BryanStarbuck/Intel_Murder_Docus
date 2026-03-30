@@ -3,6 +3,12 @@
 # Mona Juul
 Norwegian ambassador who resigned after Epstein willed $5M per child; under criminal corruption investigation.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Mona Juul](images/Mona_Juul.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Mona Juul |

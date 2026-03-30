@@ -3,6 +3,12 @@
 # Anthony Bourdain
 Celebrity chef and vocal abuse advocate, found hanged in France with no warning signs.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Anthony Bourdain](images/Anthony_Bourdain.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Anthony Michael Bourdain |

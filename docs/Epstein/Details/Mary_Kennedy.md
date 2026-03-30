@@ -3,6 +3,12 @@
 # Mary Richardson Kennedy
 RFK Jr.'s ex-wife and Ghislaine Maxwell's friend, found hanged in her barn. Epstein emailed "whoops" upon learning of her death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Mary Kennedy](images/Mary_Kennedy.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Mary Kathleen Richardson Kennedy |

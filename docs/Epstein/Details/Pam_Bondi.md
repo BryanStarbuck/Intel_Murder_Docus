@@ -3,6 +3,12 @@
 # Pam Bondi
 U.S. Attorney General who initially promised to release the Epstein client list, then reversed course. Accused by Congressman Thomas Massie of participating in a multi-decade cover-up of Epstein's co-conspirators.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Pam Bondi](images/Pam_Bondi.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Pamela Jo Bondi |

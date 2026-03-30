@@ -3,6 +3,12 @@
 # Craig J. Spence
 DC lobbyist and former journalist who ran a blackmail operation using male prostitutes, bugged his home to record powerful guests, arranged unauthorized midnight White House tours — then was found dead in a Boston hotel room five months after the scandal broke.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Craig Spence](images/Craig_Spence.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Craig J. Spence |

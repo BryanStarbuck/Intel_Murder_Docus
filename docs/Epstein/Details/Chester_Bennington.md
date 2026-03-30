@@ -3,6 +3,12 @@
 # Chester Bennington
 Linkin Park vocalist and Cornell's close friend, hanged on Cornell's birthday two months later.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Chester Bennington](images/Chester_Bennington.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Chester Charles Bennington |

@@ -3,6 +3,12 @@
 # George Lincoln Rockwell
 Founder of the American Nazi Party and former U.S. presidential candidate, shot from a rooftop in Arlington, Virginia, while the FBI's COINTELPRO program was actively infiltrating and disrupting his organization.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![George Lincoln Rockwell](images/George_Lincoln_Rockwell.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | George Lincoln Rockwell |

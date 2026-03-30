@@ -2,6 +2,12 @@
 
 Early Keith Raniere victim found dead of a shotgun wound at a Buddhist monastery; one of the first people Raniere sexually abused as a teenager, and her death was ruled suicide without a thorough investigation.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gina Hutchinson](images/Gina_Hutchinson.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gina Hutchinson |

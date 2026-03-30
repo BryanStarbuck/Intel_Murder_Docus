@@ -2,6 +2,12 @@
 
 Belgian teenager who was raped, tortured, and murdered in the basement of an abandoned mushroom farm in Auderghem, Brussels, on February 13, 1984; witness X1 (Regina Louf) later identified Marc Dutroux and Michel Nihoul as participants in her killing, but the case remains unsolved after the investigating judge — who had personal ties to Nihoul — discarded the testimony.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Christine Van Hees](images/Christine_Van_Hees.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Christine Van Hees |

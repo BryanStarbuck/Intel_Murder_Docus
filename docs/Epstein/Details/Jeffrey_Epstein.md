@@ -3,6 +3,12 @@
 # Jeffrey Epstein
 Convicted sex trafficker found hanged in federal jail awaiting trial under deeply suspicious circumstances.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Jeffrey Epstein](images/Jeffrey_Epstein.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Jeffrey Edward Epstein |

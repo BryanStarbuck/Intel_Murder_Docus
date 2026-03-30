@@ -3,6 +3,12 @@
 # Vitaly Churkin
 Russia's Permanent Representative to the United Nations who died suddenly in New York City in 2017, one day before his 65th birthday. The NYC Medical Examiner initially could not determine cause of death, and the autopsy results were subsequently suppressed under diplomatic immunity at the request of the U.S. State Department.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Vitaly Churkin](images/Vitaly_Churkin.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Vitaly Ivanovich Churkin |

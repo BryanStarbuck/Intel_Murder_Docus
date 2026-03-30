@@ -3,6 +3,12 @@
 # Gabriela Rico Jimenez
 Mexican woman who publicly accused elites of cannibalism and murder outside a Monterrey hotel in 2009; detained by police, sent to psychiatric facility, and never seen again.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gabriela Rico Jimenez](images/Gabriela_Rico_Jimenez-0.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gabriela Rico Jiménez |

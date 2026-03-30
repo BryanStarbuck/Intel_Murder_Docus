@@ -4,6 +4,12 @@
 
 Son of Judge [Esther Salas](Esther_Salas.md), shot dead at home during his 20th birthday celebration — 4 days after his mother was assigned the Epstein-Deutsche Bank money laundering case.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Daniel Anderl](images/Daniel_Anderl-0.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Daniel Mark Anderl |

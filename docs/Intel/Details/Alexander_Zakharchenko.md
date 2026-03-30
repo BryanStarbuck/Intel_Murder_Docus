@@ -3,6 +3,12 @@
 # Alexander Zakharchenko
 Pro-Russian separatist leader of the self-proclaimed Donetsk People's Republic, killed by a bomb planted in a cafe he frequented in Donetsk in 2018. Both Ukrainian intelligence and Russian FSB have been accused, with competing theories pointing to state assassination or internal separatist power struggles over control of the Donbas region's economic assets.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Alexander Zakharchenko](images/Alexander_Zakharchenko.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Alexander Vladimirovich Zakharchenko |

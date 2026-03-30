@@ -3,6 +3,12 @@
 # Avicii (Tim Bergling)
 DJ and electronic music producer who depicted child trafficking in his music video "For a Better Day," died at 28 from self-inflicted wounds in Oman; death attributed to suicide amid documented struggles with physical and mental health.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Avicii Tim Bergling](images/Avicii_Tim_Bergling.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Tim Bergling (stage name: Avicii) |

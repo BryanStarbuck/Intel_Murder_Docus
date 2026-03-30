@@ -3,6 +3,12 @@
 # John Connolly
 Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural illness.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Connolly](images/John_Connolly.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Connolly |

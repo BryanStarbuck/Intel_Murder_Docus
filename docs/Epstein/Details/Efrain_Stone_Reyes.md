@@ -3,6 +3,12 @@
 # Efrain "Stone" Reyes
 Epstein's last cellmate who spoke to investigators, died of COVID-19 weeks later.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Efrain Stone Reyes](images/Efrain_Stone_Reyes.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Efrain "Stone" Reyes |

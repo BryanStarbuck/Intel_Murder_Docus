@@ -2,6 +2,12 @@
 
 JPMorgan Chase Vice President who fell from the roof of the bank's Canary Wharf headquarters in London during a cluster of suspicious banker deaths in early 2014.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gabriel Magee](images/Gabriel_Magee.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gabriel Magee |

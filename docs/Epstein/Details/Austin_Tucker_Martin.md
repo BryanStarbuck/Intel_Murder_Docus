@@ -3,6 +3,12 @@
 # Austin Tucker Martin
 Trump supporter fixated on Epstein files, shot dead by Secret Service breaching Mar-a-Lago with a shotgun.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Austin Tucker Martin](images/Austin_Tucker_Martin.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Austin Tucker Martin |

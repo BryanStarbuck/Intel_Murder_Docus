@@ -3,6 +3,12 @@
 # Emily Smith
 Page Six editor at the New York Post who received a detailed email from former MCC inmate Richard C. Curtiss in May 2021 claiming Jeffrey Epstein was murdered inside the Metropolitan Correctional Center. The email — found in the 2026 Epstein Files DOJ release — is followed by 24 fully redacted pages.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Emily Smith](images/Emily_Smith.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Emily Smith |

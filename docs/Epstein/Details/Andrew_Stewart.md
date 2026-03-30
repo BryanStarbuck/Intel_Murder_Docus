@@ -3,6 +3,12 @@
 # Andrew "Chef Andy" Stewart
 Epstein's personal chef who "knew everything," according to key victim Maria Farmer. Died in his sleep just as lawyers were seeking to subpoena him.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Andrew Stewart](images/Andrew_Stewart.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Andrew Stewart |

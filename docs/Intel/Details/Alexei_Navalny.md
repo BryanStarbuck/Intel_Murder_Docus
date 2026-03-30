@@ -3,6 +3,12 @@
 # Alexei Navalny
 Russian opposition leader and anti-corruption activist who survived a Novichok poisoning in 2020, then died in an Arctic penal colony in 2024 — confirmed poisoned with epibatidine.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Alexei Navalny](images/Alexei_Navalny.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Alexei Anatolyevich Navalny |

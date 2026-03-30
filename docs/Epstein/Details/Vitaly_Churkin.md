@@ -3,6 +3,12 @@
 # Vitaly Churkin
 Russian UN Ambassador who died suddenly; medical examiner withheld cause at State Dept request.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Vitaly Churkin](images/Vitaly_Churkin.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Vitaly Ivanovich Churkin |
