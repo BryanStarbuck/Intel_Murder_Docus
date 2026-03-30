@@ -109,7 +109,6 @@ Galan's assassination profoundly shaped Colombian history. His son, Juan Manuel 
 
 - [Manuel Buendia](Manuel_Buendia.md) -- Mexican journalist assassinated in 1984 with intelligence service involvement
 - [Enrique Camarena](Enrique_Camarena.md) -- DEA agent tortured and murdered in Mexico with intelligence complicity
-- [Barry Seal](Barry_Seal.md) -- CIA-connected drug smuggler murdered after becoming a DEA informant
 - [Benazir Bhutto](Benazir_Bhutto.md) -- Pakistani prime minister assassinated at campaign rally in 2007
 
 ## Other Shocking Stories

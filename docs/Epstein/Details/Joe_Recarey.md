@@ -175,7 +175,6 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 ## Other Shocking Stories
 
 - [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
-- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
 - [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
 

@@ -221,7 +221,6 @@ He told his audience exactly how it would end. He was right about that, too.
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director Brennan; died in suspicious car crash
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower; found dead, ruled suicide
 - [William Colby](William_Colby.md) — former CIA Director who cooperated with Church Commission; drowned under suspicious circumstances
-- [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned informant; murdered after his cover was blown
 - [Philip Marshall](Philip_Marshall.md) — former CIA-connected pilot, author exposing Saudi-9/11 connections; found dead with his two children
 - [Paul Vigay](Paul_Vigay.md) — British IT consultant and UFO researcher found dead in the sea under suspicious circumstances; like Cooper, investigated government cover-ups of unexplained phenomena
 

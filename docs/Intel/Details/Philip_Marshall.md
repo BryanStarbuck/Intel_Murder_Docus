@@ -1,7 +1,7 @@
 
 
 # Philip Marshall
-Former CIA-connected contract pilot who flew for Barry Seal during Iran-Contra, author of three books exposing CIA drug smuggling and Saudi-9/11 connections, found shot dead alongside his two teenage children and family dog in 2013.
+Former CIA-connected contract pilot who flew during Iran-Contra, author of three books exposing CIA drug smuggling and Saudi-9/11 connections, found shot dead alongside his two teenage children and family dog in 2013.
 
 | Field | Details |
 |-------|---------|
@@ -17,7 +17,7 @@ Former CIA-connected contract pilot who flew for Barry Seal during Iran-Contra, 
 
 ## Assessment: HIGHLY SUSPICIOUS
 
-Philip Marshall, a former government "special activities" contract pilot who flew for notorious CIA-connected drug smuggler Barry Seal during the Iran-Contra operation, was found dead alongside his two teenage children and the family dog — all shot in the head. Marshall had authored three books exposing CIA drug trafficking and Saudi government involvement in the 9/11 attacks, and was reportedly working on a fourth book that would name specific US and Saudi officials. He had been in contact with former Senator Bob Graham, who led the Congressional Joint Inquiry into 9/11. Former NSA officer Wayne Madsen conducted a week-long on-site investigation and stated he was "100% certain" it was a black ops assassination.
+Philip Marshall, a former government "special activities" contract pilot who flew during the CIA's Iran-Contra drug-running operation, was found dead alongside his two teenage children and the family dog — all shot in the head. Marshall had authored three books exposing CIA drug trafficking and Saudi government involvement in the 9/11 attacks, and was reportedly working on a fourth book that would name specific US and Saudi officials. He had been in contact with former Senator Bob Graham, who led the Congressional Joint Inquiry into 9/11. Former NSA officer Wayne Madsen conducted a week-long on-site investigation and stated he was "100% certain" it was a black ops assassination.
 
 ## Circumstances of Death
 
@@ -33,15 +33,15 @@ Neighbors reported hearing nothing unusual — a fact investigators found signif
 
 Marshall began his career as an airline pilot in 1985, flying first with Eastern Airlines and then with United Airlines. He held captain ratings on the Boeing 727, 737, 747, 757, and 767. According to his own published accounts, he served as a government "special activities" contract pilot — first as a Learjet captain within a Drug Enforcement Administration sting operation targeting Pablo Escobar and the Medellin Cartel, and later in the covert arming of the Nicaraguan Contras.
 
-### Connection to Barry Seal
+### Connection to Iran-Contra Drug Operations
 
-Marshall worked directly under [Barry Seal](Barry_Seal.md) in New Orleans during the height of the Contra-cocaine operation. According to Marshall's writings and multiple accounts, Seal was running an illegal weapons pipeline from Mena, Arkansas to Central America and a northbound cocaine pipeline from Central America back to Mena, reportedly operating under the direction of George H.W. Bush and Oliver North. Marshall's firsthand experience with Seal and the Iran-Contra drug-running operation formed the basis of his first book and gave him insider knowledge that informed all his subsequent work.
+Marshall worked in New Orleans during the height of the Contra-cocaine operation. According to Marshall's writings and multiple accounts, the CIA was running an illegal weapons pipeline from Mena, Arkansas to Central America and a northbound cocaine pipeline from Central America back to Mena, reportedly operating under the direction of George H.W. Bush and Oliver North. Marshall's firsthand experience with the Iran-Contra drug-running operation formed the basis of his first book and gave him insider knowledge that informed all his subsequent work.
 
 ### Published Works
 
 Marshall authored three books drawing on his intelligence background:
 
-1. **Lakefront Airport** (2003) — A novel based on Marshall's true involvement in the 1984 DEA sting on Pablo Escobar and the covert arming of the Nicaraguan Contras. The informant character is based on Barry Seal. The novel takes readers on midnight runs with a daredevil DEA informant who has infiltrated the Medellin Cartel while simultaneously running illegal arms to the Contras.
+1. **Lakefront Airport** (2003) — A novel based on Marshall's true involvement in the 1984 DEA sting on Pablo Escobar and the covert arming of the Nicaraguan Contras. The novel takes readers on midnight runs with a daredevil DEA informant who has infiltrated the Medellin Cartel while simultaneously running illegal arms to the Contras.
 
 2. **False Flag 911: How Bush, Cheney and the Saudis Created the Post-911 World** (2008) — Marshall's first non-fiction work directly addressing the 9/11 attacks, arguing that elements of the Bush administration and Saudi intelligence were involved in facilitating the attacks.
 
@@ -53,7 +53,7 @@ At the time of his death, Marshall was reportedly working on a fourth book that 
 
 ## Intelligence Connections
 
-* Marshall flew as a contract pilot for the CIA during the Iran-Contra era, working directly under [Barry Seal](Barry_Seal.md) in the New Orleans CIA/crime nexus
+* Marshall flew as a contract pilot for the CIA during the Iran-Contra era, operating within the New Orleans CIA/crime nexus
 * He participated in a DEA sting operation targeting Pablo Escobar and the Medellin Cartel
 * He maintained intelligence contacts for decades after leaving active covert operations
 * His books drew on insider knowledge of CIA covert aviation and drug-running operations
@@ -111,7 +111,6 @@ The 2014 film *Unthinkable: An Airline Captain's Story* is a docudrama based on 
 
 ## See Also
 
-- [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot whom Marshall flew with during Iran-Contra; assassinated in 1986
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA drug trafficking and died of two gunshot wounds to the head, ruled "suicide"
 - [Danny Casolaro](Danny_Casolaro.md) — investigative journalist killed while exposing the "Octopus" network connecting PROMIS, Iran-Contra, and intelligence operations
 - [Bill Cooper](Bill_Cooper.md) — author and broadcaster who predicted 9/11, shot dead by law enforcement under disputed circumstances

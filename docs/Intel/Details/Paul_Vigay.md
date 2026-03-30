@@ -61,7 +61,7 @@ Vigay was a father of one.
 - Vigay claimed to have detected military-grade electronic signatures at certain crop circle sites, which he interpreted as evidence that some formations were created or monitored by military/intelligence agencies
 - The UK Ministry of Defence maintained files on crop circles and UFO phenomena (released under FOIA), indicating government interest in the same phenomena Vigay investigated
 - Portsmouth, where Vigay lived and died, is home to the Royal Navy's primary base and has a significant military/intelligence presence
-- Vigay's death has been included in compilations of suspicious deaths among UFO researchers, alongside others such as Max Spiers (2016)
+- Vigay's death has been included in compilations of suspicious deaths among UFO researchers, alongside others such as [Max Spiers](/epstein/Details/Max_Spiers) (2016)
 - No direct evidence links any intelligence service to Vigay's death
 
 ## Why This Death Raises Questions
@@ -90,13 +90,13 @@ Vigay was a father of one.
 
 ## See Also
 
-- [Max Spiers](Max_Spiers.md) — UK conspiracy researcher investigating MKULTRA and elite rings, vomited black fluid and died in Warsaw, 2016
+- [Max Spiers](/epstein/Details/Max_Spiers) — UK conspiracy researcher investigating MKULTRA and elite rings, vomited black fluid and died in Warsaw, 2016
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating "The Octopus" intelligence network, found dead in hotel bathtub, 1991
 - [David Kelly](David_Kelly.md) — UK weapons inspector, ruled suicide, records sealed until 2073
 
 ## Other Shocking Stories
 
-- [Max Spiers](Max_Spiers.md): Texted his mother "if anything happens to me, investigate." Two days later he vomited black fluid and died in Warsaw.
+- [Max Spiers](/epstein/Details/Max_Spiers): Texted his mother "if anything happens to me, investigate." Two days later he vomited black fluid and died in Warsaw.
 - [Karen Silkwood](Karen_Silkwood.md): Documents she was carrying to the NY Times vanished from her car after the fatal crash. Kerr-McGee settled.
 - [Isaac Kappy](Isaac_Kappy.md): Actor who accused Hollywood elites of pedophilia. Said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest.
 - [William Colby](William_Colby.md): Former CIA Director left dinner half-eaten, computer on. Found in the Potomac nine days later.

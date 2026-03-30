@@ -65,7 +65,6 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 ## Other Shocking Stories
 
 - [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
-- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Kate Spade](Kate_Spade.md): Hanged three days before Bourdain. Same week as Zorreguieta. Three high-profile hangings in a single week.
 - [John Deroo](John_Deroo.md): Shot six times in the face.
 

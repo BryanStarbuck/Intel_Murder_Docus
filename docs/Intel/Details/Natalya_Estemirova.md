@@ -88,7 +88,7 @@ Estemirova received numerous international awards in recognition of her courage,
 
 ## Other Shocking Stories
 
-- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
+- [Max Spiers](/epstein/Details/Max_Spiers): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
 - [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md): Russian journalist died days before meeting the FBI. Symptoms matched poisoning. Medical records sealed.
 - [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.

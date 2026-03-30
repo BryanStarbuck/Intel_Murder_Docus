@@ -91,7 +91,7 @@ Despite these losses, Novaya Gazeta continued publishing under editor-in-chief D
 - [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
 - [Alexander Zakharchenko](Alexander_Zakharchenko.md): Separatist leader blown up by a bomb hidden inside a Donetsk cafe he visited daily.
 - [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
-- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
+- [Max Spiers](/epstein/Details/Max_Spiers): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
 
 ## Sources
 

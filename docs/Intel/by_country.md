@@ -26,7 +26,6 @@ All 148 profiles organized by the country where the killing or attack occurred.
 - [Mark Lombardi](Details/Mark_Lombardi.md) — Artist mapping intelligence financial networks found hanged, Brooklyn NY (2000)
 - [Danny Casolaro](Details/Danny_Casolaro.md) — Journalist investigating PROMIS found with wrists slashed, Martinsburg WV (1991)
 - [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb, FBI blamed her. Died of cancer 1997 (1990)
-- [Barry Seal](Details/Barry_Seal.md) — CIA-connected drug pilot machine-gunned in car, Baton Rouge LA (1986)
 - [John Lennon](Details/John_Lennon.md) — Former Beatle shot outside The Dakota, New York City (1980)
 - [Ronni Moffitt](Details/Ronni_Moffitt.md) — American citizen killed alongside Letelier by DINA car bomb, Washington DC (1976)
 - [Orlando Letelier](Details/Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb, Washington DC (1976)
@@ -198,10 +197,6 @@ All 148 profiles organized by the country where the killing or attack occurred.
 ## Honduras
 
 - [Berta Caceres](Details/Berta_Caceres.md) — Environmental activist shot at home (2016)
-
-## Poland
-
-- [Max Spiers](Details/Max_Spiers.md) — UK conspiracy researcher died in Warsaw (2016)
 
 ## UAE (Dubai)
 

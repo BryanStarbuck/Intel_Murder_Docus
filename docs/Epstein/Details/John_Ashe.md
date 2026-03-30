@@ -70,7 +70,6 @@ The death was ruled accidental by the medical examiner. The connection to Epstei
 ## Other Shocking Stories
 
 - [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
-- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
 - [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
 

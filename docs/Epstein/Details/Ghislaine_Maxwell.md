@@ -93,7 +93,6 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 - [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
-- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources

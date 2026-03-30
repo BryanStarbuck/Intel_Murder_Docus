@@ -55,7 +55,7 @@ Dr. Malak's competence came under widespread scrutiny. According to Mara Leverit
 
 Don Henry and Kevin Ives were ordinary teenagers from Saline County, Arkansas. They were best friends who spent time hunting and exploring the rural area around Alexander, a small community south of Little Rock. There was nothing in their backgrounds to suggest involvement in criminal activity.
 
-The area where they died, however, was not ordinary. The railroad tracks near Alexander ran through terrain that multiple sources have linked to drug trafficking operations connected to the Mena Intermountain Municipal Airport in nearby Polk County. During the 1980s, CIA operative and drug smuggler Barry Seal used the Mena airport as a base for cocaine importation, a fact documented in federal court proceedings and later confirmed by multiple investigations. The proximity of the boys' death site to known drug drop zones led investigators and journalists to theorize that Henry and Ives may have accidentally witnessed a drug drop that night.
+The area where they died, however, was not ordinary. The railroad tracks near Alexander ran through terrain that multiple sources have linked to drug trafficking operations connected to the Mena Intermountain Municipal Airport in nearby Polk County. During the 1980s, the Mena airport served as a base for CIA-connected cocaine importation, a fact documented in federal court proceedings and later confirmed by multiple investigations. The proximity of the boys' death site to known drug drop zones led investigators and journalists to theorize that Henry and Ives may have accidentally witnessed a drug drop that night.
 
 ## The Witness Deaths
 
@@ -75,7 +75,7 @@ Within six months of a 1988 *Unsolved Mysteries* broadcast on the case, five wit
 
 The boys' deaths have been persistently linked to drug trafficking operations at the Mena airport. Key elements of the connection, as documented by journalist Mara Leveritt and others:
 
-- Barry Seal, a CIA-connected drug smuggler, operated out of Mena during the 1980s, importing cocaine as part of operations linked to Iran-Contra
+- CIA-connected drug smuggling operations ran out of Mena during the 1980s, importing cocaine as part of operations linked to Iran-Contra
 - Drug drops were reportedly made in rural areas of Saline County, including near the railroad tracks where the boys were found
 - The theory holds that Henry and Ives stumbled upon a drug drop in progress and were killed to prevent them from reporting what they saw
 - A man in military fatigues was spotted near the tracks one week before the murders and again on the night of the deaths; when approached by a police officer, the man opened fire and escaped

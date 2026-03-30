@@ -81,7 +81,6 @@ The strike also triggered a broader regional escalation. Iraq's parliament passe
 
 ## Other Shocking Stories
 
-- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 - [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
 - [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
 - [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.

@@ -122,7 +122,6 @@ However, Colby's wife Sally Shelton-Colby, his other children, and his biographe
 
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed in 1953 during MKULTRA; Colby personally apologized to his family and exposed the program
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS software and intelligence operations, found dead in a bathtub in 1991; another "suicide" in water connected to intelligence investigations
-- [Barry Seal](Barry_Seal.md) — CIA-connected drug smuggler assassinated in 1986; Colby oversaw the agency during the era when CIA drug operations expanded
 - [John Paisley](John_Paisley.md) — CIA officer found dead in Chesapeake Bay in 1978; another intelligence figure who died in Maryland waters under suspicious circumstances
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite murdered in 1964; James Angleton, whom Colby fired, was at the center of the cover-up
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack cocaine connection, died by alleged suicide in 2004

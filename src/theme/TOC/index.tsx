@@ -90,11 +90,6 @@ const people: Person[] = [
     blurb: "Age 35. Congo's first elected leader. CIA sent poison for his toothpaste. Executed, dissolved in acid. A Belgian officer kept his gold tooth for 38 years.",
   },
   {
-    name: "Barry Seal",
-    path: "/intel/Details/Barry_Seal",
-    blurb: "Age 46. CIA drug pilot turned informant. His lawyer told the judge: that ruling is a death sentence. Machine-gunned in his car three weeks later.",
-  },
-  {
     name: "Enrique Camarena",
     path: "/intel/Details/Enrique_Camarena",
     blurb: "Age 37. DEA agent. Tortured 30+ hours. Skull drilled with power tool. Doctor injected stimulants to keep him conscious. He'd discovered CIA-cartel drug flights.",

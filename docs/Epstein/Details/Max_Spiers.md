@@ -70,7 +70,6 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 - [Tracy Twyman](Tracy_Twyman.md)
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
 - [Jenny Moore](Jenny_Moore.md) — Former police officer turned journalist investigating elite trafficking, found dead in DC hotel
-- **Intelligence investigation profile:** [Max Spiers](/intel/Details/Max_Spiers) — documents his death from the intelligence operations perspective
 
 ## Other Shocking Stories
 

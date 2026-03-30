@@ -67,7 +67,6 @@ All 148 profiles organized by decade and year.
 - **1985** — [Enrique Camarena](Details/Enrique_Camarena.md) — DEA agent kidnapped, tortured, murdered in Mexico. CIA assets allegedly involved.
 - **1985** — [Fernando Pereira](Details/Fernando_Pereira.md) — Photographer drowned when French DGSE bombed the Rainbow Warrior in Auckland.
 - **1985** — [Gerard Hoarau](Details/Gerard_Hoarau.md) — Seychelles opposition leader shot in London. South African intelligence suspected.
-- **1986** — [Barry Seal](Details/Barry_Seal.md) — CIA-connected drug pilot turned DEA informant machine-gunned in car.
 - **1986** — [Olof Palme](Details/Olof_Palme.md) — Swedish PM shot on Stockholm street. CIA, MI6, Stay Behind involvement alleged.
 - **1987** — [Thomas Sankara](Details/Thomas_Sankara.md) — Burkina Faso president shot in coup. French DGSE backing alleged. Compaore convicted 2022.
 - **1988** — [Abu Jihad](Details/Abu_Jihad.md) — PLO co-founder shot by Israeli commandos at his home in Tunis.
@@ -139,7 +138,6 @@ All 148 profiles organized by decade and year.
 - **2016** — [Seth Rich](Details/Seth_Rich.md) — DNC data director shot twice in back in DC. Nothing stolen. Case unsolved.
 - **2016** — [Berta Caceres](Details/Berta_Caceres.md) — Honduran environmental activist shot at home. US-trained military intel agents involved.
 - **2016** — [Pavel Sheremet](Details/Pavel_Sheremet.md) — Belarusian-born journalist killed by car bomb in Kyiv.
-- **2016** — [Max Spiers](Details/Max_Spiers.md) — UK conspiracy researcher died in Warsaw. Vomited black fluid. Texted mother "if anything happens, investigate."
 - **2017** — [Vitaly Churkin](Details/Vitaly_Churkin.md) — Russian UN Ambassador died suddenly in New York. Part of Russian diplomat death cluster.
 - **2017** — [Kim Jong-nam](Details/Kim_Jong_nam.md) — Half-brother of North Korean leader killed with VX nerve agent at Kuala Lumpur airport.
 - **2017** — [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) — Panama Papers journalist killed by car bomb in Malta.

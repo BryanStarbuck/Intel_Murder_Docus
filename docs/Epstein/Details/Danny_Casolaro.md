@@ -74,7 +74,6 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Allegedly ran the successor blackmail operation to PROMIS
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Robert Maxwell's daughter, Epstein's co-conspirator
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist whose investigation files also vanished after her suspicious death
-- [Barry Seal](Barry_Seal.md) — CIA drug pilot assassinated after his cover was blown; part of the same intelligence-criminal infrastructure
 - [Edmund Safra](Edmund_Safra.md) — International banker with intelligence connections; died in suspicious arson fire in Monaco
 - **Intelligence investigation profile:** [Danny Casolaro](/intel/Details/Danny_Casolaro) — documents the intelligence dimensions of the PROMIS/Octopus investigation
 

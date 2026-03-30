@@ -86,7 +86,7 @@ Shaqaqi was deported by Israel to Lebanon in 1988 and eventually settled in Dama
 - [Gerard Hoarau](Gerard_Hoarau.md): Seychelles opposition leader shot dead in London. South African intelligence suspected. No one was ever charged.
 - [Mahmoud Hamshari](Mahmoud_Hamshari.md): Mossad planted a bomb inside his telephone. When he answered, they detonated it remotely in Paris.
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md): Chechen dissident shot in a Berlin park by a confirmed Russian intelligence agent. Germany expelled diplomats.
-- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
+- [Max Spiers](/epstein/Details/Max_Spiers): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
 
 ## Sources
 

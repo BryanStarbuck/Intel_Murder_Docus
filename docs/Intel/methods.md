@@ -18,7 +18,6 @@ The most common assassination method. Includes snipers, close-range execution, d
 - [Gary Webb](Details/Gary_Webb.md) — Two gunshots to head, ruled suicide, Sacramento (2004)
 - [Bill Cooper](Details/Bill_Cooper.md) — Shot by sheriff's deputies, Eagar AZ (2001)
 - [John Lennon](Details/John_Lennon.md) — Shot four times outside The Dakota, NYC (1980)
-- [Barry Seal](Details/Barry_Seal.md) — Machine-gunned in car, Baton Rouge LA (1986)
 - [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) — Shot twice on Georgetown towpath, DC (1964)
 - [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) — Shot from rooftop, Arlington VA (1967)
 - [Fred Hampton](Details/Fred_Hampton.md) — Shot in bed during FBI-coordinated raid, Chicago (1969)
@@ -216,7 +215,6 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 - [Vitaly Churkin](Details/Vitaly_Churkin.md) — Sudden death, cause initially withheld, New York (2017)
 - [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) — Combined overdose of alcohol and barbiturates (1965)
 - [Alexei Navalny](Details/Alexei_Navalny.md) — Died in Arctic penal colony, circumstances disputed (also listed under Poisoning for 2020 attempt) (2024)
-- [Max Spiers](Details/Max_Spiers.md) — Pneumonia/drug intoxication, vomited black fluid, Warsaw (2016)
 - [Philip Agee](Details/Philip_Agee.md) — Peritonitis after ulcer surgery, Cuba (2008)
 - [Bernardo Leighton](Details/Bernardo_Leighton.md) — Shot in Rome 1975 (survived); died 1995 of natural causes
 

@@ -92,7 +92,6 @@ Leonard's work in high-explosives synthesis placed him at the core of LANL's wea
 - [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. in LA. Richard Clarke said it was "consistent with a car cyber attack."
 - [Sergei Magnitsky](Sergei_Magnitsky.md): Russian tax advisor exposed $230M government fraud. Beaten to death in prison. Led to global sanctions.
-- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 
 ## Sources
 

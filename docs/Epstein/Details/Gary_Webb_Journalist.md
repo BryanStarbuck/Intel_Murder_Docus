@@ -49,7 +49,7 @@ Webb expanded his reporting into a 1998 book, *Dark Alliance: The CIA, the Contr
 
 The CIA drug-running networks Webb exposed are connected to the broader intelligence-criminal infrastructure that researchers have linked to Jeffrey Epstein. Specifically:
 
-- The Mena, Arkansas airport was a documented hub for CIA-connected drug smuggling and weapons running during the 1980s, operating during Bill Clinton's governorship of Arkansas. Pilot Barry Seal ran drugs through Mena with documented CIA connections.
+- The Mena, Arkansas airport was a documented hub for CIA-connected drug smuggling and weapons running during the 1980s, operating during Bill Clinton's governorship of Arkansas.
 - Whitney Webb's research in *One Nation Under Blackmail* documents how the same intelligence networks involved in drug trafficking, money laundering, and covert operations — including figures connected to Mena — overlap with the networks that protected and enabled Jeffrey Epstein's operation.
 - The pattern of intelligence agencies using criminal enterprises (drug running, sexual blackmail) as funding mechanisms and leverage tools is consistent across both the Contra-cocaine operation Webb exposed and the Epstein sexual blackmail operation.
 - Both operations enjoyed protection from prosecution through intelligence community intervention, and both involved the systematic destruction of those who attempted to expose them.
