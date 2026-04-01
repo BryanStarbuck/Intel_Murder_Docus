@@ -11,7 +11,7 @@ slug: /
 
 Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-**182 profiles documented. 147 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
+**183 profiles documented. 148 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -26,6 +26,7 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 | [Robert Mueller](Details/Robert_Mueller.md) | 2026 | Parkinson's disease (undisclosed) | **MODERATE SUSPICION** | FBI Director (2001-2013). Alleged cover-up of Saudi 9/11 connections, botched anthrax case, FBI documents link his name to Seth Rich murder. Subpoenaed for Epstein testimony — died before testifying. |
 | [Stefan Suto](Details/Stefan_Suto.md) | 2021 | Hydrogen peroxide poisoning (homicide) | **UNCERTAIN** | 80-year-old civilian. Forensic autopsy ruled homicide — unlicensed doctor injected lethal hydrogen peroxide concentration 171x normal. $1.33M civil judgment. Family alleges Mossad assassination targeting son-in-law, a self-described former CIA whistleblower. No independent intelligence evidence. |
 | [Seth Rich](Details/Seth_Rich.md) | 2016 | Shot twice in back, DC | **SUSPICIOUS** | DNC voter expansion data director. Officially a botched robbery, but nothing stolen. Case remains unsolved. Theories he leaked DNC emails to WikiLeaks are unverified; Mueller found Russian GRU was the source. |
+| [Loretta Fuddy](Details/Loretta_Fuddy.md) | 2013 | Acute cardiac arrhythmia (plane crash) | **SUSPICIOUS** | Hawaii Health Director — sole official who verified Obama's long-form birth certificate. Only fatality among 9 people in survivable ocean ditching off Molokai. No traumatic injuries. Found wearing an infant life vest. No pre-flight safety briefing. Autopsy results delayed over a month. No known heart condition. |
 | [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
 | [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
 | [Fred Hampton](Details/Fred_Hampton.md) | 1969 | Shot in bed during police raid | **CONFIRMED** | Black Panther leader. FBI COINTELPRO provided floor plans via informant. Drugged beforehand. Police fired 99 shots; Panthers fired 1. $1.85M settlement. |

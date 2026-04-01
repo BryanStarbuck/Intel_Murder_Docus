@@ -115,6 +115,7 @@ The most common assassination method. Includes snipers, close-range execution, d
 
 ## Plane Crash
 
+- [Loretta Fuddy](Details/Loretta_Fuddy.md) — Hawaii Health Director who verified Obama's birth certificate, only fatality in survivable ocean ditching off Molokai, wearing infant life vest (2013)
 - [Paul Wellstone](Details/Paul_Wellstone.md) — US Senator, plane crash 11 days before election (2002)
 - [Yevgeny Prigozhin](Details/Yevgeny_Prigozhin.md) — Wagner Group founder, plane crash (bomb in aircraft) (2023)
 - [Artyom Borovik](Details/Artyom_Borovik.md) — Russian journalist, plane crash near Moscow (2000)

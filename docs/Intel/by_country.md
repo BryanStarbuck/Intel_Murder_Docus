@@ -2,7 +2,7 @@
 
 # Intelligence Service Murders: Geographic Index
 
-All 148 profiles organized by the country where the killing or attack occurred.
+All 149 profiles organized by the country where the killing or attack occurred.
 
 ---
 
@@ -18,6 +18,7 @@ All 148 profiles organized by the country where the killing or attack occurred.
 - [Jenny Moore](Details/Jenny_Moore.md) — Citizen journalist found dead in DC hotel (2018)
 - [Vitaly Churkin](Details/Vitaly_Churkin.md) — Russian UN Ambassador, sudden death in New York (2017)
 - [Seth Rich](Details/Seth_Rich.md) — DNC data director shot in back, Washington DC (2016)
+- [Loretta Fuddy](Details/Loretta_Fuddy.md) — Hawaii Health Director who verified Obama's birth certificate, only fatality in survivable plane crash off Molokai (2013)
 - [Michael Hastings](Details/Michael_Hastings.md) — Journalist investigating CIA, car exploded at high speed, Los Angeles CA (2013)
 - [Philip Marshall](Details/Philip_Marshall.md) — Former CIA pilot found dead with his two children, Calaveras County CA (2013)
 - [Gary Webb](Details/Gary_Webb.md) — Journalist who exposed CIA-crack connection, two gunshots to head, Sacramento CA (2004)

@@ -127,6 +127,7 @@ All 148 profiles organized by decade and year.
 - **2012** — [Job Price](Details/Job_Price.md) — SEAL Team 4 commander found dead in Afghanistan. Four forensic experts say not suicide.
 - **2012** — [Mostafa Ahmadi Roshan](Details/Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic car bomb in Tehran.
 - **2012** — [Alexander Perepilichnyy](Details/Alexander_Perepilichnyy.md) — Russian whistleblower (Magnitsky case) died of sudden cardiac arrest. Poisoning suspected.
+- **2013** — [Loretta Fuddy](Details/Loretta_Fuddy.md) — Hawaii Health Director who verified Obama's birth certificate. Only fatality in survivable plane crash off Molokai. Wearing infant life vest.
 - **2013** — [Michael Hastings](Details/Michael_Hastings.md) — Journalist investigating CIA Director Brennan. Car exploded at high speed in LA.
 - **2013** — [Philip Marshall](Details/Philip_Marshall.md) — Former CIA-connected pilot exposing CIA drug smuggling. Found dead with his two children.
 - **2013** — [Boris Berezovsky](Details/Boris_Berezovsky.md) — Russian oligarch found hanged in London. Open verdict. Strangulation evidence.
