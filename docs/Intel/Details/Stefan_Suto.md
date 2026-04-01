@@ -11,6 +11,8 @@
 | **Location of Death** | Hotel room, Gulf Breeze/Cantonment, Florida |
 | **Cause of Death** | Hemolytic anemia due to toxicities of inhaled and intravenous hydrogen peroxide |
 | **Official Ruling** | Initially natural causes; reclassified as **HOMICIDE** after post-exhumation forensic autopsy |
+| **Nationality** | Czechoslovak (Slovakian origin), US resident |
+| **Killed on US Soil** | Yes — died in Florida |
 | **Alleged Intelligence Connection** | Mossad (alleged by family); unverified |
 | **Victim Was Intel Employee** | No |
 | **Category** | Civilian Casualty |

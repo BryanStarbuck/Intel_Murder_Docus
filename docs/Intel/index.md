@@ -11,7 +11,7 @@ slug: /
 
 Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-**181 profiles documented. 146 deaths. March 2026.** | **[Epstein Kill List](/epstein/)**
+**182 profiles documented. 147 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -57,6 +57,7 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
+| [Brandy Vaughan](Details/Brandy_Vaughan.md) | 2020 | Blood clots (bilateral pulmonary embolism) | **SUSPICIOUS** | Merck whistleblower who exposed Vioxx scandal, founded Learn The Risk. Found dead at 44 by her 9-year-old son after years of professional-grade stalking and home intrusions. Publicly warned: "If something happens to me, it's foul play." |
 | [Philip Haney](Details/Philip_Haney.md) | 2020 | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on terrorism. Family disputes suicide. Had been threatening to expose more. |
 | [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot during Iran-Contra. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
 | [Isaac Kappy](Details/Isaac_Kappy.md) | 2019 | Fell from bridge onto I-40 | **SUSPICIOUS** | Actor who publicly accused Hollywood elites of pedophilia and claimed to possess intelligence-linked Epstein blackmail files. Repeatedly said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest. |
