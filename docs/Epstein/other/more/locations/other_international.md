@@ -1,0 +1,75 @@
+[< Back to Main List](../../../README.md) | [Locations Index](README.md)
+
+# Other International Locations
+
+Deaths and connections spanning Belgium, Ukraine, Oman, Australia, Mexico, Estonia, Norway, Haiti, and the Atlantic Ocean — demonstrating the global reach of elite trafficking networks.
+
+## Belgium — The Dutroux Affair
+
+The most lethal cover-up in European judicial history: **20–27+ witnesses died** during the investigation of Marc Dutroux's pedophile ring.
+
+- See full details: [Dutroux Affair group file](../groups/dutroux_affair.md)
+- 6 girls kidnapped (ages 8–19); 2 starved to death in basement dungeon
+- 300,000 people marched in Brussels (the "White March") when evidence emerged of institutional sabotage
+- Key witness deaths: Bruno Tagliaferro (ruled heart attack, but American analysts later determined he was **poisoned**), his wife Fabienne Jaupart (found dead after her mattress was set on fire — she had been determined to find her husband's killer), Jose Steppe (died before testimony), Anna Konjevoda (beaten/strangled)
+- **Testimony suppressed at the highest level**: Witness "X1" (Regina Louf) named multiple elite Belgian political and business figures. The presiding judge, Jean-Claude Van Espen, discarded her testimony and stopped the investigation. The new judge, Anne Thily, declared Louf "a fantasist." Substantial efforts by magistrates and senior police officials were made to demolish the testimony of all X-witnesses.
+- **Christine Van Hees**: Named by witness X1 as one of the victims of the child sex ring who was allegedly murdered to prevent her from going to authorities. Dutroux and his associate Michel Nihoul were suspected in her 1984 death.
+- **Complete reorganization of Belgian law enforcement**: The lenient treatment of Dutroux in his first prosecution, combined with police shortcomings, caused such widespread discontent that it triggered a complete reorganization of Belgium's law enforcement agencies.
+- Not directly connected to Epstein, but the structural parallels are the most striking of any international case: institutional protection of perpetrators, witness deaths, suppressed testimony, and elite involvement
+
+## Ukraine — Kyiv
+
+- **[Anastasia Drozdova](../../../Details/Anastasia_Drozdova.md)** (2009, young) — **SUSPICIOUS.** Model and friend of [Ruslana Korshunova](../../../Details/Ruslana_Korshunova.md). Both attended same "Rose of the World" psychological sessions. Both experienced personality changes. Died identically to Korshunova — jumping from a building — approximately one year later.
+
+## Oman — Muscat
+
+- **[Avicii (Tim Bergling)](../../../Details/Avicii_Tim_Bergling.md)** (2018, age 28) — **SUSPICIOUS.** DJ who died of self-inflicted wounds in Muscat, Oman. His music video "For a Better Day" depicted child trafficking. Was working on a trafficking documentary that was shelved after his death. Part of 2017–2018 death cluster with Cornell, Bennington, Spade, and Bourdain.
+
+## Australia — Western Australia
+
+- **[Virginia Giuffre](../../../Details/Virginia_Giuffre.md)** (2025, age 41) — **SUSPICIOUS.** Most prominent Epstein accuser. Died by suicide in Neergabby, Western Australia. Had previously posted she was "not suicidal" and said "if something happens to me, do not let it go away." Father says "somebody got to her." Had moved to Australia years earlier, reportedly for safety.
+
+## Mexico — Monterrey
+
+- **[Gabriela Rico Jimenez](../../../Details/Gabriela_Rico_Jimenez.md)** (2009) — **Missing.** Mexican woman who appeared at the Fiesta Inn hotel in Monterrey, Nuevo León, screaming accusations about elite cannibalism and naming powerful figures. Was dragged away by police on camera and reportedly never seen again.
+
+## Estonia — Tallinn
+
+- **[Aivar Rehe](../../../Details/Aivar_Rehe.md)** — Connected to Epstein through banking networks. Died in Estonia.
+
+## Atlantic Ocean (near Canary Islands)
+
+- **[Robert Maxwell](../../../Details/Robert_Maxwell.md)** (1991, age 68) — **SUSPICIOUS.** Ghislaine Maxwell's father. Media mogul and alleged Mossad/MI6/KGB triple agent. Found floating near his yacht *Lady Ghislaine* off the Canary Islands. Three pathologists couldn't agree on cause of death. Received Israeli state funeral attended by President, PM, and six intelligence chiefs. His death came three months after [Danny Casolaro](../../../Details/Danny_Casolaro.md)'s.
+
+## Norway
+
+Multiple living persons connected to Epstein are based in Norway:
+- **[Terje Rød-Larsen](../../../Details/Terje_Rod_Larsen.md)** — Norwegian diplomat named in Epstein connections
+- **[Mona Juul](../../../Details/Mona_Juul.md)** — Norwegian diplomat
+- **[Thorbjørn Jagland](../../../Details/Thorbjorn_Jagland.md)** — Former Norwegian PM and Council of Europe head
+
+## Haiti
+
+- **[Monica Petersen](../../../Details/Monica_Petersen.md)** (2016, age ~32) — **UNCERTAIN.** University of Denver trafficking researcher found dead in Haiti. Ruled suicide. Conspiracy claims about Clinton Foundation connection debunked by mainstream sources, but limited public details about the circumstances.
+
+## Poland — Warsaw
+
+- **[Max Spiers](../../../Details/Max_Spiers.md)** (2016, age 39) — British conspiracy researcher found dead on a sofa in Warsaw. Was investigating elite pedophilia networks. UK coroner called Polish investigation "wholly incompetent." Covered in detail under [United Kingdom](united_kingdom.md).
+
+## Geographic Patterns
+
+- **Deaths span 7+ countries** outside the US: France, UK, Ukraine, Oman, Australia, Belgium, Poland, Mexico, Estonia, Norway, Haiti, Atlantic Ocean
+- **Modeling industry pipeline**: Korshunova (Kazakhstan → NYC), Drozdova (Ukraine), Mulder (Netherlands → Paris) — models recruited internationally
+- **Balcony/building falls across 4 countries**: Korshunova (NYC), Drozdova (Kyiv), Leigh (London), Bing (LA)
+- **Establishment protection is universal**: Belgium (Dutroux), UK (Savile), France (Elite Model Mgmt), USVI — every country where allegations emerged saw institutional resistance to investigation
+
+## Sources
+
+- Individual detail profiles contain full sourcing for each death
+- [Wikipedia: Marc Dutroux](https://en.wikipedia.org/wiki/Marc_Dutroux)
+- [Wikipedia: Regina Louf](https://en.wikipedia.org/wiki/Regina_Louf)
+- [Consortium News: The Revelations of WikiLeaks No. 4 — The Haunting Case of a Belgian Child Killer](https://consortiumnews.com/2019/07/11/the-revelations-of-wikileaks-no-4-the-haunting-case-of-a-belgian-child-killer-and-how-wikileaks-helped-crack-it/)
+- [Ashes on Air: Marc Dutroux — Obscured Testimony and Unjust Silence](https://ashesonair.org/2025/05/13/marc-dutroux-obscured-testimony-and-unjust-silence/)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

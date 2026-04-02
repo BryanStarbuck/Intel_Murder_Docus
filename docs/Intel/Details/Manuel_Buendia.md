@@ -91,6 +91,7 @@ The Camarena affair ultimately forced the Mexican government to dissolve the DFS
 ## See Also
 
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent kidnapped and murdered by DFS agents and the Guadalajara Cartel nine months after Buendia's assassination, investigating the same CIA-DFS-cartel nexus
+- [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned DEA informant, killed after his cover was exposed; part of the same era of CIA-drug trafficking connections
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-crack cocaine connection; career destroyed and died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS/intelligence connections who died before publication
 - [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated with intelligence complicity; like Buendia, killed in the same era of CIA-connected Latin American drug politics

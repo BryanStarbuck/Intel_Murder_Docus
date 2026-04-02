@@ -10,34 +10,34 @@ Port: **4173** — run `npm start` to serve at http://localhost:4173/
 
 | Top Bar Label                  | Local Docs Dir | Content Source                                              |
 |-------------------------------|----------------|-------------------------------------------------------------|
-| Epstein Murders               | `docs/Epstein` | `~/BGit/Bryan/Epstein_Kull_List/`                           |
-| Intelligence Service Murders  | `docs/Intel`   | `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/`       |
+| Epstein Murders               | `docs/Epstein` | `~/BGit/Bryan_git/Epstein_Kull_List/`                           |
+| Intelligence Service Murders  | `docs/Intel`   | `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/`       |
 
 ## Content Sync
 
-The authoritative content lives in the external source repo (`~/BGit/Bryan/Epstein_Kull_List/`).
+The authoritative content lives in the external source repo (`~/BGit/Bryan_git/Epstein_Kull_List/`).
 This site's `docs/` directories are the formatted copy for Docusaurus rendering.
 
 ### Source → Local File Mapping
 
 **Epstein Murders** (`docs/Epstein/`):
-- `~/BGit/Bryan/Epstein_Kull_List/README.md` → `docs/Epstein/index.md` (with frontmatter added, nav links replaced)
-- `~/BGit/Bryan/Epstein_Kull_List/locations.md` → `docs/Epstein/locations.md`
-- `~/BGit/Bryan/Epstein_Kull_List/Details/*.md` → `docs/Epstein/Details/*.md` (back-nav links removed)
+- `~/BGit/Bryan_git/Epstein_Kull_List/README.md` → `docs/Epstein/index.md` (with frontmatter added, nav links replaced)
+- `~/BGit/Bryan_git/Epstein_Kull_List/locations.md` → `docs/Epstein/locations.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/Details/*.md` → `docs/Epstein/Details/*.md` (back-nav links removed)
 
 **Intelligence Service Murders** (`docs/Intel/`):
-- `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/README.md` → `docs/Intel/index.md` (with frontmatter added, nav links replaced)
-- `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/by_country.md` → `docs/Intel/by_country.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/methods.md` → `docs/Intel/methods.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/timeline.md` → `docs/Intel/timeline.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Intel_Murders/Details/*.md` → `docs/Intel/Details/*.md` (back-nav links removed)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/README.md` → `docs/Intel/index.md` (with frontmatter added, nav links replaced)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/by_country.md` → `docs/Intel/by_country.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/methods.md` → `docs/Intel/methods.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/timeline.md` → `docs/Intel/timeline.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Intel_Murders/Details/*.md` → `docs/Intel/Details/*.md` (back-nav links removed)
 
 ### Sync Procedure
 
 Content flows one direction: **external source → local docs dirs**.
 
-1. Record the current commit hash of the source repo (`~/BGit/Bryan/Epstein_Kull_List/`).
-2. Compare against the `last_synced_commit` below to find what changed: `git -C ~/BGit/Bryan/Epstein_Kull_List log --name-only <last_synced_commit>..HEAD`
+1. Record the current commit hash of the source repo (`~/BGit/Bryan_git/Epstein_Kull_List/`).
+2. Compare against the `last_synced_commit` below to find what changed: `git -C ~/BGit/Bryan_git/Epstein_Kull_List log --name-only <last_synced_commit>..HEAD`
 3. For **new files**: copy them in and apply local formatting (remove nav links, add frontmatter if needed).
 4. For **modified files**: check if we have local formatting changes. If yes, merge only the content changes from the source — do NOT overwrite local formatting or frontmatter.
 5. For **deleted files**: remove the corresponding local file.
@@ -52,7 +52,7 @@ Content flows one direction: **external source → local docs dirs**.
 
 ### Last Sync
 
-- **Source repo**: `~/BGit/Bryan/Epstein_Kull_List/`
+- **Source repo**: `~/BGit/Bryan_git/Epstein_Kull_List/`
 - **Last synced commit**: `9cd1feefc1547020c87d332109983c2ce3988882`
 - **Last synced date**: 2026-03-26
 

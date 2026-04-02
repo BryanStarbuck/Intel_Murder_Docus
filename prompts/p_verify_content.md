@@ -1,4 +1,4 @@
-ROOT_DIR dir is ~/BGit/Bryan/Intel_Murder_Docus
+ROOT_DIR dir is ~/BGit/Bryan_git/Intel_Murder_Docus
 
 EPSTEIN_DOCS_DIR dir is {ROOT_DIR}/docs/Epstein
 INTEL_DOCS_DIR dir is {ROOT_DIR}/docs/Intel
@@ -15,12 +15,12 @@ Two websites exist. Each has its own investigations:
 
 #1: UAP Murders
   * URL: https://uapmurders.com/
-  * Dir: ~/BGit/Bryan/UAP_Murder_Docus/
+  * Dir: ~/BGit/Bryan_git/UAP_Murder_Docus/
   * Investigations: UAPs, Energy, Physics
 
 #2: Intelligence Murders
   * URL: https://intelligencemurders.com/
-  * Dir: ~/BGit/Bryan/Intel_Murder_Docus/
+  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
   * Investigations: Epstein, Intel
 
 ====================================================================
@@ -40,7 +40,7 @@ Intel ({INTEL_DOCS_DIR}):
   * Journalists, scientists, activists, whistleblowers, and leaders killed
     by or at the direction of intelligence agencies
 
-UAP Murders site (~/BGit/Bryan/UAP_Murder_Docus/):
+UAP Murders site (~/BGit/Bryan_git/UAP_Murder_Docus/):
   * People killed in connection with UAP/UFO research or disclosure
   * People killed over suppressed energy or physics breakthroughs
   * Scientists and researchers murdered for what they discovered
@@ -52,15 +52,15 @@ PLACEMENT EXAMPLES
 These examples define where specific people belong:
 
 * Virginia Giuffre
-  * Dir: ~/BGit/Bryan/Intel_Murder_Docus/
+  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
   * Investigation: Epstein
 
 * William Cooper
-  * Dir: ~/BGit/Bryan/Intel_Murder_Docus/
+  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
   * Investigation: Intel
 
 * Robert Bass
-  * Dir: ~/BGit/Bryan/UAP_Murder_Docus/
+  * Dir: ~/BGit/Bryan_git/UAP_Murder_Docus/
   * Investigation: Energy
 
 ====================================================================
@@ -70,8 +70,8 @@ PREVIOUS SOURCE DIRECTORIES
 People may have originally lived in these directories before being copied
 into the websites. Search these for missing people or to cross-check:
 
-* ~/BGit/Bryan/Deep_State
-* ~/BGit/Bryan/Epstein_Kull_List
+* ~/BGit/Bryan_git/Deep_State
+* ~/BGit/Bryan_git/Epstein_Kull_List
 
 ====================================================================
 PASS 1 — ITERATE THROUGH EXISTING PEOPLE
@@ -135,8 +135,8 @@ For each investigation ({EPSTEIN_DOCS_DIR}, {INTEL_DOCS_DIR}):
 Also search the previous source directories for people who never made it
 into either website:
 
-  * ~/BGit/Bryan/Deep_State
-  * ~/BGit/Bryan/Epstein_Kull_List
+  * ~/BGit/Bryan_git/Deep_State
+  * ~/BGit/Bryan_git/Epstein_Kull_List
 
   * For each person found in those directories:
     * Check if they have a corresponding profile on either website

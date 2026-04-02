@@ -1,0 +1,327 @@
+persons:
+  - name: Jeffrey Epstein
+    age: 66
+    year: 2019
+    location: Metropolitan Correctional Center, New York City, New York, USA
+    cause_of_death: Hanging in jail cell
+    official_ruling: Suicide
+    category: Primary Subject
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: "More Than Two Dozen People Linked to Jeffrey Epstein Have Died"
+        description: National Enquirer investigation
+        summary: Brother Mark calls it "murder" not suicide
+        
+  - name: Alfredo Rodriguez
+    age: 60
+    year: 2014
+    location: Unknown
+    cause_of_death: Mesothelioma (rare cancer)
+    official_ruling: Natural death
+    category: Staff Members
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Death Investigation
+        description: Epstein's former house manager
+        summary: Kept copy of Epstein's "black book", arrested 2009 for trying to sell it for $50,000, served 18 months for obstruction of justice
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: Former butler who stole black book
+        summary: Died after serving federal prison sentence
+        
+  - name: Marvin Minsky
+    age: 88
+    year: 2016
+    location: Unknown
+    cause_of_death: Cerebral hemorrhage
+    official_ruling: Natural death
+    category: Scientists
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: MIT computer scientist, father of artificial intelligence
+        summary: Virginia Giuffre claimed Maxwell directed her to have sex with him in 2001, received research funding from Epstein
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: MIT AI pioneer
+        summary: Named in Virginia Giuffre's allegations
+        
+  - name: Leigh Skye Patrick
+    age: 29
+    year: 2017
+    location: West Palm Beach, Florida, USA
+    cause_of_death: Accidental heroin overdose
+    official_ruling: Accidental overdose
+    category: Underage Victims
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: Confirmed Epstein victim from Palm Beach
+        summary: Lured to Epstein's mansion in 2003 at age 16 under guise of modeling offer, cooperated with police, mother blamed trauma for downward spiral
+      - url: https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in
+        title: Two Epstein Survivors Hotel Deaths
+        description: First known Epstein survivor in Palm Beach County to die of overdose
+        summary: Twin sister stated addiction began after encounters with Epstein
+        
+  - name: Joe Recarey
+    age: 50
+    year: 2018
+    location: Palm Beach, Florida, USA
+    cause_of_death: Brief illness (reportedly sleep apnea complications)
+    official_ruling: Natural causes
+    category: Law Enforcement
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: Detective, Palm Beach Police Department
+        summary: Led 2005-2008 investigation into Epstein's abuse of minors, more than 150 commendations, death sparked online speculation
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Palm Beach detective who led Epstein investigation
+        summary: Pushed officials for justice, died unexpectedly
+        
+  - name: Michael Jackson
+    age: 50
+    year: 2009
+    location: Los Angeles, California, USA
+    cause_of_death: Acute propofol and benzodiazepine intoxication
+    official_ruling: Homicide caused by personal physician's actions
+    category: Celebrities
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: Pop legend
+        summary: Reportedly visited Epstein's Palm Beach mansion once in 2003, no evidence linking Jackson to Epstein's crimes, Epstein invoked his name to appear well-connected
+        
+  - name: Efrain "Stone" Reyes
+    age: 51
+    year: 2020
+    location: Unknown
+    cause_of_death: COVID-19
+    official_ruling: Natural death from illness
+    category: Prison Guards
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Epstein's final cellmate
+        summary: Transferred out of Epstein's cell one day before Epstein's death, died weeks after talking with federal investigators
+        
+  - name: Steven Hoffenberg
+    age: 77
+    year: 2022
+    location: Unknown
+    cause_of_death: Unknown
+    official_ruling: Unknown
+    category: Business Associates
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Former Towers Financial CEO, Epstein associate
+        summary: Served 18 years for $475 million Ponzi scheme, confessed Epstein and Maxwell were taping honey-trap videos for blackmail, cooperated with FBI, spoke about Mossad connections
+        
+  - name: Kenneth Starr
+    age: 76
+    year: 2022
+    location: Unknown
+    cause_of_death: Surgical complications
+    official_ruling: Natural death
+    category: Lawyers
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Attorney who helped Epstein in West Palm Beach case
+        summary: High-powered attorney who helped Epstein skate in 2008 case
+        
+  - name: Roy Black
+    age: 80
+    year: 2025
+    location: Coral Gables, Florida, USA
+    cause_of_death: Died at home
+    official_ruling: Natural death
+    category: Lawyers
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Attorney who helped Epstein in West Palm Beach case
+        summary: High-powered defense attorney
+        
+  - name: Ronald R. Eppinger Sr.
+    age: 80
+    year: 2006
+    location: Miami, Florida, USA
+    cause_of_death: Unknown
+    official_ruling: Unknown
+    category: Co-conspirators
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Miami pimp
+        summary: Allegedly first to traffic Virginia Giuffre
+        
+  - name: John Connolly
+    age: 78
+    year: 2022
+    location: Unknown
+    cause_of_death: Brief illness
+    official_ruling: Natural death
+    category: Journalists
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Former NYPD detective, Epstein book author
+        summary: Co-authored "Filthy Rich" with James Patterson, appeared in documentary "Who Killed Jeffrey Epstein?"
+      - url: https://nypost.com/2022/01/17/john-connolly-journalist-who-investigated-epstein-dead-at-78/
+        title: NY Post Obituary
+        description: Investigative journalist
+        summary: Hard-hitting journalist known for unending Rolodex and ability to mix among Hollywood, Wall Street, pols, police
+        
+  - name: Wendy Leigh
+    age: 65
+    year: 2016
+    location: London, United Kingdom
+    cause_of_death: Found beneath her balcony
+    official_ruling: Questioned - initial reports suggested suicide
+    category: Journalists
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Celebrity biographer, investigative journalist
+        summary: Death remains questioned, agent emphasized her optimistic view on life
+        
+  - name: Jean-Luc Brunel
+    age: 75
+    year: 2022
+    location: Paris, France
+    cause_of_death: Found hanged inside prison cell
+    official_ruling: Suicide
+    category: Co-conspirators
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: French modeling agency boss
+        summary: Awaiting trial for allegedly trafficking girls to Epstein
+        
+  - name: Steve Bing
+    age: 55
+    year: 2020
+    location: Los Angeles, California, USA
+    cause_of_death: Plunged from 27th floor of apartment building
+    official_ruling: Suicide
+    category: Business Associates
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Movie producer
+        summary: Talked to FBI about Epstein before death
+        
+  - name: Mark Middleton
+    age: 59
+    year: 2022
+    location: Arkansas, USA
+    cause_of_death: Found hanged and shot
+    official_ruling: Suicide
+    category: Politicians
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Advisor to former President Bill Clinton
+        summary: Had ties to Epstein
+        
+  - name: Thomas Bowers
+    age: 55
+    year: 2019
+    location: Malibu, California, USA
+    cause_of_death: Found hanged inside home
+    official_ruling: Suicide
+    category: Financiers
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Head of Deutsche Bank wealth management division
+        summary: Moved money for Epstein
+        
+  - name: Bill Richardson
+    age: 75
+    year: 2023
+    location: New Mexico, USA
+    cause_of_death: Died in his sleep
+    official_ruling: Natural death
+    category: Politicians
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Former New Mexico Governor, Epstein pal
+        summary: Named in Epstein documents
+        
+  - name: Stephen Hawking
+    age: 76
+    year: 2018
+    location: United Kingdom
+    cause_of_death: Died at home
+    official_ruling: Natural death
+    category: Scientists
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Physicist
+        summary: Known to have visited Epstein's island
+        
+  - name: Arthur Shapiro
+    age: 43
+    year: 1985
+    location: Unknown
+    cause_of_death: Gunned down
+    official_ruling: Unsolved murder
+    category: Lawyers
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Lawyer, Epstein's predecessor at L Brands
+        summary: Expected to be questioned by IRS about illegal tax shelters weeks before death, Epstein took over managing Les Wexner's finances after Shapiro's death
+        
+  - name: Berry L. Kessler
+    age: 84
+    year: 2005
+    location: Georgia federal prison, USA
+    cause_of_death: Died in prison
+    official_ruling: Natural death
+    category: Co-conspirators
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Prime suspect in Arthur Shapiro murder
+        summary: Convicted of masterminding two murder-for-hire plots unrelated to Shapiro, FBI documents mention possible link to Epstein
+        
+  - name: Carolyn Andriano
+    age: 36
+    year: 2023
+    location: DoubleTree by Hilton, West Palm Beach, Florida, USA
+    cause_of_death: Accidental overdose involving methadone, fentanyl, and alprazolam
+    official_ruling: Accidental overdose
+    category: Underage Victims
+    sources:
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Epstein victim
+        summary: Drug overdose
+      - url: https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in
+        title: Two Epstein Survivors Hotel Deaths
+        description: Recruited at age 14
+        summary: Testified against Ghislaine Maxwell in 2021, long history of addiction tied to trauma, death not announced publicly until months later, left five children
+        
+  - name: Virginia Giuffre
+    age: 41
+    year: 2025
+    location: Neergabby, Western Australia, Australia
+    cause_of_death: Suicide
+    official_ruling: Suicide - non-suspicious
+    category: Witnesses
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Times Now Investigation
+        description: Prominent Epstein accuser
+        summary: Alleged victim who accused Epstein, Maxwell, and Prince Andrew, expressed safety fears in 2019, posthumous memoir published
+      - url: https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: National Enquirer Investigation
+        description: Outspoken accuser
+        summary: Found dead on farm in apparent suicide

@@ -1,0 +1,49 @@
+location_id,location_name,location_type,country
+1,New York City,City,USA
+2,Palm Beach,City,USA
+3,Miami,City,USA
+4,Manhattan,City,USA
+5,New Mexico,State,USA
+6,Florida,State,USA
+7,Virgin Islands,Territory,USA
+8,Little St. James Island,Island,USA
+9,Great St. James Island,Island,USA
+10,Paris,City,France
+11,France,Country,France
+12,London,City,United Kingdom
+13,United Kingdom,Country,United Kingdom
+14,New York,State,USA
+15,New Jersey,State,USA
+16,Ohio,State,USA
+17,California,State,USA
+18,Los Angeles,City,USA
+19,Santa Fe,City,USA
+20,Monaco,Country,Monaco
+21,Switzerland,Country,Switzerland
+22,Caribbean,Region,Multiple
+23,Bahamas,Country,Bahamas
+24,Morocco,Country,Morocco
+25,Spain,Country,Spain
+26,Israel,Country,Israel
+27,Saudi Arabia,Country,Saudi Arabia
+28,Dubai,City,UAE
+29,Thailand,Country,Thailand
+30,Australia,Country,Australia
+31,Mexico,Country,Mexico
+32,Canada,Country,Canada
+33,Washington DC,City,USA
+34,Arkansas,State,USA
+35,Connecticut,State,USA
+36,Massachusetts,State,USA
+37,Texas,State,USA
+38,Nevada,State,USA
+39,Arizona,State,USA
+40,Private Islands,Location Type,Multiple
+41,Private Jets,Location Type,Multiple
+42,Luxury Hotels,Location Type,Multiple
+43,Private Residences,Location Type,Multiple
+44,Zorro Ranch,Specific Location,USA
+45,Manhattan Mansion,Specific Location,USA
+46,Paris Apartment,Specific Location,France
+47,Metropolitan Correctional Center,Facility,USA
+48,Federal Detention Centers,Location Type,USA

@@ -1,0 +1,69 @@
+[< Back to Main List](../../../README.md) | [Locations Index](README.md)
+
+# New Mexico (Zorro Ranch)
+
+Epstein's 7,560-acre ranch near Stanley — the only Epstein property never raided by the FBI, now under active criminal investigation with a state truth commission.
+
+| Field | Details |
+|-------|---------|
+| **Region** | Zorro Ranch (Stanley, NM), Santa Fe, Albuquerque |
+| **Deaths / Missing** | 1 confirmed death, 2 alleged murders, 2 missing persons |
+| **Key Properties** | Zorro Ranch (7,560 acres near Stanley) |
+| **Key Figures** | Governor Bill Richardson, Brice & Karen Gordon (missing ranch managers) |
+
+## Why New Mexico Matters
+
+Zorro Ranch was Epstein's most remote and secretive property — a 7,560-acre compound near Stanley, New Mexico. Four victims testified under oath to sexual abuse at the property. An FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator. Despite this, **the ranch was never searched by the FBI** — making it the only Epstein property not raided.
+
+In February 2026, the New Mexico Attorney General reopened the criminal investigation, and the state created a "truth commission" with subpoena power and a $2 million budget.
+
+## Deaths and Missing Persons
+
+- **[Bill Richardson](../../../Details/Bill_Richardson.md)** (2023, age 75) — Likely old age. Former New Mexico governor who died in his sleep. Met with Epstein 9+ times after Epstein's 2008 conviction. Flight logs show he traveled with Epstein and three victims. His name was removed from the UNMH children's hospital tower in 2026.
+- **[Two Unnamed Foreign Women](../../../Details/Zorro_Ranch_Unnamed_Victims.md)** (year unknown) — Under investigation. A former ranch employee alleged two foreign girls were strangled and buried in the hills near the ranch. NM AG and truth commission investigating.
+- **[Brice & Karen Gordon](../../../Details/Brice_Karen_Gordon.md)** (Missing since ~2020) — Zorro Ranch managers for 20 years. Vanished after [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md)'s arrest. NM truth commission considers them "people of interest" with subpoena power to compel testimony.
+
+## The Ranch
+
+| Feature | Detail |
+|---------|--------|
+| Size | 7,560 acres |
+| Location | Near Stanley, NM (south of Santa Fe) |
+| FBI Status | **Never raided** — the only Epstein property not searched |
+| Barn/Sally Port | FBI report noted barn with chimney and "sally port" that could conceal an incinerator |
+| Victims | Four testified under oath to sexual abuse at the property |
+| Truth Commission | Created February 2026; $2M budget; subpoena power |
+
+## Governor Richardson's Connections
+
+- Met with Epstein 9+ times after 2008 conviction
+- Flight logs document travel with Epstein and three victims
+- Named in [Virginia Giuffre](../../../Details/Virginia_Giuffre.md)'s testimony
+- Name removed from UNMH children's hospital tower (2026)
+- Died in 2023 before the truth commission was established
+
+## Related Groups
+
+- [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md) — Zorro Ranch was a primary property
+- [Mossad](../groups/mossad.md) — Alleged intelligence connections to the ranch operation
+
+## Surprising Details
+
+- **First-ever law enforcement search (March 10, 2026)**: Two days ago, the New Mexico Department of Justice, New Mexico State Police, and Sandoval County Sheriff's Office conducted the first-ever law enforcement search of Zorro Ranch — more than six years after Epstein's death and seven years after the FBI obtained warrants for his other properties. The current owners (family of Don Huffines, former Texas state senator) are cooperating.
+- **FBI sat on the tip for six years**: The allegation that "somewhere in the hills outside the Zorro, two foreign girls were buried on orders of Jeffrey and Madam G" was contained in a 2019 email received by a local radio host and included in the DOJ files released in January 2026. It is not clear whether the FBI ever investigated the tip during the six years between receiving it and the NM state search.
+- **Richardson met Epstein 9+ times after conviction**: Records obtained by the Santa Fe New Mexican show Governor [Bill Richardson](../../../Details/Bill_Richardson.md) continued meeting with Epstein for years after his 2008 sex offender conviction. [Virginia Giuffre](../../../Details/Virginia_Giuffre.md) testified that [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md) instructed her to give Richardson a "massage" at the ranch — and in Giuffre's memoir, "massage" was code for a sexual encounter.
+- **The ranch was the only property not searched**: In 2019, the FBI searched Epstein's Manhattan townhouse and his USVI island but never obtained or executed a warrant for Zorro Ranch. Four victims had testified under oath to sexual abuse at the property. The FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator.
+- **No results announced yet**: As of March 12, 2026, no findings from the March 10 search have been made public. The investigation is ongoing.
+
+## Sources
+
+- [CNN: New Mexico authorities search Zorro Ranch formerly owned by Epstein (March 10, 2026)](https://www.cnn.com/2026/03/10/politics/epstein-zorro-ranch-search-new-mexico)
+- [TIME: Epstein's Zorro Ranch Searched in Criminal Investigation](https://time.com/article/2026/03/10/epstein-zorro-ranch-investigation-search-new-mexico/)
+- [NBC News: Epstein's New Mexico ranch searched by state investigators](https://www.nbcnews.com/politics/politics-news/jeffrey-epstein-new-mexico-ranch-state-investigation-rcna262724)
+- [CBS News: Jeffrey Epstein's former Zorro Ranch searched after revelations in FBI files](https://www.cbsnews.com/news/jeffrey-epstein-former-zorro-ranch-searched-after-revelations-in-fbi-files-new-mexico-prosecutors-say/)
+- [WSWS: New Mexico conducts first-ever search of Epstein's Zorro Ranch after FBI sat on buried bodies tip for six years](https://www.wsws.org/en/articles/2026/03/12/qvzp-m12.html)
+- [Santa Fe New Mexican: Records show Gov. Richardson met with Epstein for years after conviction](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html)
+- [Wikipedia: Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

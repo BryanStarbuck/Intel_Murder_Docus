@@ -55,6 +55,7 @@ The most common assassination method. Includes snipers, close-range execution, d
 - [Dulcie September](Details/Dulcie_September.md) — Shot in Paris (1988)
 - [Abu Jihad](Details/Abu_Jihad.md) — Shot by Israeli commandos at home, Tunis (1988)
 - [Thomas Sankara](Details/Thomas_Sankara.md) — Shot in coup, Burkina Faso (1987)
+- [Barry Seal](Details/Barry_Seal.md) — Machine-gunned in car, Baton Rouge LA (1986)
 - [Olof Palme](Details/Olof_Palme.md) — Shot on Stockholm street (1986)
 - [Gerard Hoarau](Details/Gerard_Hoarau.md) — Shot in London (1985)
 - [Manuel Buendia](Details/Manuel_Buendia.md) — Shot in the back, Mexico City (1984)
@@ -163,6 +164,7 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 
 ## Airstrike / Missile Strike
 
+- [Hassan Nasrallah](Details/Hassan_Nasrallah.md) — Israeli airstrike on underground headquarters, Beirut (2024)
 - [Salah al-Arouri](Details/Salah_al_Arouri.md) — Israeli drone strike, Beirut (2024)
 - [Fuad Shukr](Details/Fuad_Shukr.md) — Israeli airstrike, Beirut (2024)
 - [Ahmed Yassin](Details/Ahmed_Yassin.md) — Israeli helicopter strike, Gaza (2004)
@@ -214,6 +216,7 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 - [Robert Mueller](Details/Robert_Mueller.md) — Parkinson's disease (undisclosed), died before Epstein testimony (2026)
 - [Jenny Moore](Details/Jenny_Moore.md) — Found dead in DC hotel, cause unclear (2018)
 - [Vitaly Churkin](Details/Vitaly_Churkin.md) — Sudden death, cause initially withheld, New York (2017)
+- [Max Spiers](Details/Max_Spiers.md) — Pneumonia/drug intoxication, vomited black fluid, Warsaw (2016)
 - [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) — Combined overdose of alcohol and barbiturates (1965)
 - [Alexei Navalny](Details/Alexei_Navalny.md) — Died in Arctic penal colony, circumstances disputed (also listed under Poisoning for 2020 attempt) (2024)
 - [Philip Agee](Details/Philip_Agee.md) — Peritonitis after ulcer surgery, Cuba (2008)

@@ -68,6 +68,7 @@ All 148 profiles organized by decade and year.
 - **1985** — [Fernando Pereira](Details/Fernando_Pereira.md) — Photographer drowned when French DGSE bombed the Rainbow Warrior in Auckland.
 - **1985** — [Gerard Hoarau](Details/Gerard_Hoarau.md) — Seychelles opposition leader shot in London. South African intelligence suspected.
 - **1986** — [Olof Palme](Details/Olof_Palme.md) — Swedish PM shot on Stockholm street. CIA, MI6, Stay Behind involvement alleged.
+- **1986** — [Barry Seal](Details/Barry_Seal.md) — CIA-connected drug pilot turned DEA informant machine-gunned in car.
 - **1987** — [Thomas Sankara](Details/Thomas_Sankara.md) — Burkina Faso president shot in coup. French DGSE backing alleged. Compaore convicted 2022.
 - **1988** — [Abu Jihad](Details/Abu_Jihad.md) — PLO co-founder shot by Israeli commandos at his home in Tunis.
 - **1988** — [Dulcie September](Details/Dulcie_September.md) — ANC representative shot in Paris. South African CCB suspected.
@@ -139,6 +140,7 @@ All 148 profiles organized by decade and year.
 - **2016** — [Seth Rich](Details/Seth_Rich.md) — DNC data director shot twice in back in DC. Nothing stolen. Case unsolved.
 - **2016** — [Berta Caceres](Details/Berta_Caceres.md) — Honduran environmental activist shot at home. US-trained military intel agents involved.
 - **2016** — [Pavel Sheremet](Details/Pavel_Sheremet.md) — Belarusian-born journalist killed by car bomb in Kyiv.
+- **2016** — [Max Spiers](Details/Max_Spiers.md) — UK conspiracy researcher died in Warsaw. Vomited black fluid. Texted mother "if anything happens, investigate."
 - **2017** — [Vitaly Churkin](Details/Vitaly_Churkin.md) — Russian UN Ambassador died suddenly in New York. Part of Russian diplomat death cluster.
 - **2017** — [Kim Jong-nam](Details/Kim_Jong_nam.md) — Half-brother of North Korean leader killed with VX nerve agent at Kuala Lumpur airport.
 - **2017** — [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) — Panama Papers journalist killed by car bomb in Malta.
@@ -166,6 +168,7 @@ All 148 profiles organized by decade and year.
 - **2023** — [Yevgeny Prigozhin](Details/Yevgeny_Prigozhin.md) — Wagner Group founder killed in plane crash exactly two months after mutiny against Putin.
 - **2024** — [Alexei Navalny](Details/Alexei_Navalny.md) — Russian opposition leader died in Arctic penal colony. Had survived 2020 Novichok poisoning.
 - **2024** — [Maxim Kuzminov](Details/Maxim_Kuzminov.md) — Russian helicopter pilot defector shot and run over in Spain.
+- **2024** — [Hassan Nasrallah](Details/Hassan_Nasrallah.md) — Hezbollah Secretary-General killed by Israeli airstrike in Beirut.
 - **2024** — [Ismail Haniyeh](Details/Ismail_Haniyeh.md) — Hamas political bureau chief killed by bomb in Tehran guesthouse. Mossad blamed.
 - **2024** — [Salah al-Arouri](Details/Salah_al_Arouri.md) — Hamas deputy leader killed by Israeli drone strike in Beirut.
 - **2024** — [Fuad Shukr](Details/Fuad_Shukr.md) — Hezbollah senior military commander killed by Israeli airstrike in Beirut.

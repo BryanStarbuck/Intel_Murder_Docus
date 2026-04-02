@@ -114,6 +114,7 @@ Each person listed below has an individual detail file containing their full bac
 - [Stephen Hawking](Stephen_Hawking.md) — Not suspicious. Physicist. March 14, 2018, age 76. Died of ALS after 50+ years with the disease. Had visited Epstein's island.
 - [Michael Jackson](Michael_Jackson.md) — Not suspicious. Died of drug intoxication caused by personal physician, June 25, 2009, age 50. No meaningful Epstein connection.
 - [Matthew Perry](Matthew_Perry.md) — Not suspicious (Epstein). *Friends* actor. Died of ketamine overdose, October 2023. No Epstein connection. Death exposed an elite drug supply network; five people were charged including the "Ketamine Queen."
+- [Austin Tucker Martin](Austin_Tucker_Martin.md) — Not suspicious. Breached Mar-a-Lago armed and fixated on Epstein files. Shot by Secret Service, age 21. No Epstein network connection.
 
 ### Unverified
 

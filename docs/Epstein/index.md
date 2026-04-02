@@ -132,6 +132,7 @@ People connected to Epstein's sex trafficking and blackmail operation keep dying
 | [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication | Not suspicious | Visited Epstein's mansion once. Unrelated. |
 | [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
 | [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Giuffre to Epstein. |
+| [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
 
 ## Living Persons at Risk
 

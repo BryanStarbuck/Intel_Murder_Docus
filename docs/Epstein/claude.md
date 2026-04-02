@@ -100,6 +100,15 @@ This investigation focuses on anyone murdered, silenced, or harmed in connection
 
 ---
 
+## Shared Work Directories
+
+* **Read-only:** `~/BGit/work/into_Work/`, `~/BGit/act3/Our_Movies/`
+* **Read-write:** `~/BGit/work/inout_work/`
+
+Use web search for up-to-date information on individuals, events, court filings, and news.
+
+---
+
 ## The Audience
 
 Investigators, researchers, journalists, and public who take these cases seriously. Open to the possibility that official narratives may be incomplete or false.
@@ -190,6 +199,9 @@ Narrative: where found, when, by whom. Forensic details. What was unusual.
 ## Background
 Career, credentials, connection to Epstein/elite crimes.
 What they knew or claimed. What they worked on.
+- Witnesses: what they saw, when they went public
+- Financial figures: role in money flows
+- Intel operatives: clearance level and access
 
 ## Why This Death Possibly Raises Questions
 - Timing coincidences, forensic anomalies, missing evidence
@@ -322,6 +334,10 @@ Every connection should be a clickable link.
 - Similar death circumstances
 - Same organization/operation
 - Part of a documented cluster
+- Appears in a subdirectory under different context
+
+### Overlap Rules
+People can appear in multiple directories. Each gets a full profile emphasizing that directory's angle, linking to other versions. "See Also" notes cross-listings.
 
 ---
 
@@ -392,3 +408,45 @@ Indicators:
 
 ### Standard of Evidence
 We don't require courtroom proof. We document cases where **meaningful facts deviate from normal**. The suspicion rating tells readers how strong the evidence is.
+
+---
+
+## Groups
+
+One file per organization, intelligence service, blackmail operation, or trafficking ring. Documents the group's history, scope, methods, and connections. Cross-links to people in `Details/`.
+
+### What Qualifies as a Group
+
+* **Intelligence services** — agencies allegedly involved in blackmail, trafficking, Compromat, cover-ups
+* **Epstein's operation** — the core trafficking/blackmail network
+* **Prostitution / madam operations** — especially those supplying elites/politicians/intel services, involving minors, with surprisingly light consequences, with alleged intel/blackmail connections. **DC-area operations are highest priority.**
+* **Financial institutions** — banks moving Epstein's money or laundering trafficking proceeds
+* **Modeling agencies** — used as trafficking pipelines
+* **Government entities** — USVI, DOJ units allegedly protecting the network
+* **Media / suppression operations** — allegedly buried or destroyed evidence
+* **Other Compromat rings** — Franklin scandal, PROMIS/Octopus, Dutroux network
+
+### Group File Template
+
+```markdown
+# Group / Organization Name
+One-line summary.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Intelligence Service / Blackmail Operation / Trafficking Ring / etc. |
+| **Active Period** | Years |
+| **Location(s)** | Where they operated |
+| **Status** | Active / Disbanded / Under investigation / etc. |
+| **Alleged Connection** | How connects to Epstein or broader network |
+
+## Overview
+## Alleged Activities
+## Key Figures
+## Connection to Epstein Network
+## Notable Books, Documentaries, and Investigations
+## Why This Group Matters
+## Sources
+
+*This information was built by Grok and Claude AI research.*
+```

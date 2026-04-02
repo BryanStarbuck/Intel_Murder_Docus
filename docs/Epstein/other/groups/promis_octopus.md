@@ -1,0 +1,93 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# PROMIS Software / The Octopus
+Intelligence surveillance software stolen from Inslaw Inc., backdoored, and distributed worldwide — the predecessor blackmail/surveillance operation to Epstein's network.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Intelligence Operation / Software Surveillance |
+| **Active Period** | ~1982–1990s (primary operation); legacy ongoing |
+| **Location(s)** | Washington DC, worldwide distribution |
+| **Status** | Operation exposed; software evolved into modern surveillance tools |
+| **Alleged Connection** | Robert Maxwell distributed backdoored PROMIS for Mossad; Danny Casolaro investigated and was killed; precursor to Epstein-style intelligence blackmail |
+
+## Overview
+
+PROMIS (Prosecutors Management Information System) was case management software developed by Inslaw Inc. in the early 1980s. The U.S. Department of Justice allegedly stole the software, and intelligence agencies — reportedly [Mossad](mossad.md) and [CIA](cia.md) — modified it with a backdoor that allowed covert surveillance of any system running it. The backdoored software was then sold to intelligence agencies, banks, and governments worldwide, giving the operators access to their most sensitive data.
+
+[Robert Maxwell](../../../Details/Robert_Maxwell.md) allegedly served as the primary distributor of the backdoored software for Mossad. Journalist [Danny Casolaro](../../../Details/Danny_Casolaro.md) was investigating this operation — which he called "The Octopus" — when he was found dead in a hotel bathtub with his wrists slashed 10–12 times in August 1991. Maxwell died three months later.
+
+## Alleged Activities
+
+* U.S. DOJ allegedly stole PROMIS software from Inslaw Inc., violating its contract
+* Intelligence agencies (reportedly CIA and Mossad) modified the software with a surveillance backdoor
+* [Robert Maxwell](../../../Details/Robert_Maxwell.md) allegedly distributed the backdoored version to intelligence agencies worldwide
+* The software was reportedly sold to banks, law enforcement agencies, and governments — giving the operators access to their data
+* The operation connected to the BCCI banking scandal, Iran-Contra, and other covert operations
+* [Danny Casolaro](../../../Details/Danny_Casolaro.md) called the network behind this "The Octopus" — a global conspiracy linking intelligence agencies, organized crime, and government corruption
+
+## Key Figures
+
+* [Robert Maxwell](../../../Details/Robert_Maxwell.md) — Alleged primary distributor for Mossad; **fell from yacht November 1991**
+* [Danny Casolaro](../../../Details/Danny_Casolaro.md) — Journalist investigating "The Octopus"; **wrists slashed August 1991**, three months before Maxwell's death
+* **Bill Hamilton** — Owner of Inslaw Inc.; fought for decades to get justice for the theft of his software
+* **Michael Riconosciuto** — Claimed to have modified PROMIS with the backdoor at the Cabazon Indian Reservation; arrested 8 days after filing his affidavit; imprisoned on drug charges he alleged were fabricated
+* **Earl Brian** — Allegedly involved in distributing PROMIS through Hadron Inc.; convicted of fraud
+* **Rafi Eitan** — Head of the Israeli intelligence bureau Lekem; allegedly orchestrated the PROMIS theft by visiting Inslaw posing as a prosecutor
+* **Ari Ben-Menashe** — Former Israeli military intelligence; found programmer Yahuda Ben-Hanan in Silicon Valley to construct the backdoor; confirmed aspects of the PROMIS distribution
+* **Alan Standorf** — NSA civilian employee who allegedly leaked PROMIS documents to Casolaro; **found beaten to death January 1991**
+* **Anson Ng** — Financial Times journalist investigating BCCI in Guatemala; **shot dead July 1991** with documents missing
+* **Paul Wilcher** — Attorney investigating PROMIS; delivered 105-page affidavit to AG Janet Reno; **found dead June 1993**, body cremated without complete forensic exam
+* **Ian Spiro & family** — Held supporting documentation for Inslaw grand jury; wife and three children **found shot dead November 1992**; Spiro found dead of cyanide
+
+## Connection to Epstein Network
+
+The PROMIS operation and the Epstein operation share a common thread: both were allegedly intelligence operations designed to gather compromising material on powerful people for leverage. The connection runs through the Maxwell family:
+
+1. **[Robert Maxwell](../../../Details/Robert_Maxwell.md)** distributed backdoored PROMIS software for Mossad
+2. Robert Maxwell's daughter **[Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md)** became the operational leader of Epstein's sexual blackmail network
+3. Both operations allegedly served [Mossad](mossad.md) intelligence objectives
+4. Danny Casolaro and Robert Maxwell died within three months of each other in 1991
+5. The PROMIS operation gathered intelligence through technology; the Epstein operation gathered it through sexual compromise — both served the same alleged purpose
+
+## Notable Books, Documentaries, and Investigations
+
+* *The Octopus* — Kenn Thomas and Jim Keith (1996) — Based on Casolaro's research
+* *The Last Circle* — Cheri Seymour (2010) — Continuation of Casolaro's investigation
+* *American Conspiracy: The Octopus Murders* — Netflix documentary (2024) — Renewed public interest
+* *The Samson Option* — Seymour Hersh (1991) — Covers Maxwell's intelligence role
+* *Robert Maxwell, Israel's Superspy* — Dillon and Thomas (2002)
+* *One Nation Under Blackmail* — Whitney Webb (2022) — Connects PROMIS to Epstein
+* Congressional investigations into the Inslaw affair (1990s)
+* Multiple DOJ and congressional reports
+
+## Why This Group Matters
+
+* PROMIS represents the template for intelligence-agency surveillance and blackmail operations
+* The Maxwell family's involvement in both PROMIS and Epstein creates a direct lineage
+* Danny Casolaro's death demonstrates the lethal consequences of investigating these operations
+* The operation shows how stolen technology was weaponized for intelligence gathering — a precursor to modern surveillance concerns
+
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — PROMIS theft originated at DOJ; DC-based operation
+- [Other U.S. Locations](../locations/other_us.md) — Danny Casolaro killed in Martinsburg, WV
+
+## See Also
+
+- [Mossad](mossad.md) — Robert Maxwell distributed backdoored PROMIS for Israeli intelligence
+- [CIA](cia.md) — CIA allegedly modified PROMIS with surveillance backdoor
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Maxwell family links both operations across generations
+- [Robert Maxwell](../../../Details/Robert_Maxwell.md) — Alleged primary distributor; died three months after Casolaro
+- [Danny Casolaro](../../../Details/Danny_Casolaro.md) — Journalist investigating "The Octopus"; wrists slashed August 1991
+
+## Sources
+
+- [Wikipedia: Inslaw](https://en.wikipedia.org/wiki/Inslaw)
+- [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)
+- [Wikipedia: American Conspiracy: The Octopus Murders](https://en.wikipedia.org/wiki/American_Conspiracy:_The_Octopus_Murders)
+- [Fox News: 'Octopus Murders' conspiracy puts spotlight on journalist's mysterious 'suicide'](https://www.foxnews.com/us/octopus-murders-conspiracy-puts-spotlight-journalists-mysterious-suicide)
+- [CovertAction Magazine: Declassified documents on Danny Casolaro's death](https://covertactionmagazine.com/2018/06/17/declassified-documents-call-into-question-official-washington-narrative-of-danny-casolaros-death/)
+- Congressional report: "The INSLAW Affair" (September 10, 1992)
+
+*This information was built by Grok and Claude AI research.*

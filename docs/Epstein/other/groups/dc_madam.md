@@ -1,0 +1,105 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# DC Madam Operation (Pamela Martin and Associates)
+Elite escort service run by Deborah Jeane Palfrey that exposed Washington DC power brokers; Palfrey found hanged after conviction despite saying she would never hang herself.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Prostitution / Blackmail Operation |
+| **Active Period** | 1993–2006 |
+| **Location(s)** | Washington DC metro area |
+| **Status** | Defunct; operator dead; full client list never released |
+| **Alleged Connection** | Parallel elite sex operation targeting DC power brokers; same hanging pattern as Epstein-linked deaths; full client list suppressed |
+
+## Overview
+
+Deborah Jeane Palfrey, known as the "DC Madam," operated Pamela Martin and Associates, a high-end escort service that catered to Washington DC's political and governmental elite from 1993 to 2006. Her phone records contained 10,000–15,000 numbers belonging to senators, Pentagon officials, State Department officials, FBI employees, IRS employees, and White House officials.
+
+After her conviction in April 2008, Palfrey was found hanged in a storage shed at her mother's mobile home in Tarpon Springs, Florida — just 16 days after conviction. This was despite her explicit public statement in 2007: "I'd never want my life to end in suicide" — specifically referencing hanging.
+
+## Alleged Activities
+
+* Operated a high-end escort service servicing Washington DC elites for 13 years
+* Client list included 10,000–15,000 phone numbers of government officials
+* Confirmed clients included Senator David Vitter (R-LA), Deputy Secretary of State Randall Tobias, and Pentagon adviser Harlan Ullman
+* Multiple unnamed White House officials, lobbyists, and intelligence agency employees were among clients
+* Attorney Sibley listed 174 entities that had dialed the service, including the FBI, State Department, Department of Commerce, HHS, IRS, U.S. Army Training and Doctrine Command, and U.S. Coast Guard
+* Most of Palfrey's escorts reportedly operated around **McLean, Virginia** — the location of CIA headquarters
+* Palfrey's defense team tried to invoke the **Classified Information Procedures Act (CIPA)** — a mechanism used only when classified information or intelligence officer identities must be discussed in court
+* Some reports link **CIA logistics officer Kyle "Dusty" Foggo** to helping Palfrey get released after a 1993 California arrest, suggesting possible CIA involvement
+* The vast majority of powerful clients were never publicly identified
+* Attorney Montgomery Blair Sibley fought for years after Palfrey's death to release the full client records
+* The U.S. Supreme Court denied Sibley's request to release the records
+
+## Key Figures
+
+* [Deborah Jeane Palfrey](../../../Details/Deborah_Jeane_Palfrey.md) — Operator; convicted April 2008; **found hanged May 1, 2008**
+* **Brandy Britton** — Palfrey employee and former University of Maryland professor; **hanged herself January 2007** before trial on prostitution charges
+* **Sen. David Vitter** — Confirmed client; survived politically
+* **Randall Tobias** — Deputy Secretary of State; resigned after exposure
+* **Harlan Ullman** — Pentagon adviser; named in records
+* **Montgomery Blair Sibley** — Palfrey's attorney; fought to release client records after her death
+
+## Pattern of Deaths
+
+Two women connected to this operation died by hanging:
+1. **Brandy Britton** — Hanged herself January 2007 before trial
+2. [Deborah Jeane Palfrey](../../../Details/Deborah_Jeane_Palfrey.md) — Found hanged May 2008, 16 days after conviction
+
+This mirrors the broader pattern of hangings among those connected to elite sex operations: [Epstein](../../../Details/Jeffrey_Epstein.md), [Brunel](../../../Details/Jean_Luc_Brunel.md), [Bowers](../../../Details/Thomas_Bowers.md), [Middleton](../../../Details/Mark_Middleton.md), and others.
+
+## Connection to Epstein Network
+
+Palfrey's operation was not directly connected to Epstein, but it demonstrates the broader ecosystem of elite sex operations in Washington DC:
+- Both operations collected records that could expose powerful government officials
+- Both operators died before their full client lists could be exposed
+- The DC Madam's client base overlapped geographically and demographically with Epstein's network of powerful contacts
+- The suppression of Palfrey's records parallels the sealing and redaction of Epstein documents
+- Together with [Craig Spence's operation](craig_spence.md) and the [Franklin scandal](franklin_scandal.md), the DC Madam case shows that DC has been a hub for politically compromising sex operations for decades
+
+## Connection to Other DC Operations
+
+Washington DC has been the site of multiple elite sex operations with potential blackmail implications:
+- **[Craig Spence](craig_spence.md)** — DC lobbyist who organized midnight White House tours with male prostitutes (1989)
+- **[Henry Vinson Escort Service](henry_vinson_escort_service.md)** — Largest gay escort service in DC; supplied escorts to Spence; clients allegedly included CIA Director Casey (1986–1989)
+- **[Franklin scandal](franklin_scandal.md)** — Alleged trafficking of minors to DC parties (1980s)
+- **[2023 DC Brothel Network](2023_dc_brothel_network.md)** — Modern operation near Boston and DC suburbs; Palfrey's former lawyer publicly compared the two cases
+- **The [Epstein network](jeffrey_epstein_network.md)** — Multiple DC-area victims and contacts
+
+## Notable Books, Documentaries, and Investigations
+
+* *Madam: A Memoir* — Deborah Jeane Palfrey (planned but never published)
+* CNN documentary: *DC Madam: The Woman Who Knew Too Much* (HLN, 2017)
+* Dan Moldea investigation — Journalist who was working with Palfrey on a book
+* Montgomery Blair Sibley's legal battles to release client records
+
+## Why This Group Matters
+
+* Demonstrates that elite sex operations in DC are not isolated to Epstein
+* The suppression of the full client list — upheld by the Supreme Court — shows institutional protection of powerful people
+* Palfrey's death adds to the pattern of individuals who possess compromising information about elites dying before that information is fully revealed
+* Her explicit statement against hanging, followed by death by hanging, is one of the most cited examples in conspiracy research
+
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — McLean, VA base of operations; near CIA HQ
+- [South Florida](../locations/south_florida.md) — Palfrey died in Tarpon Springs
+
+## See Also
+
+- [Craig Spence Operation](craig_spence.md) — 1980s DC blackmail operation using sex to compromise politicians
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — DC's largest gay escort service; supplied escorts to Spence
+- [Franklin Scandal](franklin_scandal.md) — Alleged trafficking of minors to DC parties in the same era
+- [2023 DC Brothel Network](2023_dc_brothel_network.md) — Modern operation; Palfrey's former lawyer compared the two cases
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Parallel pattern of operator death before full client exposure
+
+## Sources
+
+- [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
+- [ABC News: D.C. Madam Found Dead](https://abcnews.go.com/Blotter/story?id=4765743&page=1)
+- [CNN: DC Madam — The Woman Who Knew Too Much](https://www.cnn.com/interactive/2017/hln/how-it-really-happened/dc-madam-the-woman-who-knew-too-much/)
+- [NBC News: SCOTUS Denies Request to Release DC Madam's Info](https://www.nbcnews.com/news/us-news/scotus-denies-request-dc-madam-s-attorney-release-info-n551121)
+- [Washington Examiner: DC Madam said 'I'd never want my life to end in suicide'](https://www.washingtonexaminer.com/sports/386522/eerie-flashback-dc-madam-said-id-never-want-my-life-to-end-in-suicide/)
+- [Tampa Bay Times: Doubters Say D.C. Madam's Death Not Suicide](https://www.tampabay.com/archive/2008/05/03/doubters-say-d-c-madam-s-death-not-suicide/)
+
+*This information was built by Grok and Claude AI research.*

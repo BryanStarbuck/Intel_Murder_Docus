@@ -73,6 +73,7 @@ Churkin was one of Russia's most prominent and skilled diplomats. He served as R
 
 - [Carlos Prats](Carlos_Prats.md): Chilean general killed by a DINA car bomb in Buenos Aires. Operation Condor hunted dissidents across continents.
 - [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 - [Dulcie September](Dulcie_September.md): ANC representative shot dead in Paris while investigating South African arms deals. Case still unsolved after 38 years.
 
 ## Sources

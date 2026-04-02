@@ -1,0 +1,135 @@
+[< Back to Main List](../../README.md) | [Podcasts](podcasts.md) | [YouTube Channels](youtube_channels.md) | [Groups](groups/README.md) | [Locations](../../locations.md)
+
+# Books
+
+A comprehensive list of nonfiction books investigating Jeffrey Epstein, elite blackmail operations, intelligence-linked trafficking, suspicious deaths, and the suppression of advanced energy technology.
+
+---
+
+## Epstein / Elite Crimes & Cover-Ups
+
+### Core Epstein Investigation
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **One Nation Under Blackmail, Vol. 1 & 2** | Whitney Webb | 2022 | The definitive work connecting Epstein to intelligence agencies (Mossad, CIA), organized crime, PROMIS software, and decades of sexual blackmail as political control. Essential reading. |
+| **Perversion of Justice** | Julie K. Brown | 2021 | Miami Herald reporter whose investigation directly led to Epstein's 2019 arrest. Documents the sweetheart deal, lead detective [Joe Recarey](../../Details/Joe_Recarey.md)'s unexpected death, and systematic obstruction. |
+| **Filthy Rich** | James Patterson, John Connolly, Tim Malloy | 2016 | First major account of Epstein's crimes. #1 NYT Bestseller, adapted into Netflix docuseries. Co-author [John Connolly](../../Details/John_Connolly.md) died in 2022. |
+| **Relentless Pursuit** | Bradley J. Edwards, Brittany Henderson | 2020 | The victims' attorney's insider account of a decade fighting Epstein's legal team. Documents [Alfredo Rodriguez](../../Details/Alfredo_Rodriguez.md)'s attempt to expose the black book. |
+| **A Convenient Death** | Alana Goodman, Daniel Halper | 2020 | Focuses on the circumstances of [Epstein's death](../../Details/Jeffrey_Epstein.md) at MCC — broken cameras, sleeping guards, forensic anomalies. |
+| **TrafficKing: The Jeffrey Epstein Case** | Conchita Sarnoff | 2019 | First nonfiction deep-dive with legal document PDFs. Longest-running trafficking case in U.S. history. |
+| **The Spider** | Barry Levine | 2020 | Pulitzer-nominated journalist on the Epstein-Maxwell relationship and the question of where Epstein's money came from. |
+| **Epstein: Dead Men Tell No Tales** | Dylan Howard, Melissa Cronin, James Robertson | 2019 | Alleges Epstein and Maxwell ran a "honey-trap" blackmail operation for intelligence services. |
+| **Who Killed Epstein?** | Shaun Attwood | 2021 | Examines Epstein's death and intelligence connections. Multiple suspicious deaths documented. |
+| **Jeffrey Epstein: Predator Spy** | Kirby Sommers | 2021 | Intelligence agency connections to Epstein's operation. |
+
+### Victim and Survivor Accounts
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **Nobody's Girl** | [Virginia Giuffre](../../Details/Virginia_Giuffre.md), Amy Wallace | 2025 | Posthumous memoir by Epstein's most prominent accuser, published after her April 2025 death. |
+| **Silenced No More** | Sarah Ransome | 2021 | Survivor account from Epstein's island. |
+| **Ghislaine Maxwell: An Unauthorized Biography** | Kirby Sommers, Greg Olear | 2021 | Profile of [Maxwell](../../Details/Ghislaine_Maxwell.md) compiled from FBI records, interviews, and newspaper clippings. Written by an investigative journalist and sex-slave survivor. |
+
+### Intelligence, Blackmail, and Organized Crime
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **Robert Maxwell, Israel's Superspy** | Gordon Thomas, Martin Dillon | 2002 | Contends [Robert Maxwell](../../Details/Robert_Maxwell.md) was murdered by Mossad after trying to extort the intelligence service. Critical for understanding the Maxwell family's intel connections. |
+| **American Kompromat** | Craig Unger | 2021 | NYT bestseller on how the Epstein-Maxwell operation provided kompromat. Based on exclusive interviews with KGB, CIA, and FBI sources. |
+| **The Octopus** | Kenn Thomas, Jim Keith | 1996 | Reconstructs [Danny Casolaro](../../Details/Danny_Casolaro.md)'s investigation into the PROMIS software network before he was found dead in a West Virginia hotel in 1991. |
+| **The Last Circle** | Cheri Seymour | 2010 | 18 years of research into PROMIS, covert ops, narcotics trafficking, and Casolaro's murder. Companion to *The Octopus*. |
+| **Elite Predators** | Shaun Attwood | 2022 | Broader pattern of elite predators — from Jimmy Savile and Lord Mountbatten to Epstein and Maxwell — protected by institutions. |
+| **Programmed to Kill** | David McGowan | 2004 | Links between serial killers, organized child abuse networks, intelligence agencies, and MK-ULTRA. McGowan died of cancer in 2015 at age 55. |
+
+### The Franklin Scandal
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **The Franklin Scandal** | Nick Bryant | 2009 | Documents a nationwide pedophile ring in Omaha with connections to politicians, CIA, and Boys Town. Structural parallels to Epstein. |
+| **The Franklin Cover-Up** | John W. DeCamp | 1992 | The original account by a Nebraska state senator. Documents [Gary Caradori](../../Details/Gary_Caradori.md) saying he had evidence that would "blow the case wide open" — days before his plane exploded. Basis for the suppressed documentary *Conspiracy of Silence*. |
+
+### UK Elite Abuse Networks
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **In Plain Sight** | Dan Davies | 2014 | How BBC presenter Jimmy Savile was protected by police, BBC, NHS, and political figures for decades. Won the Gordon Burn Prize. See [Jimmy Savile group file](groups/jimmy_savile.md). |
+
+### Suspicious Deaths and Cover-Ups
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **The New Clinton Body Count** | Press Graye | 2022 | Compiles suspicious deaths connected to Bill and Hillary Clinton over thirty years. Overlaps with Epstein-connected deaths. |
+| **Open Verdict** | Tony Collins | 1990 | Investigates 25 British GEC-Marconi scientists who worked on classified defense projects and died under mysterious circumstances (1982–1990). Same pattern as energy suppression deaths. |
+| **Profiting from Scandal** | Levi Kavan | 2025 | Economic and power dynamics revealed by Epstein files. |
+
+---
+
+## Advanced Energy Suppression
+
+### Core Energy Suppression Books
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **Fire from Ice** | Eugene Mallove | 1991 | MIT scientist's insider account of the organized campaign to discredit cold fusion. **Mallove was murdered in 2004 at age 56** — beaten to death, officially attributed to robbery. He was editor of *Infinite Energy* magazine and the most prominent cold fusion advocate. |
+| **The Hunt for Zero Point** | Nick Cook | 2001 | Jane's Defence Weekly aerospace editor traces antigravity research from Nazi programs through U.S. black budgets. Written by a credentialed mainstream defense journalist. |
+| **Suppressed Inventions and Other Discoveries** | Jonathan Eisen (editor) | 1999 | Over 40 documented cases of scientific cover-ups including anti-gravity devices, limitless energy sources, and suppressed medical treatments. |
+| **The Free Energy Cover-up** | Ronald E. Hudkins | 2020 | Documents technologies that surfaced only to be illegally seized or suppressed — Tesla, Stanley Meyer, backyard inventors, and whistleblowers. |
+| **Infinite Energy Technologies** | Finley Eversole (editor) | 2013 | Profiles five suppressed geniuses: Nikola Tesla (work seized by FBI after death 1943), Viktor Schauberger (forced to sign over all work, died days later 1958), Royal Raymond Rife (lab destroyed), T. Townsend Brown, John Worrell Keely. |
+| **Lost Science** | Gerry Vassilatos | 1999 | Documents deliberate suppression of Tesla, Rife, T. Townsend Brown, and T. Henry Moray. Claims humanity lives hundreds of years behind intended technology level. |
+| **Breakthrough Power** | Jeane Manning, Joel Garbon | 2009 | Award-winning overview of suppressed and emerging energy technologies from journalistic and scientific perspectives. |
+
+### Cold Fusion / LENR
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **Excess Heat** | Charles G. Beaudette | 2002 | How cold fusion was mistakenly dismissed through errors of scientific protocol and institutional politics rather than honest evaluation. |
+| **The Rebirth of Cold Fusion** | Steven B. Krivit, Nadine Winocur | 2004 | How cold fusion research continued underground despite institutional suppression after 1989. See also [B. Stanley Pons](../../Details/B_Stanley_Pons.md) — Epstein claimed "i killed pons years ago." |
+
+### Zero-Point Energy and Antigravity
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **The Energy Machine of T. Henry Moray** | Moray B. King | 2005 | T. Henry Moray's 1920s device that reportedly output 50 kilowatts from vacuum energy. Moray was shot at, his lab destroyed, and his patent refused. His working device was smashed by a research associate. |
+| **Energy from the Vacuum** | Thomas E. Bearden | 2002 | Technical treatise by retired U.S. Army Lt. Colonel arguing extractable vacuum energy exists and working devices have been suppressed. Bearden reported receiving threats. |
+| **The SS Brotherhood of the Bell** | Joseph P. Farrell | 2006 | Oxford-educated historian on Nazi "Die Glocke" antigravity device and how the research was absorbed into U.S. black programs after WWII. |
+
+### Water Fuel and Alternative Propulsion
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **The Water Fuel Cell Invention of Stan Meyer** | Stan Meyer, Thomas Valone PhD | Posthumous | Technical documentation of Stanley Meyer's water fuel cell. **Meyer died suddenly in 1998 at age 57**, collapsing at a restaurant after allegedly saying "they poisoned me." His prototype vanished after his death. |
+
+### Disclosure and Classified Energy Programs
+
+| Title | Author(s) | Year | Focus |
+|-------|-----------|------|-------|
+| **Disclosure** | Steven M. Greer MD | 2001 | Testimony from 400+ military/government witnesses about classified energy and propulsion systems. Multiple witnesses reported threats or career destruction. |
+| **Unacknowledged** | Steven M. Greer MD | 2017 | Updated disclosure thesis arguing suppressed energy technology would end global poverty and reverse environmental damage. Companion to documentary. |
+
+---
+
+## Online Resources
+
+| Title | Author | Format | Focus |
+|-------|--------|--------|-------|
+| **Energy Invention Suppression Cases** | Gary Vesperman | Online document | Most comprehensive single list: 90+ cases of energy suppression, including 23+ people killed, 26+ threatened with death, 7+ imprisoned. |
+
+---
+
+## Cross-References to This Project
+
+Several books directly document people profiled in this project:
+
+- Whitney Webb's *One Nation Under Blackmail* covers [Robert Maxwell](../../Details/Robert_Maxwell.md), [Danny Casolaro](../../Details/Danny_Casolaro.md), and the [PROMIS](groups/promis_octopus.md) operation
+- Julie Brown's *Perversion of Justice* documents [Joe Recarey](../../Details/Joe_Recarey.md)'s death and Alexander Acosta's sweetheart deal
+- Bradley Edwards' *Relentless Pursuit* covers [Alfredo Rodriguez](../../Details/Alfredo_Rodriguez.md)'s black book exposure
+- DeCamp's *The Franklin Cover-Up* documents [Gary Caradori](../../Details/Gary_Caradori.md)'s plane explosion
+- Eugene Mallove, author of *Fire from Ice*, was himself murdered in 2004
+- Stanley Meyer, subject of *The Water Fuel Cell Invention*, died under suspicious circumstances in 1998
+- Tony Collins' *Open Verdict* documents the same pattern of scientist deaths seen in the [Zero Point Energy](Zero_Point_Energy/README.md) project
+- Epstein emailed about cold fusion: *"i killed pons years ago"* — see [B. Stanley Pons](../../Details/B_Stanley_Pons.md)
+
+---
+
+*This information was built by Grok and Claude AI research.*

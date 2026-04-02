@@ -138,6 +138,7 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 
 ## See Also
 
+- [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot who flew cocaine for the Contras; murdered in 1986 before he could testify
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent tortured and killed investigating CIA-connected drug trafficking in Mexico
 - [Manuel Buendia](Manuel_Buendia.md) — Mexican journalist murdered in 1984 while investigating CIA-drug trafficking connections
 - [Bill Cooper](Bill_Cooper.md) — author and broadcaster who discussed CIA drug trafficking; killed by law enforcement in 2001
@@ -153,6 +154,7 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 - [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it "friendly fire" and burned his uniform.
 - [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Enrique Camarena](Enrique_Camarena.md): DEA agent tortured for 30 hours on tape. The CIA allegedly knew where he was held and did nothing.
+- [Barry Seal](Barry_Seal.md): Top CIA drug pilot murdered days before trial. His phone had George H.W. Bush's private number in it.
 
 ## Sources
 

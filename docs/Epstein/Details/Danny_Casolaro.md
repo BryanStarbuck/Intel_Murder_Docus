@@ -94,6 +94,10 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
 - [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 
+## Netflix Documentary
+
+In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https://www.netflix.com/title/81168725), a four-part documentary series directed by Zachary Treitz. The series follows photojournalist Christian Hansen as he picks up Danny Casolaro's investigation decades later, re-examining the PROMIS software theft, the Octopus network, and the circumstances of Casolaro's death. The documentary brought renewed public attention to the case and introduced a new generation to the questions surrounding his death.
+
 ## Sources
 
 - [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)
@@ -103,7 +107,7 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - [Fox News: 'Octopus Murders' conspiracy puts spotlight on journalist's mysterious 'suicide'](https://www.foxnews.com/us/octopus-murders-conspiracy-puts-spotlight-journalists-mysterious-suicide)
 - [Washington Post: Journalist's Brother Questions Suicide Ruling](https://www.washingtonpost.com/archive/local/1992/01/27/journalists-brother-questions-suicide-ruling/cd054681-80d1-4236-ae3e-15225c79a8c8/)
 - [Washington Post: What Killed Danny Casolaro?](https://www.washingtonpost.com/archive/lifestyle/1991/08/31/what-killed-danny-casolaro/ea110460-d4d0-4052-a84c-3660b6989ebe/)
-- [Netflix Tudum: What Happened to Danny Casolaro? American Conspiracy — The Octopus Murders](https://www.netflix.com/tudum/articles/american-conspiracy-octopus-murders-release-date-trailer-news)
+- [Netflix: American Conspiracy: The Octopus Murders (2024)](https://www.netflix.com/title/81168725)
 - [The Daily Beast: American Conspiracy — The Octopus Murders Uncovers Danny Casolaro Death](https://www.thedailybeast.com/american-conspiracy-the-octopus-murders-uncovers-danny-casolaro-death/)
 - [Bustle: The Octopus Murders — What Happened To Danny Casolaro?](https://www.bustle.com/entertainment/the-octopus-murders-what-happened-to-danny-casolaro)
 - [The Cinemaholic: Tony Casolaro — Danny Casolaro's Brother Has Come to Terms With His Loss Today](https://thecinemaholic.com/tony-casolaro/)

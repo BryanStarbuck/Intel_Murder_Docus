@@ -1,0 +1,156 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md) | [UAP Deaths](../UAPs/README.md)
+
+# AFRL Scientist Cluster (2025-2029)
+Six people linked to the Air Force Research Laboratory ecosystem — including the co-inventor of a strategic national security superalloy, the general who funded its development, and three employees at Wright-Patterson AFB — have vanished or died under unusual circumstances in a nine-month span.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Death/Disappearance Cluster / Defense Research |
+| **Active Period** | June 2025 – February 2026 (ongoing) |
+| **Location(s)** | Southern California, New Mexico, Ohio (geographic triangle) |
+| **Status** | Under investigation by six separate jurisdictions |
+| **Alleged Connection** | All connected to AFRL research ecosystem: materials, sensors, propulsion, nuclear, planetary defense |
+
+## Overview
+
+In nine months (June 2025 – February 2026), six people linked to the Air Force Research Laboratory ecosystem have vanished or died under unusual circumstances. According to The Sentinel Network, which first documented this pattern in their March 18, 2026 investigation "THE LONG COUNT," the connections between these individuals span patent filings, congressional testimony, DTIC records, DOE advisory board rosters, and federal contract databases.
+
+The cases span a geographic triangle connecting three nodes of American defense aerospace research: Southern California (JPL/Caltech corridor), New Mexico (Kirtland AFB, Sandia, LANL), and Ohio (Wright-Patterson AFB). According to The Sentinel Network, six separate jurisdictions are investigating individual cases with no cross-referencing mandate between them.
+
+Behind the six primary cases lies an earlier death — that of Dallis Hardwick, co-inventor of the Mondaloy superalloy and AFRL Materials Directorate researcher at Wright-Patterson, who died of cancer in 2014 under circumstances The Sentinel Network describes as unusually undocumented for a researcher of her significance.
+
+## The People (Chronological Order)
+
+### 1. Monica Jacinto Reza — VANISHED June 22, 2025
+JPL/NASA researcher and co-inventor of Mondaloy, a strategic national security superalloy (Patent US 2010/0266442 A1). Vanished from Angeles National Forest, California. According to The Sentinel Network, FLIR searches returned negative results and a scent trail ended at a misplaced beanie. She was reportedly declared dead four days later while helicopters were still searching. No body has been recovered.
+
+### 2. Melissa Casias — VANISHED June 26, 2025
+LANL employee and DOE NNMCAB advisory board member. Vanished from Ranchos de Taos, New Mexico — four days after Reza. According to The Sentinel Network, there was a badge discrepancy: Casias allegedly drove through LANL's security gate (which required a badge), then told her daughter she had "forgotten her badge." Both of her phones were reportedly factory-reset. She was last seen walking toward Carson National Forest with a backpack.
+
+### 3. Jacob Prichard — DEAD October 25, 2025
+AFRL Sensors Directorate Acquisition Project Manager at Wright-Patterson AFB, Ohio. According to reports, Prichard killed his wife Jaymee, then colleague 1st Lt. Jaime Gustitus, then himself. AFOSI is reportedly investigating. According to The Sentinel Network, no confirmed motive has been established months later — no confirmed affair, no restraining order, and no documented history of domestic violence.
+
+### 4. Jaymee Prichard — DEAD October 25, 2025
+AFLCMC Finance employee at Wright-Patterson AFB. According to reports, she was strangled by her husband Jacob Prichard. She was reportedly earning an MBA while working full-time.
+
+### 5. 1st Lt. Jaime Gustitus — DEAD October 25, 2025
+AFRL 711th Human Performance Wing, reportedly TS/SCI cleared. According to reports, she was shot by Jacob Prichard at her Sugarcreek Township condo. Air Force Academy class of 2022. Held a Master's in Operations Research from AFIT, specializing in mathematical and quantitative modeling for aerospace.
+
+### 6. Dr. Nuno Loureiro — MURDERED December 15, 2025
+Director of the MIT Plasma Science and Fusion Center. Murdered in Brookline, Massachusetts. According to The Sentinel Network, this case has a weaker institutional proximity connection to the AFRL cluster. The killer, Claudio Valente, allegedly planned for three or more years: burner phones, no credit cards, and a pre-staged storage unit in New Hampshire since approximately 2022. The Sentinel Network notes that a mass shooting at Brown University occurred two days before, and raises the question of whether the shooting may have "buried a precision hit in the noise of a spree attack." According to The Sentinel Network, McCasland's Riverside Research board seat encompasses plasma physics research.
+
+### 7. Carl Grillmair — SHOT DEAD February 16, 2026
+Caltech/IPAC instrument characterization specialist for the NEO Surveyor mission. Shot dead on his porch in Llano, California. He had 147 peer-reviewed papers, nearly 30 years at Caltech, and had built his own observatory. According to The Sentinel Network, on December 20, 2025, Grillmair caught an armed trespasser named Freddy Snyder on his property with an unregistered rifle. Snyder was arrested on two felony charges. Those charges were reportedly dismissed on February 5, 2026 under PC 1385. Eleven days later, according to reports, Snyder returned and killed him. The Sentinel Network reports that the judge who dismissed the charges has not been identified in public records.
+
+### 8. Maj. Gen. William Neil McCasland — VANISHED February 27, 2026
+Former AFRL Commander at Kirtland/Phillips Site, Albuquerque, New Mexico. According to reports, McCasland funded the Mondaloy maturity project under a $4.4 billion portfolio. He ran Phillips Research Site at Kirtland — AFRL's Directed Energy Directorate. His wife was reportedly an astronaut semifinalist. According to The Sentinel Network, he was connected to $450 million in active defense contracts. The FBI is reportedly assisting in the search. No confirmed sightings or direction of travel have been reported.
+
+### Background Figure: Dallis Hardwick — DIED January 5, 2014
+Reza's mentor and Mondaloy co-inventor. AFRL Materials Directorate researcher at Wright-Patterson AFB. Died of stage IV breast cancer at Hospice of Dayton. According to The Sentinel Network, the only U.S. death record is a stub page on a funeral home aggregator — no AFRL memorial, no newspaper listing. A university on the other side of the world reportedly published her memorial a decade later.
+
+## Pattern Analysis
+
+According to The Sentinel Network's investigation, several patterns emerge from this cluster.
+
+### Geographic Triangle
+Three nodes of American defense aerospace research form a triangle:
+- **Southern California** — JPL/Caltech corridor (Reza vanished, Grillmair killed)
+- **New Mexico** — Kirtland AFB, Sandia, LANL (Casias vanished, McCasland vanished)
+- **Ohio** — Wright-Patterson AFB (Prichard triple, Hardwick career)
+
+### The Mondaloy Chain
+According to The Sentinel Network, the entire chain of human expertise behind Mondaloy — a strategic national security superalloy — has been broken:
+- **Inventor** (Reza) — gone
+- **Commander** who funded it (McCasland) — gone
+- **Mentor** who co-invented it (Hardwick) — dead
+
+The Sentinel Network states that every person who held the complete institutional memory of how Mondaloy went from laboratory curiosity to flight-qualified engine component has been removed from the system.
+
+### Identical Vanishing Signatures
+According to The Sentinel Network, three disappearances share precise signatures:
+- No bodies recovered
+- Trails severed
+- Belongings left behind
+- Digital trails cut (phones wiped or left behind, badge anomalies, scent trails ending)
+
+### Timeline Acceleration
+- June 22: Reza. June 26: Casias. (4 days apart)
+- Four months of silence
+- October 25: Wright-Patterson triple
+- December 15: Loureiro
+- February 5: Snyder charges dismissed. February 16: Grillmair dead. February 27: McCasland gone.
+- Three events in 22 days in February
+
+### Jurisdictional Fragmentation
+Six separate jurisdictions, with no cross-referencing mandate:
+- LASD Homicide Bureau (Reza)
+- Bernalillo County Sheriff/FBI (McCasland)
+- LASD Homicide Bureau (Grillmair)
+- Ohio BCI + AFOSI + 3 county agencies (Wright-Patterson)
+- New Mexico State Police (Casias)
+- Norfolk County DA (Loureiro)
+
+As The Sentinel Network observes: "Nobody is looking at this list as a list."
+
+### The Marconi Parallel
+Between 1982 and 1990, approximately 25 British scientists and engineers connected to GEC-Marconi died under suspicious circumstances. Most worked on Sting Ray torpedo or SDI programs. The UK MOD maintained the deaths were unrelated. According to The Sentinel Network, the AFRL cluster shares the same structural architecture: defense-connected individuals, anomalous circumstances, individual explanations that individually satisfy, and an institutional posture that prevents pattern recognition by distributing cases across jurisdictions.
+
+## Key Quotes
+
+> "The entire chain of human expertise behind a strategic national security technology — the alloy enabling American independence from Russian rocket engines — has been broken." — The Sentinel Network, March 18, 2026
+
+> "Nobody is looking at this list as a list." — The Sentinel Network
+
+> "I think we ought to be paying attention to it." — Congressman Tim Burchett, March 2026
+
+## Contact Information
+
+The following contact information was published by The Sentinel Network for anyone with information:
+
+- **Monica Reza:** LASD Homicide Missing Persons, Det. Rincon/Sanchez (323) 890-5500
+- **William McCasland:** Text BCSO to 847411 or call (505) 468-7070
+- **Carl Grillmair:** Sheriff's Homicide Bureau (323) 890-5500
+- **Wright-Patterson:** Lt. Jason Moore, Miami County Sheriff (937) 440-6085 ext. 3991
+- **Melissa Casias:** NM State Police (505) 425-6771
+
+## Key Figures
+
+- [Monica Jacinto Reza](../UAPs/Details/Monica_Jacinto_Reza.md) — Mondaloy inventor, vanished
+- [Melissa Casias](../UAPs/Details/Melissa_Casias.md) — LANL/DOE, vanished
+- [Jacob Prichard](../UAPs/Details/Jacob_Prichard.md) — AFRL Sensors, perpetrator/dead
+- [Jaymee Prichard](../UAPs/Details/Jaymee_Prichard.md) — AFLCMC, victim
+- [Jaime Gustitus](../UAPs/Details/Jaime_Gustitus.md) — AFRL 711th HPW, victim
+- [Nuno Loureiro](../UAPs/Details/Nuno_Loureiro.md) — MIT plasma physicist, murdered
+- [Carl Grillmair](../UAPs/Details/Carl_Grillmair.md) — Caltech/IPAC, shot dead
+- [William McCasland](../UAPs/Details/William_McCasland.md) — Former AFRL Commander, vanished
+- [Dallis Hardwick](../UAPs/Details/Dallis_Hardwick.md) — Mondaloy co-inventor, died 2014
+
+## Connection to Sibling Directories
+
+- [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.md) — the historical parallel
+- Several of these individuals also appear in [UAP Deaths](../UAPs/README.md) and [Zero Point Energy](../Zero_Point_Energy/README.md)
+
+## Why This Cluster Matters
+
+The network connecting these people is not a theory. It is patent filings, congressional testimony, DTIC records, DOE advisory board rosters, and federal contract databases. According to The Sentinel Network, the structural architecture of the response — distributing cases across six jurisdictions that never talk to each other — guarantees that no one will see the pattern unless someone builds the list.
+
+The Mondaloy superalloy chain is the most concrete thread: a named technology, named inventors, a named funder, documented patents, and documented AFRL contracts. According to The Sentinel Network, every person who held the complete institutional memory of that program is now dead or missing.
+
+Whether these cases are connected or coincidental, the question raised by The Sentinel Network and echoed by Congressman Tim Burchett is whether anyone with cross-jurisdictional authority is examining them as a group.
+
+## Navigation
+
+- Previous period: [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.md)
+- Next period: (none yet)
+
+## Sources
+
+- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE GHOST GENERAL — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-ghost-general)
+- [THE DEAD DROP — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-dead-drop-an-anonymous-x-account)
+- [THE GREEN BURIAL — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
+- [Daily Mail: Mystery of five missing scientists](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html) (March 22, 2026)
+- [Six Defense Scientists Dead Or Missing — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
+- Various LASD, BCSO, FBI, Ohio BCI press releases as cited by The Sentinel Network
+
+*This information was built by Grok and Claude AI research.*

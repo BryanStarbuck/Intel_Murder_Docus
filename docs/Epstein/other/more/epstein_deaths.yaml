@@ -1,0 +1,254 @@
+persons:
+  - name: Jeffrey Epstein
+    location: New York City, New York
+    year: 2019
+    cause_of_death: Hanging (ruled suicide, disputed by family)
+    person_type: Co-conspirator
+    sources:
+      - url: https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein
+        title: Death of Jeffrey Epstein - Wikipedia
+        description: Official account of Epstein's death in Manhattan jail
+        summary: Found hanging in Metropolitan Correctional Center cell on August 10, 2019
+
+  - name: Virginia Giuffre
+    location: Neergabby, Western Australia
+    year: 2025
+    cause_of_death: Suicide
+    person_type: Accuser/Victim
+    sources:
+      - url: https://www.nbcnews.com/news/us-news/virginia-giuffre-one-jeffrey-epsteins-prominent-abuse-survivors-dies-s-rcna203027
+        title: Virginia Giuffre, survivor of Jeffrey Epstein abuse, dies by suicide
+        description: Prominent Epstein accuser dies at age 41
+        summary: Died April 25, 2025, expressed safety fears in 2019 court filing about retaliation from powerful figures
+
+  - name: Leigh Skye Patrick
+    location: West Palm Beach, Florida
+    year: 2017
+    cause_of_death: Accidental heroin overdose
+    person_type: Victim
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Mysterious Deaths Linked to Jeffrey Epstein Over the Years
+        description: Timeline of suspicious deaths connected to Epstein
+        summary: Died May 30, 2017 at age 29, was 16 when lured to Epstein's mansion in 2003, mother Michelle Licata also an Epstein survivor
+
+  - name: Joe Recarey
+    location: Palm Beach, Florida
+    year: 2018
+    cause_of_death: Brief illness (reportedly sleep apnea complications)
+    person_type: Law Enforcement
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Mysterious Deaths Linked to Jeffrey Epstein Over the Years
+        description: Timeline of suspicious deaths connected to Epstein
+        summary: Died May 2018 at age 50, Palm Beach Police detective who led 2005-2008 investigation, decorated officer with 150+ commendations
+
+  - name: Alfredo Rodriguez
+    location: Unknown
+    year: 2014
+    cause_of_death: Mesothelioma (rare cancer)
+    person_type: Staff Member
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Mysterious Deaths Linked to Jeffrey Epstein Over the Years
+        description: Timeline of suspicious deaths connected to Epstein
+        summary: Died December 28, 2014 at age 60, Epstein's former house manager who kept copy of "black book", sentenced to 18 months for obstruction of justice
+
+  - name: Marvin Minsky
+    location: Unknown
+    year: 2016
+    cause_of_death: Cerebral hemorrhage (natural)
+    person_type: Scientist
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Mysterious Deaths Linked to Jeffrey Epstein Over the Years
+        description: Timeline of suspicious deaths connected to Epstein
+        summary: Died January 24, 2016 at age 88, MIT AI pioneer, Virginia Giuffre claimed Maxwell directed her to have sex with Minsky in 2001
+
+  - name: Michael Jackson
+    location: Los Angeles, California
+    year: 2009
+    cause_of_death: Acute propofol and benzodiazepine intoxication (ruled homicide)
+    person_type: Island Visitor
+    sources:
+      - url: https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534
+        title: Mysterious Deaths Linked to Jeffrey Epstein Over the Years
+        description: Timeline of suspicious deaths connected to Epstein
+        summary: Died June 25, 2009 at age 50, reportedly visited Epstein's Palm Beach mansion once in 2003, no evidence linking to crimes
+
+  - name: Efrain "Stone" Reyes
+    location: Unknown
+    year: 2020
+    cause_of_death: COVID-19
+    person_type: Prison Guard/Cellmate
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died November 2020 at age 51, Epstein's last cellmate, died weeks after talking with federal investigators, transferred out one day before Epstein's death
+
+  - name: Kenneth Starr
+    location: Unknown
+    year: 2022
+    cause_of_death: Surgical complications
+    person_type: Lawyer
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died September 2022 at age 76, attorney who helped Epstein win West Palm Beach case
+
+  - name: Roy Black
+    location: Home
+    year: 2025
+    cause_of_death: Natural causes
+    person_type: Lawyer
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died July 2025 at age 80, attorney who helped Epstein win West Palm Beach case
+
+  - name: John Connolly
+    location: Unknown
+    year: 2022
+    cause_of_death: Unknown
+    person_type: Journalist
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died January 2022 at age 78, NYPD detective and Epstein book author
+
+  - name: Jean-Luc Brunel
+    location: Paris, France
+    year: 2022
+    cause_of_death: Hanging
+    person_type: Co-conspirator
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died February 2022, head of French modeling agency, found hanged in Paris prison cell while awaiting trial for allegedly trafficking girls to Epstein
+      - url: https://www.bbc.com/news/world-europe-60443518
+        title: Jean-Luc Brunel - Epstein associate found dead in Paris prison
+        description: BBC report on Brunel's death
+        summary: Model agent being investigated for rape and supplying girls to Jeffrey Epstein
+
+  - name: Steve Bing
+    location: Los Angeles, California
+    year: 2020
+    cause_of_death: Jumped from 27th floor (suicide)
+    person_type: Business Associate
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died June 2020 at age 55, movie producer who talked to FBI about Epstein before jumping from apartment building
+
+  - name: Thomas Bowers
+    location: California
+    year: 2019
+    cause_of_death: Hanging
+    person_type: Financial Advisor
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died November 2019, head of Deutsche Bank wealth management division that moved money for Epstein, found hanged at home
+      - url: https://lamag.com/politics/deutsche-bank-death/
+        title: Former Deutsche Bank Exec Connected to Trump Loans Dies
+        description: LA Magazine report on Bowers death
+        summary: Onetime head of Deutsche Bank's American wealth-management division
+
+  - name: Steven Hoffenberg
+    location: Derby, Connecticut
+    year: 2022
+    cause_of_death: Unknown (found dead in apartment)
+    person_type: Business Associate
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died August 2022 at age 77, financier and Epstein's mentor, revealed Epstein and Maxwell were taping honey-trap videos
+      - url: https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead
+        title: Jeffrey Epstein mentor Steven Hoffenberg was found dead
+        description: NPR report on Hoffenberg's death
+        summary: Believed to have died at least seven days before body was found by police
+
+  - name: Arthur Shapiro
+    location: Unknown
+    year: 1985
+    cause_of_death: Gunned down (murder)
+    person_type: Financial Advisor
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died March 1985 at age 43, Epstein's predecessor at L Brands, killed weeks before IRS questioning about illegal tax shelters, unsolved murder
+
+  - name: Berry L. Kessler
+    location: Georgia federal prison
+    year: 2005
+    cause_of_death: Natural causes (in prison)
+    person_type: Co-conspirator
+    sources:
+      - url: https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/
+        title: 22 People Connected To Jeffrey Epstein Have Died Under Mysterious Circumstances
+        description: Comprehensive list of Epstein-related deaths
+        summary: Died 2005 at age 84, prime suspect in Shapiro murder, convicted of planning two murder-for-hire plots
+
+  - name: Bill Richardson
+    location: Unknown
+    year: 2023
+    cause_of_death: Illness
+    person_type: Politician
+    sources:
+      - url: https://en.wikipedia.org/wiki/Bill_Richardson
+        title: Bill Richardson - Wikipedia
+        description: Wikipedia entry for former New Mexico governor
+        summary: Died September 1, 2023, former UN ambassador and New Mexico governor, mentioned in Epstein files, met with Epstein for years after conviction
+
+  - name: Unknown Foreign Girl 1
+    location: Zorro Ranch, New Mexico
+    year: Unknown
+    cause_of_death: Strangulation (alleged)
+    person_type: Victim
+    sources:
+      - url: https://www.aa.com.tr/en/americas/newly-released-epstein-files-in-the-spotlight/3820244
+        title: Newly released Epstein files in the spotlight
+        description: Anadolu Agency report on new Epstein files
+        summary: Email claims 2 foreign women were strangled to death and buried near Epstein's Zorro Ranch in New Mexico, unverified allegation
+
+  - name: Unknown Foreign Girl 2
+    location: Zorro Ranch, New Mexico
+    year: Unknown
+    cause_of_death: Strangulation (alleged)
+    person_type: Victim
+    sources:
+      - url: https://www.aa.com.tr/en/americas/newly-released-epstein-files-in-the-spotlight/3820244
+        title: Newly released Epstein files in the spotlight
+        description: Anadolu Agency report on new Epstein files
+        summary: Email claims 2 foreign women were strangled to death and buried near Epstein's Zorro Ranch in New Mexico, unverified allegation
+
+  - name: Mark Middleton
+    location: Perryville, Arkansas
+    year: 2022
+    cause_of_death: Hanging and shotgun wound (ruled suicide)
+    person_type: Politician/Business Associate
+    sources:
+      - url: https://www.reddit.com/r/Epstein/comments/1mr04gc/more_than_two_dozen_people_linked_to_jeffrey/
+        title: Reddit discussion - More Than Two Dozen People Linked to Jeffrey Epstein
+        description: Discussion of suspicious deaths including Mark Middleton
+        summary: Died May 2022 at age 59, advisor to President Bill Clinton with ties to Epstein, found hanged with shotgun wound, shotgun found 30 feet from body, records sealed by judge
+
+  - name: Ruslana Korshunova
+    location: New York City, New York
+    year: 2008
+    cause_of_death: Jumped from ninth-floor apartment balcony (suicide)
+    person_type: Model/Island Visitor
+    sources:
+      - url: https://katu.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york
+        title: Up-and-coming model killed herself 2 years after visiting Epstein's island
+        description: Model died two years after visiting Little St. James
+        summary: Died June 2008, visited Little St. James in June 2006 at age 18, flew on Lolita Express with Epstein and Sarah Kellen, struggled with work-life balance and longed for home

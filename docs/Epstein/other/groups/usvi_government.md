@@ -1,0 +1,73 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# U.S. Virgin Islands Government
+Territorial government that actively protected Jeffrey Epstein's operations on Little St. James Island through two governors and multiple officials.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Government Entity / Protection Apparatus |
+| **Active Period** | ~2000–2022 |
+| **Location(s)** | U.S. Virgin Islands (St. Thomas, St. Croix) |
+| **Status** | Under scrutiny; multiple officials implicated in 2026 file releases |
+| **Alleged Connection** | Governor texted Epstein "We got u"; former first lady on Epstein payroll; AG fired for pursuing Epstein case |
+
+## Overview
+
+The U.S. Virgin Islands government provided institutional protection for Jeffrey Epstein's operations on Little St. James Island for nearly two decades. Text messages, FBI documents, and court filings released in 2025–2026 reveal that two USVI governors, a former first lady, and multiple officials actively helped Epstein evade sex offender requirements, dodge environmental enforcement, and obstruct the investigation into his crimes.
+
+## Alleged Activities
+
+* According to released text messages, Governor Albert Bryan texted Epstein "We got u" and "For u absolutely" months before Epstein's 2019 arrest
+* According to Denise George's FBI interview, Bryan pressured her to grant Epstein a waiver from the 21-day sex offender reporting requirement
+* According to George, Bryan asked her: "I can't get you to let this go?" regarding the Epstein investigation
+* According to George, Bryan accused her of "going after people who are members of our team" when she pursued Epstein's estate. Bryan has not publicly responded to these specific allegations.
+* According to JPMorgan's court filings, former First Lady Cecile de Jongh was allegedly on Epstein's payroll at $200,000/year
+* De Jongh allegedly acted as Epstein's "local fixer" and "primary conduit" in the USVI government, according to JPMorgan
+* According to released communications cited in court filings, de Jongh allegedly helped Epstein craft legislation to weaken sex offender monitoring, reportedly asking him: "This is the suggested language; will it work for you?"
+* According to JPMorgan's filings, de Jongh allegedly helped Epstein obtain student visas for three of his victims. De Jongh has not publicly responded to these allegations.
+* AG [Denise George](../../../Details/Denise_George.md) was fired four days after filing a landmark lawsuit against JPMorgan Chase
+* George told the FBI she felt threatened after pursuing the case
+
+## Key Figures
+
+* **Governor Albert Bryan Jr.** — According to released text messages, communicated directly with Epstein. According to Denise George's account, pressured AG regarding the investigation. Fired AG after JPMorgan lawsuit. Has not publicly responded to these allegations.
+* **Cecile de Jongh** — Former USVI First Lady (wife of Gov. John de Jongh, 2007–2015); according to JPMorgan's court filings, allegedly on Epstein's payroll at $200K/year and allegedly helped craft favorable legislation. Has not publicly responded.
+* **Governor John de Jongh** — Governor 2007–2015; wife worked for Epstein during his tenure
+* [Denise George](../../../Details/Denise_George.md) — USVI Attorney General who aggressively pursued Epstein's estate; fired by Bryan; told FBI she felt threatened
+* Carol Thomas-Jacobs — Replaced George as AG after her firing
+
+## Connection to Epstein Network
+
+The USVI government was not merely negligent — it actively facilitated Epstein's operations. The combination of a governor protecting Epstein, a former first lady on his payroll crafting favorable legislation, and an attorney general fired for pursuing the case demonstrates institutional capture at every level.
+
+Epstein chose the USVI for his operations precisely because of the territory's small government, which was susceptible to financial influence. He donated to local charities, hired local officials, and embedded himself in the territory's power structure.
+
+The USVI eventually secured a $105 million settlement from Epstein's estate and played a key role in the $290 million [JPMorgan Chase](jpmorgan_chase.md) settlement — but only after George's successor continued the litigation she started.
+
+## Why This Group Matters
+
+* Demonstrates how Epstein purchased governmental protection at the territorial level
+* Shows the personal risk faced by officials who tried to hold Epstein accountable ([Denise George](../../../Details/Denise_George.md) fired, told FBI she felt threatened)
+* Reveals that Epstein's influence extended to crafting actual legislation in his favor
+* The USVI's protection apparatus enabled Epstein to operate Little St. James for over 20 years
+
+## Related Locations
+
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — Little St. James and government protection
+
+## See Also
+
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — USVI government actively protected Epstein's island operations
+- [JPMorgan Chase](jpmorgan_chase.md) — AG Denise George sued JPMorgan and was fired four days later
+- [Denise George](../../../Details/Denise_George.md) — USVI AG who pursued Epstein's estate; fired and threatened
+
+## Sources
+
+- [St. Thomas Source: Epstein Documents Shed Light on Former AG's Ouster](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/)
+- [Mediaite: Text Messages Show Democrat Governor Was Helping Epstein](https://www.mediaite.com/media/news/for-u-absolutely-text-messages-show-democrat-governor-was-helping-jeffrey-epstein-months-before-his-2019-arrest/)
+- [NBC News: JPMorgan alleges wife of USVI ex-governor aided Epstein](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365)
+- [PBS: U.S. Virgin Islands fires attorney general in Jeffrey Epstein cases](https://www.pbs.org/newshour/nation/u-s-virgin-islands-fires-attorney-general-in-jeffrey-epstein-cases)
+- [Lee Fang: Jeffrey Epstein Exploited the U.S. Virgin Islands for a Reason](https://www.leefang.com/p/jeffrey-epstein-exploited-the-us)
+- [Law & Crime: Epstein had 'close ties' to Virgin Islands governor](https://lawandcrime.com/jeffrey-epstein-2/jeffrey-epstein-had-close-ties-to-virgin-islands-governor-who-fired-crusading-ag-behind-jpmorgan-suit-doc/)
+
+*This information was built by Grok and Claude AI research.*

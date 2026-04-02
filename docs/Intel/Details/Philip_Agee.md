@@ -125,6 +125,7 @@ In his final years, Agee operated a travel agency website called CubaLinda.com, 
 - [William Colby](William_Colby.md) — Former CIA Director who cooperated with Church Commission; died under suspicious circumstances
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed after becoming a security risk; demonstrates CIA willingness to eliminate its own
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; career destroyed, died of alleged suicide
+- [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned informant; allegedly exposed by CIA
 - [Danny Casolaro](Danny_Casolaro.md) — Investigated PROMIS software and CIA connections; died before key meeting
 - [Karen Silkwood](Karen_Silkwood.md) — Whistleblower who died before delivering evidence
 - [David Kelly](David_Kelly.md) — UK weapons inspector who challenged official narrative; died under suspicious circumstances

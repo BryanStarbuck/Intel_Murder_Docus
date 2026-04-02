@@ -74,6 +74,7 @@ Israel had attempted to kill Yassin before: in September 2003, an Israeli airstr
 
 ## Other Shocking Stories
 
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 - [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
 - [Rafael Trujillo](Rafael_Trujillo.md): CIA supplied the weapons. Dominican dictator ambushed and shot in his car. Church Committee confirmed it.

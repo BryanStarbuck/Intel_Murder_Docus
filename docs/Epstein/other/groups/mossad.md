@@ -1,0 +1,116 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# Mossad (Institute for Intelligence and Special Operations)
+Israeli intelligence service allegedly behind the Epstein blackmail operation through the Maxwell family connection.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Intelligence Service |
+| **Active Period** | Ongoing (Epstein connection alleged from ~1980s–2019) |
+| **Location(s)** | Israel (HQ); operations worldwide |
+| **Status** | Active intelligence service; denies Epstein connection |
+| **Alleged Connection** | Robert Maxwell alleged Mossad agent; Epstein allegedly ran sexual blackmail operation for Israeli intelligence; Ari Ben-Menashe's public testimony |
+
+## Overview
+
+Multiple former intelligence operatives, investigative journalists, and authors have alleged that Jeffrey Epstein's sexual blackmail operation was run on behalf of Israeli intelligence (Mossad). The primary connection runs through [Robert Maxwell](../../../Details/Robert_Maxwell.md), Ghislaine Maxwell's father, who was allegedly a longtime Mossad agent. The theory holds that Epstein's operation was a sophisticated "honey trap" — a classic intelligence technique using sexual compromise to gather leverage over politicians, military officials, scientists, and business leaders.
+
+**Important caveat:** Israel's government and Mossad have denied these allegations. Much of the evidence is circumstantial or comes from individuals whose credibility has been questioned. The following documents what has been alleged, not what has been proven.
+
+## Alleged Activities
+
+* According to former Mossad operative Ari Ben-Menashe, Robert Maxwell was recruited by Mossad in the 1960s and served as an agent for decades
+* Ben-Menashe publicly stated that Epstein and Ghislaine Maxwell were running a sexual blackmail operation "ichud" (unified) with Israeli intelligence
+* Robert Maxwell allegedly distributed backdoored [PROMIS software](promis_octopus.md) to intelligence agencies worldwide on behalf of Mossad
+* Seymour Hersh, in *The Samson Option* (1991), documented Maxwell's intelligence ties and claimed Maxwell tried to blackmail Mossad when his financial empire collapsed
+* Multiple authors allege Epstein's properties were wired with hidden cameras to record sexual encounters — a standard intelligence collection technique
+* Epstein's alleged intelligence connections were reportedly why prosecutor Alexander Acosta gave him the lenient 2008 plea deal; Acosta allegedly told the Trump transition team Epstein "belonged to intelligence" and to "leave it alone"
+
+## Key Figures
+
+* [Robert Maxwell](../../../Details/Robert_Maxwell.md) — Alleged Mossad agent; distributed PROMIS software; received Israeli state funeral with six intelligence chiefs attending; **fell from yacht 1991**
+* [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md) — Robert's daughter; allegedly continued father's intelligence role through Epstein operation; serving 20 years
+* [Jeffrey Epstein](../../../Details/Jeffrey_Epstein.md) — Alleged intelligence asset; **found hanged 2019**
+* **Ari Ben-Menashe** — Former Israeli military intelligence operative; publicly alleged Maxwell and Epstein were intelligence assets
+* **Rafi Eitan** — Former Mossad operative; ran the Jonathan Pollard spy ring; reportedly had connections to Robert Maxwell's intelligence activities
+* **Ehud Barak** — Former Israeli PM; reportedly visited Epstein's Manhattan apartment multiple times 2013–2019, according to Daily Mail reporting; reportedly visited Epstein's island. Co-founded **Carbyne** (emergency surveillance tech firm staffed by ex-Israeli intelligence) with Epstein. According to Al Jazeera reporting, the Israeli government allegedly installed security equipment at Epstein's 301 East 66th Street apartment for Barak's visits. Barak has acknowledged knowing Epstein but denied wrongdoing.
+* **Mega Group** — Informal group of up to 50 influential Jewish entrepreneurs (including Les Wexner and Steven Spielberg), co-founded 1991 by Wexner and Charles Bronfman; alleged to have connections to Mossad
+* [Nikolai Mushegian](../../../Details/Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about "CIA and Mossad sex trafficking blackmail ring" four hours before being found drowned in Puerto Rico (2022)
+
+## Robert Maxwell's State Funeral
+
+Robert Maxwell received what was effectively a state funeral in Israel on November 10, 1991, and was buried on the Mount of Olives in Jerusalem. Attendees included:
+- Israeli President Chaim Herzog
+- Israeli Prime Minister Yitzhak Shamir (who eulogized: "He has done more for Israel than can today be said")
+- Six serving and former heads of Israeli intelligence
+
+This funeral is cited by researchers as confirmation of Maxwell's intelligence value to Israel.
+
+## Connection to Epstein Network
+
+The alleged Mossad connection is considered by many researchers to be the key to understanding the Epstein operation:
+- Robert Maxwell provided the intelligence methodology and connections
+- Ghislaine Maxwell provided the operational leadership
+- Epstein provided the social access and financial cover
+- The sexual blackmail material allegedly gave Israel leverage over American and European politicians
+- The [PROMIS software](promis_octopus.md) operation was an earlier version of the same concept — using technology backdoors instead of sexual compromise to gather intelligence
+
+## Connection to Other Groups
+
+* [CIA](cia.md) — Joint involvement in PROMIS software distribution; alleged shared awareness of Epstein operation
+* [PROMIS / The Octopus](promis_octopus.md) — Robert Maxwell distributed backdoored PROMIS for Mossad
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Alleged intelligence backing of the operation
+* [Kroll Associates](kroll_associates.md) — Private intelligence firm that hired former Mossad operatives; Jules Kroll met with Robert Maxwell weeks before his death
+* [Deutsche Bank](deutsche_bank.md) — Financial institution with intelligence community personnel overlap via Kroll
+* [Wexner / L Brands](wexner_l_brands.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Tom Alexandrovich Case](tom_alexandrovich_case.md) — Israeli cyber official (reporting to PM) arrested in FBI child predator sting; returned to Israel after posting bail. Has pleaded not guilty.
+
+## Notable Books, Documentaries, and Investigations
+
+* *Robert Maxwell, Israel's Superspy* — Martin Dillon and Gordon Thomas (2002) — Documents Maxwell's Mossad connections
+* *The Samson Option* — Seymour Hersh (1991) — First major investigation of Maxwell's intelligence ties
+* *Epstein: Dead Men Tell No Tales* — Dylan Howard et al. (2019) — Explores intelligence connections
+* *One Nation Under Blackmail* (Vols. 1 & 2) — Whitney Webb (2022) — Most comprehensive investigation of Epstein-intelligence links
+* *Griftopia* and various investigative articles by journalist Vicky Ward
+* Netflix documentary: *American Conspiracy: The Octopus Murders* (2024) — Covers PROMIS and related operations
+* Al Jazeera investigation: "What Were Jeffrey Epstein's Links to Israel?" (February 2026)
+
+## Why This Group Matters
+
+* If confirmed, the Mossad connection would explain why Epstein was protected by the U.S. justice system for so long
+* It would explain Alexander Acosta's alleged statement about Epstein "belonging to intelligence"
+* The pattern of intelligence-linked blackmail operations (PROMIS, Epstein, potentially others) suggests a systematic approach rather than isolated incidents
+* The 2026 file releases have renewed scrutiny of these connections
+
+### FBI Memo (October 2020)
+
+An FBI Los Angeles field office memo reported a confidential human source (CHS) believed Epstein was "a co-opted Mossad agent" who had been "trained as a spy" for Israel. The same source claimed Alan Dershowitz had also "been co-opted by Mossad." **Caveat:** These are raw, unverified allegations from a single source. The Times of Israel reported the CHS had promoted conspiracy theories, raising credibility questions.
+
+## Related Locations
+
+- [New York City Metro](../locations/new_york_metro.md) — Israeli security installed at Epstein's 301 E. 66th St for Barak
+- [United Kingdom](../locations/united_kingdom.md) — Robert Maxwell's empire was based in London
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — Mushegian tweeted about Mossad trafficking ring in Caribbean
+
+## See Also
+
+- [CIA](cia.md) — Joint involvement in PROMIS distribution; alleged shared awareness of Epstein
+- [PROMIS / The Octopus](promis_octopus.md) — Robert Maxwell distributed backdoored PROMIS software for Mossad
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Alleged Mossad-backed sexual blackmail operation
+- [Kroll Associates](kroll_associates.md) — Hired former Mossad operatives; Jules Kroll met Maxwell before his death
+- [Tom Alexandrovich Case](tom_alexandrovich_case.md) — Israeli cyber official arrested in FBI child predator sting
+
+## Sources
+
+- [Al Jazeera: What Were Jeffrey Epstein's Links to Israel?](https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel)
+- [Al Jazeera: Israel Installed Security at Epstein's Apartment for Ex-PM Barak](https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak)
+- [Middle East Eye: FBI Memo Says Israel 'Compromised' Trump, Epstein Had Mossad Ties](https://www.middleeasteye.net/news/epstein-files-fbi-memo-says-israel-compromised-trump-epstein-had-mossad-ties)
+- [Newsweek: Jeffrey Epstein Rumored Mossad Connection Explained](https://www.newsweek.com/jeffrey-epstein-mossad-tucker-carlson-israel-naftali-2098880)
+- [WION News: Epstein Files — Robert Maxwell Mossad Allegations](https://www.wionews.com/world/epstein-files-robert-maxwell-mossad-allegations-1770127431656)
+- [Times of Israel: For Writer Who Broke Epstein Case, a Rumored Mossad Link Is Worth Digging Into](https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/)
+- [Washington Post: Israel Gives Maxwell Farewell Fit for Hero](https://www.washingtonpost.com/archive/politics/1991/11/11/israel-gives-maxwell-farewell-fit-for-hero/1773995a-0eac-4a3e-abed-1d3254cc0baa/)
+- Dillon & Thomas, *Robert Maxwell, Israel's Superspy* (Carroll & Graf, 2002)
+- Seymour Hersh, *The Samson Option* (Random House, 1991)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

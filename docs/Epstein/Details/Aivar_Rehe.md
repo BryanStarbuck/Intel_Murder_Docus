@@ -67,6 +67,7 @@ Rehe's death fits a pattern of banking executives connected to money laundering 
 
 - [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md): Former Norwegian Prime Minister. Charged with aggravated corruption over alleged Epstein ties; denies all charges. Reportedly hospitalized.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
 
 ## Sources

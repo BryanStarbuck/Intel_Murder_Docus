@@ -1,0 +1,66 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# MC2 Model Management
+Modeling agency co-founded by Jean-Luc Brunel with direct financial backing from Jeffrey Epstein; served as a trafficking pipeline.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Modeling Agency / Trafficking Pipeline |
+| **Active Period** | ~2005–2019 |
+| **Location(s)** | Miami Beach, Florida; Tel Aviv, Israel; New York |
+| **Status** | Defunct |
+| **Alleged Connection** | Directly funded by Epstein; co-founded by his trafficking associate Brunel; used to recruit and traffic young women |
+
+## Overview
+
+MC2 Model Management was a modeling agency founded by [Jean-Luc Brunel](../../../Details/Jean_Luc_Brunel.md) with financial backing from Jeffrey Epstein. Court documents and testimony allege the agency was used as a direct pipeline to provide young women and underage girls to Epstein. The agency operated out of Miami Beach, with additional operations in Tel Aviv and New York.
+
+## Alleged Activities
+
+* Epstein provided the funding to establish the agency, according to court documents
+* Brunel allegedly used the agency to recruit young women from South America, Eastern Europe, and France
+* [Virginia Giuffre](../../../Details/Virginia_Giuffre.md) testified that Brunel sent "three 12-year-old girls" from France to Epstein as a "surprise birthday gift"
+* Models were allegedly housed in apartments controlled by Epstein
+* The agency provided visa sponsorship for foreign models, giving Brunel and Epstein control over their immigration status
+* According to testimony, Epstein bragged about "sleeping with over 1,000 of Brunel's girls"
+
+## Key Figures
+
+* [Jean-Luc Brunel](../../../Details/Jean_Luc_Brunel.md) — Co-founder; found hanged in Paris prison February 2022
+* [Jeffrey Epstein](../../../Details/Jeffrey_Epstein.md) — Financial backer and alleged beneficiary of trafficking
+* [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md) — Introduced Brunel to Epstein; co-conspirator
+
+## Connection to Epstein Network
+
+MC2 was not merely connected to the Epstein network — it was allegedly created as part of it. The financial backing came directly from Epstein, and the agency's co-founder was one of Epstein's most important trafficking associates. The agency provided the infrastructure (visa sponsorship, housing, travel) needed to move young women across international borders.
+
+MC2 represents the evolution of the modeling-industry trafficking pipeline from [Elite Model Management](elite_model_management.md), where Brunel had previously worked. After allegations surfaced about his conduct at Elite, Brunel simply created a new agency — with Epstein's money.
+
+## Why This Group Matters
+
+* Direct financial link between Epstein and a modeling agency used for trafficking
+* Demonstrates how legitimate business structures were created specifically to facilitate abuse
+* The agency's Tel Aviv office raises questions about [intelligence service connections](mossad.md)
+* Brunel's death in prison before trial means the full extent of MC2's operations may never be known
+
+## Related Locations
+
+- [South Florida](../locations/south_florida.md) — Miami Beach headquarters
+- [France](../locations/france.md) — Brunel's base; died in Paris prison
+
+## See Also
+
+- [Elite Model Management](elite_model_management.md) — Predecessor agency where Brunel previously worked
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — MC2 was created as part of Epstein's trafficking infrastructure
+- [Mossad](mossad.md) — MC2's Tel Aviv office raises questions about intelligence connections
+- [Jean-Luc Brunel](../../../Details/Jean_Luc_Brunel.md) — Co-founder; found hanged in Paris prison before trial
+
+## Sources
+
+- [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
+- [BBC News: Jean-Luc Brunel found dead](https://www.bbc.com/news/world-europe-60443518)
+- [NPR: Jean-Luc Brunel found dead in French jail cell](https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead)
+- Court documents from Virginia Giuffre v. Ghislaine Maxwell
+- [Miami Herald: Perversion of Justice](https://www.miamiherald.com/topics/jeffrey-epstein)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,68 @@
+[< Back to Main List](../../../README.md) | [Locations Index](README.md)
+
+# France
+
+Epstein's European base of operations — where his top trafficking associate was found hanged in prison, where Elite Model Management operated, and where a cold fusion scientist Epstein claimed to have "killed" has been hiding for 30 years.
+
+| Field | Details |
+|-------|---------|
+| **Region** | Paris, Strasbourg, southern France |
+| **Deaths** | 2 confirmed; 1 possibly connected (Al Seckel) |
+| **Key Properties** | Epstein's Paris apartment (22 Avenue Foch, 16th arrondissement; sold for $10.4M) |
+| **Key Organizations** | [Elite Model Management](../groups/elite_model_management.md) (Paris HQ), [MC2 Model Management](../groups/mc2_model_management.md) |
+
+## Why France Matters
+
+Paris was the hub of the European modeling industry and Epstein's primary base outside the United States. Epstein maintained an apartment in Paris, and his closest trafficking associate — [Jean-Luc Brunel](../../../Details/Jean_Luc_Brunel.md) — operated [Elite Model Management](../groups/elite_model_management.md) and later [MC2 Model Management](../groups/mc2_model_management.md) from Paris. The French connection also extends to the cold fusion scandal: B. Stanley Pons, whom Epstein wrote "i killed pons years ago" in a 2009 email, has been living reclusive in southern France for three decades.
+
+## Deaths in France
+
+### Paris
+
+- **[Jean-Luc Brunel](../../../Details/Jean_Luc_Brunel.md)** (2022, age 75) — **HIGHLY SUSPICIOUS.** French modeling mogul found hanged in his cell at La Santé Prison while awaiting trial for trafficking girls to Epstein. His death mirrored Epstein's: hanging in a cell, cameras reportedly malfunctioning, awaiting trial. French prosecutors reopened investigation in February 2026. Brunel ran [Elite Model Management](../groups/elite_model_management.md) and founded [MC2](../groups/mc2_model_management.md) with Epstein's direct funding.
+
+### Strasbourg
+
+- **[Anthony Bourdain](../../../Details/Anthony_Bourdain.md)** (2018, age 61) — **SUSPICIOUS.** Celebrity chef found hanged at Le Chambard hotel. Vocal advocate against abusers. His girlfriend Asia Argento was a Harvey Weinstein accuser. No warning signs. Part of the 2017–2018 death cluster. Died 3 days after Kate Spade.
+
+### Southern France
+
+- **[B. Stanley Pons](../../../Details/B_Stanley_Pons.md)** — Cold fusion scientist living reclusive in southern France since the 1990s. Epstein wrote in a 2009 email: "regarding cold fusion. i killed pons years ago." The email recipient, Al Seckel (married to Isabel Maxwell, Ghislaine's sister), was found dead at the base of a 100-foot cliff near Saint-Cirq-Lapopie in southern France in 2015.
+
+## The Modeling Industry Pipeline
+
+France, particularly Paris, was the global center of the modeling industry that allegedly served as a trafficking pipeline:
+
+- **[Elite Model Management](../groups/elite_model_management.md)** — Founded in Paris (1972). Gérald Marie (Paris head) and Jean-Luc Brunel were both accused of systematic sexual abuse of models. Brunel allegedly supplied models to Epstein.
+- **[MC2 Model Management](../groups/mc2_model_management.md)** — Founded by Brunel with Epstein's direct financial backing. Operated in Miami, Tel Aviv, and New York, but Brunel's base remained Paris.
+- [Karen Mulder](../../../Details/Karen_Mulder.md) — Dutch supermodel who alleged on French TV in 2001 that she was raped by Elite Model Management executives. Was reportedly committed to a psychiatric hospital and discredited. Allegedly named Jean-Luc Brunel and Gérald Marie.
+
+## Related Groups
+
+- [Elite Model Management](../groups/elite_model_management.md) — Paris HQ; founded here in 1972
+- [MC2 Model Management](../groups/mc2_model_management.md) — Brunel's Epstein-funded agency
+- [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md) — Paris apartment was European operational base
+
+## Surprising Details
+
+- **12-year-old girls as a "birthday gift"**: [Virginia Giuffre](../../../Details/Virginia_Giuffre.md) testified that Brunel sent 12-year-old girls from France to Epstein as a "surprise birthday gift" and that he acted as a recruiter, luring young girls from disadvantaged backgrounds to the United States with the prospect of modeling jobs.
+- **Brunel's death mirrored Epstein's precisely**: Found hanged with bedsheets in his cell at La Sante Prison at approximately 1:30 a.m. on February 19, 2022, while awaiting trial for rape, sexual assault, criminal conspiracy, and human trafficking involving minors. Like Epstein, he was alone in his cell and cameras reportedly malfunctioned.
+- **Brunel went into hiding after Epstein's death**: Following Epstein's August 2019 death, Brunel disappeared. He was not captured until December 2020, when police intercepted him at Charles de Gaulle airport in Paris. He had been in hiding for over a year.
+- **Six models described systematic drugging and rape**: In 2022, six former models gave detailed accounts of Brunel drugging and raping them when they were teenagers in the 1980s and 1990s. A former Dutch model described being drugged and raped at a Paris apartment. Several women recounted parties where models were staying in an atmosphere of "prostitution and drugs...a climate of sexual violence."
+- **Epstein's Paris apartment at 22 Avenue Foch**: Located in the ultra-exclusive 16th arrondissement, the apartment was searched by French investigators and is believed to have been central to alleged sexual abuse and trafficking activities in Europe.
+- **Gérald Marie also accused**: The head of Elite Model Management's Paris office, Gérald Marie, was separately accused by multiple models of sexual abuse, including by his ex-wife, supermodel Linda Evangelista. Karen Mulder named both Marie and Brunel when she spoke out on French TV in 2001 before being committed to a psychiatric hospital.
+- **French investigation opened August 2019**: Paris prosecutors opened an investigation into rape and sexual assault of minors and criminal conspiracy in connection with the Epstein case within two weeks of his death — moving faster than US authorities had in decades.
+
+## Sources
+
+- [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
+- [CNN: Jean-Luc Brunel found dead in prison cell](https://www.cnn.com/2022/02/19/europe/jean-luc-brunel-jeffrey-epstein-death-intl)
+- [NBC News: Modeling agent linked to Epstein found dead in prison cell](https://www.nbcnews.com/news/world/modeling-agent-linked-jeffrey-epstein-found-dead-prison-cell-rcna16945)
+- [NPR: Epstein associate Jean-Luc Brunel dead in French jail](https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead)
+- [France 24: French model tycoon at heart of Epstein scandal](https://www.france24.com/en/20190820-french-model-tycoon-at-heart-of-epstein-scandal-accusations)
+- [Times of Israel: Investigators search Epstein's Paris home](https://www.timesofisrael.com/investigators-search-epsteins-paris-home-his-associates-model-agency/)
+- [Business Today: Inside Jeffrey Epstein's Paris apartment](https://www.businesstoday.in/world/story/inside-jeffrey-epsteins-paris-apartment-newly-released-images-raise-fresh-questions-518061-2026-02-26)
+- [Wikipedia: Gérald Marie](https://en.wikipedia.org/wiki/G%C3%A9rald_Marie)
+- [Wikipedia: Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain)
+
+*This information was built by Grok and Claude AI research.*

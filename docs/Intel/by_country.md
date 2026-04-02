@@ -25,6 +25,7 @@ All 149 profiles organized by the country where the killing or attack occurred.
 - [Paul Wellstone](Details/Paul_Wellstone.md) — US Senator killed in plane crash, Eveleth MN (2002)
 - [Bill Cooper](Details/Bill_Cooper.md) — Predicted 9/11, shot by sheriff's deputies, Eagar AZ (2001)
 - [Mark Lombardi](Details/Mark_Lombardi.md) — Artist mapping intelligence financial networks found hanged, Brooklyn NY (2000)
+- [Barry Seal](Details/Barry_Seal.md) — CIA-connected drug pilot machine-gunned in car, Baton Rouge LA (1986)
 - [Danny Casolaro](Details/Danny_Casolaro.md) — Journalist investigating PROMIS found with wrists slashed, Martinsburg WV (1991)
 - [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb, FBI blamed her. Died of cancer 1997 (1990)
 - [John Lennon](Details/John_Lennon.md) — Former Beatle shot outside The Dakota, New York City (1980)
@@ -119,6 +120,7 @@ All 149 profiles organized by the country where the killing or attack occurred.
 
 ## Lebanon
 
+- [Hassan Nasrallah](Details/Hassan_Nasrallah.md) — Hezbollah Secretary-General killed by Israeli airstrike, Beirut (2024)
 - [Salah al-Arouri](Details/Salah_al_Arouri.md) — Hamas deputy leader killed by Israeli drone strike, Beirut (2024)
 - [Fuad Shukr](Details/Fuad_Shukr.md) — Hezbollah commander killed by Israeli airstrike, Beirut (2024)
 - [Pierre Gemayel](Details/Pierre_Gemayel.md) — Lebanese anti-Syrian politician shot in car, Beirut (2006)
@@ -289,6 +291,10 @@ All 149 profiles organized by the country where the killing or attack occurred.
 ## Qatar
 
 - [Zelimkhan Yandarbiyev](Details/Zelimkhan_Yandarbiyev.md) — Former Chechen president killed by GRU car bomb, Doha (2004)
+
+## Poland
+
+- [Max Spiers](Details/Max_Spiers.md) — UK conspiracy researcher died in Warsaw (2016)
 
 ## Chechnya / Russia (North Caucasus)
 

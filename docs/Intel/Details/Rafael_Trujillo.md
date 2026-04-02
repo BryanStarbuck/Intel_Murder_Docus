@@ -112,6 +112,7 @@ The assassination ushered in years of political turmoil. Juan Bosch was elected 
 ## Other Shocking Stories
 
 - [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 - [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
 - [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 

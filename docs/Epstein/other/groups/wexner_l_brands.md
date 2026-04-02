@@ -1,0 +1,101 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# Wexner / L Brands Network
+Les Wexner's Columbus, Ohio business empire — the source of Jeffrey Epstein's initial wealth and power, with a pattern of violent deaths among connected individuals.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Business Network / Financial Enabler |
+| **Active Period** | ~1985–2007 (Epstein relationship) |
+| **Location(s)** | Columbus, Ohio; New York City |
+| **Status** | Wexner alive; severed ties with Epstein ~2007 |
+| **Alleged Connection** | Wexner gave Epstein power of attorney, his NYC mansion, and access to extraordinary wealth; Columbus associates died violently |
+
+## Overview
+
+Les Wexner, the billionaire founder of L Brands (Victoria's Secret, Bath & Body Works, The Limited), was Jeffrey Epstein's most important financial patron. Wexner gave Epstein unprecedented power of attorney over his finances, gifted him the largest private residence in Manhattan (a $77 million townhouse), and provided the wealth and legitimacy that enabled Epstein's rise. The relationship began in approximately 1985–1987 and continued until approximately 2007.
+
+The Columbus, Ohio network connected to Wexner also produced a striking pattern of violent deaths spanning from 1970 to 1991, all connected through businessman [Berry L. Kessler](../../../Details/Berry_Kessler.md).
+
+## Alleged Activities
+
+* Wexner granted Epstein sweeping power of attorney over his finances, an arrangement that financial experts have called "unprecedented" and "bizarre"
+* Wexner transferred his 21,000-square-foot Manhattan townhouse (9 East 71st Street) to Epstein — reportedly for $0
+* The townhouse became the primary location of Epstein's abuse of underage girls
+* Wexner's Victoria's Secret brand was allegedly used as a recruitment tool — Epstein reportedly posed as a Victoria's Secret talent scout to lure young women
+* Epstein allegedly defrauded Wexner of $46 million, which Wexner claimed to have discovered only after an audit
+* The Columbus network produced at least five violent deaths connected through Berry Kessler
+
+## Key Figures
+
+* **Les Wexner** — Billionaire L Brands founder; Epstein's primary financial backer; claimed to have been "deceived" by Epstein
+* **[Jeffrey Epstein](../../../Details/Jeffrey_Epstein.md)** — Took over managing Wexner's finances after Arthur Shapiro's murder
+* **[Arthur Shapiro](../../../Details/Arthur_Shapiro.md)** — Wexner's previous financial manager; **gunned down 1985**; Epstein took his position
+* **[Berry L. Kessler](../../../Details/Berry_Kessler.md)** — Columbus businessman; prime suspect in Shapiro murder; convicted in other murder-for-hire; FBI documents link him to Epstein; **died in prison 2005**
+* **[Frank Yassenoff](../../../Details/Frank_Yassenoff.md)** — Kessler's Columbus business partner; **shot to death 1970** along with his fiancee
+* **[Ella Rich](../../../Details/Ella_Rich.md)** — Yassenoff's fiancee; **killed alongside him 1970**
+* **[Marjorie Dyer](../../../Details/Marjorie_Dyer.md)** — Co-signed Yassenoff's will with Kessler; **died in car accident ~1970s**
+* **[John Deroo](../../../Details/John_Deroo.md)** — Kessler's partner; **shot six times in face 1991**; Kessler convicted of the murder
+
+## The Columbus Death Pattern (1970–1991)
+
+The cluster of violent deaths in Columbus connected to Berry Kessler and the Wexner financial orbit is one of the most striking patterns in this investigation:
+
+1. **1970** — [Frank Yassenoff](../../../Details/Frank_Yassenoff.md) and [Ella Rich](../../../Details/Ella_Rich.md) shot to death (unsolved)
+2. **~1970s** — [Marjorie Dyer](../../../Details/Marjorie_Dyer.md) killed in car accident (suspicious timing)
+3. **1985** — [Arthur Shapiro](../../../Details/Arthur_Shapiro.md) gunned down weeks before IRS questioning (unsolved); Epstein takes his position
+4. **1991** — [John Deroo](../../../Details/John_Deroo.md) shot six times in face (Kessler convicted)
+
+## Connection to Epstein Network
+
+The Wexner connection is foundational to the Epstein operation:
+- Without Wexner's money and Manhattan townhouse, Epstein could not have built his network
+- The Victoria's Secret brand provided both a recruiting tool and a veneer of legitimacy
+- Epstein's takeover of Shapiro's role — after Shapiro's murder — raises questions about whether the killing was connected to Epstein's rise
+- FBI documents reference a possible link between Kessler (Shapiro murder suspect) and Epstein
+
+## Connection to Other Groups
+
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Wexner was the financial foundation of Epstein's power
+* [CIA](cia.md) — Southern Air Transport (CIA-owned 1960–1973) relocated to Columbus, Ohio and shipped Wexner's L Brands products
+* [Mossad](mossad.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Deutsche Bank](deutsche_bank.md) — Epstein's bank after JPMorgan; financial nexus
+* [JPMorgan Chase](jpmorgan_chase.md) — Epstein's bank before Deutsche Bank
+
+## Notable Books and Investigations
+
+* *Filthy Rich* — James Patterson (2016) — Covers the Wexner-Epstein financial relationship
+* *One Nation Under Blackmail* — Whitney Webb (2022) — Deep dive into Wexner-Epstein connections
+* The Daily Beast investigation: "Who Murdered Arthur Shapiro?"
+* Unlimited Hangout investigation: "A Kingpin, the Mob, and a Murder"
+
+## Why This Group Matters
+
+* Wexner's wealth was the foundation of Epstein's power
+* The Columbus death pattern suggests a network of violence predating and enabling Epstein's rise
+* Wexner's claim of being "deceived" by Epstein has been widely questioned given the extraordinary financial control he granted
+* The Victoria's Secret connection demonstrates how legitimate brands can be exploited as tools in trafficking operations
+
+## Related Locations
+
+- [Columbus, Ohio](../locations/columbus_ohio.md) — Wexner's base; Southern Air Transport; multiple deaths
+- [New York City Metro](../locations/new_york_metro.md) — Wexner transferred the Manhattan townhouse to Epstein
+
+## See Also
+
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Wexner's wealth was the financial foundation of Epstein's power
+- [CIA](cia.md) — Southern Air Transport (CIA-owned) relocated to Wexner's Columbus base
+- [Mossad](mossad.md) — Mega Group co-founded by Wexner alleged to have Mossad connections
+- [Deutsche Bank](deutsche_bank.md) — Epstein's bank after JPMorgan; financial nexus
+- [Arthur Shapiro](../../../Details/Arthur_Shapiro.md) — Wexner's financial manager gunned down 1985; Epstein took his position
+
+## Sources
+
+- [The Daily Beast: Who Murdered Arthur Shapiro?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
+- [Unlimited Hangout: A Kingpin, the Mob, and a Murder](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [New York Times: Leslie Wexner and Jeffrey Epstein](https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html)
+- [Columbus Free Press: Jeffrey Epstein — There's Much More to the Story](https://columbusfreepress.com/article/jeffrey-epstein-there%E2%80%99s-much-more-story-2)
+- [Wikipedia: Les Wexner](https://en.wikipedia.org/wiki/Les_Wexner)
+- [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

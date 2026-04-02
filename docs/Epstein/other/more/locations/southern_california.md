@@ -1,0 +1,59 @@
+[< Back to Main List](../../../README.md) | [Locations Index](README.md)
+
+# Southern California (Los Angeles Metro)
+
+The largest concentration of Epstein-connected deaths in any single state — spanning the entertainment industry, banking whistleblowers, and the "if I die, it wasn't suicide" cluster.
+
+| Field | Details |
+|-------|---------|
+| **Region** | Los Angeles, Malibu, Palos Verdes Estates, Santa Clarita (Valencia), Brentwood, Franklin Hills, El Sereno |
+| **Deaths** | 9+ |
+| **Key Patterns** | Balcony/building falls, entertainment industry, whistleblower deaths |
+
+## Why Southern California Matters
+
+Los Angeles is the capital of the entertainment industry — and Epstein maintained connections to Hollywood through his social circle. Multiple entertainers who spoke about elite pedophilia or trafficking died in the LA area. The region also saw the deaths of key financial whistleblowers connected to Epstein's banking relationships.
+
+## Deaths in Southern California
+
+### Los Angeles Proper
+
+- **[Steve Bing](../../../Details/Steve_Bing.md)** (2020, age 55) — **MODERATE SUSPICION.** Fell from 27th floor of The Ten Thousand (Century City). Major Clinton donor named in 2026 Epstein files. Had documented depression.
+- **[Michael Jackson](../../../Details/Michael_Jackson.md)** (2009, age 50) — Not suspicious. Died of acute drug intoxication caused by personal physician. Visited Epstein's Palm Beach mansion once in 2003.
+- **[Anne Heche](../../../Details/Anne_Heche.md)** (2022, age 53) — **UNCERTAIN.** Actress died in fiery car crash in Mar Vista. Claimed to be promoting a trafficking film. Toxicology showed cocaine/fentanyl. Part of 2022 death cluster.
+- **[Val Broeksmit](../../../Details/Val_Broeksmit.md)** (2022, age 46) — **UNCERTAIN.** [Deutsche Bank](../groups/deutsche_bank.md) whistleblower and FBI informant. Found dead on Wilson High School campus in El Sereno with blunt-force trauma. Father was Deutsche Bank exec also found dead in London (2014).
+- **[Andrew Breitbart](../../../Details/Andrew_Breitbart.md)** (2012, age 43) — **UNCERTAIN.** Collapsed while walking in Brentwood. Had tweeted about John Podesta and "underage sex slave" cover-ups. Autopsy confirmed heart failure.
+- **[Trevor Moore](../../../Details/Trevor_Moore.md)** (2021, age 41) — **UNCERTAIN.** Comedian fell from second-story balcony in Franklin Hills. Had done viral comedy bit about Epstein's "kill switch." BAC 0.21–0.27. Cameras confirmed fall.
+
+### Malibu
+
+- **[Thomas Bowers](../../../Details/Thomas_Bowers.md)** (2019, age 55) — **SUSPICIOUS.** Head of [Deutsche Bank](../groups/deutsche_bank.md) wealth management that processed Epstein's accounts. Found hanged at home three months after Epstein. Same method as Epstein and Brunel.
+
+### Palos Verdes Estates
+
+- **[Chester Bennington](../../../Details/Chester_Bennington.md)** (2017, age 41) — **SUSPICIOUS.** Linkin Park vocalist found hanged. Close friend of Chris Cornell. Died on Cornell's birthday, same method, two months later. Linked to "Silent Children" trafficking documentary.
+
+### Valencia (Santa Clarita)
+
+- **[Paul Walker](../../../Details/Paul_Walker.md)** (2013, age 40) — **UNCERTAIN.** Actor killed in high-speed car crash (80–93 mph in 45 mph zone). Alleged trafficking discovery during Haiti relief work.
+
+## Patterns
+
+- **Balcony/building falls**: Steve Bing (27th floor), Trevor Moore (2nd story) — part of broader global pattern including Korshunova (NYC), Drozdova (Kyiv), Leigh (London)
+- **Deutsche Bank connection**: Both Thomas Bowers and Val Broeksmit died in the LA area — both connected to [Deutsche Bank](../groups/deutsche_bank.md)'s handling of Epstein's money
+- **Entertainment industry**: Bennington, Moore, Walker, Jackson, Heche — entertainers who either spoke about trafficking or had tangential connections
+- **2022 cluster**: Heche, Broeksmit, and Breitbart's legacy all part of the broader 2022 death cluster year
+- **"If I die" warnings**: Multiple people who died in this region had previously warned about their own deaths
+
+## Related Groups
+
+- [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md)
+- [Deutsche Bank](../groups/deutsche_bank.md) — Bowers and Broeksmit both died in LA area
+
+## Sources
+
+- [LA Times: Steve Bing obituary](https://www.latimes.com/entertainment-arts/story/2020-06-22/steve-bing-dies-film-producer-philanthropist)
+- [TMZ: Trevor Moore cause of death](https://www.tmz.com/2021/12/20/whitest-kids-u-know-star-trevor-moore-s-cause-of-death-revealed/)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

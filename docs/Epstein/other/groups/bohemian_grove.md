@@ -1,0 +1,224 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# Bohemian Grove / Bohemian Club
+Secretive all-male elite retreat in Northern California where presidents, intelligence chiefs, billionaires, and power brokers gather annually; connected to Franklin scandal testimony, intelligence networking, and multiple sex crime allegations against members.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Elite Social Club / Power Networking / Alleged Blackmail Venue |
+| **Active Period** | 1872–present |
+| **Location(s)** | 2,700-acre campground, Monte Rio, Sonoma County, California (along the Russian River); Bohemian Club headquarters at 624 Taylor Street, San Francisco |
+| **Status** | Active; annual two-week July encampment continues |
+| **Alleged Connection** | Franklin scandal victim Paul Bonacci testified about ritualistic abuse at the Grove; multiple members appear in Epstein network; CIA directors gave classified briefings there; leaked 2023 roster overlaps significantly with Epstein-adjacent figures |
+
+## Overview
+
+The Bohemian Club was founded in 1872 in San Francisco as an intellectual retreat for artists, journalists, and writers. It quickly evolved to include "money as well as brains," and by the early 20th century had become one of the most exclusive gatherings of political and financial power in the world. The club's motto — "Weaving Spiders Come Not Here" — ostensibly forbids business dealings, but this rule has been flagrantly violated since at least 1989, according to sociologist G. William Domhoff's research.
+
+Every July, approximately 2,000–2,600 members and guests gather for a two-week encampment in an old-growth redwood forest near Monte Rio. The retreat features the "Cremation of Care" ceremony — a theatrical ritual performed before a 40-foot concrete owl statue at an artificial lake — as well as "Lakeside Talks" by prominent figures on public policy, intelligence matters, and world affairs. Members are organized into approximately 120 named "camps" within the Grove.
+
+The site has been the venue for consequential decisions: in September 1942, the initial planning meeting for the Manhattan Project took place there, with J. Robert Oppenheimer, Ernest Lawrence, and representatives from Standard Oil and General Electric in attendance. In 1967, Richard Nixon and Ronald Reagan reportedly negotiated their presidential primary strategies at the Grove. CIA directors have given classified briefings to members from the lakeside stage.
+
+## Notable Members (Confirmed or Alleged)
+
+### U.S. Presidents
+Herbert Hoover, Dwight Eisenhower, Richard Nixon, Ronald Reagan, George H.W. Bush, George W. Bush
+
+### Intelligence & Military
+- **William Casey** — CIA Director; according to the [Henry Vinson Escort Service](henry_vinson_escort_service.md) account, Casey was allegedly a client of DC-area blackmail operations
+- **William Webster** — CIA Director; gave a lakeside talk at the Grove in 1988 about intelligence matters, portions of which remain redacted in CIA archives
+- **Bobby Inman** — Former NSA Director; named on leaked 2023 roster
+- **Colin Powell** — Chairman of the Joint Chiefs; documented attendee
+- Three former CIA directors were listed as dues-paying members on a 2017 roster, according to reporting by Responsible Statecraft
+
+### Politicians & Government
+- **Henry Kissinger** — Secretary of State under Nixon; long-time member (deceased 2023)
+- **George Shultz** — Secretary of State under Reagan (deceased 2021)
+- **James A. Baker III** — Secretary of State under George H.W. Bush
+- **Edwin Meese III** — U.S. Attorney General under Reagan
+- **Clarence Thomas** — Supreme Court Justice; attended at least six times as guest of billionaire Harlan Crow, according to ProPublica, without disclosing the trips as required
+- **Paul Pelosi** — Named on leaked 2023 roster
+
+### Business & Finance
+- **Michael Bloomberg** — Named on leaked 2023 roster
+- **Eric Schmidt** — Former Google CEO; named on leaked 2023 roster
+- **Charles Koch** — Billionaire industrialist; named on leaked 2023 roster
+- **Bill Koch** — Billionaire; workers alleged in a lawsuit that Koch demanded a staff member hand-wash his underwear
+- **John Fisher** — Oakland A's owner
+- **Charles Schwab** — Financial services founder
+- Multiple generations of the Bechtel family (major defense/construction contractor)
+
+### Media & Entertainment
+- **Conan O'Brien** — Talk show host; named on leaked 2023 roster
+- **Ken Burns** — Documentary filmmaker
+- **Jim Belushi** — Actor
+- **Jimmy Buffett** — Musician (deceased 2023)
+- **Walter Cronkite** — CBS News anchor (deceased 2009); reportedly narrated the Cremation of Care ceremony
+- **Clint Eastwood** — Actor/director
+
+### Historical Members
+Mark Twain, Jack London, Ambrose Bierce, Bret Harte
+
+## The 2023 Leaked Membership Roster
+
+In February 2026, investigative journalist Daniel Boguslaw published a leaked roster of approximately 2,200 members who allegedly attended the 2023 Bohemian Grove retreat. According to reporting by the *San Francisco Standard*, Boguslaw had originally prepared the story for *The Intercept*, which reportedly spiked the piece citing sensitivity concerns. Boguslaw described traveling from Massachusetts to the Bay Area and persistently pursuing a local club member until he received two manila envelopes containing the 2023 camp list. One club member confirmed to reporters that it is a real membership list from 2023.
+
+The leak reignited public scrutiny, particularly in the context of ongoing Epstein file releases. According to *Sonoma Today*, experts have speculated that the exposure of the Grove's membership alongside the Epstein revelations could have far-reaching implications for understanding elite power networks.
+
+## Alleged Activities and Controversies
+
+### The Cremation of Care Ceremony
+
+First performed in 1881, the Cremation of Care is an annual theatrical ritual in which members symbolically "burn" their worldly cares before a 40-foot owl statue. The ceremony was secretly filmed by radio host Alex Jones and cameraman Mike Hanson on July 15, 2000, using hidden cameras. Jones later characterized it as a "ritual sacrifice," though sociologist G. William Domhoff, drawing from ethnographic accounts and leaked scripts, has dismissed occult attributions as exaggerated. Journalist Jon Ronson, who also infiltrated the Grove that night and later wrote about it in *Them: Adventures with Extremists* (2001), described the event as resembling an "overgrown frat party."
+
+### Franklin Scandal Connection — Paul Bonacci Testimony
+
+According to *The Franklin Cover-Up* by John DeCamp (1992), [Franklin scandal](franklin_scandal.md) victim Paul Bonacci testified that he was taken by Lawrence "Larry" King Jr. and others to a wooded area in California that was later identified as the Bohemian Grove. Bonacci alleged he witnessed ritualistic abuse there. In 1999, Bonacci won a $1 million civil judgment against King. This testimony represents the most direct allegation connecting the Grove to the child trafficking networks documented in this project.
+
+### Cathy O'Brien and Other Survivor Accounts
+
+According to survivor accounts published in conspiracy and alternative media, Cathy O'Brien (author of *Trance Formation of America*) and others have alleged being taken to Bohemian Grove and subjected to abuse. According to O'Brien's account, she alleged being "hunted like an animal" at the Grove. These accounts remain highly controversial: they are cited extensively in conspiracy literature but have not been independently verified by mainstream investigative journalism.
+
+### Mickey Gerold — Sex Crime Investigation (2025–2026)
+
+According to the *San Francisco Standard* (February 2026), Michael "Mickey" Gerold, a San Francisco socialite who had been invited to at least two private gatherings at Bohemian Grove, is the subject of an ongoing SFPD Special Victims Unit investigation. A police report filed in October 2025 identifies Gerold as a suspect for sexual assault and administering drugs to commit a felony, with 10 identified victims, according to SFPD Inspector Tony Flores. Gerold's ex-girlfriend alleged that from 2022 to 2024, Gerold coerced her into having sex for money and collected more than $100,000 in profits. Earlier allegations trace back to 1999, when military authorities charged him with raping a West Point graduate; that case was dismissed for lack of evidence. As of March 2026, Gerold has not been charged with any crimes. Gerold has not publicly responded to the allegations reported by the *San Francisco Standard*.
+
+### Ryan Garcia Claims (2024)
+
+In March 2024, professional boxer Ryan Garcia made public claims about Bohemian Grove during a live stream with Andrew Tate. According to reporting by *Fox 11 Los Angeles* and *Sportskeeda*, Garcia alleged: "They took me to the f*cking woods and they tied me down. I have f*cking proof." Garcia further alleged witnessing child abuse at the Grove. Garcia later stated that some of his erratic behavior was deliberate misdirection but maintained his Bohemian Grove claims were genuine. He described experiencing these events "spiritually" and having a "vision" in 2021. Mental health concerns were raised by multiple outlets covering Garcia's statements. Garcia's claims have not been independently verified.
+
+### Prostitution Allegations
+
+According to accounts compiled on the Bohemian Grove Wikipedia talk page and in reporting by *Xtra Magazine*, conspiracy theorists and some researchers have alleged that prostitutes operate near the camp boundaries during the encampment. Some heterosexual club members have reportedly hired female prostitutes at the nearby Northwood Golf Club lounge, according to these accounts. Longtime Grove protester Mary Moore stated that the more sensational allegations about Satanism and prostitution are "all bullshit," though she maintained concerns about the Grove's role in secret policy-making.
+
+### Worker Abuse and Wage Theft
+
+The Bohemian Club has faced multiple class-action lawsuits over worker exploitation:
+
+- **2016**: Settled a class-action wage theft lawsuit involving more than 600 plaintiffs for **$7 million**
+- **2023**: Three workers — Anthony Gregg, Shawn Granger, and Wallid Saad — filed a new class-action lawsuit in U.S. District Court alleging violations of the Fair Labor Standards Act and California labor law. Workers alleged they were required to work more than 15 hours per day, seven days a week, close to 100 hours per week, but were instructed to clock only 40 hours. The club allegedly failed to pay minimum wage, overtime, or meal/break premiums
+- **2025**: The lawsuit was settled. Workers also alleged being forced to hand-wash the underwear of billionaire members, having restricted access to phone calls, and being stiffed on final paychecks
+
+### Clarence Thomas Ethics Scandal
+
+According to a ProPublica investigation (April 2023), Supreme Court Justice Clarence Thomas accepted at least six undisclosed trips to Bohemian Grove as a guest of billionaire Harlan Crow. Members typically must pay thousands of dollars to bring a guest. Thomas also vacationed on Crow's superyacht, flew on his private jet, and stayed at his Adirondacks resort. In June 2024, Thomas acknowledged he "inadvertently omitted" these trips from his financial disclosures. According to ProPublica, Crow also paid for boarding school tuition exceeding $6,000/month for a boy Thomas said he was raising "as a son."
+
+## Intelligence Connections
+
+The Grove functions as what *Responsible Statecraft* has described as a networking hub between the Pentagon, intelligence agencies, and defense contractors:
+
+- **CIA briefings**: In 1988, sitting CIA Director William Webster gave a lakeside talk about intelligence matters at the Grove, portions of which remain redacted in CIA archives
+- **Three former CIA directors** were listed as dues-paying members on a 2017 roster
+- **Manhattan Project**: The September 1942 S-1 committee meeting under the redwoods led directly to Oppenheimer being tapped to lead the atomic bomb program
+- **Nuclear weapons policy**: In 1980, activist Mary Moore and SONOMoreAtomics cross-checked the Bohemian Grove membership list with individuals known to be profiting from nuclear weapons
+- The 2023 attendance list reportedly included former national security advisers, former chairs of the Joint Chiefs of Staff, and former NSA directors
+- A document titled "The Bohemian Grove and Other Retreats" was found in the CIA's reading room and separately in the Abbottabad compound (Osama bin Laden's residence)
+
+According to the club's own documented history, although the motto "Weaving Spiders Come Not Here" ostensibly prohibits business and policy discussions, this rule is routinely ignored. The Grove functions as what critics describe as a private, invitation-only venue where the revolving door between government, intelligence, military, and the private sector operates without public accountability.
+
+## Infiltrations and Investigations
+
+| Year | Investigator | Method | Key Finding |
+|------|-------------|--------|-------------|
+| 1980s–2010s | **Mary Moore / Bohemian Grove Action Network** | Protests, infiltration, smuggled programs | Founded 1980; infiltrated Grove to obtain Lakeside Talk programs including Caspar Weinberger's 1981 "Rearming America" talk; organized protests for 30+ years; arrested in 1991 sit-in |
+| 2000 | **Alex Jones & Mike Hanson** | Hidden camera infiltration July 15, 2000 | Filmed Cremation of Care ceremony; produced documentary *Dark Secrets: Inside Bohemian Grove* |
+| 2001 | **Jon Ronson** | Infiltration alongside Jones | Published account in *Them: Adventures with Extremists*; described ceremony as "overgrown frat party" |
+| 2023 | **ProPublica** | Financial disclosure investigation | Exposed Clarence Thomas's six undisclosed trips with Harlan Crow |
+| 2026 | **Daniel Boguslaw** | Obtained leaked 2023 roster | Published ~2,200-name membership list after *The Intercept* reportedly spiked the story |
+
+## Sonoma County Crime Context
+
+The Bohemian Grove is located in Sonoma County near the Russian River, an area with a notable history of unsolved crimes:
+
+- **Santa Rosa Hitchhiker Murders (1972–1979)**: At least seven young women were found murdered in rural Sonoma County, all found nude, some raped, strangled, or hogtied. The cases remain unsolved after 50+ years. No direct connection to Bohemian Grove has been established, but the geographic and temporal proximity has been noted by online researchers.
+- **Sonoma County cold cases**: The county has 11 infamous cold cases documented by local media, spanning the 1970s through 1990s.
+
+**Important note**: No documented evidence connects Bohemian Grove or its members to these regional crimes. They are included here as geographic context only.
+
+## Connection to Epstein Network
+
+The Bohemian Grove intersects with the Epstein investigation through several documented channels:
+
+1. **Member overlap**: Multiple individuals who appear on Epstein's flight logs, contact lists, or in court documents are also confirmed or alleged Bohemian Club members. The leaked 2023 roster, combined with the Epstein file releases, has led researchers to identify significant overlap among attendees.
+
+2. **Franklin scandal testimony**: Paul Bonacci's testimony directly places the Grove in the network of locations used for the abuse described in the [Franklin scandal](franklin_scandal.md), which is considered a structural predecessor to the Epstein operation.
+
+3. **Intelligence connections**: The same intelligence agencies ([CIA](cia.md), [Mossad](mossad.md)) alleged to have run or protected the Epstein operation have documented presence at the Grove. CIA directors have given classified briefings there. The Grove serves as a networking venue for the intelligence-military-industrial complex.
+
+4. **Blackmail infrastructure parallels**: The [Craig Spence Operation](craig_spence.md) — which used wired residences and sex to compromise DC politicians — operated in the same era and involved some of the same intelligence networks that allegedly used the Grove for relationship-building. [Ted Gunderson](../../../Details/Ted_Gunderson.md), the former FBI Special Agent in Charge who described CIA "brownstone operations" (intelligence-run sexual blackmail using minors), investigated both the Franklin scandal and broader elite abuse networks.
+
+5. **Pattern of secrecy and protection**: Like the Epstein operation, the Grove operates with extreme secrecy, powerful legal protections, and relies on the social pressure of mutual complicity among attendees to maintain silence.
+
+## The Counterargument
+
+- The Bohemian Club maintains the retreat is a social and cultural event focused on arts, camaraderie, and relaxation
+- Sociologist G. William Domhoff, who has studied the Grove extensively, characterizes the ritualistic elements as theatrical traditions rather than occult practices, and views the policy concerns as more significant than the sensational allegations
+- Mary Moore, who protested the Grove for decades, stated the Satanism and sex allegations are "all bullshit" — her concern was about secret policy-making by unelected elites
+- Jon Ronson described the ceremony as harmless theater
+- Paul Bonacci's testimony, while resulting in a civil judgment, was part of allegations that a state grand jury officially dismissed as a "carefully crafted hoax"
+- Ryan Garcia's claims are accompanied by acknowledged mental health concerns and descriptions of "spiritual" rather than physical experiences
+- Many of the more extreme allegations originate from sources with credibility issues or from unverifiable conspiracy literature
+
+## Notable Books, Documentaries, and Investigations
+
+- *The Bohemian Grove and Global Power Elite* — Peter Phillips (2018) — Academic analysis of the Grove's role in elite networking
+- *Them: Adventures with Extremists* — Jon Ronson (2001) — First-hand infiltration account
+- *Dark Secrets: Inside Bohemian Grove* — Alex Jones (documentary, 2000) — Hidden camera footage of Cremation of Care
+- *The Secret Rulers of the World* — Jon Ronson (Channel 4 documentary series, 2001) — Episode covering the infiltration
+- *Who Rules America?* — G. William Domhoff (UC Santa Cruz) — Academic research on the Grove and social cohesion among elites
+- *The Franklin Cover-Up* — John DeCamp (1992) — Contains Paul Bonacci's Bohemian Grove testimony
+- *Trance Formation of America* — Cathy O'Brien with Mark Phillips (1995) — Contains Grove abuse allegations (controversial source)
+- ProPublica investigation (2023) — Clarence Thomas / Harlan Crow ethics scandal
+- *San Francisco Standard* investigation (2026) — Mickey Gerold sex crime allegations; leaked membership roster
+
+## Why This Group Matters
+
+- **Power concentration**: The Grove is one of the few documented venues where sitting presidents, CIA directors, billionaires, Supreme Court justices, and defense contractors network privately outside of any public accountability
+- **Testimony linking to child trafficking**: Paul Bonacci's testimony places the Grove in the same network of locations as the [Franklin scandal](franklin_scandal.md), a documented predecessor to the Epstein case
+- **Intelligence nexus**: The documented presence of CIA directors giving classified briefings at a private social club raises fundamental questions about the boundary between government intelligence and private elite interests
+- **Member misconduct**: Mickey Gerold's ongoing sex crime investigation (10 alleged victims) demonstrates that at least some individuals with Grove access are allegedly involved in sexual predation
+- **Secrecy and protection**: The Grove's extreme secrecy, combined with the legal and social power of its members, creates conditions where misconduct could be concealed — the same structural conditions that allowed the Epstein operation to continue for decades
+- **The leaked roster**: The 2023 membership list, released alongside ongoing Epstein file disclosures, provides researchers with an unprecedented ability to map overlap between these elite networks
+
+## See Also
+
+- [Franklin Scandal](franklin_scandal.md) — Paul Bonacci testified about being taken to Bohemian Grove
+- [Craig Spence Operation](craig_spence.md) — DC blackmail operation contemporary with Franklin; similar intelligence connections
+- [CIA](cia.md) — Directors gave classified briefings at the Grove; alleged connections to Epstein
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — CIA Director Casey allegedly a client; Franklin/Spence network overlap
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Member overlap with Grove roster; parallel secrecy structures
+- [Ted Gunderson](../../../Details/Ted_Gunderson.md) — Former FBI SAC who described CIA "brownstone operations" and investigated Franklin
+- [Gary Caradori](../../../Details/Gary_Caradori.md) — Franklin investigator killed in plane crash; investigated the same network Bonacci described
+- [Danny Casolaro](../../../Details/Danny_Casolaro.md) — Investigated intelligence-linked criminal networks ("The Octopus")
+- [Deborah Jeane Palfrey](../../../Details/Deborah_Jeane_Palfrey.md) — DC Madam who exposed DC power brokers; found dead before trial
+
+## Sources
+
+- [Bohemian Grove — Wikipedia](https://en.wikipedia.org/wiki/Bohemian_Grove)
+- [List of Bohemian Club Members — Wikipedia](https://en.wikipedia.org/wiki/List_of_Bohemian_Club_members)
+- [Cremation of Care — Wikipedia](https://en.wikipedia.org/wiki/Cremation_of_Care)
+- [Who Rules America: The Bohemian Grove & Social Cohesion — G. William Domhoff, UC Santa Cruz](https://whorulesamerica.ucsc.edu/power/bohemian_grove.html)
+- [Bohemian Club — Britannica](https://www.britannica.com/topic/The-Bohemian-Club)
+- [New illuminati list just dropped: A leaked roster of 2,200 Bohemian Grove members — San Francisco Standard (Feb 25, 2026)](https://sfstandard.com/2026/02/25/new-illuminati-list-just-dropped-leaked-roster-2-200-bohemian-grove-members/)
+- [Leaked Bohemian Grove Roster Adds to Epstein Revelations — Sonoma Today (Mar 5, 2026)](https://nationaltoday.com/us/ca/sonoma/news/2026/03/05/leaked-bohemian-grove-roster-adds-to-epstein-revelations/)
+- [Inside the allegations against a San Francisco social climber accused of sex crimes — San Francisco Standard (Feb 12, 2026)](https://sfstandard.com/2026/02/12/mickey-gerold-sex-crimes-investigation/)
+- [Bohemian Grove workers accuse politicians, billionaire of abuse — Press Democrat (Jul 18, 2025)](https://www.pressdemocrat.com/2025/07/18/bohemian-grove-workers-accuse-politicians-billionaire-of-abuse-bad-behavior-in-wage-theft-lawsuit-2/)
+- [Bohemian Grove Employees Get $7 Million In Wage Theft Settlement — SFist (Jul 5, 2016)](https://sfist.com/2016/07/05/bohemian_grove_employees_get_7_mill/)
+- [Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica (Apr 2023)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow)
+- [Bohemian Grove Again Links Clarence Thomas to Likely Ethics Violation — SFist (Sep 22, 2023)](https://sfist.com/2023/09/22/bohemian-grove-again-links-clarence-thomas-to-likely-ethics-violation-this-time-with-koch-brothers/)
+- [Bohemian Grove: More than a getaway for our war machine elites — Responsible Statecraft](https://responsiblestatecraft.org/bohemian-grove-generals/)
+- [CIA Director Casey and the Grove — sonic.net](http://www.sonic.net/~kerry/bohemian/casey.html)
+- [The CIA, Bohemian Grove, Tom Clancy (and the Fake Moustache) — Spy Culture](https://www.spyculture.com/cia-bohemian-grove-tom-clancy/)
+- [The Bohemian Grove and Other Retreats — CIA Reading Room / Abbottabad Compound](https://www.cia.gov/library/abbottabad-compound/FC/FC8AEB056C2C32F10AFC327BA91F4A45_The_Bohemian_Grove_and_Other_Retreats.rtf.pdf)
+- [Prominent men in Sonoma, Napa counties named in leaked roster — Press Democrat (Mar 6, 2026)](https://www.pressdemocrat.com/2026/03/06/3632581/)
+- [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
+- [Mary Moore papers, 1978–2018 — Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8fb58wv)
+- [Bohemian Grove, Monte Rio, CA and Mary Moore, Activist — Rancho Bodega Historical Society (2015)](https://www.ranchobodega.org/Bohemian_Grove.pdf)
+- [Ryan Garcia Bohemian Grove claims — Fox 11 Los Angeles](https://www.foxla.com/news/boxer-ryan-garcia-social-media-posts-mental-health)
+- [The 'faggy' Bohemian Grove: Satanism, rent boys and gay orgies — Xtra Magazine](https://xtramagazine.com/culture/the-faggy-bohemian-grove-satanism-rent-boys-and-gay-orgies-48834)
+- [Santa Rosa hitchhiker murders — Wikipedia](https://en.wikipedia.org/wiki/Santa_Rosa_hitchhiker_murders)
+- John DeCamp, *The Franklin Cover-Up* (AWT, 1992)
+- Jon Ronson, *Them: Adventures with Extremists* (Simon & Schuster, 2001)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

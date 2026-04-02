@@ -1,0 +1,127 @@
+[< Back to Main List](../../../README.md) | [Groups Index](README.md)
+
+# Kroll Associates
+Corporate intelligence and investigations firm founded by Jules Kroll in 1972, known as "the CIA of Wall Street" for its extensive hiring of former intelligence officers; connected to the Epstein network through Deutsche Bank, Robert Maxwell, the World Trade Center, and the attack on Judge Esther Salas.
+
+| Field | Details |
+|-------|---------|
+| **Type** | Private Intelligence / Corporate Investigations Firm |
+| **Active Period** | 1972–present (now operating as Kroll, a division of Duff & Phelps) |
+| **Location(s)** | New York (HQ), with offices in 30+ countries including London, Moscow, Paris, Hong Kong, Tokyo |
+| **Status** | Active; currently a global risk and financial advisory firm with ~5,000 employees |
+| **Alleged Connection** | Connected to Epstein network via Deutsche Bank executive ties, Robert Maxwell investigation, Roy Den Hollander (Kroll employee who attacked Judge Salas's family during Deutsche Bank–Epstein case), and alleged intelligence agency relationships |
+
+## Overview
+
+Kroll Associates (now Kroll Inc.) is an American multinational corporate investigations and risk advisory firm founded by Jules Kroll in New York City in 1972. The company is widely regarded as having pioneered the modern corporate intelligence industry. Kroll built its reputation in the 1980s by investigating corporate fraud, tracking stolen assets for governments, and conducting due diligence during the era of hostile takeovers and leveraged buyouts.
+
+The firm became known as "the CIA of Wall Street" and "Wall Street's Private Eye" due to its extensive hiring of former intelligence officers from the CIA, FBI, MI6, MI5, and Mossad. French intelligence agencies, according to the Washington Post, allegedly accused Kroll of being an actual front for the CIA — an allegation the company has denied.
+
+**Legitimate Operations:** Kroll is a major, currently operating company that provides valuation services, expert services, investigations, cyber security, corporate finance, restructuring, legal and business solutions, data analytics, and regulatory compliance to clients worldwide. The firm has handled numerous high-profile legitimate investigations, including tracking stolen assets for the governments of Haiti, the Philippines, and Kuwait.
+
+## Alleged Activities
+
+* Allegedly served as a front for CIA intelligence gathering, according to French intelligence agencies (DGSE), as reported by the Washington Post — Kroll has denied this characterization
+* Hired former operatives from the CIA, FBI, MI6, MI5, and Mossad — a practice that company executives reportedly once boasted about
+* Investigated Robert Maxwell's business empire; Jules Kroll met with Maxwell approximately two weeks before Maxwell's suspicious death in November 1991
+* Managed security for the World Trade Center complex following the 1993 bombing; Kroll employee Jerome Hauer hired former FBI counterterrorism expert John O'Neill as WTC security chief — O'Neill started work on August 23, 2001, and died in the September 11 attacks
+* Employed Roy Den Hollander at its Moscow office (1999–2000), who later attacked the family of Judge Esther Salas while she was assigned to the Deutsche Bank–Epstein case
+* Reportedly maintained a "revolving door" of executives between Kroll's successor firms and Deutsche Bank, according to investigative journalist Whitney Webb
+* Tracked hidden assets of dictators including Ferdinand Marcos of the Philippines and Jean-Claude "Baby Doc" Duvalier of Haiti on behalf of their successor governments
+* Investigated Covenant House amid accusations of sexual misconduct and financial irregularities
+* Provided intelligence services across 60+ countries during its peak years
+
+## Key Figures
+
+* **Jules B. Kroll** — Founder. Cornell and Georgetown Law graduate. Worked on Robert F. Kennedy's 1968 presidential campaign. Former Assistant District Attorney in Manhattan. Built Kroll into the world's largest private investigations firm by 1995. Later founded Kroll Bond Rating Agency (KBRA) and K2 Intelligence after selling Kroll.
+* **Jerome Hauer** — Managing Director of Kroll's Crisis and Consulting Management Group. Hired John O'Neill as WTC security chief. Former Director of NYC Office of Emergency Management.
+* **John P. O'Neill** — Former FBI special agent and counterterrorism expert who investigated Al-Qaeda. Hired by Kroll (via Hauer) to head WTC security. Started work August 23, 2001. Died on September 11, 2001, helping evacuate the South Tower.
+* [Roy Den Hollander](../../../Details/Roy_Den_Hollander.md) — Attorney who worked at Kroll's Moscow office (1999–2000), managing intelligence and security operations in the former Soviet Union. In July 2020, he attacked the family of Judge Esther Salas, killing her son Daniel and wounding her husband, before dying of an apparent self-inflicted gunshot wound.
+* **Michael Cherkasky** — Former Kroll CEO. Led buyout of Kroll from Marsh & McLennan in 2010 via Altegrity Inc.
+* **Jeffrey Greenberg** — CEO of Marsh & McLennan who engineered the 2004 acquisition of Kroll for $1.9 billion. Resigned later in 2004 amid accusations of bid-rigging.
+
+## Connection to Epstein Network
+
+Kroll Associates connects to the Epstein network through several threads:
+
+**1. Robert Maxwell Connection**
+In late October 1991, [Robert Maxwell](../../../Details/Robert_Maxwell.md) — father of [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md) and alleged [Mossad](mossad.md) asset — contacted Jules Kroll seeking help investigating what Maxwell believed was a conspiracy to destroy his business empire. Kroll was unable to provide Maxwell the information he wanted before Maxwell died under mysterious circumstances on his yacht on November 5, 1991. The timing of this contact, weeks before Maxwell's death, has fueled speculation about what Kroll may have known about the forces aligned against Maxwell.
+
+**2. Deutsche Bank Executive Ties**
+After Jules Kroll founded the Kroll Bond Rating Agency (KBRA), investigative journalist Whitney Webb reported a "revolving door" between senior management at Kroll's successor firms and [Deutsche Bank](deutsche_bank.md) — the bank that served as Epstein's primary financial institution from 2013 to 2018 and was fined $150 million for compliance failures related to his accounts.
+
+**3. Roy Den Hollander and the Salas Attack**
+[Roy Den Hollander](../../../Details/Roy_Den_Hollander.md), who worked at Kroll's Moscow office from 1999 to 2000, attacked the family of U.S. District Judge [Esther Salas](../../../Details/Esther_Salas.md) on July 19, 2020. At the time, Judge Salas had just been assigned a class action lawsuit against Deutsche Bank alleging the bank failed to properly monitor high-risk clients including Jeffrey Epstein. Den Hollander killed Salas's 20-year-old son [Daniel Anderl](../../../Details/Daniel_Anderl.md) and seriously wounded her husband Mark Anderl before being found dead the next day. Authorities stated the attack was related to a separate case Den Hollander had argued before Salas, not the Epstein–Deutsche Bank case. However, the coincidence of a former Kroll employee attacking the judge overseeing the Epstein–Deutsche Bank case drew significant attention from investigators and journalists, including Whitney Webb at Unlimited Hangout.
+
+**4. Shared Intelligence Community Personnel**
+Kroll's extensive hiring of former [CIA](cia.md), FBI, [Mossad](mossad.md), and MI6 officers mirrors the intelligence connections alleged in the [Epstein network](jeffrey_epstein_network.md) itself. Multiple researchers, including Whitney Webb in *One Nation Under Blackmail*, have noted the overlap between the private intelligence world represented by firms like Kroll and the intelligence networks allegedly behind Epstein's blackmail operation.
+
+## Notable Books, Documentaries, and Investigations
+
+* **Whitney Webb, *One Nation Under Blackmail*** (2022) — Explores connections between Kroll, intelligence agencies, Deutsche Bank, and the Epstein network
+* **Whitney Webb, "Alleged Salas Family Assailant Previously Worked for US/Israeli Intelligence-Linked Firm"** (Unlimited Hangout, July 2020) — Detailed investigation of Den Hollander's Kroll employment and the firm's intelligence ties
+* **David Enrich, *Dark Towers*** (2020) — Covers Deutsche Bank's culture and its connections to Epstein; relevant to the Kroll–Deutsche Bank executive overlap
+* **Ben Hills, "Welcome to the murky world of Kroll Inc — the private CIA"** — Investigative article examining Kroll's intelligence connections and global operations
+* **Washington Post** (1996) — Reported French intelligence allegations that Kroll served as a CIA front
+
+## Why This Group Matters
+
+Kroll Associates sits at the intersection of several critical threads in the Epstein network:
+
+* **Intelligence-to-private-sector pipeline:** Kroll's hiring practices demonstrate how intelligence operatives move between government agencies and private firms, creating networks that blur the line between state intelligence and corporate espionage. This same dynamic is alleged to be central to how Epstein's operation functioned.
+* **The Maxwell connection:** Jules Kroll's meeting with Robert Maxwell weeks before Maxwell's death raises questions about what the private intelligence firm knew about the threats facing Maxwell — and by extension, about the broader intelligence operations Maxwell was allegedly involved in.
+* **The Deutsche Bank nexus:** The executive overlap between Kroll's successor firms and Deutsche Bank connects the firm to the institution that processed Epstein's money for years after his conviction.
+* **The Salas attack:** The fact that a former Kroll Moscow employee attacked the judge overseeing the Epstein–Deutsche Bank case — regardless of the stated motive — highlights the web of connections between private intelligence, banking, and the Epstein case.
+* **WTC security and 9/11:** Kroll's role managing World Trade Center security, including the hiring of John O'Neill (who died on 9/11), demonstrates the firm's position at the nexus of national security, intelligence, and private enterprise.
+
+## Related Locations
+
+* **New York City, NY** — Kroll headquarters; primary U.S. operations
+* **Moscow, Russia** — Office where Roy Den Hollander worked (1999–2000)
+* **World Trade Center, NYC** — Kroll managed security after 1993 bombing through September 11, 2001
+* **London, UK** — Major Kroll office; MI5/MI6 recruitment hub
+* **Paris, France** — Office location; French intelligence (DGSE) allegations originated here
+
+## Ownership Timeline
+
+| Year | Event |
+|------|-------|
+| 1972 | Founded by Jules Kroll in New York City |
+| 1995 | World's largest private investigations firm |
+| 2004 | Acquired by Marsh & McLennan Companies for $1.9 billion |
+| 2010 | Sold to Altegrity Inc. (led by former CEO Michael Cherkasky) for $1.13 billion |
+| 2015 | Altegrity declared bankruptcy |
+| 2016 | Acquired by Corporate Risk Holdings, LLC |
+| 2018 | Acquired by Duff & Phelps |
+| 2020 | Duff & Phelps acquired by Stone Point Capital and Further Global consortium for $4.2 billion |
+| 2022 | Duff & Phelps unified under the Kroll brand |
+
+## See Also
+
+- [Deutsche Bank](deutsche_bank.md) — Executive overlap between Kroll successor firms and Deutsche Bank
+- [CIA](cia.md) — Kroll extensively hired former CIA operatives; French intelligence alleged CIA front
+- [Mossad](mossad.md) — Kroll hired former Mossad operatives; Jules Kroll met Robert Maxwell before his death
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Connected via Deutsche Bank, Salas attack, and intelligence personnel
+- [Esther Salas](../../../Details/Esther_Salas.md) — Former Kroll employee attacked her family during Epstein-Deutsche Bank case
+- [Robert Maxwell](../../../Details/Robert_Maxwell.md) — Contacted Jules Kroll weeks before his suspicious death
+
+## Sources
+
+- [Kroll Inc. — Wikipedia](https://en.wikipedia.org/wiki/Kroll_Inc.)
+- [Jules Kroll — Wikipedia](https://en.wikipedia.org/wiki/Jules_Kroll)
+- [Roy Den Hollander — Wikipedia](https://en.wikipedia.org/wiki/Roy_Den_Hollander)
+- [Esther Salas — Wikipedia](https://en.wikipedia.org/wiki/Esther_Salas)
+- [John P. O'Neill — Wikipedia](https://en.wikipedia.org/wiki/John_P._O'Neill)
+- [Jerome Hauer — Wikipedia](https://en.wikipedia.org/wiki/Jerome_Hauer)
+- [Whitney Webb, "Alleged Salas Family Assailant Previously Worked for US/Israeli Intelligence-Linked Firm" — Unlimited Hangout](https://unlimitedhangout.com/2020/07/reports/alleged-salas-family-assailant-previously-worked-for-us-israeli-intelligence-linked-firm/)
+- [Ben Hills, "Welcome to the murky world of Kroll Inc — the private CIA"](https://benhills.com/articles/scams-scoundrels/welcome-to-the-murky-world-of-kroll-inc-the-private-cia/)
+- [Kroll Inc. — Wikispooks](https://wikispooks.com/wiki/Kroll_Inc.)
+- [Kroll Inc. — SourceWatch](https://www.sourcewatch.org/index.php/Kroll,_Inc.)
+- [Kroll Inc. — Encyclopedia.com](https://www.encyclopedia.com/books/politics-and-business-magazines/kroll-inc)
+- [History of Kroll Inc. — FundingUniverse](https://www.fundinguniverse.com/company-histories/kroll-inc-history/)
+- [Kroll Inc. — Company History](https://www.company-histories.com/Kroll-Inc-Company-History.html)
+- [Deutsche Bank, Jeffrey Epstein, Robert Maxwell, Kroll Associates and Den Hollander — LostMessiah](https://lostmessiahdotcom.wordpress.com/2020/07/23/deutsche-bank-jeffrey-epstein-robert-maxwell-kroll-associates-and-den-hollander-a-different-narrative/)
+- [CNN — Judge Salas Shooting Investigation](https://www.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation)
+- [RT — DB-Epstein lawyer shooting suspect worked for 'CIA of Wall Street'](https://www.rt.com/usa/495429-salas-shooter-motives-speculation-epstein/)
+
+*This information was built by Grok and Claude AI research.*

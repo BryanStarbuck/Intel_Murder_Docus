@@ -1,0 +1,86 @@
+[< Back to Main List](../../README.md) | [Books](books.md) | [YouTube Channels](youtube_channels.md) | [Groups](groups/README.md) | [Locations](../../locations.md)
+
+# Podcasts
+
+Podcasts investigating Jeffrey Epstein, elite blackmail operations, intelligence-linked trafficking, suspicious deaths, and the suppression of advanced energy technology.
+
+---
+
+## Epstein / Elite Crimes & Cover-Ups
+
+### Dedicated Epstein Podcasts
+
+| Podcast | Host | Platform | Description |
+|---------|------|----------|-------------|
+| **The Epstein Chronicles / The Coverup Chronicles** | Bobby Capucci | Apple Podcasts, Spotify, Spreaker, Audible | The most prolific Epstein-dedicated podcast with 1,000+ episodes since October 2019. Daily coverage of every level of Epstein's criminal enterprise. On-scene reporting from the Maxwell trial and Zorro Ranch. The *Coverup Chronicles* spinoff focuses on how institutions kept everything hidden. |
+| **BROKEN: Jeffrey Epstein** | Julie K. Brown | Apple Podcasts, Spotify (The Binge) | From the Miami Herald investigative reporter whose reporting directly led to Epstein's 2019 arrest. Features survivors fighting for the truth. Author of [*Perversion of Justice*](books.md). |
+| **The Mysterious Mr. Epstein** | Lindsay Graham | Wondery, Apple Podcasts, Spotify, Amazon Music | Six-part series peeling back the layers of Epstein's life with original reporting and interviews. High production values from Wondery. |
+| **EPSTEIN: Devil in the Darkness** | Melissa Cronin (exec producer) | Apple Podcasts, Spotify | Exclusive interviews with Epstein's longtime chauffeur, his jail mate who witnessed his first suicide attempt, and a woman who helped recruit at his [New Mexico compound](../../Details/Zorro_Ranch_Unnamed_Victims.md). |
+| **Chasing Ghislaine** | Vicky Ward | Wondery/Audible, Apple Podcasts | Executive produced by James Patterson. Veteran journalist chronicles her 19-year quest to uncover what was behind Epstein's wealth and criminality. |
+| **Hunting Ghislaine / Hunting Ghislaine: The Trial** | John Sweeney | Global Player, Apple Podcasts, Spotify | BBC journalist dissects key moments from [Ghislaine Maxwell](../../Details/Ghislaine_Maxwell.md)'s trial in New York, week by week. Rigorous journalistic trial coverage. |
+| **Truth and Lies: Jeffrey Epstein** | Mark Remillard (ABC News) | Apple Podcasts, iHeartRadio, Spotify | Co-production of ABC News' Investigative Unit and ABC Audio. Notable because ABC previously killed an Epstein story (Amy Robach hot mic incident). |
+| **The Epstein Files** (AI-native documentary) | AI-assisted production | epsteinfiles.fm, Apple Podcasts, Spotify | 98 episodes drawing from primary sources — unsealed court documents, FBI files, the black book, flight logs, and victim depositions. AI cross-references names/dates across thousands of files. |
+
+### Investigative Journalism Podcasts with Major Epstein Coverage
+
+| Podcast | Host | Platform | Description |
+|---------|------|----------|-------------|
+| **Unlimited Hangout** | Whitney Webb | unlimitedhangout.com, Apple Podcasts, Spotify | The deepest investigative research connecting Epstein to intelligence services ([Mossad](groups/mossad.md), [CIA](groups/cia.md)), organized crime, and historical blackmail operations. Author of [*One Nation Under Blackmail*](books.md). Winner of the 2019 Serena Shim Award. Interviews with Nick Bryant on the [Franklin scandal](groups/franklin_scandal.md). |
+| **TrueAnon** | Brace Belden, Liz Franczak | Apple Podcasts, Spotify | Launched specifically to cover Epstein (first episode July 23, 2019, days after his arrest). One of the most popular ongoing Epstein investigation podcasts. Covers finance, academia, intelligence, and trafficking angles. |
+| **The MartyrMade Podcast** (Epstein series) | Darryl Cooper | Apple Podcasts, Spotify, MartyrMade Substack | Multi-part deep dive examining evidence that Epstein was a foreign intelligence agent. Cooper's Tucker Carlson appearance on this topic went viral. |
+| **The Corbett Report** | James Corbett | corbettreport.com, Apple Podcasts | Episode 491 covers the 3.5M page DOJ document release (Feb 2026). Episode 361: "Suicided: The Final Days of Jeffrey Epstein." Connects Epstein to broader intelligence/surveillance systems. |
+| **Shaun Attwood's True Crime Podcast** | Shaun Attwood | Apple Podcasts, Spotify, Audioboom, YouTube | Author of [*Who Killed Epstein?*](books.md). Exclusive Maria Farmer interview. "Epstein Victim #1" episodes. Maxwell testimony breakdowns with attorney Arick Fudali. 1M+ YouTube subscribers. |
+
+### Interview Shows with Significant Epstein Episodes
+
+| Podcast | Host | Platform | Key Epstein Episodes |
+|---------|------|----------|---------------------|
+| **The Shawn Ryan Show** | Shawn Ryan | Apple Podcasts, Spotify, YouTube | #84 Nick Bryant — "Epstein's Secret Black Book" (Parts 1 & 2). #139 Nick Bryant — "Parallels Between Diddy & Epstein's Blackmail." #248 Jon Delaney — "Who's Protecting Epstein's Secrets?" #256 Tucker Carlson — "Epstein's Emails, Political Blackmail." #280 Sarah Adams — intelligence targeting officer on Epstein files. |
+| **Last Podcast on the Left** | Ben Kissel, Marcus Parks, Henry Zebrowski | Spotify | "The Epstein Files: The Neverending Story." Ongoing "Ep-date" updates as new files are released. |
+| **Stuff They Don't Want You to Know** | Matt Frederick, Ben Bowlin, Noel Brown | iHeartRadio, Apple Podcasts, Spotify | "Disclosure: The Epstein Files," "The Death of Jeffrey Epstein," "Strange News: The Epstein Client List." Large mainstream audience. |
+| **Tin Foil Hat** | Sam Tripoli | Apple Podcasts, Spotify | Ryan Dawson interview on Epstein network connections. Episodes connecting Epstein to BlackRock and Bank for International Settlements. |
+
+---
+
+## Advanced Energy Suppression
+
+| Podcast | Host | Platform | Description |
+|---------|------|----------|-------------|
+| **The Why Files: Operation Podcast** | AJ (Andrew Johnson) | YouTube, Apple Podcasts, Spotify, Amazon Music | Hugely popular investigative show with millions of views per episode. Episode 544: "Killer Patents & Secret Science Vol. 1 — Free Energy & Anti-Gravity Cover-Ups" investigates inventors whose work was seized or classified under the Invention Secrecy Act of 1951. The best entry point for this topic. |
+| **The Dr. Steven Greer Podcast** | Dr. Steven Greer | Spotify, Apple Podcasts, YouTube | Covers UAP disclosure and suppressed advanced technologies including zero-point energy and anti-gravity propulsion. Features whistleblowers from secret military and corporate programs. 30+ years as the most prominent public advocate for energy technology disclosure. |
+| **Dark Journalist** | Daniel Liszt | darkjournalist.com, YouTube, Apple Podcasts | 100M+ YouTube views. Secret Space Program roundtables with Catherine Austin Fitts, Joseph Farrell, and Linda Moulton Howe. T. Townsend Brown electro-gravitic suppression. The intersection point between energy suppression, black budget finance, and intelligence operations. |
+| **Crime Waves: Cold Truth** | David Kushner | Apple Podcasts, Spotify (QCode) | **8-part investigative series on Eugene Mallove** — the MIT scientist who quit after alleging MIT covered up positive cold fusion data, then was murdered in 2004. The most thorough podcast investigation of his murder and its connection to cold fusion suppression. Author of [*Fire from Ice*](books.md). |
+| **Richard Syrett's Strange Planet / The Conspiracy Show** | Richard Syrett | Apple Podcasts, Spotify, Podbean | Episode 1139: "Hidden Power: The Suppression of Free Energy" featuring Jeane Manning (30+ year free energy researcher, author of [*Breakthrough Power*](books.md)). Long-running coverage of suppressed technology. |
+| **The Higherside Chats** | Greg Carlwood | thehighersidechats.com, Apple Podcasts, Spotify | 15+ year archive of interviews with researchers investigating energy suppression, hidden technology, and institutional cover-ups. Guests include many researchers relevant to both project scope areas. |
+| **Cold Fusion Now! Podcast** | Ruby Carat | coldfusionnow.org, major platforms | Dedicated to LENR/cold fusion with interviews of top scientists including Dr. Lawrence Forsley (NASA). Conference coverage from ICCF events. The most dedicated podcast specifically on cold fusion technology. See [B. Stanley Pons](../../Details/B_Stanley_Pons.md). |
+| **Ecosystemic Futures** | Research-oriented production | Apple Podcasts, Spotify | Episode 69: "Beyond Conventional Physics: Extended Electrodynamics, Lattice Confinement Fusion, Zero-Point Energy & Advanced Propulsion" (2h44m). The most scientifically rigorous podcast covering these energy topics. |
+| **The Forbidden Knowledge Podcast** | Various | Apple Podcasts | Explores inventors who created technologies capable of rewriting the rules of energy — inventions that "promised limitless power" then "vanished" as "lost inventions that were allegedly suppressed, classified, or deliberately buried." |
+| **The Grimerica Show** | Darren Grimes, Graham Dunlop | Spotify, Apple Podcasts | Episode 692 with Ashton Forbes on ZPE, cold fusion, AI, magnetic motors, plasma, and artificial gravity. |
+
+---
+
+## Notable Guests Who Appear Across Multiple Podcasts
+
+These individuals are not podcast hosts but are essential guests appearing across many of the shows above:
+
+| Guest | Background | Appears On | Relevance |
+|-------|-----------|------------|-----------|
+| **Nick Bryant** | Investigative journalist, author of [*The Franklin Scandal*](books.md). Released Epstein's black book in 2015. | Shawn Ryan Show, PBD Podcast, Whitney Webb's show, many others | Franklin scandal, Epstein black book, institutional cover-ups |
+| **Catherine Austin Fitts** | Former Assistant Secretary of Housing | Dark Journalist, Corbett Report, Higherside Chats | Bridges both topics — connects black budget finance to Epstein money flows and suppressed technology |
+| **Maria Farmer** | First Epstein victim to report to the FBI (1996) | Shaun Attwood (exclusive), TruNews, others | First-hand victim testimony |
+| **Jeane Manning** | 30+ year researcher on suppressed energy inventors, author of [*Breakthrough Power*](books.md) | Richard Syrett's shows, others | Comprehensive knowledge of suppressed energy cases |
+| **Dr. Joseph Farrell** | Author on secret space programs and breakaway civilizations, author of [*The SS Brotherhood of the Bell*](books.md) | Dark Journalist, Higherside Chats, others | Nazi technology → black budget programs → energy suppression |
+| **Richard Dolan** | UFO historian, author of *UFOs and the National Security State* | Coast to Coast AM, Dark Journalist, many others | His "breakaway civilization" theory directly connects suppressed energy technology to intelligence/elite crime networks |
+
+---
+
+## Cross-References
+
+- **Books**: See the full [Books](books.md) list for the written works by many of these podcast hosts and guests
+- **YouTube Channels**: Many of these podcasts also publish video on YouTube — see [YouTube Channels](youtube_channels.md)
+- **Groups**: Podcasts frequently discuss organizations documented in the [Groups](groups/README.md) directory
+- **People**: Podcast episodes reference many individuals with profiles in [Details/](../../Details/)
+
+---
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,75 @@
+[< Back to Main List](../../../README.md) | [Locations Index](README.md)
+
+# Columbus, Ohio
+
+Les Wexner's base of operations — where four people connected to Wexner's business empire died between 1970 and 1991, and where the CIA's Southern Air Transport relocated in 1996.
+
+| Field | Details |
+|-------|---------|
+| **Region** | Columbus, Ohio metro area |
+| **Deaths** | 4 |
+| **Key Figures** | Les Wexner (L Brands / Victoria's Secret), Jeffrey Epstein (Wexner's financial manager) |
+| **Key Organizations** | [Wexner/L Brands](../groups/wexner_l_brands.md), Southern Air Transport |
+
+## Why Columbus Matters
+
+Columbus, Ohio, is an unlikely epicenter for the Epstein story — until you understand Les Wexner. Wexner, founder of L Brands (Victoria's Secret, The Limited, Bath & Body Works), is the most powerful person in Columbus and one of the wealthiest men in Ohio. He gave Epstein extraordinary financial power, including power of attorney over his affairs, and transferred his Manhattan townhouse (9 East 71st Street) to Epstein — the property later used as a base for the trafficking operation.
+
+Four people connected to Wexner's business empire died under suspicious circumstances in the Columbus area between 1970 and 1991 — before Epstein's name became publicly known.
+
+## Deaths in Columbus
+
+- **[Arthur Shapiro](../../../Details/Arthur_Shapiro.md)** (1985, age 43) — **HIGHLY SUSPICIOUS.** Confirmed murder, unsolved. Gunned down weeks before IRS questioning. Epstein took his position after Shapiro's death. Prime suspect [Berry Kessler](../../../Details/Berry_Kessler.md) was a documented murder-for-hire organizer with FBI-documented Epstein link.
+- **[Frank Yassenoff](../../../Details/Frank_Yassenoff.md)** (1970, age 64) — **SUSPICIOUS.** Shot to death alongside fiancee [Ella Rich](../../../Details/Ella_Rich.md) in unsolved double homicide. Business partner of [Berry Kessler](../../../Details/Berry_Kessler.md), who was suspected but never charged. Case remains open.
+- **[Ella Rich](../../../Details/Ella_Rich.md)** (1970) — **SUSPICIOUS.** Shot to death alongside fiance Frank Yassenoff. Connected to Kessler-Wexner financial network through Yassenoff.
+- **[Marjorie Dyer](../../../Details/Marjorie_Dyer.md)** (~1970s) — **SUSPICIOUS.** Died in "questionable automobile accident." One of only two witnesses who signed Yassenoff's will — the other was Berry Kessler. Her death removed the only independent witness to estate arrangements Kessler had financial interest in.
+
+## The Southern Air Transport Connection
+
+In 1996, **Southern Air Transport** — an airline **owned outright by the CIA from 1960 to 1973** and used in Iran-Contra arms smuggling — relocated its headquarters to Columbus, Ohio. According to Drop Site News, Epstein reportedly helped Wexner repurpose the former CIA planes to ship lingerie for L Brands from Hong Kong/China factories. The convergence of a CIA-linked airline and Wexner's retail empire in Columbus raises questions about the nature of Epstein's role as Wexner's financial manager.
+
+## The Wexner-Epstein Relationship
+
+- Wexner gave Epstein **power of attorney** over his financial affairs — an extraordinary level of trust
+- Wexner transferred his Manhattan townhouse to Epstein
+- Victoria's Secret was allegedly used as a recruitment tool — Epstein and associates reportedly told young women they were scouting for Victoria's Secret models
+- Wexner is a co-founder of the **Mega Group** — an informal network of influential Jewish-American entrepreneurs that allegedly has connections to [Mossad](../groups/mossad.md)
+- Wexner claims he severed ties with Epstein in 2007 and that Epstein "misappropriated" funds
+
+## Related Groups
+
+- [Wexner/L Brands](../groups/wexner_l_brands.md) — The business empire at the center of Columbus connections
+- [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md) — Epstein managed Wexner's finances from Columbus
+- [CIA](../groups/cia.md) — Southern Air Transport connection
+- [Mossad](../groups/mossad.md) — Mega Group alleged connections
+
+## Surprising Details
+
+- **The police memo that was ordered destroyed**: In June 1991, a Columbus police analyst submitted an internal memo concluding that "it appears that Les Wexner had established contact with associates reputed to be organized crime figures, one of whom was a major investment partner and another was using The Limited headquarters as a mailing address." Columbus Police Chief James G. Jackson ordered the memo destroyed the same month it was completed. Investigative journalist Bob Fitrakis later obtained the findings when they were accidentally released through a public records request.
+- **Epstein took Shapiro's position**: In July 1991 — one month after the Shapiro murder memo was submitted — Wexner signed a document giving Epstein power of attorney to act on his behalf in all affairs, effectively handing Epstein personal control of his vast fortune. Epstein stepped into the financial role that Shapiro had occupied.
+- **Interconnected death web**: Shapiro, Yassenoff, and Kessler were all "connected through a maze of business dealings." Kessler and Marjorie Dyer were the only witnesses who had signed Yassenoff's will. Kessler came under suspicion when Dyer died in a questionable automobile accident. Law enforcement was allegedly involved in covering up the Yassenoff, Rich, and Shapiro murders.
+- **CIA airline shipped lingerie**: Southern Air Transport — owned outright by the CIA from 1960 to 1973 and used in Iran-Contra arms/drug smuggling — filed for bankruptcy in Columbus, Ohio on October 1, 1998. That was the same day the CIA Inspector General released a report detailing allegations of Southern Air Transport's involvement in drug trafficking. Much of the Hong Kong-to-Rickenbacker cargo was for Wexner's The Limited, which was operating under Epstein's power of attorney.
+- **House committee finding**: A House Oversight Committee panel stated that Wexner gave Epstein "about a billion dollars" — far exceeding prior public estimates of the financial relationship.
+
+## See Also
+
+- [Arthur Shapiro](../../../Details/Arthur_Shapiro.md) — Gunned down 1985, Epstein took his position
+- [Frank Yassenoff](../../../Details/Frank_Yassenoff.md) — Shot to death with fiancee, 1970
+- [Ella Rich](../../../Details/Ella_Rich.md) — Killed alongside Yassenoff, 1970
+- [Marjorie Dyer](../../../Details/Marjorie_Dyer.md) — Will witness, died in car accident
+- [Berry Kessler](../../../Details/Berry_Kessler.md) — Prime suspect in Shapiro murder, convicted in Deroo murder-for-hire
+- [John Deroo](../../../Details/John_Deroo.md) — Shot six times in face, 1991, Kessler convicted
+
+## Sources
+
+- [Drop Site News: Epstein, Israel, and the CIA — How the Iran-Contra Planes Landed at Les Wexner's Base](https://www.dropsitenews.com/p/jeffrey-epstein-iran-contra-planes-leslie-wexner-pottinger-leese-arms-weapons-smuggling)
+- [Unlimited Hangout: A Kingpin, the Mob, and a Murder — The Deeper Mystery behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Columbus Free Press: Jeffrey Epstein — There's much more to the story](https://columbusfreepress.com/article/jeffrey-epstein-there%E2%80%99s-much-more-story-2)
+- [The Shapiro Murder File (Freepress.org)](https://freepress.org/article/shapiro-murder-file)
+- [Front Page Detectives: Read the Document — Wexner, Organized Crime, and the Arthur Shapiro Hit](https://frontpagedetectivesonline.substack.com/p/read-the-document-lex-wexner-organized)
+- [ABC6: House Panel says Wexner gave Epstein about a billion dollars](https://abc6onyourside.com/news/local/house-oversight-committee-panel-les-leslie-wexner-jeffrey-epstein-billion-dollars-l-brands-limited-victorias-secret-new-albany-billionaire-columbus-ohio)
+- [Wikipedia: Les Wexner](https://en.wikipedia.org/wiki/Les_Wexner)
+- [Wikipedia: Southern Air Transport](https://en.wikipedia.org/wiki/Southern_Air_Transport)
+- Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
+
+*This information was built by Grok and Claude AI research.*

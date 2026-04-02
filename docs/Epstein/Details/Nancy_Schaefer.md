@@ -114,6 +114,18 @@ According to multiple accounts from friends and colleagues, the Schaefers were r
 > "Poor parents often times are targeted to lose their children because they do not have the wherewithal to hire lawyers and fight the system."
 > — Nancy Schaefer, speech at World Congress of Families, [Medical Kidnap](https://medicalkidnap.com/2015/04/27/senator-nancy-schaefer-did-her-fight-against-cps-corruption-cost-her-life/)
 
+> "Department of Child Protective Services has become a protected empire. It's built on taking children and separating families."
+> — Nancy Schaefer, from video interview circulated posthumously
+
+> "Children are being taken away from their parents in a ruthless kind of behavior."
+> — Nancy Schaefer, from video interview
+
+> "How do you change child protective service? It may be only by closing it complete and starting over. At the beginning, with pro-family battles."
+> — Nancy Schaefer, from video interview
+
+> "A family is going to have to be destroyed in order for the one-world government to completely develop."
+> — Nancy Schaefer, from video interview
+
 > "Authorities believed Nancy Schaefer was asleep when she was shot, probably sometime Friday morning."
 > — Habersham County Sheriff Joey Terrell, reported by [Gainesville Times](https://www.gainesvilletimes.com/news/schaefers-husband-was-shooter-law-authorities-say/)
 

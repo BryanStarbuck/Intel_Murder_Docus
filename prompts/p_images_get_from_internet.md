@@ -1,4 +1,4 @@
-ROOT_DIR dir is ~/BGit/Bryan/Intel_Murder_Docus
+ROOT_DIR dir is ~/BGit/Bryan_git/Intel_Murder_Docus
 
 EPSTEIN_DOCS_DIR dir is {ROOT_DIR}/docs/Epstein
 INTEL_DOCS_DIR dir is {ROOT_DIR}/docs/Intel
@@ -24,7 +24,7 @@ has internet access for searching and downloading.
 DESTINATION DIRECTORIES
 ====================================================================
 
-DIR_TO_WEBSITE dir is ~/BGit/Bryan/Intel_Murder_Docus/
+DIR_TO_WEBSITE dir is ~/BGit/Bryan_git/Intel_Murder_Docus/
 
 Images go into a per-investigation images directory under the website's
 docs directory, inside the investigation's Details folder:

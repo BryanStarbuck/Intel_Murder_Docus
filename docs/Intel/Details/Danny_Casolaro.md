@@ -122,6 +122,7 @@ However, these counterarguments do not explain the missing briefcase, the illega
 - [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed en route to deliver documents to a reporter, 1974
 - [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances, 1996
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances, 1965
+- [Barry Seal](Barry_Seal.md) — CIA drug pilot turned informant, assassinated 1986
 - [Danny Casolaro (Epstein Kill List)](/epstein/Details/Danny_Casolaro) — cross-reference for PROMIS/Maxwell/Epstein connections
 - PROMIS / The Octopus — the intelligence network Casolaro was investigating
 - [Edmond Safra](Edmond_Safra.md) — Banker who reported Russian money laundering to the FBI, killed in suspicious arson; his death intersected intelligence-financial networks similar to what Casolaro was investigating
@@ -132,6 +133,11 @@ However, these counterarguments do not explain the missing briefcase, the illega
 - [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Karen Silkwood](Karen_Silkwood.md): Documents she was carrying to expose Kerr-McGee vanished from her car after the fatal crash. The company settled.
 - [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+
+## Netflix Documentary
+
+In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https://www.netflix.com/title/81168725), a four-part documentary series directed by Zachary Treitz. The series follows photojournalist Christian Hansen as he picks up Danny Casolaro's investigation decades later, re-examining the PROMIS software theft, the Octopus network, and the circumstances of Casolaro's death. The documentary brought renewed public attention to the case and introduced a new generation to the questions surrounding his death.
 
 ## Sources
 
@@ -141,7 +147,7 @@ However, these counterarguments do not explain the missing briefcase, the illega
 - [Washington Post: U.S. Probe of Casolaro Death Sought (1992)](https://www.washingtonpost.com/archive/local/1992/09/11/us-probe-of-casolaro-death-sought/1618ed77-d69f-4573-8a65-da190b3f2864/)
 - [CovertAction Magazine: Declassified Documents Call Into Question Official Narrative](https://covertactionmagazine.com/2018/06/17/declassified-documents-call-into-question-official-washington-narrative-of-danny-casolaros-death/)
 - [CovertAction Magazine: Witness Sketch Resembles Former CIA Agent (2024)](https://covertactionmagazine.com/2024/10/16/witness-sketch-of-man-seen-entering-and-leaving-journalists-room-on-the-day-he-was-found-dead-resembles-former-cia-agent/)
-- [Netflix: American Conspiracy: The Octopus Murders (2024)](https://www.netflix.com/tudum/articles/american-conspiracy-octopus-murders-release-date-trailer-news)
+- [Netflix: American Conspiracy: The Octopus Murders (2024)](https://www.netflix.com/title/81168725)
 - [National Archives: The Octopus](https://text-message.blogs.archives.gov/2010/12/02/the-octopus/)
 - [All That's Interesting: The Mysterious Death of Danny Casolaro](https://allthatsinteresting.com/danny-casolaro)
 - [The Cinemaholic: Tony Casolaro](https://thecinemaholic.com/tony-casolaro/)

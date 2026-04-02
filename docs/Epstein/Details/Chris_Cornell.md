@@ -86,6 +86,7 @@ Vicky Cornell's dispute of the ruling, while genuine and publicly stated, center
 
 - [Philip K. Dick](Philip_K_Dick.md): His home safe blown open with explosives. FBI and CIA confirmed surveillance.
 - [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 
 ## Sources

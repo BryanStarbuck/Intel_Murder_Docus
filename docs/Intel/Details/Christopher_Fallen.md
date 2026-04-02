@@ -12,9 +12,9 @@ Senior research physicist at the Air Force Research Laboratory and former chief 
 | Field | Details |
 |-------|---------|
 | **Full Name** | Christopher Thomas Fallen |
-| **Born** | c. 1976 |
+| **Born** | April 12, 1977, Miles City, Montana |
 | **Died** | February 6, 2024 |
-| **Age at Death** | 48 |
+| **Age at Death** | 46 |
 | **Location of Death** | 3512 Calle del Ranchero NE, Albuquerque, New Mexico |
 | **Cause of Death** | Asphyxiation (found bound with duct tape, belt around neck, head wrapped in tape) |
 | **Official Ruling** | Homicide (home invasion / robbery) |

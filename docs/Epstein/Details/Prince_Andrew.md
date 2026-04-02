@@ -72,6 +72,7 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 
 - [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
 - [Two Unnamed Foreign Women (Alleged — Zorro Ranch)](Zorro_Ranch_Unnamed_Victims.md): Two foreign women allegedly strangled and buried near Epstein's New Mexico ranch. FBI never raided the property.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
 - [Linda Collins-Smith](Linda_Collins_Smith.md): Arkansas state senator investigating child trafficking through DHS. Stabbed to death at her own home.
 
 ## Sources
