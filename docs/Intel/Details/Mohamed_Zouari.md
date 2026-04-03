@@ -95,3 +95,6 @@ Israel has neither confirmed nor denied involvement in Zouari's killing. Some an
 - [Killing of Hamas-linked drone expert in Tunisia draws public anger - Middle East Eye](https://www.middleeasteye.net/news/killing-hamas-linked-drone-expert-tunisia-draws-public-anger)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

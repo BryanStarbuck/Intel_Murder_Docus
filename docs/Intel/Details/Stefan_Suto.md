@@ -243,3 +243,5 @@ According to Jana Sutoova's published account on her Substack and the family adv
 - [Stefan Suto obituary — EchoVita](https://www.echovita.com/us/obituaries/fl/cantonment/stefan-suto-13903139)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

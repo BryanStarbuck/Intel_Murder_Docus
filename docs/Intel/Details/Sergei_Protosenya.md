@@ -78,3 +78,5 @@ After leaving Novatek in 2015–2016, Protosenya and his family resided primaril
 - [The Daily Beast — Two Ex-Russian Gas Company Execs Found Dead in Two Days](https://www.thedailybeast.com/two-ex-russian-gas-company-execs-found-dead-in-two-days/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

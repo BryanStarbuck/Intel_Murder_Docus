@@ -148,3 +148,6 @@ Mary had significant documented mental health struggles:
 - [DOJ Epstein Files Library](https://www.justice.gov/epstein)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2012)

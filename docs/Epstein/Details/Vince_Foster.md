@@ -90,3 +90,5 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1993)

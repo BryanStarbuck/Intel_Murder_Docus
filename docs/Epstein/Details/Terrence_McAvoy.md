@@ -82,3 +82,5 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [NBC New York: Fifth NYPD Officer Dies by Suicide in the Last Two Months](https://www.nbcnewyork.com/news/local/fifth-nypd-officer-dies-by-suicide-in-the-last-two-months/1520068/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

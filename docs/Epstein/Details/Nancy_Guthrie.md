@@ -134,3 +134,6 @@ Sheriff Chris Nanos has stated investigators believe they know why Nancy's home 
 - [NPR: Nancy Guthrie Case Update](https://www.npr.org/2026/02/09/nx-s1-5706646/nancy-guthrie-case-update-what-we-know)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Missing (2026)

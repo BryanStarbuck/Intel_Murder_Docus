@@ -136,3 +136,6 @@ Several alternative theories and counterarguments exist:
 - [Murder in Kinshasa (documentary) - Wikipedia](https://en.wikipedia.org/wiki/Murder_in_Kinshasa)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2001)

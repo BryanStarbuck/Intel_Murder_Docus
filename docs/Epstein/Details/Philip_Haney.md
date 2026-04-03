@@ -108,3 +108,6 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2020)

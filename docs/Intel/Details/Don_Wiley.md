@@ -103,3 +103,6 @@ The official ruling of accidental death is based on a plausible, if unlikely, sc
 - [Don Craig Wiley obituary - Nature](https://www.nature.com/articles/415492a)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2001)

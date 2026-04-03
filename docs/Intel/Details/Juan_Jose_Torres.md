@@ -96,3 +96,6 @@ Torres went into exile first in Peru, then Chile under Salvador Allende's govern
 - [50th Anniversary of Hugo Banzer's Coup — The Rio Times](https://www.riotimesonline.com/brazil-news/mercosur/bolivia/50th-anniversary-of-hugo-banzers-coup-detat-in-bolivia/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1976)

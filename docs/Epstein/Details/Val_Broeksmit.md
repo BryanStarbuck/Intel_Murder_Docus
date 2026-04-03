@@ -98,3 +98,5 @@ Val had a history of personal struggles, including substance abuse, and had prev
 - [Wikipedia: Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

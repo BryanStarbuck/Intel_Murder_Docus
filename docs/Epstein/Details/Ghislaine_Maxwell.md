@@ -114,3 +114,5 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 - [DOJ: Maxwell Interview Transcript — July 24, 2025](https://www.justice.gov/storage/audio-files/Interview%20Transcript/Interview%20Transcript%20-%20Maxwell%202025.07.24%20(Redacted).pdf)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

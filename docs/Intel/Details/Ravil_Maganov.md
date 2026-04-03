@@ -79,3 +79,5 @@ In March 2022, Lukoil's board — under Maganov's chairmanship — issued a rare
 - [NBC News — Russian Lukoil Exec Dies Falling from Hospital Window](https://www.nbcnews.com/news/world/russian-lukoil-exec-dies-falling-hospital-window-reports-say-rcna45823)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

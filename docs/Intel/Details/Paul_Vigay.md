@@ -110,3 +110,6 @@ Vigay was a father of one.
 - [Yahoo News UK: Are UFO experts being murdered?](https://uk.news.yahoo.com/are-ufo-experts-being-murdered--new-book-to-investigate--pattern--of-deaths-134147932.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

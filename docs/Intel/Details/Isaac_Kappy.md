@@ -145,3 +145,5 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 - Kappy's recorded video statements (2018-2019)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

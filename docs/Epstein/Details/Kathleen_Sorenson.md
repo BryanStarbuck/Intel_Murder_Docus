@@ -73,3 +73,6 @@ Highway 30 between Fremont and Blair was known as a narrow, dangerous stretch of
 - Nick Bryant, *The Franklin Scandal: A Story of Powerbrokers, Child Abuse and Betrayal* (TrineDay, 2009)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1989)

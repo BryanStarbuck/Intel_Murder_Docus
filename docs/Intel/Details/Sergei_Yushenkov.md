@@ -98,3 +98,5 @@ Yushenkov passed this file to Anna Politkovskaya upon his return to Moscow. Days
 - [The Russian Apartment Bombings of 1999: Unraveling the Mystery — History Affairs](https://historyaffairs.com/the-russian-apartment-bombings-of-1999-unraveling-the-mystery/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2003)

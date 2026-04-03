@@ -95,3 +95,5 @@ Avicii had severe, well-documented physical health problems directly linked to h
 - Family statement via TMZ and BBC News (April 2018)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

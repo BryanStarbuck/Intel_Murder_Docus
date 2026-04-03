@@ -76,3 +76,6 @@ Starr was a high-powered attorney best known for his role as Independent Counsel
 - [Justice Integrity Report: Moralist Ken Starr Explains His Help For Rich Pervert Jeffrey Epstein](https://www.justice-integrity.org/791-ken-starr-explains-his-help-for-billionaire-pervert-jeffrey-epstein)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

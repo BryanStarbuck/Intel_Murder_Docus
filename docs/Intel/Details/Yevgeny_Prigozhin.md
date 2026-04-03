@@ -161,3 +161,5 @@ Russian authorities maintain the crash was an accident and deny any state involv
 - [Dmitry Utkin — Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Utkin)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2023)

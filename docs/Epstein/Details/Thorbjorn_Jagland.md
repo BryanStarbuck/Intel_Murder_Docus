@@ -89,3 +89,5 @@ Jagland's case is part of a broader European reckoning triggered by the 2026 Eps
 - [Al Jazeera: Norway police investigate former PM Jagland over Epstein ties](https://www.aljazeera.com/economy/2026/2/6/norway-police-probes-former-pm-jagland-over-epstein-ties)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

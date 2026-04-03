@@ -102,3 +102,5 @@ His family included his wife Nancy Milligan (married 1981), children Samantha an
 - [Epstein Flight Logs (DocumentCloud)](https://www.documentcloud.org/documents/6404379-Epstein-Flight-Logs-Lolita-Express/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

@@ -105,3 +105,6 @@ The PAIGC's success was an acute embarrassment and strategic threat to Portugal.
 - [The Truth Behind Amilcar Cabral Assassination - New Afrika History](https://newafrikan77.wordpress.com/2017/01/19/the-truth-behind-amilcar-cabral-assassination/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1973)

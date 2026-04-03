@@ -162,3 +162,6 @@ Ethan Zuckerman, who resigned from the Media Lab over the Epstein scandal, was a
 - [Why Did the Justice System Target Aaron Swartz? — Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-did-the-justice-system-target-aaron-swartz-106848/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

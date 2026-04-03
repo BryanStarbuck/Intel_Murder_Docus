@@ -89,3 +89,6 @@ Critics counter that targeting a novelist and journalist — regardless of his p
 - [Ghassan Kanafani: Five Decades On, His Words Still Resist — Safa News](https://en.safa.news/post/4870/Ghassan-Kanafani-Five-Decades-On-His-Words-Still-Resist)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1972)

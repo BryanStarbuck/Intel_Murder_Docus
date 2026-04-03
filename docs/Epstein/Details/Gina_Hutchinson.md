@@ -89,3 +89,5 @@ Hutchinson had reportedly struggled with depression and the psychological afterm
 - [Heidi Hutchinson on the Death of Her Sister Gina - Frank Report](https://frankreport.com/2019/12/08/heidi-hutchinson-on-the-death-of-her-sister-gina-raniere-thought-himself-satan/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2002)

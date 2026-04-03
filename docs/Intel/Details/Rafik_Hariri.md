@@ -97,3 +97,5 @@ Critically, the tribunal stated there was "no evidence that the Hezbollah leader
 - [EBSCO Research — Assassination of Rafik Hariri (2005)](https://www.ebsco.com/research-starters/diplomacy-and-international-relations/assassination-rafik-hariri-2005)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2005)

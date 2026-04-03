@@ -72,3 +72,6 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

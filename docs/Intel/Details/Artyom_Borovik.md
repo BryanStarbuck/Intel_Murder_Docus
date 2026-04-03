@@ -95,3 +95,6 @@ Shortly before his death, according to some accounts, Borovik met with oligarch 
 - [The Hidden War — Grove Atlantic](https://groveatlantic.com/book/the-hidden-war/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2000)

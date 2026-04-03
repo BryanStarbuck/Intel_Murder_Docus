@@ -98,3 +98,6 @@ On January 29, 2017, a US Navy SEAL raid on an al-Qaeda compound in Yemen's Bayd
 - [ACLU: Al-Aulaqi v. Panetta](https://www.aclu.org/cases/al-aulaqi-v-panetta-constitutional-challenge-killing-three-us-citizens)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2011)

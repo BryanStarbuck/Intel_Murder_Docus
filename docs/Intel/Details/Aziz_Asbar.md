@@ -98,3 +98,6 @@ Tahrir al-Sham, a Syrian rebel group, claimed responsibility for the car bombing
 - [Senior Syrian scientist killed in car bomb - The Jerusalem Post](https://www.jpost.com/Middle-East/Senior-Syrian-scientist-killed-in-car-bomb-564162)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

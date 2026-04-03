@@ -82,3 +82,5 @@ Despite being one of the most wanted men in the world, Mughniyeh eluded capture 
 - [Imad Mughniyeh — Britannica](https://www.britannica.com/biography/Imad-Mugniyah)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2008)

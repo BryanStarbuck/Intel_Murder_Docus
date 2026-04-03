@@ -157,3 +157,6 @@ While Natacha Jaitt's accusations were focused on Argentine figures rather than 
 - [Epoch Times — Controversial Argentine Model Who Claimed Evidence of Pedophile Ring Found Dead, Aged 41](https://www.theepochtimes.com/world/controversial-argentinian-model-who-claimed-evidence-of-pedophile-ring-found-dead-aged-41-2816081)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

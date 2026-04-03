@@ -93,3 +93,6 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

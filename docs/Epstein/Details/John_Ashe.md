@@ -87,3 +87,6 @@ The death was ruled accidental by the medical examiner. The connection to Epstei
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

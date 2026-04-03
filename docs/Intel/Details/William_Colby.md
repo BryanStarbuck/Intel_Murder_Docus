@@ -153,3 +153,5 @@ However, Colby's wife Sally Shelton-Colby, his other children, and his biographe
 - [Zalin Grant / Pythia Press: William E. Colby: A Highly Suspicious Death](http://www.pythiapress.com/wartales/colby.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

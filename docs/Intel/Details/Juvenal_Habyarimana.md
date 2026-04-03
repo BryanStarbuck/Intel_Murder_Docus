@@ -159,3 +159,6 @@ The question of who assassinated Habyarimana remains genuinely unsettled, with c
 - [Leave None to Tell the Story: Genocide in Rwanda - Human Rights Watch](https://www.hrw.org/reports/1999/rwanda/Geno1-3-02.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1994)

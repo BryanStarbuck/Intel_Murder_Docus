@@ -84,3 +84,6 @@ Seattle Police Detective Mike Ciesynski re-examined the case in 2014 and conclud
 - X/Twitter threads linking Cobain to industry trafficking theories
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1994)

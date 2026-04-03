@@ -132,3 +132,6 @@ Koeter, a former police officer/detective, was Ossebaard's partner and co-produc
 - [IMDb — Janet Ossebaard](https://www.imdb.com/name/nm3424549/) — Filmography
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2023)

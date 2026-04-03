@@ -129,3 +129,5 @@ The Alexandrovich case connects to the broader pattern documented in this projec
 - [NewsNation: Las Vegas sex sting](https://www.newsnationnow.com/crime/las-vegas-sex-sting-israeli-official/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

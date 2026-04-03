@@ -78,3 +78,5 @@ After the cold fusion controversy, Pons relocated to France in the early 1990s t
 - [Epstein paid Seckel for reputation management](https://demstate.com/article/jeffrey-epstein-paid-al-seckel-to-remove-negative-articles-in-2010)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

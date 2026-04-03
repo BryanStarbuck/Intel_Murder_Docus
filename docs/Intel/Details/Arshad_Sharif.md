@@ -132,3 +132,6 @@ In **July 2024**, the Kajiado County High Court delivered a landmark ruling:
 - [Kenyan court rules police acted out of line in killing of Pakistani journalist - VOA](https://www.voanews.com/a/kenya-court-rules-police-killing-of-pakistani-journalist-unlawful/7689338.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

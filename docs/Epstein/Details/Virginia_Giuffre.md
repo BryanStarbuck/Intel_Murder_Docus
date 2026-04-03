@@ -207,3 +207,5 @@ Even accepting that Giuffre was in severe psychological distress, questions rema
 - [CNN: Virginia Giuffre Raped by 'Well-Known Prime Minister,' Posthumous Memoir Claims](https://www.cnn.com/2025/10/20/uk/virginia-giuffre-memoir-epstein-prince-andrew-intl)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

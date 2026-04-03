@@ -141,3 +141,6 @@ The al-Qaeda role, however, is not disputed by any party.
 - [The Complex Legacy of Ahmad Shah Massoud - The Diplomat](https://thediplomat.com/2024/09/the-complex-legacy-of-ahmad-shah-massoud/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2001)

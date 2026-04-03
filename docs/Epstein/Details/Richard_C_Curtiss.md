@@ -141,3 +141,5 @@ Additionally, newly released surveillance video observation logs revealed an uni
 - [Inside MCC New York: The Prison Where Jeffrey Epstein Died — Ryan J. Hite](https://www.ryanjhite.com/2026/02/26/the-prison-at-the-center-of-the-storm-inside-manhattans-mcc-and-the-death-that-wont-go-away/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

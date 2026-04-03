@@ -83,3 +83,5 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [Audacy/1010 WINS: NYPD officer fatally shoots himself in Queens home, 9th NYPD suicide of 2019](https://www.audacy.com/1010wins/articles/nypd-officer-fatally-shoots-himself-queens-home-9th-nypd-suicide-2019)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

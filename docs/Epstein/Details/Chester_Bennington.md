@@ -102,3 +102,5 @@ The "Silent Children" documentary connection has not been substantiated. Fact-ch
 - [TMZ: Linkin Park Singer Chester Bennington Dead, Commits Suicide by Hanging](https://www.tmz.com/2017/07/20/linkin-park-singer-chester-bennington-dead-commits-suicide/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2017)

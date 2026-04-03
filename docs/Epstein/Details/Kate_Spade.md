@@ -95,3 +95,6 @@ No verified evidence connects Kate Spade to any anti-trafficking documentary, in
 - [Inside Edition: Was Kate Spade Inspired to Kill Herself by the Death of Robin Williams?](https://www.insideedition.com/was-kate-spade-inspired-kill-herself-death-robin-williams-43941)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

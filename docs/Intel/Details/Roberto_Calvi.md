@@ -145,3 +145,5 @@ The original 1982 inquest jury concluded Calvi died by suicide. Proponents of th
 - [God's Banker: CIA, Operation Gladio and the Death of Roberto Calvi - Plain Sight Productions](https://plainsightprod.medium.com/who-killed-vatican-banker-roberto-calvi-b91145462575)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1982)

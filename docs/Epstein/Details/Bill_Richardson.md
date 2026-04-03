@@ -99,3 +99,5 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 - [Taos News: Records show Gov. Richardson met with Epstein for years after conviction](https://www.taosnews.com/public-safety/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_42408c83-d94a-45be-bbc7-70f8bce2f512.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2023)

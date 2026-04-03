@@ -165,3 +165,6 @@ Fred Hampton's son, Fred Hampton Jr., has continued his father's legacy as a com
 - [1970 Federal Grand Jury Report (Internet Archive)](https://archive.org/details/Grand-Jury-Fred-Hampton-1970)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1969)

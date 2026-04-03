@@ -86,3 +86,5 @@ Churkin was one of Russia's most prominent and skilled diplomats. He served as R
 - [Vitaly I. Churkin, Russian ambassador to the U.N., dies at 64 — Washington Post](https://www.washingtonpost.com/world/vitaly-i-churkin-russian-ambassador-to-the-un-dies-at-64/2017/02/20/6c817be4-f79a-11e6-be05-1a3817ac21a5_story.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2017)

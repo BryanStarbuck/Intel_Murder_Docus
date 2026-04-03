@@ -78,3 +78,6 @@ The connection to Epstein is tangential — through her ex-husband's social rela
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

@@ -185,3 +185,5 @@ The official account — that Chapman was a mentally ill lone gunman motivated b
 - Jack Jones, *Let Me Take You Down: Inside the Mind of Mark David Chapman* (Villard Books, 1992)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1980)

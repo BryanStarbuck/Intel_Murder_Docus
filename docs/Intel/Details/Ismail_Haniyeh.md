@@ -78,3 +78,5 @@ Ismail Haniyeh was born in the Al-Shati refugee camp in the Gaza Strip in 1962. 
 - [CSIS: Ismail Haniyeh's Assassination - Escalation or an Off-Ramp?](https://www.csis.org/analysis/ismail-haniyehs-assassination-escalation-or-ramp)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2024)

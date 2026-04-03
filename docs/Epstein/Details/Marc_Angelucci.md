@@ -109,3 +109,6 @@ At the time of the attacks, Den Hollander was reportedly terminally ill with can
 - [Esther Salas' Jeffrey Epstein Case Ties Explained — Heavy.com](https://heavy.com/news/2020/07/esther-salas-jeffrey-epstein/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2020)

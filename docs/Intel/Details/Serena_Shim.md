@@ -95,3 +95,5 @@ On October 17, 2014 — two days before her death — Shim appeared on a live Pr
 - [Daily Sabah — US journalist working for Iranian TV killed in car accident](https://www.dailysabah.com/turkey/2014/10/20/us-journalist-working-for-iranian-tv-killed-in-car-accident)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

@@ -108,3 +108,5 @@ Vicky Cornell's dispute of the ruling, while genuine and publicly stated, center
 - [Diffuser.fm: Chris Cornell's Widow Continues Death Investigation](https://diffuser.fm/chris-cornell-widow-investigation/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2017)

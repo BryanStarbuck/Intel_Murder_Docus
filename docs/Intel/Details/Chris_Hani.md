@@ -104,3 +104,6 @@ Hani remains one of the most revered figures in South African political history.
 - [Vice: Chris Hani's Assassination Put South Africa On the Brink of Civil War](https://www.vice.com/en/article/the-assassination-of-chris-hani-almost-brought-south-africa-to-civil-war/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1993)

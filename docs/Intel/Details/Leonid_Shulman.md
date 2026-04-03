@@ -104,3 +104,6 @@ The Meduza investigation "They don't only fall out of windows" documented at lea
 - [Fortune — Deaths of 2 Russian Oligarchs Within 48 Hours](https://fortune.com/2022/04/25/deaths-russian-oligarchs-wave-executives-found-dead-gazprom-novatek/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

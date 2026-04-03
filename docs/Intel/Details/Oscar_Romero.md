@@ -102,3 +102,6 @@ Pope Francis declared Romero a martyr in February 2015 and beatified him on May 
 - [Vatican News — Remembering St Oscar Romero](https://www.vaticannews.va/en/church/news/2020-03/oscar-romero-forty-years-assassination-anniversary0.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1980)

@@ -106,3 +106,5 @@ Rossi was known as an ardent advocate for suicide prevention in the military, ma
 - [U.S. Army: Redstone Arsenal press release](https://www.army.mil/article/172570/u_s_army_garrison_redstone_arsenal_press_release)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

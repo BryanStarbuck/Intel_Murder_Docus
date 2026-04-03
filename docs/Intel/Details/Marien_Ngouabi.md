@@ -105,3 +105,6 @@ The oil-rich Cabinda enclave, a part of Angola separated from its mainland by a 
 - [Denis Sassou Nguesso - Wikipedia](https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1977)

@@ -98,3 +98,5 @@ His independent foreign policy put him at odds with the Reagan administration, w
 - [Radio Havana Cuba -- CIA Papers Suggest Murder of Ecuador's Former President](https://www.radiohc.cu/index.php/en/noticias/internacionales/49174-cia-papers-suggest-murder-of-ecuadors-former-president)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1981)

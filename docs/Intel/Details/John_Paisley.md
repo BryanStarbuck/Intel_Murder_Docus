@@ -118,3 +118,5 @@ The Senate Select Committee on Intelligence publicly stated it "found no informa
 - [Maryann Paisley v. CIA, 712 F.2d 686 (D.C. Cir. 1983)](https://law.justia.com/cases/federal/appellate-courts/F2/712/686/415290/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1978)

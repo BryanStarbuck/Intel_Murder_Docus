@@ -158,3 +158,5 @@ Artists worldwide have paid tribute to Jara's legacy. U2 referenced him on their
 - Joan Jara, *An Unfinished Song: The Life of Victor Jara* (1998)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1973)

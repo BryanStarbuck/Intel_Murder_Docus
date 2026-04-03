@@ -174,3 +174,6 @@ Peaches died approximately five months after the Ian Watkins naming incident. Th
 - [Brain Injury Australia — Michael Hutchence](https://m.facebook.com/braininjuryaustralia/photos/808034732557797/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1997)

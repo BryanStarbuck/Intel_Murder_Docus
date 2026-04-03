@@ -95,3 +95,6 @@ Israel officially denied involvement in the killing. Some analysts have suggeste
 - [Hamas rocket engineer killed in Malaysia; family blames Israel - Times of Israel](https://www.timesofisrael.com/islamic-jihad-blames-israel-for-assassination-of-hamas-affiliated-engineer/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

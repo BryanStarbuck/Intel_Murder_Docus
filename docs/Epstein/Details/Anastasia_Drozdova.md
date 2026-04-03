@@ -99,3 +99,5 @@ The broader modeling industry pipeline to Epstein is well-documented through [Je
 - [Medium — Liz Manuelle: The Horrific Death of Russian Model: Rose of The World Cult](https://lizmanuelle.medium.com/the-horrific-death-of-russian-model-rose-of-the-world-cult-36525fb95627)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

@@ -151,3 +151,6 @@ Nichols married Talitha Joy Dyke on August 18, 1992, in Oklahoma City. They had 
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

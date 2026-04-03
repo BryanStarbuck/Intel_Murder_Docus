@@ -129,3 +129,6 @@ Red Ribbon Week — the nation's largest drug prevention campaign — was founde
 - [Wikipedia — The Last Narc (TV series)](https://en.wikipedia.org/wiki/The_Last_Narc_(TV_series))
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1985)

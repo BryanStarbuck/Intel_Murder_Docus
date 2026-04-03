@@ -118,3 +118,5 @@ Whitney Webb's *One Nation Under Blackmail* places Republic National Bank within
 - Whitney Webb, *One Nation Under Blackmail* (2022)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1999)

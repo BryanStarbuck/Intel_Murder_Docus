@@ -94,3 +94,5 @@ Markelov's work made him a target from multiple directions simultaneously — bo
 - [IBTimes — Ultra-nationalist jailed says Kremlin ordered hit](https://www.ibtimes.co.uk/russia-ultra-nationalist-jailed-journalist-lawyer-murders-says-kremlin-ordered-hit-1497839)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

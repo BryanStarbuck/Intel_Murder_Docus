@@ -104,3 +104,6 @@ After leaving Ramallah in 2019, Vlahovic moved to Marseille but maintained close
 - [Marine Vlahovic — ARTE Radio](https://www.arteradio.com/author/marine-vlahovic)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

@@ -113,3 +113,5 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 - December 1991 inquest records
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1991)

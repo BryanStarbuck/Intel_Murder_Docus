@@ -169,3 +169,6 @@ North Korea denied any involvement in the assassination and claimed the victim w
 - Anna Fifield, *The Great Successor: The Divinely Perfect Destiny of Brilliant Comrade Kim Jong Un* (PublicAffairs, 2019)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

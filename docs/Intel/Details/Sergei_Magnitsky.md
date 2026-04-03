@@ -126,3 +126,5 @@ Browder documented the entire saga in his bestselling books *Red Notice* (2015) 
 - [A Decade After His Death, Magnitsky Beats Russia in European Court — OCCRP](https://www.occrp.org/en/daily/10573-a-decade-after-his-death-magnitsky-beats-russia-in-european-court)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

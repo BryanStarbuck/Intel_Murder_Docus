@@ -178,3 +178,6 @@ According to multiple fact-checkers (PBS, CBS, Minnesota Reformer), right-wing i
 - [Boelter Letter to FBI Director Kash Patel (DocumentCloud)](https://www.documentcloud.org/documents/25999675-vance-boelter-letter-to-fbi-director-kash-patel/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2025)

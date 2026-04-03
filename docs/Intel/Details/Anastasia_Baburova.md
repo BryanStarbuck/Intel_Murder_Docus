@@ -106,3 +106,6 @@ Despite these losses, Novaya Gazeta continued publishing under editor-in-chief D
 - [Russian Supreme Court Trims Sentence — RFE/RL](https://www.rferl.org/a/markelov-baburova-murders-sentence-reduced/31674585.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

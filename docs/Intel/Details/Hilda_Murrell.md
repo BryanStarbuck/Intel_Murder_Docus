@@ -120,3 +120,5 @@ However, significant questions have been raised about the safety of the convicti
 - [Hilda Murrell murder: call to examine MI5 link — LCCSA](https://www.lccsa.org.uk/hilda-murrell-murder-call-to-examine-mi5-link-to-murder-of-nuclear-activist/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1984)

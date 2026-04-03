@@ -144,3 +144,6 @@ Conein was awarded the CIA's Intelligence Star "for his performance during the N
 - [Buddhist Crisis — Wikipedia](https://en.wikipedia.org/wiki/Buddhist_crisis)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1963)

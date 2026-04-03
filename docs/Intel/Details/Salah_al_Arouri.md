@@ -78,3 +78,5 @@ Saleh al-Arouri was born in the village of Arura near Ramallah in the West Bank.
 - [Haaretz: Hamas Confirms Top Leader Killed in Beirut](https://www.haaretz.com/israel-news/2024-01-02/ty-article/hamas-confirms-top-leader-al-arouri-killed-in-beirut-blames-israel-for-assassination/0000018c-cb0a-d4e1-ad8f-ffbb95e30000)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2024)

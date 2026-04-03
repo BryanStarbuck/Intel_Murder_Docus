@@ -94,3 +94,6 @@ The Chilean judiciary pursued the case for decades. In 2014, Judge Jorge Zepeda 
 - [Michael Withey — US Intelligence Agents Complicit in 1973 Murders](https://michaelwithey.com/2015/07/16/us-intelligence-agents-also-complicit-in-the-1973-murders-of-charles-horman-and-frank-teruggi-in-chile/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1973)

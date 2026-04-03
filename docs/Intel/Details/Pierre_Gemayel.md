@@ -98,3 +98,6 @@ Syria officially denied any involvement in Gemayel's assassination and condemned
 - [US State Department: Assassination of Lebanese Minister Pierre Gemayel](https://2001-2009.state.gov/r/pa/ei/pix/b/nea/76730.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2006)

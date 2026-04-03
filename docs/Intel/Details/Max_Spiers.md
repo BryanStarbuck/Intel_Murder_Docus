@@ -96,3 +96,5 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 - [Adam Taylor represents the family in Maxwell Bates-Spiers inquest — Crown Office Chambers](https://www.crownofficechambers.com/2019/01/09/adam-taylor-represents-the-family-in-maxwell-bates-spiers-inquest/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

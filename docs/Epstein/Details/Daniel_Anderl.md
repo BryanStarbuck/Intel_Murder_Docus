@@ -225,3 +225,5 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

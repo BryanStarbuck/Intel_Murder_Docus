@@ -103,3 +103,5 @@ Anne Heche's death in August 2022 occurred during a year with multiple Epstein-c
 - [Wikipedia: Girl in Room 13 (2022 film)](https://en.wikipedia.org/wiki/Girl_in_Room_13_(2022_film))
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

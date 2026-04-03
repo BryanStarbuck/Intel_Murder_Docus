@@ -151,3 +151,6 @@ In August 2017 â€” approximately two months before his plea deal was announced â
 - [Rolling Stone: 'Price of Glee' Claims Cast Member Encouraged Cory Monteith's Relapse](https://www.rollingstone.com/tv-movies/tv-movie-features/the-price-of-glee-docuseries-ryan-murphy-cory-monteith-relapse-lea-michele-naya-rivera-mark-salling-1234661457/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

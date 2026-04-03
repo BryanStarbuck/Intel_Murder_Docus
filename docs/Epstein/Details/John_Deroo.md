@@ -79,3 +79,6 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 - [The Daily Beast: Who Murdered Arthur Shapiro, the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1991)

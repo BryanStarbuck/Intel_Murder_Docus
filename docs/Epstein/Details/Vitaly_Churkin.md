@@ -87,3 +87,5 @@ CNN reported an official confirmation of no foul play. Cardiac events are the le
 - [Wikipedia: Vitaly Churkin](https://en.wikipedia.org/wiki/Vitaly_Churkin)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2017)

@@ -165,3 +165,6 @@ According to multiple accounts from friends and colleagues, the Schaefers were r
 - [One Year Follow-up on the Death of Senator Nancy Shaefer & Bruce Shaefer — The Political Vine](https://politicalvine.com/one-year-follow-up-on-the-death-of-senator-nancy-shaefer-bruce-shaefer/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2010)

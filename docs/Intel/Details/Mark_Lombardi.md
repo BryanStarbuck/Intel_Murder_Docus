@@ -133,3 +133,6 @@ Lombardi's work gained even greater significance after his death. The traveling 
 - Robert Hobbs, *Mark Lombardi: Global Networks* (Independent Curators International, 2003)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2000)

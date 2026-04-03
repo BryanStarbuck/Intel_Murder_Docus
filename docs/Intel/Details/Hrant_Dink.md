@@ -114,3 +114,5 @@ Critics, including RSF and CPJ, argue that both narratives serve to deflect resp
 - [Hrant Dink — biography — Gariwo](https://en.gariwo.net/righteous/armenian-genocide/hrant-dink-7559.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2007)

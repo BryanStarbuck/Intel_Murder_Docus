@@ -156,3 +156,5 @@ Former Director of National Intelligence James Clapper stated on CNN in May 2017
 - [Why Are the Details of One Russian Diplomat's Death So Hazy?](https://longreads.com/2017/02/18/why-are-the-details-of-one-russian-diplomats-death-so-hazy/) — Longreads, February 18, 2017
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

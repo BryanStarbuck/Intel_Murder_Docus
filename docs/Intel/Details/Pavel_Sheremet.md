@@ -79,3 +79,6 @@ In 2012, he began working at the internet newspaper Ukrainska Pravda, becoming o
 - [Committee to Protect Journalists — Pavel Sheremet](https://cpj.org/data/people/pavel-sheremet/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

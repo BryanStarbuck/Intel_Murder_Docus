@@ -79,3 +79,6 @@ Fuad Shukr was born in Al-Nabi Sheeth in the Bekaa Valley around 1961. He was a 
 - [Times of Israel: IDF kills top Hezbollah commander in Beirut](https://www.timesofisrael.com/israel-targets-hezbollah-commander-in-beirut-in-response-to-majdal-shams-attack/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

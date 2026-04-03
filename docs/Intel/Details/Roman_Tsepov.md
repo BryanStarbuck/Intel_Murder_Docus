@@ -105,3 +105,5 @@ The progression from Tsepov to Litvinenko to Skripal to Navalny suggests an evol
 - [Timenote — Roman Tsepov](https://timenote.info/en/Roman-Tsepov)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

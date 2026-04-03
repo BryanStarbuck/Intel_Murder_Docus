@@ -143,3 +143,6 @@ Snopes and other fact-checking outlets reported the death as natural causes base
 - [X post with video of Brandy Vaughan's warning](https://x.com/ValerieAnne1970/status/2039342025586172256)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2020)

@@ -66,3 +66,5 @@ Hawking was one of the most famous physicists in the world. He was known to have
 - [Epstein Exposed: Stephen Hawking — 409 Docs, 3 Flights, 14 Emails](https://epsteinexposed.com/persons/stephen-hawking)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

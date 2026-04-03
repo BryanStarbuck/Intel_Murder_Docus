@@ -121,3 +121,6 @@ Wickrematunge's final editorial, written in the weeks before his death and publi
 - [Sri Lankan army reinstates official suspected in Lasantha murder — CPJ](https://cpj.org/2019/05/sri-lankan-army-reinstates-official-suspected-in-l/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

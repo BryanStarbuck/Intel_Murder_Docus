@@ -100,3 +100,6 @@ Shaqaqi was deported by Israel to Lebanon in 1988 and eventually settled in Dama
 - [PIJ Commemorates Founder on 30th Anniversary — Al Mayadeen](https://english.almayadeen.net/news/politics/pij-commemorates-founder-on-30th-anniversary-of-assassinatio)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1995)

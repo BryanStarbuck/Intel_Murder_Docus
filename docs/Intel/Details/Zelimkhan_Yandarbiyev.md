@@ -107,3 +107,5 @@ This precedent loomed over subsequent cases. When Alexander Litvinenko was poiso
 - [Al Jazeera — Profile: Salim Khan Yandarbiyev](https://www.aljazeera.com/news/2004/2/13/profile-salim-khan-yandarbiyev)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

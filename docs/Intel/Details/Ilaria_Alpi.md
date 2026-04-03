@@ -129,3 +129,5 @@ Ilaria Alpi's parents, Luciana and Giorgio Alpi, spent decades fighting for just
 - [Ilaria Alpi - Cercavano la verita](https://www.giornalistiuccisi.it/en/storie/ilaria-alpi-en/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1994)

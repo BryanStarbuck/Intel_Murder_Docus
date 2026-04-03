@@ -105,3 +105,6 @@ Ben Barka's son Bachir has dedicated his life to pursuing the case, repeatedly d
 - [Morocco World News: Will Declassified Documents Uncover Truth?](https://www.moroccoworldnews.com/2017/05/99471/declassified-french-documents-truth-ben-barka-disappearance/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1965)

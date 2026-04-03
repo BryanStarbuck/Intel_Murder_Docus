@@ -349,3 +349,5 @@ The conspiracy theory follows the same trajectory as other cases in this project
 - Royce Lopez (@hippojuicefilm) viral X series "Reasons the CIA Killed Trevor Moore" (March 2024)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

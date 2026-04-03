@@ -182,3 +182,6 @@ Eric Olson died on February 12, 2024, at the age of 79, without ever obtaining a
 - [Gerald Ford Library: Documents on the Olson Matter (Rumsfeld/Cheney memos)](https://nsarchive.gwu.edu/briefing-book/intelligence/2016-02-29/gerald-ford-white-house-altered-rockefeller-commission-report)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1953)

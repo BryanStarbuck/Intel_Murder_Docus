@@ -84,3 +84,5 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2023)

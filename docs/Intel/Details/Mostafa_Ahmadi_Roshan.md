@@ -76,3 +76,6 @@ Ahmadi Roshan was a chemistry expert and a director of commercial affairs at the
 - [Christian Science Monitor — Another Iranian Nuclear Scientist Killed, Part of Covert War](https://www.csmonitor.com/World/Middle-East/2012/0111/Another-Iranian-nuclear-scientist-killed-part-of-covert-war)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2012)

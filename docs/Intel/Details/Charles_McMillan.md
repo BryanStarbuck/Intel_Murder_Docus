@@ -99,3 +99,6 @@ McMillan held the highest security clearances in the U.S. government and had int
 - [LA Daily Post: Tribute to Former LANL Director Charlie McMillan](https://ladailypost.com/tribute-to-former-lanl-director-charlie-mcmillan/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

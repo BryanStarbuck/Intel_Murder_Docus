@@ -75,3 +75,6 @@ He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid 
 - [Tony Ortega: Journalist John Connolly dies at 78](https://tonyortega.org/2022/01/19/journalist-john-connolly-dies-at-78-was-outed-in-2011-as-scientology-spy-by-mike-rinder/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

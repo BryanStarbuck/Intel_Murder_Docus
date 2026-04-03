@@ -100,3 +100,6 @@ The Honduran government and DESA initially sought to portray Caceres's murder as
 - [Honduras Conviction of David Castillo — Amnesty International](https://www.amnesty.org/en/latest/press-release/2021/07/honduras-conviction-of-david-castillo-is-a-step-towards-justice-but-full-truth-must-be-uncovered/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

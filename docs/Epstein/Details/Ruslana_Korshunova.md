@@ -141,3 +141,5 @@ Two young models, both connected to the same psychological group, both dying by 
 - [Wikipedia: Ruslana Korshunova](https://en.wikipedia.org/wiki/Ruslana_Korshunova)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2008)

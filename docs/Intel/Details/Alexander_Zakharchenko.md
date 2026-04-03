@@ -105,3 +105,6 @@ The question of who killed Zakharchenko may never be definitively answered. Russ
 - [Wikipedia: Alexander Zakharchenko](https://en.wikipedia.org/wiki/Alexander_Zakharchenko)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

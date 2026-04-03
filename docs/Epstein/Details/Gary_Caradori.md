@@ -107,3 +107,5 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1990)

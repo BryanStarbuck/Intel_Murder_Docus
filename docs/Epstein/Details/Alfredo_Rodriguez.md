@@ -101,3 +101,5 @@ The current location of the full document has not been disclosed. According to T
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

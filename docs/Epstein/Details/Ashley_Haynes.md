@@ -94,3 +94,5 @@ These claims circulated widely on social media and partisan outlets following Mi
 - [Websleuths: AR - Ashley Schwarz Haynes, Paddleboarding on Arkansas River](https://websleuths.com/threads/ar-ashley-schwarz-haynes-paddleboarding-on-arkansas-river-maumelle-12-jan-2022.609051/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

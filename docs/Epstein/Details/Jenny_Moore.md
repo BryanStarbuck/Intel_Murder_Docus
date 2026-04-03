@@ -95,3 +95,6 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

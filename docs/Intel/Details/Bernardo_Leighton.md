@@ -79,3 +79,6 @@ Leighton was one of Chile's most distinguished democratic politicians. He co-fou
 - [Blood and Silence: The Leighton Assassination and the Anatomy of Transnational Terror — Centro Studi Strategici](https://centrostudistrategicicarlodecristoforis.wordpress.com/2025/04/23/blood-and-silence-the-leighton-assassination-and-the-anatomy-of-transnational-terror-between-chile-italy-and-the-united-states/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1995)

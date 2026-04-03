@@ -117,3 +117,6 @@ Babchenko himself acknowledged the cost: "I know that the price that I paid for 
 - [Atlantic Council — Does Faking His Murder Help or Hinder Ukraine's Credibility?](https://www.atlanticcouncil.org/blogs/ukrainealert/q-a-dead-russian-journalist-arkady-babchenko-is-alive-and-well-does-faking-his-murder-help-or-hinder-ukraine-s-credibility/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

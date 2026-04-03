@@ -103,3 +103,6 @@ His work documenting the treatment of political detainees — cataloguing detent
 - ['He loved to be feared' — A reminder of who apartheid hitman Ferdi Barnard is — News24](https://www.news24.com/Columnists/Mandy_Wiener/he-loved-to-be-feared-a-reminder-of-who-apartheid-hitman-ferdi-barnard-is-20190307)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1989)

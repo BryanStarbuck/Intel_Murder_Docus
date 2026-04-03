@@ -148,3 +148,6 @@ Within hours of the death announcement, Yulia Navalnaya appeared at the Munich S
 - [Navalny's Putin's Palace Investigation — TIME](https://time.com/5934092/navalny-putin-palace-investigation/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

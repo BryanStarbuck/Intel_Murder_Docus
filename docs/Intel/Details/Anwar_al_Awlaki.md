@@ -101,3 +101,6 @@ The legal framework established by the al-Awlaki killing — that the executive 
 - [Modern War Institute: Ten Years After the al-Awlaki Killing](https://mwi.westpoint.edu/ten-years-after-the-al-awlaki-killing-a-reckoning-for-the-united-states-drones-wars-awaits/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2011)

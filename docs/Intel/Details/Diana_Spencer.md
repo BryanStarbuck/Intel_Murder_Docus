@@ -195,3 +195,6 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 - [The Guardian: Diana inquest verdict — unlawful killing](https://www.theguardian.com/uk/2008/apr/07/diana.monarchyandthemedia)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1997)

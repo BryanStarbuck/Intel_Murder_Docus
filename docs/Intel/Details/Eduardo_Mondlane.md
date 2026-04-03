@@ -100,3 +100,6 @@ Despite Mondlane's assassination, FRELIMO continued the armed struggle under new
 - [The Unsolved Murder of Mozambican Revolutionary Leader — Face2Face Africa](https://face2faceafrica.com/article/the-unsolved-murder-of-mozambican-revolutionary-leader-who-died-after-opening-a-letter-bomb)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1969)

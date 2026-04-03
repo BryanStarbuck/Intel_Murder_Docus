@@ -92,3 +92,5 @@ From exile, Delgado refused to be silenced. He continued to organize opposition 
 - [Humberto Delgado — Find a Grave](https://www.findagrave.com/memorial/182432753/humberto-delgado)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1965)

@@ -116,3 +116,6 @@ According to reports, Safra's cooperation with the FBI made him a target of a so
 - [New biography delves into backstory of Edmond J. Safra - Times of Israel](https://www.timesofisrael.com/new-biography-probes-into-mysterious-backstory-of-billionaire-banker-edmond-j-safra/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1999)

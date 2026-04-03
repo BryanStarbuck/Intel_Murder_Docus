@@ -78,3 +78,6 @@ As of late 2025, OSINT investigators reported that her email account appeared to
 - [Christine Negroni / Medium: Jeffrey Epstein / Dean Kamen Connection Through Aviation Influencer](https://christine-negroni.medium.com/jeffrey-epstein-dean-kamen-connection-through-aviation-influencer-bb0e767dbfcf)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Missing (2024)

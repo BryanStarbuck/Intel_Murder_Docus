@@ -150,3 +150,6 @@ After Guevara's death in Bolivia in 1967, the photograph was reproduced globally
 - [Historical Documents, FRUS 1964-68 Vol. 31 — Office of the Historian](https://history.state.gov/historicaldocuments/frus1964-68v31/d168)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1967)

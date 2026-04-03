@@ -88,3 +88,6 @@ Israel had attempted to kill Yassin before: in September 2003, an Israeli airstr
 - [Israel Assassinates Hamas Founder Sheikh Ahmed Yassin — VOA](https://www.voanews.com/a/a-13-a-2004-03-22-2-israel-66878867/261044.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2004)

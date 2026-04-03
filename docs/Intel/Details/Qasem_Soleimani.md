@@ -100,3 +100,5 @@ The strike also triggered a broader regional escalation. Iraq's parliament passe
 - [Wikipedia: Operation Martyr Soleimani](https://en.wikipedia.org/wiki/Operation_Martyr_Soleimani)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

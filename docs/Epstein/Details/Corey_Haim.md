@@ -128,3 +128,5 @@ Corey Feldman has stated that he and Haim were "passed around to pedophiles" at 
 - [The Tragic Story of Corey Haim — All That's Interesting](https://allthatsinteresting.com/corey-haim-death)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2010)

@@ -97,3 +97,6 @@ Moore's contributions to the Charlottesville community were significant:
 - [NY Times / DNyuz: Wasserman's Epstein ties cause chaos at his music agency](https://dnyuz.com/2026/02/11/wassermans-epstein-ties-cause-chaos-at-his-music-agency-artists-and-staff-want-him-out/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2008)

@@ -90,3 +90,6 @@ At the time of his death, Hastings was a contributing editor at Rolling Stone an
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

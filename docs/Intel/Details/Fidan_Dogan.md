@@ -97,3 +97,6 @@ Turkey's MIT officially denied any involvement in the murders in 2014, dismissin
 - [The Murder of Sakine Cansiz, Fidan Dogan and Leyla Saylemez — Global Rights](https://globalrights.info/2017/01/75743/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

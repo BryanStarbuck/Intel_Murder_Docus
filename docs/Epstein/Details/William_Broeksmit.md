@@ -93,3 +93,5 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 - [Wikipedia: Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

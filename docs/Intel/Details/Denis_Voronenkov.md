@@ -79,3 +79,6 @@ After his defection, Russia opened criminal cases against him and placed him on 
 - [Lawyer For Suspect In Killing Shot Dead — RFE/RL](https://www.rferl.org/a/lawyer-for-suspect-in-killing-of-russian-lawmaker-voronenkov-in-ukraine-shot-dead/30263840.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

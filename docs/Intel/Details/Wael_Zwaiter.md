@@ -106,3 +106,5 @@ Palestinian artist Emily Jacir created a major art installation about Zwaiter's 
 - [Electronic Intifada — Material for a Film: Retracing Wael Zuaiter](https://electronicintifada.net/content/material-film-retracing-wael-zuaiter-part-1/7054)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1972)

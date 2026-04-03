@@ -190,3 +190,6 @@ The official position, maintained across seven investigations, is that Tillman's
 - Amir Bar-Lev, director, *The Tillman Story* (documentary, 2010)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2004)

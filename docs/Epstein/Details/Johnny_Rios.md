@@ -83,3 +83,6 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [Yonkers Tribune: Yonkers Police Department Press Release Regarding NYPD Officer Suicide](https://www.yonkerstribune.com/2019/08/blue-truth-yonkers-police-department-issue-a-press-release-regarding-the-suicide-of-a-new-york-police-officer-who-committed-suicide-at-a-shoreview-drive-address-in-yonkers-ny-by-hezi-aris)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

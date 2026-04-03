@@ -71,3 +71,5 @@ Rich was connected to the Epstein network through her fiance Yassenoff and his b
 - [Find a Grave: Frank Yassenoff](https://www.findagrave.com/memorial/21133772/frank-yassenoff)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1970)

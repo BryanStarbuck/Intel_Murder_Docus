@@ -140,3 +140,5 @@ However, multiple independent investigations and the TRC's own hearings have und
 - [Samora Moises Machel (1933-1986) - BlackPast.org](https://blackpast.org/global-african-history/machel-samora-moises-1933-1986/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

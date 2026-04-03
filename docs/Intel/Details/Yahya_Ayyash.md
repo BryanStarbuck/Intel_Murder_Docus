@@ -76,3 +76,5 @@ Ayyash was an electrical engineer from the West Bank town of Rafat. He became Ha
 - [SAGE Encyclopedia of Terrorism — Ayyash, Yahya (1966-1996)](https://sk.sagepub.com/ency/edvol/terrorism/chpt/ayyash-yahya-1966-1996)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

@@ -78,3 +78,6 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 - [Websleuths: Arthur Shapiro, 43, Columbus, 6 March 1985](https://www.websleuths.com/forums/threads/oh-arthur-shapiro-43-columbus-6-march-1985.97277/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased

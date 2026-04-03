@@ -105,3 +105,5 @@ The Entebbe hijacking reportedly sealed Haddad's fate — Israel allegedly decid
 - [How Israel's Secret Service Has Become the World Leader in Assassinations — NZ Herald](https://www.nzherald.co.nz/world/how-israels-secret-service-has-become-the-world-leader-in-assassinations/TROFXH5UYJOONRZ7IPRPA5UKU4/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1978)

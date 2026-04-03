@@ -214,3 +214,6 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 - [Philip K. Dick Festival: Biography](https://www.philipkdickfestival.com/biography/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1982)

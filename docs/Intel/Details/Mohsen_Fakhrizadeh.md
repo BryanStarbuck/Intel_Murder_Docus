@@ -131,3 +131,6 @@ In the aftermath, Iran's parliament passed legislation to accelerate uranium enr
 - [Iran sentences 3 to death over 2020 killing of nuclear scientist -- Times of Israel](https://www.timesofisrael.com/iran-sentences-3-to-death-over-2020-killing-of-nuclear-scientist-mohsen-fakhrizadeh/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2020)

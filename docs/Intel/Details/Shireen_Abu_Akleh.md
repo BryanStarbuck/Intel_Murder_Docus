@@ -115,3 +115,5 @@ Abu Akleh's killing drew worldwide condemnation and renewed attention to the dan
 - [New documentary charges killing was intentional — NPR](https://www.npr.org/2025/05/08/nx-s1-5384894/documentary-israeli-soldier-al-jazeera-journalist-shireen-abu-akleh)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

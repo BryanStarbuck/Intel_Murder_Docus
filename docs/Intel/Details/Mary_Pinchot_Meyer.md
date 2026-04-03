@@ -163,3 +163,6 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 - C. David Heymann, *The Georgetown Ladies' Social Club* (2003)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1964)

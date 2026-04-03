@@ -81,3 +81,6 @@ The LA County Sheriff's investigation found a straightforward cause: a high-perf
 - [Wikipedia: Reach Out Worldwide](https://en.wikipedia.org/wiki/Reach_Out_Worldwide)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

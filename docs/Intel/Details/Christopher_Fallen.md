@@ -103,3 +103,6 @@ Fallen was the author of numerous peer-reviewed publications on ionospheric phys
 - [City of Albuquerque: Christopher Fallen Memorial Page](https://www.cabq.gov/police/always-remembered/2024-homicide-investigations/christopher-fallen)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

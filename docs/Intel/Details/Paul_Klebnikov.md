@@ -86,3 +86,6 @@ His work systematically documented the merger of Russian business, organized cri
 - [In Memory of Paul Klebnikov — US Embassy Moscow](https://ru.usembassy.gov/in-memory-of-paul-klebnikov-and-natalia-estemirova-murdered-in-russia/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2004)

@@ -136,3 +136,6 @@ Nearly nine years after the assassination, the family continues to press for ful
 - [Son: Malta journalist was 'assassinated' - CNN](https://edition.cnn.com/2017/10/17/europe/malta-daphne-caruana-galizia-son/index.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

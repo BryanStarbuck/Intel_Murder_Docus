@@ -154,3 +154,6 @@ Scotland Yard reopened the case again in May 2008, requesting documents and ques
 - [Exotic Instrument of an Exile's Murder — The Washington Post (1978)](https://www.washingtonpost.com/archive/politics/1978/09/30/exotic-instrument-of-an-exiles-murder/b2d4c8d5-c280-4f70-a3f5-c5a0d6bcb345/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1978)

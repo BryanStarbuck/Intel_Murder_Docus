@@ -175,3 +175,6 @@ After her death, Reach All Women in WAR (RAW in WAR) established the **Anna Poli
 - [Anna Politkovskaya Murder Convictions — PEN America](https://pen.org/take-action/anna-politkovskaya-murder-convictions-a-small-step-towards-justice/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2006)

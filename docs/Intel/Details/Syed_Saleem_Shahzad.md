@@ -110,3 +110,5 @@ Shahzad's book *Inside Al-Qaeda and the Taliban* was published posthumously and 
 - [Journalist Syed Saleem Shahzad killed by Pakistan secret services — AsiaNews](https://www.asianews.it/news-en/Journalist-Syed-Saleem-Shahzad-killed-by-Pakistan-secret-services-21723.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2011)

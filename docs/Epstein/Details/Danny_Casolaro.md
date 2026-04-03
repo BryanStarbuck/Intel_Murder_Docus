@@ -115,3 +115,5 @@ In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https:/
 - 1994 DOJ Report on the Casolaro death
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1991)

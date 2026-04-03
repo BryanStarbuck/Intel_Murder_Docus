@@ -98,3 +98,6 @@ Mushegian fits a documented pattern of individuals who publicly accused intellig
 - [Candace Owens tweet](https://x.com/realcandaceo/status/1597619580352200704) (November 29, 2022)
 
 *This information was built by Claude AI research.*
+
+
+**Status:** Deceased (2022)

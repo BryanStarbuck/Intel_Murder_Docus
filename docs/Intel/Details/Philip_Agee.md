@@ -157,3 +157,6 @@ In his final years, Agee operated a travel agency website called CubaLinda.com, 
 - [Philip Agee Papers - NYU Special Collections](https://findingaids.library.nyu.edu/tamwag/tam_517/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2008)

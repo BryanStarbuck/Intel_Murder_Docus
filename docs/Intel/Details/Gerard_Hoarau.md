@@ -99,3 +99,6 @@ The Rene government denied any involvement in Hoarau's killing. Some analysts ha
 - [ROAPE — South African involvement in the 1986 Seychelles coup plot](https://roape.net/2021/02/04/a-sunny-place-for-shady-people-south-african-involvement-in-the-1986-seychelles-coup-plot/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1985)

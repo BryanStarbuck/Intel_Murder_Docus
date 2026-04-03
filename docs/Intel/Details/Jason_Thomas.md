@@ -115,3 +115,5 @@ There are significant reasons to consider Thomas's death a tragic personal crisi
 - [High-Profile Scientists Dead or Missing — Daily Caller](https://dailycaller.com/2026/03/23/high-profile-scientists-dead-missing-gop-rep-suggestsconspiracy-play/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

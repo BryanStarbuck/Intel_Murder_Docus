@@ -94,3 +94,5 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

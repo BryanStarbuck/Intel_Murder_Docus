@@ -101,3 +101,5 @@ No individual or organization has ever claimed responsibility for Turner's murde
 - [Philosopher-organiser: Rick Turner and the revival of the trade union movement — Daily Maverick](https://www.dailymaverick.co.za/article/2022-02-21-philosopher-organiser-rick-turner-and-the-revival-of-the-trade-union-movement-in-the-early-1970s/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1978)

@@ -97,3 +97,5 @@ Alisha Owen was among the most vocal accusers. She was contacted by Caradori on 
 - Nick Bryant, *The Franklin Scandal: A Story of Powerbrokers, Child Abuse & Betrayal* (2009)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1990)

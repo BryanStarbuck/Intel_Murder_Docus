@@ -108,3 +108,5 @@ Upon landing in Moscow, President Vladimir Putin personally greeted Krasikov on 
 - [Russian state behind assassination in Berlin -- Alliance for Securing Democracy](https://securingdemocracy.gmfus.org/incident/russian-state-behind-assassination-in-berlin/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

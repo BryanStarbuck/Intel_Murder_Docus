@@ -104,3 +104,6 @@ Giwa's family has spent decades seeking justice. As of the 34th anniversary of h
 - [Yakubu Mohammed finally opens up on IBB, Dele Giwa, Gloria Okon and the parcel bomb - TheCable](https://www.thecable.ng/yakubu-mohammed-finally-opens-up-on-ibb-dele-giwa-gloria-okon-and-the-parcel-bomb/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1986)

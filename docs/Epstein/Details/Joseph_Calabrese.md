@@ -89,3 +89,6 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [PoliceMag: Missing NYPD Homicide Detective Found Dead of Apparent Suicide](https://www.policemag.com/news/missing-nypd-homicide-detective-found-dead-of-apparent-suicide)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

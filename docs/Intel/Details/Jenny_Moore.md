@@ -103,3 +103,5 @@ That said, her law enforcement background, psychology degree, and the documented
 - [Citizen's View: Restoring America — Task Force memorial](https://citizensviewrestoringamerica.wordpress.com/2018/08/14/task-force/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

@@ -86,3 +86,5 @@ The Epstein files revealed derogatory remarks by Rød-Larsen, including the phra
 - [Wikipedia: Terje Roed-Larsen](https://en.wikipedia.org/wiki/Terje_R%C3%B8d-Larsen)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

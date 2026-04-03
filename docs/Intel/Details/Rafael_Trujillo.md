@@ -132,3 +132,5 @@ The assassination ushered in years of political turmoil. Juan Bosch was elected 
 - [Sic Semper Tyrannis: The Assassination of El Jefe — Association for Diplomatic Studies & Training](https://adst.org/2013/05/sic-semper-tyrannis-the-assassination-of-el-jefe-may-30-1961/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1961)

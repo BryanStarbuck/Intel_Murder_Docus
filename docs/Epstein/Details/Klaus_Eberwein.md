@@ -85,3 +85,6 @@ However, critics note that the Clinton Foundation's role in Haiti relief and dev
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

@@ -144,3 +144,6 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - Kappy's recorded video statements (2018-2019)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

@@ -113,3 +113,6 @@ Herrhausen's combination of positions -- advocating debt relief that threatened 
 - [Alfred Herrhausen - Grokipedia](https://grokipedia.com/page/Alfred_Herrhausen)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1989)

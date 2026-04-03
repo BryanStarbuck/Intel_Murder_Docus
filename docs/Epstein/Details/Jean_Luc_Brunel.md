@@ -143,3 +143,6 @@ Released DOJ files and FBI records reveal that in February 2016 — three years 
 - [Gateway Pundit: French Modelling Agent Was Going to Testify Against Epstein Before Found Dead](https://www.thegatewaypundit.com/2026/02/french-modelling-agent-alleged-serial-rapist-jean-luc/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

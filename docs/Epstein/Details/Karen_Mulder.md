@@ -150,3 +150,6 @@ As of 2026, Karen Mulder is alive and living privately in France, primarily in P
 - [Substack / Vandecraats: Epstein-Jean Luc's Dark Web — Lessons from a Silenced Voice](https://vandecraats2025law.substack.com/p/epstein-jean-lucs-dark-web-lessons)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

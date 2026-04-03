@@ -93,3 +93,6 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 - [Wikipedia: Prince Andrew & the Epstein Scandal](https://en.wikipedia.org/wiki/Prince_Andrew_%26_the_Epstein_Scandal)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

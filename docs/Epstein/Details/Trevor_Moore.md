@@ -166,3 +166,5 @@ In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X vi
 - Royce Lopez (@hippojuicefilm) viral X series "Reasons the CIA Killed Trevor Moore" (March 2024)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

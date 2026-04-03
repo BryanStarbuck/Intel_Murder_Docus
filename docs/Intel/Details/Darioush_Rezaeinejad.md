@@ -100,3 +100,6 @@ The assassination of Rezaeinejad occurred within a broader covert campaign again
 - [Part 5: Assassinations of Iran Nuclear Scientists — The Iran Primer (USIP)](https://iranprimer.usip.org/blog/2020/dec/02/part-5-assassinations-iran-nuclear-scientists)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2011)

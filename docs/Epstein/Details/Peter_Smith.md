@@ -87,3 +87,6 @@ After Smith's death, investigators from the Mueller probe and the House Intellig
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

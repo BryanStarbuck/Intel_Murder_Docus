@@ -128,3 +128,6 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

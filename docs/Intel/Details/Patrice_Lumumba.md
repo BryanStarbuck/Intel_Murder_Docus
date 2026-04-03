@@ -155,3 +155,6 @@ In 2020, during the global Black Lives Matter movement, Lumumba's case received 
 - [Gerard Soete - Wikipedia](https://en.wikipedia.org/wiki/Gerard_Soete)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1961)

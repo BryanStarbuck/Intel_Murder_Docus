@@ -83,3 +83,6 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [Riverdale Press: Hero cop sixth NYPD officer to take life in 2019](https://www.riverdalepress.com/stories/hero-cop-sixth-nypd-officer-suicide-nyc-bronx,69386)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

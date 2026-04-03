@@ -149,3 +149,6 @@ Palme's assassination may have been the act of a lone individual motivated by pe
 - [Sweden: Prosecutor's Announcement Declared Violation of Presumption of Innocence - Library of Congress](https://www.loc.gov/item/global-legal-monitor/2021-07-01/sweden-prosecutors-announcement-of-olof-palme-murder-suspect-declared-violation-of-presumption-of-innocence/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1986)

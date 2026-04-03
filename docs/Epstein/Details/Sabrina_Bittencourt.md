@@ -143,3 +143,5 @@ While there is no direct evidence linking Sabrina Bittencourt or João de Deus t
 - [The Conversation: #MeToo catches up with spiritual healers — the case of Brazil's John of God](https://theconversation.com/metoo-catches-up-with-spiritual-healers-the-case-of-brazils-john-of-god-112215)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

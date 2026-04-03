@@ -112,3 +112,6 @@ Rohwedder was known for favoring restructuring and preservation of East German e
 - [37 Facts About Detlev Rohwedder - Facts.net](https://facts.net/history/people/37-facts-about-detlev-rohwedder/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1991)

@@ -98,3 +98,5 @@ Turkey's MIT officially denied any involvement, stating "our agency has nothing 
 - [The PKK foundation in Sakine Cansiz's words — ANF News](https://english.anf-news.com/features/the-pkk-foundation-in-sakine-cansiz-s-words-23372)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2013)

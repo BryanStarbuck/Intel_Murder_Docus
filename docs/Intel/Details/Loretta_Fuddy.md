@@ -152,3 +152,6 @@ These claims rely solely on the coincidence of timing and Fuddy's peripheral rol
 - [GoPro Captures Hawaii Plane Crash — CNN](https://www.cnn.com/2014/01/10/us/hawaii-crash-survivor)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

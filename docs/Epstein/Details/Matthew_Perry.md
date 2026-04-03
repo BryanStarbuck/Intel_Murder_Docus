@@ -129,3 +129,6 @@ Reports indicated that Sangha's full client list — which reportedly included o
 - [Variety — Matthew Perry's Book: Friends, Drug Abuse and More Memoir Revelations](https://variety.com/lists/matthew-perry-book-friends-drug-abuse-memoir-revelations/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2023)

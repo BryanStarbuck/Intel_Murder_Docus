@@ -175,3 +175,6 @@ The official position is that Seal was killed by the Medellin Cartel in retaliat
 - Del Hahn, *Smuggler's End: The Life and Death of Barry Seal* (2016)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1986)

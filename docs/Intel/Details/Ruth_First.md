@@ -100,3 +100,5 @@ After her release, First left South Africa with her daughters in March 1964 and 
 - [Ruth First Educational Trust — Who Was Ruth First](https://ruthfirsttrust.webspace.durham.ac.uk/who-was-ruth-first/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1982)

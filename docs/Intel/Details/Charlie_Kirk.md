@@ -104,3 +104,6 @@ According to multiple commentators, analysts, and over 72,000 social media posts
 - [Assassination of Charlie Kirk — Britannica](https://www.britannica.com/event/Assassination-of-Charlie-Kirk)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2025)

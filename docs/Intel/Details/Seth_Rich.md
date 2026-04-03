@@ -150,3 +150,5 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 - [After Mueller report, brother of Seth Rich calls on those who pushed conspiracy theory to 'take responsibility' — CNN, April 2019](https://www.cnn.com/2019/04/19/media/seth-rich-mueller-report/index.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

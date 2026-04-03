@@ -106,3 +106,6 @@ Israel has never officially commented on allegations of Mossad involvement in al
 - [Naji al-Ali: The timeless conscience of Palestine — Electronic Intifada](https://electronicintifada.net/content/naji-al-ali-timeless-conscience-palestine/5166)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1987)

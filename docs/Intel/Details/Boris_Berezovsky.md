@@ -97,3 +97,6 @@ In his final years, Berezovsky faced severe financial difficulties that supporte
 - [Police: Berezovsky's Death 'Consistent With Hanging' — NPR](https://www.npr.org/sections/thetwo-way/2013/03/26/175346566/police-berezovskys-death-consistent-with-hanging)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

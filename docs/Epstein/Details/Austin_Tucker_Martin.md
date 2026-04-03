@@ -80,3 +80,5 @@ Martin's death occurred three days before the February 25, 2026 news cycle about
 - [Spectrum News NC: N.C. man killed at Mar-a-Lago wasn't interested in politics or guns, cousin says](https://spectrumlocalnews.com/nc/charlotte/news/2026/02/23/austin-martin-shot-mar-a-lago-trump-)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

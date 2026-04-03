@@ -150,3 +150,6 @@ A makeshift memorial was erected on the bridge where Nemtsov was killed. Russian
 - [Those who ordered Nemtsov's murder remain unnamed — Caucasian Knot](https://www.eng.kavkaz-uzel.eu/articles/73147)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2015)

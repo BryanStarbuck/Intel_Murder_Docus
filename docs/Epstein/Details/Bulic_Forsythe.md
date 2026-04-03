@@ -86,3 +86,5 @@ The Metropolitan Police's Operation Redsnow reviewed the case and concluded that
 - [Bulic Forsythe's Death — News from Crystal Palace](https://newsfromcrystalpalace.wordpress.com/2021/07/27/iicsa-report-story-will-appear-here-later-6/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1993)

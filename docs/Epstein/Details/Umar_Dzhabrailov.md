@@ -105,3 +105,5 @@ Being named in the files is not evidence of wrongdoing, but the timing of his de
 - [Caucasian Knot: Dzhabrailov's Death Occurred Against the Backdrop of Business Failures](https://www.eng.kavkaz-uzel.eu/articles/73247)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

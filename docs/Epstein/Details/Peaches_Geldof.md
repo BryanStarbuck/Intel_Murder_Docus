@@ -182,3 +182,6 @@ All three deaths occurred within a 17-year span. Two of three died of heroin ove
 - [KentOnline: Peaches Geldof — The tragic end of the model, journalist and TV star who died 10 years ago](https://www.kentonline.co.uk/malling/news/she-was-happy-and-planning-for-the-future-304566/) (April 7, 2024)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2014)

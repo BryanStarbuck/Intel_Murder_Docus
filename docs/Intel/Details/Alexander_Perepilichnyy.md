@@ -101,3 +101,6 @@ On December 19, 2018, Judge Hilliard delivered his conclusions: he ruled that wh
 - [Inquest into Alexander Perepilichnyy's death concludes — Doughty Street Chambers](https://www.doughtystreet.co.uk/news/inquest-alexander-perepilichnyys-death-concludes)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2012)

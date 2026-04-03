@@ -143,3 +143,5 @@ Thomas Sankara remains one of the most beloved and admired leaders in African hi
 - [The Revolutionary Feminism of Thomas Sankara - Jacobin](https://jacobin.com/2022/03/international-womens-day-feminism-burkina-faso-sankara)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

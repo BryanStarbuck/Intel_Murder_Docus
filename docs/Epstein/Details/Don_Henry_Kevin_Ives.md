@@ -145,3 +145,5 @@ Whitney Webb's *One Nation Under Blackmail* places the Mena operations within a 
 - Whitney Webb, *One Nation Under Blackmail* (2022)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

@@ -92,3 +92,5 @@ Magee's death was part of a broader pattern. Wall Street on Parade documented th
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

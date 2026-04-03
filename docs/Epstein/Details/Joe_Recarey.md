@@ -195,3 +195,6 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 - Recarey March 19, 2010 sworn deposition (cover page identifies "Detective Joseph Recarey")
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

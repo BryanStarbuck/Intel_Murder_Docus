@@ -99,3 +99,5 @@ At the time Curtiss emailed her in May 2021, Smith was serving as editor of Page
 - [What's Redacted in the New Epstein Files and What Isn't — TIME](https://time.com/7342581/jeffrey-epstein-doj-justice-department-files-documents-redactions/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

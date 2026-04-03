@@ -145,3 +145,6 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 - [Met Police probing Serbian assassin in Jill Dando murder case — GB News (2025)](https://www.gbnews.com/news/jill-dando-detectives-met-police-investigation-serbian-assassin)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1999)

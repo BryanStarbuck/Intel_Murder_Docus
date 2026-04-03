@@ -141,3 +141,6 @@ The 2014 film *Unthinkable: An Airline Captain's Story* is a docudrama based on 
 - Philip Marshall, *Lakefront Airport* (2003)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

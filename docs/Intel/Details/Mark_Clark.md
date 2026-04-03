@@ -103,3 +103,6 @@ Clark had traveled to Chicago the night of December 3, 1969, to work with Hampto
 - [Rolling Out: Honoring Mark Clark](https://rollingout.com/2024/12/07/mark-clark-black-panther-legacy/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1969)

@@ -150,3 +150,6 @@ Hastings' widow Elise Jordan has stated she does not believe in conspiracy theor
 - [LA County Coroner Case Report (PDF)](https://info.publicintelligence.net/MichaelHastingsCoronerReport.pdf)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

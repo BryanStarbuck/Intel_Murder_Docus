@@ -158,3 +158,5 @@ In January 2020, Den Hollander informed reporters that he was "painfully dying f
 - [Judge's family shooting suspect wanted to "wrap up his affairs" after cancer diagnosis — Fox 5 New York](https://www.fox5ny.com/news/judges-family-shooting-suspect-wanted-to-wrap-up-his-affairs-after-cancer-diagnosis)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

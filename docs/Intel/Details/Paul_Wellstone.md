@@ -157,3 +157,6 @@ Regardless of the cause of the crash, certain facts are not in dispute:
 - [CNN: American Politician Plane Fatalities Fast Facts](https://amp.cnn.com/cnn/2013/08/20/us/american-politician-plane-fatalities-fast-facts)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2002)

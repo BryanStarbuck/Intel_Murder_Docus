@@ -115,3 +115,6 @@ Ines reportedly suffered from depression and eating disorders. In 2012, she spen
 - [Buenos Aires Times: Maxima pays emotional tribute to late 'little sister'](https://www.batimes.com.ar/news/world/maxima-pays-emotional-tribute-to-late-little-sister-ines-zorreguieta.phtml)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

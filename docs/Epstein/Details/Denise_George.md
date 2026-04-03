@@ -114,3 +114,5 @@ Cecile de Jongh, wife of former USVI Governor John de Jongh (2007–2015), was a
 - [Wikipedia: Denise George](https://en.wikipedia.org/wiki/Denise_George)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

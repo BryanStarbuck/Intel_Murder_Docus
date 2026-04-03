@@ -116,3 +116,6 @@ Collins-Smith had also reportedly been tracking financial discrepancies at Arkan
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

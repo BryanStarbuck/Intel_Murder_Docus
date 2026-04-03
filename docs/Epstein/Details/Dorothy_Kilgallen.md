@@ -117,3 +117,5 @@ Dorothy Kilgallen's investigation positioned her at the intersection of sexual b
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1965)

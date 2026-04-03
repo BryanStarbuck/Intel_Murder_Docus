@@ -82,3 +82,6 @@ Israel had previously attempted to kill al-Rantisi on 10 June 2003, when an Apac
 - [The 'Lion of Palestine': Hamas co-founder Abdel Aziz Al-Rantisi — Middle East Monitor](https://www.middleeastmonitor.com/20230417-the-lion-of-palestine-hamas-co-founder-abdel-aziz-al-rantisi-23-october-1947-17-april-2004/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2004)

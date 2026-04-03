@@ -178,3 +178,5 @@ Saudi Arabia maintains that the killing was a "rogue operation" carried out by o
 - [Timeline of the murder of journalist Jamal Khashoggi - Al Jazeera](https://www.aljazeera.com/news/2021/2/26/timeline-of-the-murder-of-journalist-jamal-khashoggi)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

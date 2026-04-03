@@ -126,3 +126,5 @@ However, critics note that the barricaded door, the CIA clipping, his warnings a
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1989)

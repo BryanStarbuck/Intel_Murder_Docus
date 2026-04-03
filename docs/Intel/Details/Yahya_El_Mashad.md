@@ -93,3 +93,5 @@ Israel has never officially confirmed or denied responsibility for the assassina
 - [Operation Opera - Wikipedia](https://en.wikipedia.org/wiki/Operation_Opera)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1980)

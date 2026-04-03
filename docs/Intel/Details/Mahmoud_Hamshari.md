@@ -102,3 +102,6 @@ Israel accused him of involvement in the Black September network and of helping 
 - [The Pager Bombings: Everyday Tech That Kills — Al Jazeera](https://www.aljazeera.com/gallery/2024/9/20/the-pager-bombings-everyday-tech-that-kills)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1973)

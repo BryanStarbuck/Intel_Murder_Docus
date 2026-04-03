@@ -94,3 +94,5 @@ Kasir had a documented history of depression and substance abuse issues. She had
 - [How Newly Found "Destroyed" Papers Revive the Mystery — Byline](https://byline.com/2017/11/12/exclusive-how-newly-found-destroyed-papers-revive-the-mystery-of-the-notorious-gay-and-paedophile-elm-guest-house/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1990)

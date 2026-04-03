@@ -106,3 +106,5 @@ The tension in evaluating Gunderson is that some of his most extraordinary claim
 ---
 
 *This information was built by Claude AI research using web searches.*
+
+**Status:** Deceased (2011)

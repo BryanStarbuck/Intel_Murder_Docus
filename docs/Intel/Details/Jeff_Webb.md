@@ -86,3 +86,5 @@ Webb was described as one of Charlie Kirk's most important early mentors, helpin
 - [Varsity Spirit mourns loss of founder Jeff Webb — WREG](https://wreg.com/news/varsity-spirit-mourns-loss-of-founder-jeff-webb/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

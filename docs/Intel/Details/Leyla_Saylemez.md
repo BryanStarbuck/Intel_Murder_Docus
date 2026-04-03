@@ -97,3 +97,6 @@ Turkey's MIT officially denied any involvement in the killings. Turkish authorit
 - [Sakine, Fidan, Leyla worked for freedom and peace in Kurdistan — ANF News](https://english.anf-news.com/features/sakine-fidan-leyla-worked-for-freedom-and-peace-in-kurdistan-31988)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

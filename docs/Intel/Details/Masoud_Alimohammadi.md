@@ -108,3 +108,6 @@ The truth remains unclear. What is certain is that his death inaugurated a campa
 - [Israel Teams with Terror Group to Kill Iran's Nuclear Scientists — NBC News](https://www.nbcnews.com/news/world/israel-teams-terror-group-kill-irans-nuclear-scientists-u-s-flna241673)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2010)

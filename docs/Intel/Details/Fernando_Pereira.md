@@ -93,3 +93,6 @@ The Rainbow Warrior was replaced by a new vessel of the same name, which continu
 - [Greenpeace International — 40th Anniversary Commemoration](https://www.greenpeace.org/international/press-release/76965/bombing-of-the-rainbow-warrior-a-reminder-of-the-power-of-persistence-and-resistance-hope-and-action-to-change-the-world/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1985)

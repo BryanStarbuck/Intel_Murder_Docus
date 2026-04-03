@@ -79,3 +79,6 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 - [Wikipedia: Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

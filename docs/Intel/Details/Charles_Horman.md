@@ -100,3 +100,6 @@ Costa-Gavras directed *Missing* (1982), based on Thomas Hauser's 1978 book *The 
 - [Chilean Court Rules US Played Key Role in Pinochet Murder of Americans — WSWS](https://www.wsws.org/en/articles/2014/07/03/horm-j03.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1973)

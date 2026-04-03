@@ -171,3 +171,6 @@ The Italian judiciary has consistently found that the Red Brigades bore sole res
 - [Operation Gladio and the Years of Lead: Licio Gelli, Giulio Andreotti and the murder of Aldo Moro - Plain Sight Productions](https://plainsightprod.medium.com/operation-gladio-and-the-years-of-lead-licio-gelli-giulio-andreotti-and-the-murder-of-aldo-moro-d850bcf59b08)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1978)

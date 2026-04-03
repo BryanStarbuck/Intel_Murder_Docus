@@ -228,3 +228,5 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

@@ -107,3 +107,6 @@ Salameh was buried in Beirut with full PLO military honors. His death marked the
 - [Lillehammer Affair — Wikipedia](https://en.wikipedia.org/wiki/Lillehammer_affair)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1979)

@@ -85,3 +85,6 @@ Glushkov was deeply connected to the network of Russian exiles in London who had
 - [UK Police Say Russian Was Murdered — Euronews](https://www.euronews.com/2018/03/16/uk-police-launch-murder-investigation-after-death-of-russian-nikolai-glushkov-earlier-)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2018)

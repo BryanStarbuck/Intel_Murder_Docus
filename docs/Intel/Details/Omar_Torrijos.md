@@ -103,3 +103,6 @@ His crowning achievement was the negotiation of the 1977 Torrijos-Carter Treatie
 - [ReVista Harvard — The Weak and the Powerful: Omar Torrijos, Panama, and the Non-Aligned World](https://revista.drclas.harvard.edu/a-review-of-the-weak-and-the-powerful-omar-torrijos-panama-and-the-non-aligned-world/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1981)

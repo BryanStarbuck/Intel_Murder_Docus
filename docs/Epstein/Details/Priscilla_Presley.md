@@ -121,3 +121,6 @@ Priscilla Presley has pushed back against the characterization of her relationsh
 - [Smithsonian: Colonel Parker Managed Elvis' Career, but Was He a Killer on the Lam?](https://www.smithsonianmag.com/history/colonel-parker-managed-elvis-career-but-was-he-a-killer-on-the-lam-108042206/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

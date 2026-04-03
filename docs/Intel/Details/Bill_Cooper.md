@@ -254,3 +254,6 @@ He told his audience exactly how it would end. He was right about that, too.
 - Mark Jacobson, *Pale Horse Rider: William Cooper, the Rise of Conspiracy, and the Fall of Trust in America* (2018)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2001)

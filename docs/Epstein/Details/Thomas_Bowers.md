@@ -86,3 +86,5 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 - [PolitiFact: Fact Check on Epstein-Related Deaths](https://www.politifact.com/factchecks/2020/sep/18/viral-image/facebook-post-conflates-epsteins-suicide-and-recen/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

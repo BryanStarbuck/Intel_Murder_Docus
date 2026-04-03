@@ -96,3 +96,5 @@ Colby was also reportedly advising the Nebraska Legislature's investigation into
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

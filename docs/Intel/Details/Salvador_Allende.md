@@ -176,3 +176,5 @@ The Church Committee concluded that while the CIA did not directly participate i
 - [CIA Report to Congress on Activities in Chile](https://irp.fas.org/cia/product/chile/index.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1973)

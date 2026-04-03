@@ -77,3 +77,5 @@ The official ruling of drug overdose, while never substantiated with public docu
 - [The Franklin Child Abuse Scandal - Geek Slop](https://www.geekslop.com/life/strange/bizarre-crimes/2011/franklin-child-abuse-scandal-child-prostitution-ring-wealthy-elitists-political-leaders)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2003)

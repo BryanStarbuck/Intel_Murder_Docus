@@ -173,3 +173,6 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 - [Wikipedia: Multiple gunshot suicide](https://en.wikipedia.org/wiki/Multiple_gunshot_suicide)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2004)

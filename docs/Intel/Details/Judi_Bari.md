@@ -100,3 +100,6 @@ Despite the bombing and her subsequent cancer, Redwood Summer went forward in th
 - [$4 Million Verdict vs. FBI/Police — Center for Guerrilla Law](https://www.guerrillalaw.com/bari.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1997)

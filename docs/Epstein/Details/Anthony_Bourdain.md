@@ -108,3 +108,5 @@ The claimed involvement with "The Silent Children" documentary — a central ele
 - [The Ringer: The Final Season of 'Anthony Bourdain: Parts Unknown'](https://www.theringer.com/tv/2018/9/25/17900264/anthony-bourdain-parts-unknown-final-season)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

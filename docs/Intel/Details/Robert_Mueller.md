@@ -168,3 +168,5 @@ In 2018, Congressman Louie Gohmert (R-TX) published a 48-page report titled *Rob
 - [Trump on Robert Mueller's Death: 'Good, I'm Glad He's Dead' — Rolling Stone](https://au.rollingstone.com/culture/culture-news/trump-robert-mueller-death-92793/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

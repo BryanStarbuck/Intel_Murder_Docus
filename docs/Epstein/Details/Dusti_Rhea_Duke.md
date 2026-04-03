@@ -109,3 +109,5 @@ In February 2026, Rep. Ted Lieu (D-CA) raised Duke's case during Attorney Genera
 - [German Wikipedia: Dusti Rhea Duke](https://de.wikipedia.org/wiki/Dusti_Rhea_Duke)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2000)

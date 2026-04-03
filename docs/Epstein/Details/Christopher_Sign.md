@@ -95,3 +95,5 @@ Sign's connection to the Epstein case is indirect, running through the Clinton n
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

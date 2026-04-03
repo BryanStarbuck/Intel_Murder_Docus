@@ -98,3 +98,5 @@ The killing also drew attention to the broader question of whether all Wrath of 
 - [Spyscape — Mossad's Fatal Mistake: Operation Wrath of God](https://spyscape.com/article/mossads-deadly-mistake-operation-wrath-of-god)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1973)

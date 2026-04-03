@@ -160,3 +160,6 @@ The litigation dragged on until August 1986, when Kerr-McGee agreed to an out-of
 - [National Whistleblower Center: Karen Silkwood](https://www.whistleblowers.org/whistleblowers/karen-silkwood/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1974)

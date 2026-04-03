@@ -71,3 +71,5 @@ Belgian authorities maintained that the cyanide levels found in Tagliaferro's re
 - [The Revelations of WikiLeaks: No. 4 — Consortium News](https://consortiumnews.com/2019/07/11/the-revelations-of-wikileaks-no-4-the-haunting-case-of-a-belgian-child-killer-and-how-wikileaks-helped-crack-it/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

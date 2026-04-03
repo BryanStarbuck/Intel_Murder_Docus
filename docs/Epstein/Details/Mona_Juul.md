@@ -94,3 +94,6 @@ Juul's case is part of a broader crisis in Norway:
 - [Wikipedia: Mona Juul](https://en.wikipedia.org/wiki/Mona_Juul)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

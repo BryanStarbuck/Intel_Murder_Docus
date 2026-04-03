@@ -98,3 +98,6 @@ Her signature legislative effort was a lustration law, which she drafted and pre
 - [Institute of Modern Russia — In Memory of Galina Starovoitova](https://imrussia.org/en/politics/460-she-has-stepped-into-eternity-in-memory-of-galina-starovoitova)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1998)

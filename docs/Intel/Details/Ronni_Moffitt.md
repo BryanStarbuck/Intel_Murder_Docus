@@ -92,3 +92,5 @@ The primary target of the bombing was Orlando Letelier, who had served as Chile'
 - [Institute for Policy Studies — Letelier-Moffitt Human Rights Awards](https://www.ips-dc.org/events/letelier-moffitt-human-rights-awards/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1976)

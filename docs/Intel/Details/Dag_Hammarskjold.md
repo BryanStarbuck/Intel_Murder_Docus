@@ -146,3 +146,6 @@ Hammarskjold's death at 56 cut short a career that had already reshaped internat
 - [How Race Hampered the Investigation Into Dag Hammarskjold's Death - Foreign Policy](https://foreignpolicy.com/2019/10/11/dag-hammarskjold-death-plane-crash-un-mystery-race/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1961)

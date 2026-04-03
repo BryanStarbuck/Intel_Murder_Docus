@@ -70,3 +70,5 @@ Black was a high-powered defense attorney who, along with [Kenneth Starr](Kennet
 - [Wikipedia: Roy Black (attorney)](https://en.wikipedia.org/wiki/Roy_Black_(attorney))
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

@@ -100,3 +100,5 @@ Belgian judicial authorities who reviewed X1's testimony concluded that her stat
 - [Marc Dutroux — Wikipedia](https://en.wikipedia.org/wiki/Marc_Dutroux)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1984)

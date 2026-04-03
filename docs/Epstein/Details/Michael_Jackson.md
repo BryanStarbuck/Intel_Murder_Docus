@@ -67,3 +67,6 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 - [Wikipedia: List of people named in the Epstein files](https://en.wikipedia.org/wiki/Prominent_individuals_mentioned_in_the_Epstein_files)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

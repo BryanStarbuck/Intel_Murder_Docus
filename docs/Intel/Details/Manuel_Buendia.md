@@ -119,3 +119,6 @@ The Camarena affair ultimately forced the Mexican government to dissolve the DFS
 - Russell H. Bartley and Sylvia Erickson Bartley, *Eclipse of the Assassins: The CIA, Imperial Politics, and the Slaying of Mexican Journalist Manuel Buendia* (University of Wisconsin Press, 2015)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1984)

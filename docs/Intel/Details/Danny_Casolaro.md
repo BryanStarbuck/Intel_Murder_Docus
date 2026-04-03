@@ -153,3 +153,6 @@ In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https:/
 - [The Cinemaholic: Tony Casolaro](https://thecinemaholic.com/tony-casolaro/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1991)

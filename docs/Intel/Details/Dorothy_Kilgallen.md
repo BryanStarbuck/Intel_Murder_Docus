@@ -178,3 +178,6 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 - Mark Shaw, *Denial of Justice* (2020)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1965)

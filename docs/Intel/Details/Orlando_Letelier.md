@@ -152,3 +152,6 @@ These alternative explanations collapsed entirely when Michael Townley confessed
 - [Americas Quarterly: Attack on America -- How Justice Finally Came in Chile](https://www.americasquarterly.org/fulltextarticle/attack-on-america-how-justice-finally-came-in-chile/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1976)

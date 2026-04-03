@@ -80,3 +80,6 @@ Snyder was, by multiple accounts, in a severely destabilized mental state during
 - [Untold Story - Craig Medred News](https://craigmedred.news/2018/06/03/untold-story/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2003)

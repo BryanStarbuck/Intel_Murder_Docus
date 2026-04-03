@@ -88,3 +88,5 @@ At the time of his death, he was investigating the Tri Kita case and was prepari
 - [IFJ and EFJ Remember Journalist — International Federation of Journalists](https://www.ifj.org/media-centre/news/detail/article/russia-ifj-and-efj-remember-journalist-yuri-shchekochikhin)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2003)

@@ -65,3 +65,5 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 - [Wikipedia: Virginia Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2006)

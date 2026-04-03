@@ -287,3 +287,5 @@ Kubler has stated that the family's primary goal is not prosecution of the kille
 - Matt Kubler interview on Redacted podcast with Clayton Morris (2026) — primary source for forensic details, timeline, and investigation findings
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2012)

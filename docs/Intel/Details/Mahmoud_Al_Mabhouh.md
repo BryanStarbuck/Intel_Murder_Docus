@@ -96,3 +96,6 @@ The assassination triggered one of the most significant diplomatic crises betwee
 - [Al-Mabhouh Assassination Analysis - Schneier on Security](https://www.schneier.com/blog/archives/2010/02/al-mabhouh_assa.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2010)

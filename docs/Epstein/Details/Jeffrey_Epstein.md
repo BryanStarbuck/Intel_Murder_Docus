@@ -132,3 +132,6 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [DOJ: Epstein Files Transparency Act Disclosures](https://www.justice.gov/epstein/doj-disclosures)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2019)

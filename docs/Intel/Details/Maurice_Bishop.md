@@ -99,3 +99,6 @@ Despite these achievements, Bishop's government did not hold elections, restrict
 - [Find a Grave — Maurice Bishop](https://www.findagrave.com/memorial/18523/maurice-bishop)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1983)

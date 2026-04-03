@@ -91,3 +91,5 @@ The official ruling is suicide. Her husband was investigated and formally cleare
 - Independent researcher and podcast community documentation
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

@@ -92,3 +92,5 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

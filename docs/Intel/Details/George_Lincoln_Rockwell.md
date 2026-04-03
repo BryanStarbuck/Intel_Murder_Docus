@@ -127,3 +127,6 @@ Karl Allen organized a "John Patler Defense Fund" and promoted the theory that e
 - [Alex Haley Interviews George Lincoln Rockwell (Playboy, 1966)](https://alexhaley.com/2019/09/10/alex-haley-interviews-george-lincoln-rockwell/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1967)

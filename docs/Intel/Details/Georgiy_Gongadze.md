@@ -127,3 +127,6 @@ Critics, including the Committee to Protect Journalists, the European Federation
 - [Who is Georgiy Gongadze — Visit Ukraine](https://visitukraine.today/blog/2844/who-is-georgiy-gongadze-and-why-is-freedom-of-speech-in-ukraine-inextricably-linked-to-his-life-story)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2000)

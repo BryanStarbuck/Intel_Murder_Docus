@@ -86,3 +86,5 @@ On August 1, 2024, Kara-Murza was released as part of a historic prisoner exchan
 - [Meduza — Tailing Kara-Murza](https://meduza.io/en/feature/2021/02/11/tailing-kara-murza)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

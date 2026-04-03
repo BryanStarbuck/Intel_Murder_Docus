@@ -165,3 +165,6 @@ Pearl's family established the Daniel Pearl Foundation to promote cross-cultural
 - [CNN — Reactions to news of Daniel Pearl's death, February 21, 2002](https://edition.cnn.com/2002/WORLD/asiapcf/south/02/21/pearl.reax/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2002)

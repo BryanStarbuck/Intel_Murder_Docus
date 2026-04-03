@@ -81,3 +81,5 @@ The fact that Kessler — who was later convicted of arranging the murder of ano
 - [Websleuths: Arthur Shapiro, 43, Columbus, 6 March 1985](https://www.websleuths.com/forums/threads/oh-arthur-shapiro-43-columbus-6-march-1985.97277/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1970)

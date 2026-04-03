@@ -102,3 +102,6 @@ The UN Commission's lead investigator, Chilean diplomat Heraldo Munoz, later pub
 - [Reconciliation: Islam, Democracy, and the West — Wikipedia](https://en.wikipedia.org/wiki/Reconciliation:_Islam,_Democracy,_and_the_West)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2007)

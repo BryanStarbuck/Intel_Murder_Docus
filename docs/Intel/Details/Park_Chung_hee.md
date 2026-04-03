@@ -112,3 +112,6 @@ By 1979, Park faced mounting crises: the Bu-Ma Democratic Protests (beginning Oc
 - [Korea Times — Assassination of President Park Chung-hee in 1979](https://www.koreatimes.co.kr/lifestyle/people-events/20101024/assassination-of-president-park-chung-hee-in-1979)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1979)

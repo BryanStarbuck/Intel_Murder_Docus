@@ -103,3 +103,5 @@ The Schneider family filed a civil lawsuit in US courts against Henry Kissinger 
 - [Chile Marks 50th Anniversary of Schneider Assassination — MLToday](https://mltoday.com/chile-marks-50th-anniversary-of-assassination-of-chilean-commander-in-chief-general-rene-schneider/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1970)

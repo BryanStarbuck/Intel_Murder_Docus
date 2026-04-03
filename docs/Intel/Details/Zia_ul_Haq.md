@@ -87,3 +87,5 @@ Zia's regime funneled billions of dollars in CIA and Saudi money to the Afghan m
 - [TIME — Pakistan: Death in the Skies](https://time.com/archive/6713127/pakistan-death-in-the-skies/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

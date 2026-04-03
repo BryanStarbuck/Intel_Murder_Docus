@@ -99,3 +99,6 @@ In Chile, judicial proceedings moved far more slowly. It was not until 2003 that
 - [DINA Officers Charged With Assassination of Gen Prats — UNM Digital Repository](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=14124&context=notisur)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1974)

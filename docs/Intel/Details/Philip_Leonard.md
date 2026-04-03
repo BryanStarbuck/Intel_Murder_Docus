@@ -101,3 +101,6 @@ Leonard's work in high-explosives synthesis placed him at the core of LANL's wea
 - [Boomtown Los Alamos: Road to Zero](https://www.boomtownlosalamos.org/p/road-to-zero)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

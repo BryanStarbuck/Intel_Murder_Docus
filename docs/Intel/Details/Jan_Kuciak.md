@@ -100,3 +100,5 @@ Kocner's defense argued that there was insufficient direct evidence linking him 
 - [Jan Kuciak — Faces of Assassination](https://assassination.globalinitiative.net/face/jan-kuciak/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

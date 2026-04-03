@@ -84,3 +84,5 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 - [Front Page Detectives: SILENCED — The Arthur Shapiro Killing and the Les Wexner Connection](https://frontpagedetectivesonline.substack.com/p/silenced-the-arthur-shapiro-killing)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2005)

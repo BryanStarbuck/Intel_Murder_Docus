@@ -106,3 +106,6 @@ Estemirova received numerous international awards in recognition of her courage,
 - [Natalia Estemirova — A Tribute — Human Rights Watch](https://www.hrw.org/natalia-estemirova-tribute)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

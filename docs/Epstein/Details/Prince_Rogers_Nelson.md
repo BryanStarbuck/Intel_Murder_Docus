@@ -121,3 +121,6 @@ Prince told Rolling Stone in 1996: "People think I'm a crazy fool for writing 's
 - [Carver County Sheriff — Prince Investigation](https://www.carvercountymn.gov/departments/county-sheriff/general-information/prince-investigation)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

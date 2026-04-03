@@ -129,3 +129,5 @@ There is no documented direct connection between Alexis Arquette and [Jeffrey Ep
 - [Read Patricia Arquette's Touching Tribute To Sister Alexis — Refinery29](https://www.refinery29.com/en-us/2016/09/122893/alexis-arquette-death-family-facebook-transgender-sister)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

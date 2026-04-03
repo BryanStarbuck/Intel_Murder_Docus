@@ -141,3 +141,5 @@ In post-apartheid South Africa, Biko is honored as one of the country's greatest
 - [Democracy Now — Anti-Apartheid Leader Steve Biko Dies from Brain Damage](https://www.democracynow.org/2003/9/11/sept_11_12_1977_anti_apartheid)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1977)

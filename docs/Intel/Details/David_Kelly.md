@@ -163,3 +163,6 @@ In other emails sent the same day, Kelly did not sound like a man contemplating 
 - [An Inconvenient Death by Miles Goslett - Goodreads](https://www.goodreads.com/en/book/show/39744294-an-inconvenient-death)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2003)

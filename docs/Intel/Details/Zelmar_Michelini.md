@@ -92,3 +92,5 @@ On November 25, 1975, the Uruguayan Embassy in Buenos Aires revoked the passport
 - [Declassified US Government Documents — Plan Condor](https://plancondor.org/en/taxonomy/term/456)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1976)

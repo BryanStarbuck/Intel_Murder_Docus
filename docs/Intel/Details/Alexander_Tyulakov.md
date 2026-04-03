@@ -113,3 +113,6 @@ Tyulakov's death was not an isolated event. At least eight Russian energy execut
 - [Two Ex-Russian Gas Company Execs Found Dead in Two Days — The Daily Beast](https://www.thedailybeast.com/two-ex-russian-gas-company-execs-found-dead-in-two-days/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

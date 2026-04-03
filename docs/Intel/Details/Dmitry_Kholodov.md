@@ -112,3 +112,6 @@ A memorial plaque was placed at the Moskovsky Komsomolets offices. October 17 is
 - [Dmitry Kholodov — CPJ](https://cpj.org/data/people/dmitry-kholodov/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1994)

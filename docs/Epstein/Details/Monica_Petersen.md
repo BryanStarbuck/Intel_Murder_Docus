@@ -82,3 +82,6 @@ The connection to Epstein is speculative, running through Haiti and the Clinton 
 ---
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

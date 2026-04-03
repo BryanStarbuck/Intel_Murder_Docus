@@ -95,3 +95,5 @@ Nasrallah suffered a deeply personal loss in 1997 when his eldest son, Hadi, was
 - [Britannica — Hassan Nasrallah](https://www.britannica.com/biography/Hassan-Nasrallah)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2024)

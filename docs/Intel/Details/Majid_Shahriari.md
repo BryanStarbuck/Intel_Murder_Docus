@@ -99,3 +99,6 @@ Shahriari's assassination occurred within a broader multi-domain campaign agains
 - [Iranian Nuclear Scientist Killed — Al Jazeera](https://www.aljazeera.com/news/2010/11/29/iranian-nuclear-scientist-killed)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2010)

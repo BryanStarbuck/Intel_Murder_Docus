@@ -129,3 +129,6 @@ Galan's assassination profoundly shaped Colombian history. His son, Juan Manuel 
 - [Colombia commemorates 30 years without Luis Carlos Galan - Colombia Reports](https://colombiareports.com/colombia-commemorates-30-years-without-luis-carlos-galan-as-questions-remain/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1989)

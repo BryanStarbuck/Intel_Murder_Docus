@@ -103,3 +103,6 @@ Shabtai Shavit, who according to reports directed the operation, served as Mossa
 - [Atef Bseisu (1948-1992) — Fateh News](https://en.fatehnews.org/2021/06/atef-bseisu-1948-1992/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1992)

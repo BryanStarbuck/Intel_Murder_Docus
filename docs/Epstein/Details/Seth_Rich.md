@@ -206,3 +206,5 @@ Important context often omitted from conspiracy narratives:
 - [DC Metropolitan Police Department: Homicide Victim — Seth Rich](https://mpdc.dc.gov/publication/homicide-victim-seth-rich)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

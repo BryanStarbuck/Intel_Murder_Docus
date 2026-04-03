@@ -99,3 +99,6 @@ Israel has argued that Abu Jihad was a legitimate military target responsible fo
 - [Khalil al-Wazir — Britannica](https://www.britannica.com/biography/Khalil-Ibrahim-al-Wazir)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1988)

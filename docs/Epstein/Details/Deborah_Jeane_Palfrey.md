@@ -120,3 +120,5 @@ Police found handwritten suicide notes dated approximately a week before her dea
 - [Wikipedia: Montgomery Blair Sibley](https://en.wikipedia.org/wiki/Montgomery_Blair_Sibley)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2008)

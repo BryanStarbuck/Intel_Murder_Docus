@@ -88,3 +88,5 @@ The LA County Coroner found pre-existing heart disease as the cause of death, co
 - X/Twitter threads linking death to Clinton network theories
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2012)

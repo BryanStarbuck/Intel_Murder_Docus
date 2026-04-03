@@ -169,3 +169,6 @@ On November 21, 2006, two days before his death, Litvinenko dictated a statement
 - [The Case of the Murdered Russian Spy in London — RUSI](https://www.rusi.org/publication/case-murdered-russian-spy-london)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2006)

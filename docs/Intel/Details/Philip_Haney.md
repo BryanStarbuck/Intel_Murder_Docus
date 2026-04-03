@@ -119,3 +119,6 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 - [Congressional Record -- February 26, 2020](https://www.govinfo.gov/content/pkg/CREC-2020-02-26/html/CREC-2020-02-26-pt1-PgH1219.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2020)

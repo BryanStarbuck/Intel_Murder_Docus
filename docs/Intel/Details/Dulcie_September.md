@@ -90,3 +90,6 @@ September's family has fought a decades-long legal battle to reopen the French i
 - [Dulcie September's Family Lawyer Fights to Reopen Murder Case in France — Business Day](https://www.businessday.co.za/bd/national/2025-04-09-dulcie-septembers-family-lawyer-fights-to-reopen-murder-case-in-france/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1988)

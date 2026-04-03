@@ -146,3 +146,6 @@ Bondi's defenders note that the DOJ has released millions of pages of documents.
 - [Fortune: Inherent contempt charges being drafted against AG Bondi](https://fortune.com/2025/12/21/inherent-contempt-charges-attorney-general-pam-bondi-epstein-files-massie-khanna/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Alive

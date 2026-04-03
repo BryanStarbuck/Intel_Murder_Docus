@@ -108,3 +108,5 @@ Rabin's assassination had devastating consequences for the Israeli-Palestinian p
 - [Yitzhak Rabin -- EBSCO Research Starters](https://www.ebsco.com/research-starters/history/rabin-assassinated)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

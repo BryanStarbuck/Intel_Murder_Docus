@@ -96,3 +96,5 @@ In February 2026, New Mexico state legislators unanimously passed a measure crea
 - [Wikipedia: Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Unknown (Missing / In Hiding since ~2020)

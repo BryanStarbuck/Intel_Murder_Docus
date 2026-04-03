@@ -140,3 +140,6 @@ The seizure ignited a political scandal in Britain, drawing in Members of Parlia
 - [Supergun Saga Sparks Mystery, Murder - Chicago Tribune](https://www.chicagotribune.com/1994/07/17/supergun-saga-sparks-mystery-murder/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1990)

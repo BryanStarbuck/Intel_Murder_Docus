@@ -82,3 +82,6 @@ After his defection, Russian intelligence officials made threatening public stat
 - [Russian Defector's Violent Death Seen as Warning — CBC News](https://www.cbc.ca/news/world/russian-war-critics-safety-1.7121845)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2024)

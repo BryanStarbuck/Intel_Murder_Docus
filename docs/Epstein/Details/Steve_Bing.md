@@ -105,3 +105,5 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - [Wikipedia: Steve Bing](https://en.wikipedia.org/wiki/Steve_Bing)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

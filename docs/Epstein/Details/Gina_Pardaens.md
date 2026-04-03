@@ -99,3 +99,5 @@ Pardaens made copies of CDs containing Zandvoort network material and sent them 
 - [INFRAKSHUN: The Eurocrats and Marc Dutroux IV -- Underworld Justice](https://infrakshun.wordpress.com/2014/03/14/the-eurocrats-and-marc-dutroux-iv-underworld-justice/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1998)

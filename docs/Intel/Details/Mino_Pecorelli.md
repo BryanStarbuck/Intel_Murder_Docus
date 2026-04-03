@@ -103,3 +103,6 @@ The acquittal by the Supreme Court does not prove innocence — it means the pro
 - [Kidnapping and murder of Aldo Moro - Wikipedia](https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1979)
