@@ -157,6 +157,17 @@ People connected to Epstein's sex trafficking and blackmail operation keep dying
 | [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 | [Priscilla Presley](Details/Priscilla_Presley.md) | Alive, age 80, Los Angeles | Not Epstein-connected. Groomed by Elvis at 14; iconic case of entertainment industry's pattern of powerful men accessing underage girls through entourages. Long-time Scientologist. |
 
+## Critical Survivor Testimony
+
+A self-identified Epstein survivor provides first-person testimony about the occult framework allegedly used to justify the ritual abuse of infants and children. She describes the elite as Satanic and claims they believe they obtain real demonic power by committing acts of evil against children — with infants targeted specifically for "soul hunting" rituals. She describes being hunted physically in mountain settings by traffickers while also believing demons were pursuing her simultaneously. She also states that the open southern border was, according to her account, a deliberate strategic operation to supply more children to MK Ultra programming operations. This testimony is presented as the personal account of a claimed survivor; viewers should evaluate it accordingly.
+
+<video controls style="max-height: 33vh; width: auto; display: block; margin: 1rem 0;">
+  <source src="/videos/2041564514613600337.mp4" type="video/mp4" />
+  Your browser does not support the video tag. <a href="https://x.com/JOKAQARMY1/status/2041564514613600337?s=20">View on X</a>.
+</video>
+
+*"Epstein Survivor talks hunting for infant souls." Source: [@JOKAQARMY1 on X](https://x.com/JOKAQARMY1/status/2041564514613600337?s=20), April 7, 2026. Full transcript saved in [other/transcripts/2041564514613600337_transcript.txt](other/transcripts/2041564514613600337_transcript.txt).*
+
 ## Patterns Worth Noting
 
 **Multiple hangings:** [Epstein](Details/Jeffrey_Epstein.md), [Brunel](Details/Jean_Luc_Brunel.md), [Bowers](Details/Thomas_Bowers.md), [William Broeksmit](Details/William_Broeksmit.md), [Middleton](Details/Mark_Middleton.md), [Chris Cornell](Details/Chris_Cornell.md), [Chester Bennington](Details/Chester_Bennington.md), [Anthony Bourdain](Details/Anthony_Bourdain.md), [Kate Spade](Details/Kate_Spade.md), [Ines Zorreguieta](Details/Ines_Zorreguieta.md), [Tracy Twyman](Details/Tracy_Twyman.md), [Michael Hutchence](Details/Michael_Hutchence.md), [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md), [Mark Salling](Details/Mark_Salling.md), [Aaron Swartz](Details/Aaron_Swartz.md), [Aaron Owen](Details/Aaron_Owen.md), and [Mary Kennedy](Details/Mary_Kennedy.md) were all found hanged. Middleton was also shot.
@@ -331,7 +342,7 @@ This research documents deaths and events connected to the Epstein case from pub
 
 ---
 
-*Last Updated: March 27, 2026 — Added Janet Ossebaard (Fall of the Cabal documentary creator)*
+*Last Updated: April 7, 2026 — Added Critical Survivor Testimony video (Epstein survivor on infant soul hunting and Satanic ritual abuse; transcript saved)*
 
 **Suspicious deaths documented in this investigation: 91** — individuals who died under circumstances rated Moderate Suspicion or higher, connected to the Epstein network, elite blackmail operations, or related cover-ups.
 
