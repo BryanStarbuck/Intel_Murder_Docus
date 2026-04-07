@@ -1,0 +1,17 @@
+# Intelligence Murders — Video Manifest
+# https://intelligencemurders.com
+#
+# Videos are NOT committed to git. Each entry has an IPFS CID.
+# Run get_videos.sh to download and pin all videos locally.
+# curl -fsSL https://intelligencemurders.com/videos/get_videos.sh | sh
+
+videos:
+- filename: 2041564514613600337.mp4
+  ipfs_cid: QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
+  source_url: https://x.com/JOKAQARMY1/status/2041564514613600337
+  source_author: '@JOKAQARMY1'
+  description: 'Epstein survivor testimony: alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting'
+  investigation: Epstein
+  added_date: '2026-04-07'
+  pinned: true

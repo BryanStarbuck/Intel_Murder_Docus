@@ -1,0 +1,13 @@
+# Video files are not committed to git.
+# They are tracked via manifest.yaml and distributed via IPFS.
+# Run get_videos.sh to download all videos to your local node.
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+*.wmv
+*.flv
+*.mpg
+*.mpeg

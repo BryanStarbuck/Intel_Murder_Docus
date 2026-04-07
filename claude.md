@@ -6,6 +6,20 @@ Docusaurus site for publishing murder/intelligence documentation.
 
 Port: **4173** — run `npm start` to serve at http://localhost:4173/
 
+## Sister Site — UAP Murders
+
+This site covers **Epstein Murders** and **Intelligence Service Murders** only.
+
+The sister site is a completely separate Docusaurus repo:
+* **Site:** https://uapmurders.com/
+* **Repo:** `~/BGit/Bryan_git/UAP_Murder_Docus/` — **do NOT edit files there from this repo**
+* **Dev server:** Port 3847 (`npm start -- --port 3847`)
+* **Investigations:** UAPs, Energy, Physics
+
+When cross-linking to the UAP sister site, always use **full URLs** (e.g., `https://uapmurders.com/uaps/`).
+Never use relative paths — they are separate Docusaurus instances.
+Never edit files in `~/BGit/Bryan_git/UAP_Murder_Docus/` while working in this repo.
+
 ## Top Bar Navigation → Directory Mapping
 
 | Top Bar Label                  | Local Docs Dir | Content Source                                              |
