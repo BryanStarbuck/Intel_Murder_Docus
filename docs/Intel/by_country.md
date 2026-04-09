@@ -29,6 +29,7 @@ All 149 profiles organized by the country where the killing or attack occurred.
 - [Danny Casolaro](Details/Danny_Casolaro.md) — Journalist investigating PROMIS found with wrists slashed, Martinsburg WV (1991)
 - [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb, FBI blamed her. Died of cancer 1997 (1990)
 - [John Lennon](Details/John_Lennon.md) — Former Beatle shot outside The Dakota, New York City (1980)
+- [Susan Coleman](Details/Susan_Coleman.mdx) — University of Arkansas law student found dead from gunshot to back of head, Little Rock AR. No autopsy; affair and pregnancy claims unverified (1977)
 - [Ronni Moffitt](Details/Ronni_Moffitt.md) — American citizen killed alongside Letelier by DINA car bomb, Washington DC (1976)
 - [Orlando Letelier](Details/Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb, Washington DC (1976)
 - [Karen Silkwood](Details/Karen_Silkwood.md) — Nuclear whistleblower died in car crash en route to meet reporter, Oklahoma (1974)

@@ -44,6 +44,7 @@ All 148 profiles organized by decade and year.
 - **1976** — [Juan Jose Torres](Details/Juan_Jose_Torres.md) — Former Bolivian president kidnapped and shot in Buenos Aires. Operation Condor.
 - **1976** — [Hector Gutierrez Ruiz](Details/Hector_Gutierrez_Ruiz.md) — Uruguayan politician tortured and shot in Buenos Aires. Operation Condor.
 - **1976** — [Zelmar Michelini](Details/Zelmar_Michelini.md) — Uruguayan senator tortured and murdered in Buenos Aires. Operation Condor.
+- **1977** — [Susan Coleman](Details/Susan_Coleman.mdx) — University of Arkansas law student found dead from gunshot wound to back of head in Little Rock, AR. Ruled suicide; no autopsy. Was a student in Bill Clinton's law classes. Anonymous 1992 letter alleged affair and pregnancy; claims denied by family.
 - **1977** — [Steve Biko](Details/Steve_Biko.md) — South African anti-apartheid leader beaten to death in police custody.
 - **1978** — [John Paisley](Details/John_Paisley.md) — Senior CIA officer found floating in Chesapeake Bay with gunshot wound and weighted belt.
 - **1978** — [Georgi Markov](Details/Georgi_Markov.md) — Bulgarian dissident killed by ricin-tipped umbrella on Waterloo Bridge, London.

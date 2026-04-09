@@ -11,7 +11,7 @@ slug: /
 
 Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-**183 profiles documented. 148 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
+**184 profiles documented. 149 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -29,6 +29,7 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 | [Loretta Fuddy](Details/Loretta_Fuddy.md) | 2013 | Acute cardiac arrhythmia (plane crash) | **SUSPICIOUS** | Hawaii Health Director — sole official who verified Obama's long-form birth certificate. Only fatality among 9 people in survivable ocean ditching off Molokai. No traumatic injuries. Found wearing an infant life vest. No pre-flight safety briefing. Autopsy results delayed over a month. No known heart condition. |
 | [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
 | [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
+| [Susan Coleman](Details/Susan_Coleman.mdx) | 1977 | Gunshot wound to back of head, ruled suicide, no autopsy | **MODERATE SUSPICION** | University of Arkansas law student who had been in Bill Clinton's classes died six weeks after Clinton became Arkansas AG. Gunshot to back of head is an unusual suicide wound. No autopsy performed. Anonymous 1992 letter alleged affair and pregnancy; claims denied by family and unverified by investigators. |
 | [Fred Hampton](Details/Fred_Hampton.md) | 1969 | Shot in bed during police raid | **CONFIRMED** | Black Panther leader. FBI COINTELPRO provided floor plans via informant. Drugged beforehand. Police fired 99 shots; Panthers fired 1. $1.85M settlement. |
 | [Mark Clark](Details/Mark_Clark.md) | 1969 | Shot during same raid as Hampton | **CONFIRMED** | Black Panther killed alongside Fred Hampton. Single Panther shot came from his gun as he was killed. |
 | [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) | 1964 | Shot twice on Georgetown towpath | **HIGHLY SUSPICIOUS** | JFK's alleged mistress, ex-wife of CIA's Cord Meyer. Execution-style killing weeks after Warren Commission report. CIA's Angleton seized and destroyed her diary. Suspect acquitted; case unsolved. |
