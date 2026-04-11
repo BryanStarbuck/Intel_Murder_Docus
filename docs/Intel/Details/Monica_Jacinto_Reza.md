@@ -1,0 +1,118 @@
+---
+title: Monica Jacinto Reza
+---
+
+[< Back to Main List](../)
+
+# Monica Jacinto Reza
+NASA Jet Propulsion Laboratory engineer and co-inventor of the Mondaloy superalloy for rocket propulsion vanished while hiking in Angeles National Forest — a premature death memorial appeared online four days later.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Monica Jacinto Reza |
+| **Born** | December 30, 1964 |
+| **Status** | Missing since June 22, 2025 |
+| **Age at Disappearance** | 60 |
+| **Location of Disappearance** | Angeles National Forest, California |
+| **Official Ruling** | Missing person — case unsolved; transferred to LASD Homicide Bureau Missing Persons Unit |
+| **Nationality** | American |
+| **Disappeared on US Soil** | Yes |
+| **Alleged Intelligence Connection** | NASA JPL; co-inventor of Mondaloy superalloy for military rocket propulsion; previously worked under AFRL oversight (military materials research); potential dual-use aerospace technology |
+| **Victim Was Intel Employee** | No |
+| **Category** | Scientist / Weapons Expert |
+
+## Assessment: SUSPICIOUS
+
+A NASA JPL director who co-invented a strategic superalloy for U.S. military rocket engines — the technology that would replace Russian-made RD-180 engines — vanished on a hiking trail. Four days later, a dormant account on Find a Grave created a memorial listing her death date as June 22, 2025, specifying a "green burial" (which requires a body) despite no body ever being found. The memorial was later taken down. Her cell phone forensic data was obtained by law enforcement but never publicly released. As of April 2026, the case remains unsolved.
+
+## Circumstances of Disappearance
+
+On June 22, 2025, at approximately 9:10 a.m., Monica Jacinto Reza was last seen at the 6,000-foot Day Use Parking lot on Angeles Crest Highway, heading toward the Mount Waterman summit in Angeles National Forest, California. She was hiking with two other individuals and became separated from them.
+
+A multi-agency search involving helicopters, drones, and canine units ran for approximately eight days. Items recovered from the trail included a beanie and lip balm. The initial search phase officially concluded June 30, 2025, according to KTLA.
+
+The case was transferred to the Los Angeles County Sheriff's Department Homicide Bureau: Missing Persons Unit. As of April 2026, no body has been found and the case remains unsolved.
+
+### The Find a Grave Memorial
+
+On June 26, 2025 — four days after her disappearance and three days before the search was suspended — an account named "Lillian" created a Find a Grave memorial for Reza. The memorial listed her birth date as December 30, 1964, her death date as June 22, 2025, and specified a "green burial" (a burial that uses no embalming and a biodegradable container).
+
+According to The Sentinel Briefing, the "Lillian" account had been inactive for over a year and had not created a memorial since 2020. The memorial was taken down after The Sentinel Briefing reported on it on March 23, 2026.
+
+### Cell Phone Data
+
+According to The Sentinel Network, LASD confirmed they obtained forensic data from Reza's cell phone. The data has never been publicly released. A post from LASD confirming the forensics was later removed. The Sentinel Network reported that 911 calls from June 22 prove the ridge had cellular connectivity that morning, making the non-disclosure notable.
+
+## Background
+
+Monica Jacinto Reza was the Director of the Materials Processing Group at NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California. She was an Associate Fellow of the American Institute of Aeronautics and Astronautics.
+
+Before JPL, Reza spent decades as a Technical Fellow at Aerojet Rocketdyne, moving to JPL after L3Harris acquired Aerojet Rocketdyne in July 2023. She co-invented the Mondaloy superalloy in the 1990s with Dallis Hardwick of the Rockwell Science Center — a nickel-based superalloy family designed to withstand extreme temperatures and pressures in rocket preburners and turbines.
+
+The Mondaloy alloy was built into the AR1 engine, the U.S. replacement for Russian-made RD-180 engines used on United Launch Alliance rockets — directly tied to American national security launch capability. According to a 2017 Space News report, this technology was critical to ending U.S. dependence on Russian rocket engines.
+
+Reza previously worked on advanced materials research funded by the Air Force Research Laboratory (AFRL) — at the time commanded by Major General William Neil McCasland, who himself went missing approximately eight months after Reza.
+
+## Intelligence Connections
+
+- Director of the Materials Processing Group at NASA JPL — a facility with extensive classified and defense-related programs
+- Co-inventor of the Mondaloy superalloy, a strategic military technology critical to U.S. launch independence from Russia
+- Previously worked under the oversight of AFRL, then commanded by Maj. Gen. William Neil McCasland
+- According to Rep. Tim Burchett (R-TN), the materials Reza worked on may have connections to recovered UFO technology — a claim that has not been independently verified
+- The Bernalillo County Sheriff's Department stated detectives are "looking into" whether there is any connection between Reza's and McCasland's disappearances; no confirmed link has been established
+
+## Why This Death Raises Questions
+
+- **Premature death memorial:** A dormant Find a Grave account created a memorial listing her dead — with a "green burial" — four days after she disappeared and before the search was suspended
+- **Suppressed cell phone data:** Law enforcement obtained forensic data from her phone but has never released it publicly; the confirming LASD post was later removed
+- **Strategic military research:** Reza's Mondaloy alloy is critical U.S. defense technology — the replacement for Russian rocket engines
+- **Connection to McCasland:** Reza previously worked under McCasland's AFRL command on the same class of advanced materials research; both vanished within eight months
+- **Cluster of scientist deaths:** Part of the 2025-2026 pattern that includes Nuno Loureiro (shot), Carl Grillmair (shot), Jason Thomas (found dead), and McCasland (missing)
+- **Congressional attention:** Rep. Burchett has publicly warned of a "dark" pattern of scientist disappearances
+
+## The Counterargument
+
+- Hiking disappearances in Angeles National Forest are not uncommon — rugged terrain, steep drops, and wildlife make the area dangerous
+- No evidence of foul play has been presented by law enforcement
+- The Find a Grave memorial, while suspicious in timing, could have been created by a well-meaning acquaintance who assumed the worst
+- There is no confirmed direct working relationship between Reza and McCasland — their programs overlapped thematically through AFRL funding but no personal collaboration has been documented
+- Police have not indicated any evidence linking her disappearance to her work
+
+## Key Quotes
+
+> "Something dark is going on. I know these scientists and researchers. They have testified. We've got to get to the bottom of it."
+> — Rep. Tim Burchett (R-TN)
+
+## See Also
+
+- [William Neil McCasland](William_Neil_McCasland.md) — Retired Air Force Major General who commanded AFRL during Reza's advanced materials work; also missing since February 2026
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist assassinated December 2025; part of the same scientist death cluster
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead February 2026
+- [Jason Thomas](Jason_Thomas.md) — Novartis cancer researcher with DOD contracts; disappeared December 2025, found dead March 2026
+- [Christopher Fallen](Christopher_Fallen.md) — AFRL physicist found bound and suffocated in Albuquerque, 2024
+
+For coverage of the UAP research dimension of this case, see [UAP Murders — Energy Investigation](https://uapmurders.com/energy/).
+
+## Other Shocking Stories
+
+- [Danny Casolaro](Danny_Casolaro.md): Told friends "if I die, don't believe suicide." Wrists slashed 12 times in hotel. Briefcase vanished.
+- [Pat Tillman](Pat_Tillman.md): NFL star turned Ranger. Three shots to the head at close range. Pentagon covered it up for weeks.
+- [Christopher Fallen](Christopher_Fallen.md): AFRL physicist found bound with duct tape and suffocated in his Albuquerque home.
+- [David Kelly](David_Kelly.md): UK weapons inspector found dead. Records sealed until 2073. Almost no blood at scene.
+
+## Sources
+
+- [KTLA — Initial Search Phase Concludes for Missing Hiker](https://ktla.com/news/local-news/initial-search-phase-concludes-southern-california-hiker-still-missing/)
+- [CBS Los Angeles — Search for Missing Hiker Monica Reza](https://www.cbsnews.com/losangeles/news/angeles-national-forest-missing-hiker-monica-reza/)
+- [Newsweek — Monica Reza Case Gains Attention After Disappearance of US General](https://www.newsweek.com/monica-reza-case-gains-attention-after-disappearance-us-general-11698172)
+- [NewsNation — William McCasland Search / Monica Reza](https://www.newsnationnow.com/missing/william-mccasland-search-monica-reza/)
+- [The Sentinel Network — "The Green Burial"](https://thesentinel.network/p/the-green-burial-she-was-declared)
+- [The Sentinel Network — "The Phone Gap"](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)
+- [We Got This Covered — Mondaloy / McCasland Connection](https://wegotthiscovered.com/fyi/this-super-alloy-could-end-american-dependence-on-russian-rockets-now-two-officials-involved-in-its-development-are-missing/)
+- [IBTimes UK — McCasland / Reza Connection](https://www.ibtimes.co.uk/neil-mccasland-disappearance-related-nasa-jpl-engineer-who-also-went-missing-eight-months-before-1790253)
+- [Daily Mail — Five US Scientists Dead or Missing (March 22, 2026)](https://www.dailymail.co.uk/)
+- [Daily Caller — High-Profile Scientists Dead or Missing](https://dailycaller.com/2026/03/23/high-profile-scientists-dead-missing-gop-rep-suggestsconspiracy-play/)
+
+**Status:** Missing (2025)
+
+*This information was built by Grok and Claude AI research.*

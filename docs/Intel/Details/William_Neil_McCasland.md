@@ -1,0 +1,117 @@
+---
+title: William Neil McCasland
+---
+
+[< Back to Main List](../)
+
+# William Neil McCasland
+Retired U.S. Air Force Major General who commanded the Air Force Research Laboratory at Wright-Patterson AFB — long associated with alleged UFO debris storage — disappeared without a trace in Albuquerque, New Mexico.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | William Neil McCasland |
+| **Born** | c. 1958 |
+| **Status** | Missing since February 27, 2026 |
+| **Age at Disappearance** | 68 |
+| **Location of Disappearance** | Albuquerque, New Mexico |
+| **Official Ruling** | Missing person — active investigation |
+| **Nationality** | American |
+| **Disappeared on US Soil** | Yes |
+| **Alleged Intelligence Connection** | U.S. Air Force; Air Force Research Laboratory; Wright-Patterson AFB; alleged involvement in classified UAP programs; referenced in WikiLeaks Podesta emails regarding UFO disclosure |
+| **Victim Was Intel Employee** | No (retired military, not intelligence service employee) |
+| **Category** | Scientist / Weapons Expert |
+
+## Assessment: SUSPICIOUS
+
+A retired two-star general with nuclear secrets, advanced weapons research credentials, and alleged connections to classified UAP programs vanished from his Albuquerque home, deliberately leaving behind his phone, prescription glasses, and all wearable tracking devices. He took only boots, a .38-caliber revolver, and a red backpack. As of April 2026, despite extensive searches involving the FBI, no trace of McCasland has been found.
+
+## Circumstances of Disappearance
+
+On February 27, 2026, a repairman was the last known person to interact with McCasland at approximately 10 a.m. at his home near Quail Run Court NE in Albuquerque, New Mexico. His wife, Susan McCasland Wilkerson, returned around noon and found him gone.
+
+According to his wife's 911 call (released April 3, 2026), McCasland changed his clothes before leaving and deliberately turned off his cell phone. He left behind his prescription glasses and all wearable devices — items that could be used to track his location. He took hiking boots, a .38-caliber revolver in a leather holster, and a red backpack. All vehicles and bicycles remained in the garage.
+
+On March 7, a gray U.S. Air Force sweatshirt was found approximately 1.25 miles east of his home. Initial testing detected no blood on it. Items were also later found at his second home in Colorado: a green long-sleeve shirt and hiking boots.
+
+Investigators canvassed over 700 homes and searched by dogs, drones, and helicopters. Warm spring temperatures complicated heat-signature searches. As of April 2026, McCasland has not been found, and no body has been recovered.
+
+## Background
+
+William Neil McCasland held degrees from the U.S. Air Force Academy (astronautical engineering), MIT, and Harvard University. His military career included service as chief engineer on the Department of Defense's Global Positioning System program, system program director of the Space Based Laser Project Office, and Director of Special Programs at the Pentagon.
+
+McCasland's most notable command was as Commander of the Air Force Research Laboratory (AFRL) at Wright-Patterson Air Force Base in Ohio — a facility long rumored in popular culture to house extraterrestrial debris from the 1947 Roswell incident. The Air Force has officially denied this claim, and McCasland's wife has publicly stated that "Neil does not have any special knowledge about the ET bodies and debris from the Roswell crash stored at Wright-Patt."
+
+After retirement, McCasland briefly worked with Tom DeLonge's To The Stars Academy (TTSA), an organization focused on studying unidentified aerial phenomena. The 2016 WikiLeaks dump of John Podesta's emails included correspondence from DeLonge describing how McCasland had helped him with advice on UAP disclosure and in assembling his advisory team.
+
+## Intelligence Connections
+
+- Commanded the Air Force Research Laboratory at Wright-Patterson AFB, which houses classified aerospace research programs
+- According to Rep. Tim Burchett (R-TN), McCasland was allegedly a "gatekeeper of the UFO stuff" — a claim based on Burchett's unnamed sources and not independently verified
+- Referenced by name in WikiLeaks Podesta emails regarding UFO disclosure and the To The Stars Academy advisory team
+- Held nuclear secrets and worked on classified space-based weapons programs (Space Based Laser Project Office)
+- His wife confirmed he "associated with the UFO community" but pushed back against claims of special ET knowledge
+
+## Why This Death Raises Questions
+
+- **Deliberate disappearance indicators:** McCasland turned off his phone, left behind prescription glasses and all wearable tracking devices — a pattern consistent with someone who did not want to be found
+- **Armed departure:** He took a .38-caliber revolver, which could indicate he felt threatened or planned to harm himself
+- **Cluster of scientist deaths:** McCasland's disappearance falls within a broader cluster of scientist deaths and disappearances in 2025-2026, including his former colleague Monica Jacinto Reza (missing since June 2025), MIT fusion physicist Nuno Loureiro (shot December 2025), Caltech astrophysicist Carl Grillmair (shot February 2026), and Novartis researcher Jason Thomas (found dead March 2026)
+- **Congressional attention:** Rep. Tim Burchett publicly called it "a major national security issue" and pushed for FBI involvement
+- **UAP disclosure timing:** The disappearance occurred during heightened congressional pressure for UFO/UAP disclosure
+- **No trace after extensive search:** FBI-level search resources have found no body, no confirmed sighting, and minimal physical evidence after six weeks
+
+## The Counterargument
+
+There are significant reasons to consider McCasland's disappearance voluntary rather than the result of foul play:
+
+- His wife's 911 call stated he had been "saying if his brain and body keep deteriorating, he doesn't want to live like that" and was being treated for anxiety, short-term memory loss, and lack of sleep
+- He changed clothes and turned off his phone deliberately — consistent with a planned departure, not an abduction
+- His wife publicly stated she does not suspect foul play
+- Susan McCasland Wilkerson pushed back against UFO-linked speculation in a March 6 Facebook post, stating her husband had no special knowledge of ET debris at Wright-Patterson
+- The Bernalillo County Sheriff's Office has not indicated any evidence of foul play
+
+## Key Quotes
+
+> "My husband is missing. It's been about three hours, and I have some indication that he must have planned not to be found."
+> — Susan McCasland Wilkerson, 911 call, February 27, 2026
+
+> "He's the guy that had a lot of nuclear secrets and … I've been told by several sources that he was gatekeeper of the UFO stuff."
+> — Rep. Tim Burchett (R-TN), to media
+
+> "Neil does not have any special knowledge about the ET bodies and debris from the Roswell crash stored at Wright-Patt."
+> — Susan McCasland Wilkerson, Facebook post, March 6, 2026
+
+## See Also
+
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — NASA JPL engineer who co-invented the Mondaloy superalloy under McCasland's AFRL oversight; also missing since June 2025
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist assassinated December 2025; part of the same scientist death cluster
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead February 2026; part of the same scientist death cluster
+- [Jason Thomas](Jason_Thomas.md) — Novartis cancer researcher with DOD contracts; disappeared December 2025, found dead March 2026
+- [Christopher Fallen](Christopher_Fallen.md) — AFRL physicist and former HAARP chief scientist found bound and suffocated in Albuquerque, 2024
+- [Frank Olson](Frank_Olson.md) — CIA scientist who died under suspicious circumstances; parallels in classified research and unexplained death
+
+For coverage of the UAP research dimension of this case, see [UAP Murders — Energy Investigation](https://uapmurders.com/energy/).
+
+## Other Shocking Stories
+
+- [Gary Webb](Gary_Webb.md): Pulitzer journalist exposed CIA crack pipeline. Two bullets to the head. Ruled "suicide."
+- [Karen Silkwood](Karen_Silkwood.md): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
+- [Fred Hampton](Fred_Hampton.md): Age 21. FBI drugged him, drew the floor plan, police shot him twice in the head while asleep.
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist assassinated by AI-controlled remote gun mounted in a parked Nissan pickup truck.
+
+## Sources
+
+- [CNN — Retired Air Force General Missing, FBI Joins Search](https://www.cnn.com/2026/03/11/us/retired-air-force-general-fbi-search)
+- [CNN — FBI Expands Search for William McCasland](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing)
+- [ABC News — Retired Air Force Major General Missing for Weeks](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)
+- [NewsNation — Who Is William Neil McCasland?](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/)
+- [NewsNation — McCasland Missing Timeline](https://www.newsnationnow.com/missing/neil-mccasland-missing-timeline/)
+- [NewsNation — Wife Pushes Back on UFO Misconceptions](https://www.newsnationnow.com/missing/wife-retired-general-ufo-misconceptions/)
+- [NewsNation — 911 Call Released](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/)
+- [Newsweek — Ex-FBI Agent Raises Concerns Over Search](https://www.newsweek.com/ex-fbi-agent-raises-concerns-over-search-for-missing-air-force-general-11703958)
+- [Daily Caller — High-Profile Scientists Dead or Missing](https://dailycaller.com/2026/03/23/high-profile-scientists-dead-missing-gop-rep-suggestsconspiracy-play/)
+- [Daily Mail — Five US Scientists Dead or Missing (March 22, 2026)](https://www.dailymail.co.uk/)
+
+**Status:** Missing (2026)
+
+*This information was built by Grok and Claude AI research.*

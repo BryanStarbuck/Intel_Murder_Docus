@@ -2,7 +2,7 @@
 
 # Intelligence Service Murders: Chronological Index
 
-All 148 profiles organized by decade and year.
+All 153 profiles organized by decade and year.
 
 ---
 
@@ -176,6 +176,11 @@ All 148 profiles organized by decade and year.
 - **2024** — [Marine Vlahovic](Details/Marine_Vlahovic.md) — French journalist found dead in Marseille while working on Gaza documentary.
 - **2025** — [Charlie Kirk](Details/Charlie_Kirk.md) — Turning Point USA founder shot by rooftop sniper at campus debate.
 - **2025** — [Melissa Hortman](Details/Melissa_Hortman.md) — Minnesota House DFL leader shot in home. Killer wore silicone mask and fake police uniform.
+- **2025** — [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT Plasma Science and Fusion Center director shot in Brookline, MA apartment foyer. Killer was former Portuguese classmate who also shot Brown University students. No motive given.
+- **2025/2026** — [Jason Thomas](Details/Jason_Thomas.md) — Novartis cancer researcher with DOD contracts disappeared Dec 12, 2025. Body recovered from frozen Lake Quannapowitt, Wakefield MA, March 17, 2026.
+- **2025** — [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) — NASA JPL Materials Processing Group director and Mondaloy superalloy co-inventor vanished while hiking in Angeles National Forest June 22, 2025. Premature death memorial appeared online 4 days later. Not found.
+- **2026** — [Carl Grillmair](Details/Carl_Grillmair.md) — Caltech astrophysicist (discovered water on exoplanet) shot dead on front porch of Llano, CA home. Suspect had been caught trespassing with loaded rifle weeks earlier; charges dropped 11 days before murder.
+- **2026** — [William Neil McCasland](Details/William_Neil_McCasland.md) — Retired Air Force Major General, former AFRL commander at Wright-Patterson AFB. Disappeared Feb 27, 2026 in Albuquerque, leaving phone and glasses behind. FBI search found no trace.
 - **2026** — [Jeff Webb](Details/Jeff_Webb.md) — Charlie Kirk's mentor. Fatal head injury from "freak pickleball accident" six months after Kirk assassination.
 - **2026** — [Robert Mueller](Details/Robert_Mueller.md) — Former FBI Director. Died of Parkinson's before Epstein testimony subpoena.
 

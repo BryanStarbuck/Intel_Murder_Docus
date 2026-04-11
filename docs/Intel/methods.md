@@ -2,7 +2,7 @@
 
 # Intelligence Service Murders: Assassination Methods Index
 
-All 148 profiles organized by method of killing or attack.
+All 153 profiles organized by method of killing or attack.
 
 ---
 
@@ -10,6 +10,8 @@ All 148 profiles organized by method of killing or attack.
 
 The most common assassination method. Includes snipers, close-range execution, drive-by, and military strikes.
 
+- [Carl Grillmair](Details/Carl_Grillmair.md) — Caltech astrophysicist shot on front porch of rural home, Llano CA (2026)
+- [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT fusion physicist shot in apartment foyer, Brookline MA (2025)
 - [Charlie Kirk](Details/Charlie_Kirk.md) — Single gunshot to neck by rooftop sniper (2025)
 - [Melissa Hortman](Details/Melissa_Hortman.md) — Shot in home, Brooklyn Park MN (2025)
 - [Philip Haney](Details/Philip_Haney.md) — Gunshot, ruled suicide (2020)
@@ -186,8 +188,14 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 
 - [Daniel Pearl](Details/Daniel_Pearl.md) — WSJ journalist beheaded, Karachi (2002)
 
+## Disappearance / Missing
+
+- [William Neil McCasland](Details/William_Neil_McCasland.md) — Retired Air Force Major General vanished from Albuquerque, leaving phone and glasses behind, taking revolver (2026)
+- [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) — NASA JPL engineer vanished while hiking in Angeles National Forest; body never found (2025)
+
 ## Drowning / Water
 
+- [Jason Thomas](Details/Jason_Thomas.md) — Novartis cancer researcher disappeared Dec 2025, body recovered from frozen Lake Quannapowitt three months later (2025/2026)
 - [William Colby](Details/William_Colby.md) — Drowned during canoe trip (also listed under Staged Suicide) (1996)
 - [Fernando Pereira](Details/Fernando_Pereira.md) — Drowned when French DGSE bombed Rainbow Warrior, Auckland (1985)
 

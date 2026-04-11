@@ -93,6 +93,10 @@ There are significant reasons to consider Thomas's death a tragic personal crisi
 
 ## See Also
 
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist shot dead three days after Thomas disappeared; part of the same 2025-2026 scientist death cluster
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead February 2026; part of the same cluster
+- [William Neil McCasland](William_Neil_McCasland.md) — Retired Air Force Major General missing since February 2026; part of the same cluster
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — NASA JPL engineer missing since June 2025; part of the same cluster
 - [Frank Olson](Frank_Olson.md) — CIA scientist who died under suspicious circumstances; biological weapons research with intelligence dimensions
 - [David Kelly](David_Kelly.md) — UK weapons scientist found dead before testimony; official ruling disputed by experts
 
@@ -113,6 +117,7 @@ There are significant reasons to consider Thomas's death a tragic personal crisi
 - [Body of missing Wakefield man found — Boston 25 News](https://www.boston25news.com/news/local/body-found-north-shore-lake-believed-be-man-who-vanished-months-ago-da-says/GE72QWYDCVE3TO75AG2TW4W44A/)
 - ['He Literally Vanished': Scientist Still Missing — CrimeOnline](https://www.crimeonline.com/2026/01/05/he-literally-vanished-scientist-still-missing-weeks-after-hes-seen-walking-near-train-tracks/)
 - [High-Profile Scientists Dead or Missing — Daily Caller](https://dailycaller.com/2026/03/23/high-profile-scientists-dead-missing-gop-rep-suggestsconspiracy-play/)
+- [Daily Mail — Five US Scientists Dead or Missing (March 22, 2026)](https://www.dailymail.co.uk/)
 
 *This information was built by Grok and Claude AI research.*
 

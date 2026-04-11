@@ -385,9 +385,9 @@ const people: Person[] = [
     blurb: "Russian journalist. Skin peeled off, hair fell out, organs failed\u2014classic thallium poisoning. Medical records classified as state secret. Was investigating FSB corruption.",
   },
   {
-    name: "Maxim Kuzminov",
-    path: "/intel/Details/Maxim_Kuzminov",
-    blurb: "Russian pilot who defected to Ukraine with a military helicopter. Shot and run over in Spain. Face deliberately disfigured to delay identification.",
+    name: "Carl Grillmair",
+    path: "/intel/Details/Carl_Grillmair",
+    blurb: "Age 67. Caltech astrophysicist. Discovered water on a distant planet. Caught trespasser with a rifle — charges dropped. Shot dead on his porch 11 days later.",
   },
   {
     name: "Monica Petersen",

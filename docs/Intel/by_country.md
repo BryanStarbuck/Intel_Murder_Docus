@@ -2,14 +2,19 @@
 
 # Intelligence Service Murders: Geographic Index
 
-All 149 profiles organized by the country where the killing or attack occurred.
+All 156 profiles organized by the country where the killing or attack occurred.
 
 ---
 
 ## United States
 
+- [William Neil McCasland](Details/William_Neil_McCasland.md) — Retired Air Force Major General, AFRL commander at Wright-Patterson AFB, disappeared Albuquerque NM (2026)
+- [Carl Grillmair](Details/Carl_Grillmair.md) — Caltech astrophysicist shot dead on front porch, Llano CA (2026)
 - [Jeff Webb](Details/Jeff_Webb.md) — Charlie Kirk's mentor, fatal pickleball accident (2026)
 - [Robert Mueller](Details/Robert_Mueller.md) — Former FBI Director, died of Parkinson's (2026)
+- [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT fusion physicist shot in apartment foyer, Brookline MA (2025)
+- [Jason Thomas](Details/Jason_Thomas.md) — Novartis cancer researcher disappeared, found in frozen lake, Wakefield MA (2025/2026)
+- [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) — NASA JPL engineer vanished hiking in Angeles National Forest CA (2025)
 - [Charlie Kirk](Details/Charlie_Kirk.md) — Turning Point USA founder shot by rooftop sniper at campus debate (2025)
 - [Melissa Hortman](Details/Melissa_Hortman.md) — Minnesota House DFL leader shot in home, Brooklyn Park MN (2025)
 - [Trevor Moore](Details/Trevor_Moore.md) — Comedian fell from balcony, Los Angeles CA (2021)

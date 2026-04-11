@@ -11,7 +11,7 @@ slug: /
 
 Intelligence agencies murder journalists, scientists, activists, and elected leaders — not just spies. This documents their victims.
 
-**184 profiles documented. 149 deaths. April 2026.** | **[Epstein Kill List](/epstein/)**
+**188 profiles documented. 149 deaths, 4 missing. April 2026.** | **[Epstein Kill List](/epstein/)**
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -125,9 +125,13 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
+| [William Neil McCasland](Details/William_Neil_McCasland.md) | 2026 | Missing — not found | **SUSPICIOUS** | Retired Air Force Major General who commanded AFRL at Wright-Patterson AFB. Vanished Feb 2026 in Albuquerque, leaving phone and glasses behind, taking only a revolver. FBI search found no trace. Referenced in WikiLeaks Podesta emails re: UFO disclosure. Part of 2025-2026 scientist death cluster. |
+| [Carl Grillmair](Details/Carl_Grillmair.md) | 2026 | Gunshot wound | **SUSPICIOUS** | Caltech astrophysicist (age 67) who discovered water on a distant planet. Shot on his front porch in Llano, CA. Suspect had been caught trespassing on his property with a loaded rifle weeks earlier — charges were dropped 11 days before the murder. No motive. Part of 2025-2026 cluster. |
+| [Nuno Loureiro](Details/Nuno_Loureiro.md) | 2025 | Gunshot wound | **SUSPICIOUS** | MIT Plasma Science and Fusion Center director (age 47). Shot in his Brookline, MA apartment foyer. Killer was former classmate from Portugal who also committed Brown University mass shooting. Confessed but gave no motive. Part of 2025-2026 scientist death cluster. |
+| [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | 2025 | Missing — not found | **SUSPICIOUS** | NASA JPL Materials Processing Group director (age 60). Co-inventor of Mondaloy superalloy for rocket engines. Vanished hiking June 2025. Find a Grave memorial appeared 4 days later listing her dead with "green burial" — no body found. Part of 2025-2026 cluster. |
+| [Jason Thomas](Details/Jason_Thomas.md) | 2025/2026 | Found in frozen lake | **MODERATE SUSPICION** | Novartis cancer researcher with DOD contracts. Disappeared Dec 2025, body recovered from Lake Quannapowitt after ice thawed March 2026. Part of 2025-2026 scientist death cluster. |
 | [Christopher Fallen](Details/Christopher_Fallen.md) | 2024 | Asphyxiation (bound and suffocated in home) | **SUSPICIOUS** | AFRL senior research physicist and former HAARP chief scientist. Found bound with duct tape and asphyxiated in Albuquerque home. One suspect convicted; co-defendant died of overdose. Part of 2024 NM defense corridor cluster. |
 | [Philip Leonard](Details/Philip_Leonard.md) | 2024 | Head-on car crash on road to LANL | **SUSPICIOUS** | LANL high-explosives synthesis chemist. Killed when another driver crossed center line on NM 501 near the lab. Part of 2024 NM defense corridor cluster. |
-| [Jason Thomas](Details/Jason_Thomas.md) | 2025/2026 | Found in frozen lake | **MODERATE SUSPICION** | Novartis cancer researcher with DOD contracts. Disappeared Dec 2025, body recovered from Lake Quannapowitt after ice thawed March 2026. Part of 2025-2026 scientist death cluster. |
 | [Charles McMillan](Details/Charles_McMillan.md) | 2024 | Head-on car crash in Los Alamos | **UNCERTAIN** | Former LANL director (2011–2017). Killed when another driver swerved into his lane. Driver charged with traffic violations. Adds to 2024 NM cluster. |
 | [Don Wiley](Details/Don_Wiley.md) | 2001 | Found in Mississippi River | **SUSPICIOUS** | Harvard immunologist. Disappeared during 2001 anthrax crisis when 11+ microbiologists died within months. Official bridge-fall explanation widely questioned. |
 | [Frank Olson](Details/Frank_Olson.md) | 1953 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | CIA biological weapons scientist. MKULTRA victim. |
