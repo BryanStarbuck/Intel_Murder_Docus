@@ -122,7 +122,7 @@ While there is no direct evidence linking Sabrina Bittencourt or João de Deus t
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of murder on camera in Mexico; disappeared 2009
 - [Max Spiers](Max_Spiers.md) — Researcher investigating elite pedophilia; died in Poland in 2016
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — DC Madam who said she'd never hang herself; found hanged in 2008
-- [Janet Ossebaard](Janet_Ossebaard.md) — Dutch filmmaker behind "Fall of the Cabal" trafficking documentary; said she'd never commit suicide, found dead of overdose in 2023
+- [Janet Ossebaard](Janet_Ossebaard.mdx) — Dutch filmmaker behind "Fall of the Cabal" trafficking documentary; said she'd never commit suicide, found dead of overdose in 2023
 
 ## Other Shocking Stories
 

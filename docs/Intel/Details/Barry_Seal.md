@@ -173,6 +173,7 @@ The official position is that Seal was killed by the Medellin Cartel in retaliat
 - [Kerry Committee Report: Drugs, Law Enforcement and Foreign Policy](https://en.wikipedia.org/wiki/Kerry_Committee)
 - Daniel Hopsicker, *Barry and the Boys: The CIA, the Mob and America's Secret History* (2001)
 - Del Hahn, *Smuggler's End: The Life and Death of Barry Seal* (2016)
+- [@TheShadowIntelX on X — Boys on the Tracks / Mena Operation summary](https://x.com/TheShadowIntelX/status/2044172444752126124) — April 14, 2026 video post connecting Barry Seal, Kevin Ives, Don Henry, and the Mena CIA cocaine operation (896 likes, 310 retweets)
 
 *This information was built by Grok and Claude AI research.*
 

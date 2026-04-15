@@ -1,0 +1,144 @@
+---
+title: The Epstein Files
+sidebar_label: Epstein Files
+---
+
+# The Epstein Files
+
+A comprehensive timeline and reference for the release, suppression, and recovery of documents related to Jeffrey Epstein's sex trafficking and blackmail operation.
+
+## Overview
+
+The "Epstein Files" refers to millions of pages of government records, court documents, victim statements, FBI investigations, and intelligence reports related to Jeffrey Epstein and his network of associates. These documents have been the subject of intense legal battles, congressional legislation, and public controversy since Epstein's death in 2019.
+
+As of April 2026, the DOJ has released approximately 3.5 million pages but acknowledges that up to 6 million pages may qualify under the Epstein Files Transparency Act — meaning roughly half of all relevant files remain unreleased.
+
+## Key Document Categories
+
+### Court Documents (Giuffre v. Maxwell)
+
+The first major tranche of Epstein-related documents came from the civil defamation lawsuit *Giuffre v. Maxwell*:
+
+* **August 9, 2019** — First batch unsealed
+* **July 30, 2020** — Additional depositions and email exchanges released
+* **December 2023** — Judge Loretta Preska ordered unsealing of remaining documents
+* **January 2024** — 4,553 pages unsealed, naming 150+ individuals connected to Epstein
+
+### DOJ/FBI Investigative Files
+
+The largest category of Epstein files — held by the Department of Justice and FBI:
+
+* Victim interview transcripts and complaint summaries
+* FBI investigation notes and surveillance records
+* DEA investigation records (a previously undisclosed 5+ year probe)
+* Grand jury materials
+* Evidence from the Metropolitan Correctional Center (Epstein's death)
+* Intelligence agency referrals and communications
+
+### Flight Logs and Financial Records
+
+* Lolita Express flight manifests
+* Epstein's "black book" of contacts
+* Financial transaction records (Deutsche Bank, JPMorgan Chase)
+* Property records (Little Saint James, Zorro Ranch, NYC mansion, Paris apartment, New Mexico)
+
+## Legislative History
+
+### The Epstein Files Transparency Act (H.R. 4405)
+
+| Date | Event |
+|------|-------|
+| July 2025 | Reps. Thomas Massie (R-KY) and Ro Khanna (D-CA) introduced H.R. 4405 |
+| September 2025 | Massie filed discharge petition to force floor vote |
+| November 12, 2025 | Discharge petition reached required 218 signatures |
+| November 18, 2025 | House voted **427-1** to pass (sole "no" vote: Rep. Clay Higgins, R-LA) |
+| November 19, 2025 | Senate passed by unanimous consent; President Trump signed into law |
+
+The Act required the Attorney General to make all Epstein files "publicly available in a searchable and downloadable format" within 30 days.
+
+## Release Timeline
+
+### December 19, 2025 — First Release
+
+The DOJ released its first batch at the 30-day deadline. According to CBS News, over 500 pages were entirely blacked out. Bipartisan outrage over excessive redactions.
+
+### January 2026 — Waves 2 through 5
+
+The DOJ released files in multiple waves through January:
+
+* Approximately 3.5 million pages total
+* 2,000 videos
+* 180,000 images
+* January 30, 2026: DOJ claimed "final" release; acknowledged up to 6 million qualifying pages
+
+Key revelation: Epstein was the subject of a previously undisclosed DEA investigation — a 5+ year probe targeting him and 14 other individuals for suspicious money transfers.
+
+### February 2, 2026 — No Prosecutions
+
+Deputy AG Todd Blanche stated there would be no additional prosecutions related to Epstein.
+
+### February 11, 2026 — Congressional Search Surveillance
+
+According to NBC News, a Reuters photo caught AG Pam Bondi holding a document labeled "Jayapal Pramila Search History" — revealing the DOJ was tracking what members of Congress searched for in the unredacted files. Bipartisan condemnation followed.
+
+### February 24, 2026 — Files Found Withheld
+
+According to NPR, the DOJ had withheld and removed files related to accusations about Trump. Dozens of pages appeared catalogued but not shared publicly.
+
+### March 4, 2026 — 48,000 Files Removed
+
+According to Salon, the DOJ admitted to removing nearly 48,000 files from the publicly available database. The total database was reportedly more than 65,000 pages shorter than what was initially released.
+
+### March 5-6, 2026 — Partial Restoration
+
+Approximately 50,000 previously removed files were restored. According to the Washington Post, the DOJ posted additional files containing the Trump allegations.
+
+### April 2, 2026 — AG Bondi Fired
+
+According to NPR, President Trump fired AG Pam Bondi. Deputy AG Todd Blanche (Trump's former criminal defense attorney) became Acting AG.
+
+### April 14, 2026 — Files Deleted Again; Recovered
+
+According to reports on X, the DOJ deleted Epstein files from its public database again. Files were reportedly recovered within hours. Source: [@Tironianae on X](https://x.com/Tironianae/status/2044191958034223143).
+
+## Current Status (April 2026)
+
+| Metric | Value |
+|--------|-------|
+| Pages released | ~3.5 million |
+| Pages potentially qualifying | ~6 million |
+| Pages reportedly removed then restored | ~50,000 |
+| Net pages missing from initial release | ~65,000+ |
+| Videos released | ~2,000 |
+| Images released | ~180,000 |
+| Arrests since release | **0** |
+| Acting AG | Todd Blanche (Trump's former defense attorney) |
+
+## Where to Access the Files
+
+* [DOJ Epstein Library](https://www.justice.gov/epstein) — official portal (files have been added and removed)
+* [CBS News Tracker](https://www.cbsnews.com/projects/2026/epstein-files/) — tracks what has been taken down vs. what remains
+* Various citizen archivists have mirrored files to prevent further deletion
+
+## Related Pages
+
+* [Department of Justice (DOJ)](../groups/doj.mdx) — DOJ's role in the Epstein case
+* [Jeffrey Epstein](../Details/Jeffrey_Epstein.md) — Epstein's profile
+* [Pam Bondi](../Details/Pam_Bondi.md) — Former AG who oversaw the file releases
+* [USVI Government](../groups/usvi_government.md) — Territorial government that protected Epstein
+
+## Sources
+
+- [Congress.gov: H.R.4405 — Epstein Files Transparency Act](https://www.congress.gov/bill/119th-congress/house-bill/4405)
+- [White House: H.R. 4405 Signed into Law](https://www.whitehouse.gov/briefings-statements/2025/11/congressional-bill-h-r-4405-signed-into-law/)
+- [DOJ Epstein Library](https://www.justice.gov/epstein)
+- [Britannica: Epstein Files Timeline](https://www.britannica.com/topic/The-Epstein-Files-A-Timeline/2026-Contempt-delays-and-more-documents)
+- [Wikipedia: Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act)
+- [Wikipedia: Epstein Files](https://en.wikipedia.org/wiki/Epstein_files)
+- [CBS News: The DOJ has been taking down Epstein files](https://www.cbsnews.com/projects/2026/epstein-files/)
+- [NPR: DOJ removed Epstein files related to Trump accusations](https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell)
+- [Salon: DOJ admits removing nearly 48,000 files](https://www.salon.com/2026/03/04/doj-admits-to-removing-nearly-48000-epstein-files-from-database-including-trump-allegations/)
+- [NPR: Why have there been so few arrests?](https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors)
+- [@Tironianae on X](https://x.com/Tironianae/status/2044191958034223143) — April 14, 2026
+
+*This information was built by Grok and Claude AI research.*

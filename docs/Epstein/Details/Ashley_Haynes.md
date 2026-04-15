@@ -73,7 +73,7 @@ These claims circulated widely on social media and partisan outlets following Mi
 ## See Also
 
 - [Mark Middleton](Mark_Middleton.md) — Clinton aide found dead in Arkansas with extension cord, four months after Haynes
-- [Don Henry & Kevin Ives](Don_Henry_Kevin_Ives.md) — "Boys on the Tracks" — another suspicious death in Arkansas with intelligence/Clinton-era connections
+- [Don Henry & Kevin Ives](Don_Henry_Kevin_Ives.mdx) — "Boys on the Tracks" — another suspicious death in Arkansas with intelligence/Clinton-era connections
 
 ## Other Shocking Stories
 

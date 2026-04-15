@@ -69,6 +69,7 @@ Organizations, intelligence services, financial institutions, and operations con
 
 | Group | Description |
 |-------|-------------|
+| [Department of Justice (DOJ)](doj.mdx) | Custodian of all Epstein files; accused of selectively deleting, redacting, and withholding documents mandated by the Epstein Files Transparency Act |
 | [Arizona](arizona.md) | Hoffman-Biggs-Petersen-Farnsworth political machine; 1,063 missing children from group homes; DCS obstruction; Backpage HQ; The Blade trafficking corridor; Paul Petersen baby-selling; Turning Point dark money |
 | [USVI Government](usvi_government.md) | U.S. Virgin Islands territorial government that actively protected Epstein |
 
