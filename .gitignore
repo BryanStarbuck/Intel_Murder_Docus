@@ -18,3 +18,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Large video/audio files (tracked via IPFS, not git)
+static/videos/*.mp4
+static/videos/*.mp3
+static/videos/*.mov
+static/videos/*.mkv
+static/videos/*.webm
+static/videos/*.avi

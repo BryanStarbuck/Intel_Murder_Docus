@@ -12,6 +12,46 @@ videos:
   source_url: https://x.com/JOKAQARMY1/status/2041564514613600337
   source_author: '@JOKAQARMY1'
   description: 'Epstein survivor testimony: alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting'
-  investigation: Epstein
+  investigation: 'Epstein'
   added_date: '2026-04-07'
+  pinned: true
+
+- filename: 2044172444752126124.mp4
+  ipfs_cid: QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv
+  source_url: https://x.com/TheShadowIntelX/status/2044172444752126124
+  source_author: '@TheShadowIntelX'
+  description: 'Don Henry and Kevin Ives: CIA Mena cocaine operation, Barry Seal, Clinton-Bush connection'
+  investigation: 'Epstein'
+  added_date: '2026-04-15'
+  pinned: true
+
+- filename: 2044938947495940117.mp4
+  ipfs_cid: Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
+  source_url: https://x.com/DigitalGermania/status/2044938947495940117
+  source_author: '@DigitalGermania'
+  description: 'General George S. Patton speaking about the postwar situation before his assassination'
+  investigation: 'Intel'
+  added_date: '2026-04-17'
+  pinned: true
+
+- filename: 2044981725244113315.mp4
+  ipfs_cid: QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
+  source_url: https://x.com/thematrixb0t/status/2044981725244113315
+  source_author: '@thematrixb0t'
+  description: 'Edgar Maddison Welch killed by police during traffic stop weeks before Epstein file releases'
+  investigation: 'Epstein'
+  added_date: '2026-04-17'
+  pinned: true
+
+- filename: 2044981725244113315.mp3
+  ipfs_cid: QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
+  source_url: https://x.com/thematrixb0t/status/2044981725244113315
+  source_author: '@thematrixb0t'
+  description: 'Audio extract: Edgar Maddison Welch case discussion'
+  investigation: 'Epstein'
+  added_date: '2026-04-17'
   pinned: true
