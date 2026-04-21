@@ -131,6 +131,28 @@ export default function Home(): React.ReactElement {
                     View Full Investigation
                   </Link>
                 </p>
+                <hr />
+
+                <div style={{ textAlign: 'center', margin: '1.5rem 0' }}>
+                  <Link
+                    to="/ipfs"
+                    style={{
+                      display: 'inline-block',
+                      padding: '0.6rem 1.5rem',
+                      background: 'var(--ifm-color-emphasis-200)',
+                      borderRadius: '6px',
+                      fontWeight: 600,
+                      textDecoration: 'none',
+                      fontSize: '0.95rem',
+                    }}
+                  >
+                    Help keep videos alive — run our IPFS script
+                  </Link>
+                  <p style={{ fontSize: '0.85rem', marginTop: '0.5rem', color: 'var(--ifm-color-emphasis-600)' }}>
+                    Pin all investigation videos to your IPFS node with one command.
+                    The more people who run it, the harder these videos are to censor.
+                  </p>
+                </div>
               </article>
             </div>
             <div

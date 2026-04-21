@@ -64,9 +64,29 @@ echo "  Fetching and pinning all investigation videos..."
 echo "========================================================"
 echo ""
 
+# ============================================================
+# Investigation: Epstein  (4 videos)
+# ============================================================
+
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
 # Epstein | Survivor testimony: alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting (@JOKAQARMY1)
 # Source: https://x.com/JOKAQARMY1/status/2041564514613600337
+
+ipfs get --output=2044172444752126124.mp4 QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv && ipfs pin add QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv
+# Epstein | Don Henry and Kevin Ives: CIA Mena cocaine operation, Barry Seal, Clinton-Bush connection (@TheShadowIntelX)
+# Source: https://x.com/TheShadowIntelX/status/2044172444752126124
+
+ipfs get --output=2044981725244113315.mp4 QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi && ipfs pin add QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
+# Epstein | Edgar Maddison Welch killed by police during traffic stop weeks before Epstein file releases (@thematrixb0t)
+# Source: https://x.com/thematrixb0t/status/2044981725244113315
+
+# ============================================================
+# Investigation: Intel  (1 video)
+# ============================================================
+
+ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
+# Intel | General George S. Patton speaking about the postwar situation before his assassination (@DigitalGermania)
+# Source: https://x.com/DigitalGermania/status/2044938947495940117
 
 
 echo ""

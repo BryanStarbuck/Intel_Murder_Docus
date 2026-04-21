@@ -464,24 +464,65 @@ STEP 5: DOWNLOAD VIDEO (if video present)
     If yt-dlp fails, try with cookies or inform the user.
 
   5b. IPFS pin (optional but preferred for censorship resistance):
-    - Ensure the IPFS daemon is running (start with: ipfs daemon &)
+    - Ensure the IPFS daemon is running (check: ipfs swarm peers)
+    - Start if needed: brew services start kubo
     - Add and pin the video:
       ```bash
       ipfs add --pin {ROOT_DIR}/static/videos/{filename}
       ```
-    - Capture the CID from the output
+    - Capture the CID from the output (e.g., "added QmXyz... filename")
+    - Verify pin: ipfs pin ls {CID}
     - If IPFS is not available, skip pinning and note this in the summary
 
-  5c. Embed video in the relevant investigation page:
+  5c. Update manifest.yaml:
+    - Read {ROOT_DIR}/static/videos/manifest.yaml
+    - Check if this video already exists (match by source_url or filename starting with post_id)
+    - If not present, append a new entry:
+      ```yaml
+      - filename: {post_id}.mp4
+        ipfs_cid: {CID}
+        ipfs_gateway_url: https://ipfs.io/ipfs/{CID}
+        source_url: {source_url}
+        source_author: '@{username}'
+        description: '{brief description}'
+        investigation: '{Epstein or Intel}'
+        added_date: '{YYYY-MM-DD}'
+        pinned: true
+      ```
+    - IMPORTANT: Quote the investigation field to prevent YAML parsing issues
+
+  5d. Update IPFS.sh:
+    - Read {ROOT_DIR}/IPFS.sh
+    - Find the investigation section header (e.g., "# Investigation: Epstein")
+    - Add entry under the correct section:
+      ```
+      # VIDEO: {description}
+      ipfs pin add {CID}
+      ```
+    - Update the video count in the section header
+    - If no section exists for this investigation, create one
+
+  5e. Update get_videos.sh:
+    - Read {ROOT_DIR}/static/videos/get_videos.sh
+    - Find the investigation section header
+    - Add entry under the correct section:
+      ```
+      ipfs get --output={post_id}.mp4 {CID} && ipfs pin add {CID}
+      # {Investigation} | {description} (@{username})
+      # Source: {source_url}
+      ```
+    - Update the video count in the section header
+
+  5f. Embed video in the relevant investigation page:
     - Determine which Details/ file should show this video
     - If the file is .md, rename it to .mdx and update all sidebars/links to it
     - Add the video embed after the metadata table, before the first content section.
-    - If IPFS was pinned, use this pattern (multiple fallback sources):
+    - Use the 3-gateway IPFS pattern (local IPFS gateway first, then public gateways):
       ```
       ## Video Evidence
 
-      <video controls width="100%" style={{maxWidth: '720px'}}>
-        <source src="/videos/{filename}" type="video/mp4" />
+      <video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+        <source src="http://127.0.0.1:8080/ipfs/{CID}" type="video/mp4" />
         <source src="https://ipfs.io/ipfs/{CID}" type="video/mp4" />
         <source src="https://dweb.link/ipfs/{CID}" type="video/mp4" />
         Your browser does not support the video tag.
@@ -489,19 +530,17 @@ STEP 5: DOWNLOAD VIDEO (if video present)
 
       *{Description}. Source: [@{username} on X]({original_url}), {date}.*
       ```
+    - NEVER use cloudflare-ipfs.com (shut down in 2024)
+    - NEVER use HTML width attribute — only CSS style={{width: '100%'}}
     - If IPFS was NOT pinned, use only the local source:
       ```
-      ## Video Evidence
-
-      <video controls width="100%" style={{maxWidth: '720px'}}>
+      <video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
         <source src="/videos/{filename}" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
-
-      *{Description}. Source: [@{username} on X]({original_url}), {date}.*
       ```
 
-  5d. Output:
+  5g. Output:
     ```
     ============================================
     Video Downloaded
@@ -509,6 +548,9 @@ STEP 5: DOWNLOAD VIDEO (if video present)
     File: {ROOT_DIR}/static/videos/{filename}
     Size: {file size}
     IPFS CID: {CID or "not pinned"}
+    Manifest: updated
+    IPFS.sh: updated
+    get_videos.sh: updated
     Embedded in: {path to .mdx file}
     ============================================
     ```
