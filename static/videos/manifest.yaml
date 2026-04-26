@@ -55,3 +55,13 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-04-17'
   pinned: true
+
+- filename: 2048522569716990042.mp4
+  ipfs_cid: QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
+  source_url: https://x.com/thematrixb0t/status/2048522569716990042
+  source_author: '@thematrixb0t'
+  description: 'Nadia Marcinkova: Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted'
+  investigation: 'Epstein'
+  added_date: '2026-04-26'
+  pinned: true

@@ -16,7 +16,7 @@
 # Entries are derived from: static/videos/manifest.yaml
 
 # ============================================================
-# Investigation: Epstein  (4 videos)
+# Investigation: Epstein  (5 videos)
 # ============================================================
 
 # VIDEO: Epstein survivor testimony — alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting
@@ -30,6 +30,9 @@ ipfs pin add QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
 
 # AUDIO: Edgar Maddison Welch case discussion (audio extract)
 ipfs pin add QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
+
+# VIDEO: Nadia Marcinkova — Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted
+ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 
 # ============================================================
 # Investigation: Intel  (1 video)

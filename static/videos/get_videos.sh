@@ -65,7 +65,7 @@ echo "========================================================"
 echo ""
 
 # ============================================================
-# Investigation: Epstein  (4 videos)
+# Investigation: Epstein  (5 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
@@ -79,6 +79,10 @@ ipfs get --output=2044172444752126124.mp4 QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaq
 ipfs get --output=2044981725244113315.mp4 QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi && ipfs pin add QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
 # Epstein | Edgar Maddison Welch killed by police during traffic stop weeks before Epstein file releases (@thematrixb0t)
 # Source: https://x.com/thematrixb0t/status/2044981725244113315
+
+ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf && ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
+# Epstein | Nadia Marcinkova — Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted (@thematrixb0t)
+# Source: https://x.com/thematrixb0t/status/2048522569716990042
 
 # ============================================================
 # Investigation: Intel  (1 video)
