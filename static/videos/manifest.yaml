@@ -65,3 +65,13 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-04-26'
   pinned: true
+
+- filename: 2050269015931818033.mp4
+  ipfs_cid: QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
+  source_url: https://x.com/JonesDanny/status/2050269015931818033
+  source_author: '@JonesDanny'
+  description: 'Andrija Puharich house arson: son Andy and filmmaker Greg Mallozzi explain ELF research targeting'
+  investigation: 'Intel'
+  added_date: '2026-05-01'
+  pinned: true

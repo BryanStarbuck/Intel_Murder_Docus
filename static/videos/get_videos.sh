@@ -85,12 +85,16 @@ ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96
 # Source: https://x.com/thematrixb0t/status/2048522569716990042
 
 # ============================================================
-# Investigation: Intel  (1 video)
+# Investigation: Intel  (2 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
 # Intel | General George S. Patton speaking about the postwar situation before his assassination (@DigitalGermania)
 # Source: https://x.com/DigitalGermania/status/2044938947495940117
+
+ipfs get --output=2050269015931818033.mp4 QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA && ipfs pin add QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
+# Intel | Andrija Puharich house arson: son Andy and filmmaker Greg Mallozzi explain ELF research targeting (@JonesDanny)
+# Source: https://x.com/JonesDanny/status/2050269015931818033
 
 
 echo ""

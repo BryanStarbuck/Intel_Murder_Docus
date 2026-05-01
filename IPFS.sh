@@ -35,10 +35,13 @@ ipfs pin add QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
 ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 
 # ============================================================
-# Investigation: Intel  (1 video)
+# Investigation: Intel  (2 videos)
 # ============================================================
 
 # VIDEO: General George S. Patton speaking about the postwar situation before his assassination
 ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
+
+# VIDEO: Andrija Puharich house arson — ELF research targeted by intelligence
+ipfs pin add QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
 
 echo "All Intelligence Murders investigation videos pinned."
