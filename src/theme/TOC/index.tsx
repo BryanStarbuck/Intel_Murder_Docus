@@ -285,6 +285,11 @@ const people: Person[] = [
     blurb: "Age 58. Predicted 9/11 by name on his radio show, 10 weeks before it happened. Said: \"They'll shoot me on my doorstep.\" Shot dead two months after 9/11.",
   },
   {
+    name: "Phil Schneider",
+    path: "/intel/Details/Phil_Schneider",
+    blurb: "Age 48. Publicly said 'if I commit suicide, I was murdered.' Found strangled with catheter tube, 1996. Every research note stolen. Money left untouched.",
+  },
+  {
     name: "Steven Hoffenberg",
     path: "/epstein/Details/Steven_Hoffenberg",
     blurb: "Age 77. Epstein's early partner. Publicly confessed the honey-trap blackmail operation. Found decomposed, dead at least 7 days. Part of the 2022 death cluster.",
@@ -414,7 +419,7 @@ export default function TOC(): React.ReactElement {
         </div>
       ))}
       <div className={styles.count}>
-        80 profiles from 250+ documented cases
+        80 profiles from 255+ documented cases
       </div>
     </div>
   );

@@ -85,7 +85,7 @@ ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96
 # Source: https://x.com/thematrixb0t/status/2048522569716990042
 
 # ============================================================
-# Investigation: Intel  (2 videos)
+# Investigation: Intel  (4 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
@@ -95,6 +95,14 @@ ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4
 ipfs get --output=2050269015931818033.mp4 QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA && ipfs pin add QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
 # Intel | Andrija Puharich house arson: son Andy and filmmaker Greg Mallozzi explain ELF research targeting (@JonesDanny)
 # Source: https://x.com/JonesDanny/status/2050269015931818033
+
+ipfs get --output=2050380101821354119.mp4 QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC && ipfs pin add QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC
+# Intel | Phil Schneider 1995 lecture — claims government earthquake device, cites Kobe and San Francisco quakes (@DanielGilr44222)
+# Source: https://x.com/DanielGilr44222/status/2050380101821354119?s=20
+
+ipfs get --output=2050199029980512338.mp4 QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN && ipfs pin add QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
+# Intel | Panama Papers exposé — offshore tax evasion by global elites, assassination of Daphne Caruana Galizia (@theleftbible)
+# Source: https://x.com/theleftbible/status/2050199029980512338
 
 
 echo ""

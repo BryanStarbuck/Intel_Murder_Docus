@@ -75,3 +75,23 @@ videos:
   investigation: 'Intel'
   added_date: '2026-05-01'
   pinned: true
+
+- filename: 2050380101821354119.mp4
+  ipfs_cid: QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC
+  source_url: https://x.com/DanielGilr44222/status/2050380101821354119?s=20
+  source_author: '@DanielGilr44222'
+  description: 'Phil Schneider 1995 lecture claiming government earthquake device — cites Kobe and San Francisco quakes as tests'
+  investigation: 'Intel'
+  added_date: '2026-05-01'
+  pinned: true
+
+- filename: 2050199029980512338.mp4
+  ipfs_cid: QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
+  source_url: https://x.com/theleftbible/status/2050199029980512338
+  source_author: '@theleftbible'
+  description: 'Panama Papers exposé — offshore tax evasion by global elites, and the assassination of Daphne Caruana Galizia who reported on it'
+  investigation: 'Intel'
+  added_date: '2026-05-01'
+  pinned: true
