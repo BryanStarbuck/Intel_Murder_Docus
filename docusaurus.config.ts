@@ -16,7 +16,7 @@ const config: Config = {
 
   url: siteUrl,
   baseUrl,
-  trailingSlash: false,
+  trailingSlash: true,
 
   organizationName: "BryanStarbuck",
   projectName: "Intel_Murder_Docus",
@@ -29,8 +29,14 @@ const config: Config = {
     locales: ["en"],
   },
 
-  metadata: [
-    { name: 'google-site-verification', content: 'dyttroI7C_kCpqpCQZrZ7juCWmwAhVK1Ri3ZaVIDsaU' },
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-site-verification',
+        content: 'dyttroI7C_kCpqpCQZrZ7juCWmwAhVK1Ri3ZaVIDsaU',
+      },
+    },
   ],
 
   presets: [
@@ -39,8 +45,9 @@ const config: Config = {
       {
         docs: {
           path: "docs/Epstein",
-          routeBasePath: "epstein",
+          routeBasePath: "epstein-murders",
           sidebarPath: "./sidebarsEpstein.ts",
+          exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md"],
         },
         blog: false,
         theme: {
@@ -56,8 +63,9 @@ const config: Config = {
       {
         id: "intelligence-service-murders",
         path: "docs/Intel",
-        routeBasePath: "intel",
+        routeBasePath: "intelligence-service-murders",
         sidebarPath: "./sidebarsIntelligence.ts",
+        exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md"],
       },
     ],
   ],

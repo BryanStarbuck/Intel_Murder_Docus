@@ -1,4 +1,24 @@
+# robots.txt for https://intelligencemurders.com/
+# Public investigation archive — every doc page is intended to be indexed.
+# Per Google guidance we do NOT block CSS/JS/image assets — Googlebot needs
+# them to render Docusaurus's React-rendered pages and rank them correctly.
+# https://developers.google.com/search/docs/crawling-indexing/robots/intro
+
 User-agent: *
+Allow: /
+
+# AI crawlers — explicitly allowed so this archive is discoverable through
+# AI-powered search. Remove a block to opt-out a specific bot.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
 Allow: /
 
 Sitemap: https://intelligencemurders.com/sitemap.xml
