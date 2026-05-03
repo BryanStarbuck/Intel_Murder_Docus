@@ -35,7 +35,7 @@ ipfs pin add QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
 ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 
 # ============================================================
-# Investigation: Intel  (4 videos)
+# Investigation: Intel  (5 videos)
 # ============================================================
 
 # VIDEO: General George S. Patton speaking about the postwar situation before his assassination
@@ -49,5 +49,8 @@ ipfs pin add QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC
 
 # VIDEO: Panama Papers exposé — offshore tax evasion by global elites, assassination of Daphne Caruana Galizia
 ipfs pin add QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
+
+# VIDEO: Former MI5 agent on Princess Diana — landmine campaign success and plan to campaign for Palestinians as motive
+ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
 
 echo "All Intelligence Murders investigation videos pinned."

@@ -85,7 +85,7 @@ ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96
 # Source: https://x.com/thematrixb0t/status/2048522569716990042
 
 # ============================================================
-# Investigation: Intel  (4 videos)
+# Investigation: Intel  (5 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
@@ -103,6 +103,10 @@ ipfs get --output=2050380101821354119.mp4 QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxL
 ipfs get --output=2050199029980512338.mp4 QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN && ipfs pin add QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
 # Intel | Panama Papers exposé — offshore tax evasion by global elites, assassination of Daphne Caruana Galizia (@theleftbible)
 # Source: https://x.com/theleftbible/status/2050199029980512338
+
+ipfs get --output=2050968626413363217.mp4 QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1 && ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
+# Intel | Former MI5 agent on Princess Diana — landmine campaign success and plan to campaign for Palestinians as motive (@NoahsArk1000)
+# Source: https://x.com/NoahsArk1000/status/2050968626413363217
 
 
 echo ""
