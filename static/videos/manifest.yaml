@@ -105,3 +105,13 @@ videos:
   investigation: 'Intel'
   added_date: '2026-05-03'
   pinned: true
+
+- filename: 2051013988985811342.mp4
+  ipfs_cid: QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
+  source_url: https://x.com/redpillb0t/status/2051013988985811342
+  source_author: '@redpillb0t'
+  description: 'Senator Nancy Schaefer — Georgia state senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling'
+  investigation: 'Epstein'
+  added_date: '2026-05-03'
+  pinned: true

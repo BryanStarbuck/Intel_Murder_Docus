@@ -16,7 +16,7 @@
 # Entries are derived from: static/videos/manifest.yaml
 
 # ============================================================
-# Investigation: Epstein  (5 videos)
+# Investigation: Epstein  (6 videos)
 # ============================================================
 
 # VIDEO: Epstein survivor testimony — alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting
@@ -33,6 +33,9 @@ ipfs pin add QmNn9K6CnRpQD1x9G9HrsxyAKWnspFWSE31QkfhsjUT9nY
 
 # VIDEO: Nadia Marcinkova — Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted
 ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
+
+# VIDEO: Senator Nancy Schaefer — Georgia state senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling
+ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
 
 # ============================================================
 # Investigation: Intel  (5 videos)

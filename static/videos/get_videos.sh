@@ -65,7 +65,7 @@ echo "========================================================"
 echo ""
 
 # ============================================================
-# Investigation: Epstein  (5 videos)
+# Investigation: Epstein  (6 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
@@ -83,6 +83,10 @@ ipfs get --output=2044981725244113315.mp4 QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfz
 ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf && ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 # Epstein | Nadia Marcinkova — Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted (@thematrixb0t)
 # Source: https://x.com/thematrixb0t/status/2048522569716990042
+
+ipfs get --output=2051013988985811342.mp4 QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp && ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
+# Epstein | Senator Nancy Schaefer — Georgia senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling (@redpillb0t)
+# Source: https://x.com/redpillb0t/status/2051013988985811342
 
 # ============================================================
 # Investigation: Intel  (5 videos)
