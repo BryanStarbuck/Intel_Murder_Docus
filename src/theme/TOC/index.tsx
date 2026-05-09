@@ -404,6 +404,11 @@ const people: Person[] = [
     path: "/epstein-murders/Details/Trevor_Moore",
     blurb: "Age 41. Comedian. Father of a young son. Used comedy to expose Epstein connections to millions on national TV. Fell from second-story balcony at 2:30 AM.",
   },
+  {
+    name: "Terrance Yeakey",
+    path: "/intelligence-service-murders/Details/Terrance_Yeakey",
+    blurb: "Age 30. OKC bombing rescue hero. Three days before his Medal of Valor ceremony, found dead — eleven cuts, throat slashed, 'self-shot' a mile from his car.",
+  },
 ];
 
 export default function TOC(): React.ReactElement {
@@ -419,7 +424,7 @@ export default function TOC(): React.ReactElement {
         </div>
       ))}
       <div className={styles.count}>
-        80 profiles from 255+ documented cases
+        81 profiles from 256+ documented cases
       </div>
     </div>
   );
