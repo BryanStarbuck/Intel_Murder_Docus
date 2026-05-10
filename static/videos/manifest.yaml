@@ -115,3 +115,13 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-05-03'
   pinned: true
+
+- filename: 2053290253494981052.mp4
+  ipfs_cid: QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
+  source_url: https://x.com/LightOnLiberty/status/2053290253494981052
+  source_author: '@LightOnLiberty'
+  description: 'Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatality in survivable 2013 Molokai plane crash'
+  investigation: 'Intel'
+  added_date: '2026-05-10'
+  pinned: true

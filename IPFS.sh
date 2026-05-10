@@ -38,7 +38,7 @@ ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
 
 # ============================================================
-# Investigation: Intel  (5 videos)
+# Investigation: Intel  (6 videos)
 # ============================================================
 
 # VIDEO: General George S. Patton speaking about the postwar situation before his assassination
@@ -55,5 +55,8 @@ ipfs pin add QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
 
 # VIDEO: Former MI5 agent on Princess Diana — landmine campaign success and plan to campaign for Palestinians as motive
 ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
+
+# VIDEO: Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatality in survivable 2013 Molokai plane crash
+ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
 
 echo "All Intelligence Murders investigation videos pinned."

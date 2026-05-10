@@ -89,7 +89,7 @@ ipfs get --output=2051013988985811342.mp4 QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPN
 # Source: https://x.com/redpillb0t/status/2051013988985811342
 
 # ============================================================
-# Investigation: Intel  (5 videos)
+# Investigation: Intel  (6 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
@@ -111,6 +111,10 @@ ipfs get --output=2050199029980512338.mp4 QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZ
 ipfs get --output=2050968626413363217.mp4 QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1 && ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
 # Intel | Former MI5 agent on Princess Diana — landmine campaign success and plan to campaign for Palestinians as motive (@NoahsArk1000)
 # Source: https://x.com/NoahsArk1000/status/2050968626413363217
+
+ipfs get --output=2053290253494981052.mp4 QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke && ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
+# Intel | Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatality in survivable 2013 Molokai plane crash (@LightOnLiberty)
+# Source: https://x.com/LightOnLiberty/status/2053290253494981052
 
 
 echo ""
