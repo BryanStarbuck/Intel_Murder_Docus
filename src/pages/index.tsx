@@ -5,7 +5,10 @@ import TOC from '../theme/TOC';
 
 export default function Home(): React.ReactElement {
   return (
-    <Layout title="Intelligence Service Murdering Americans">
+    <Layout
+      title="Intelligence Service Murdering Americans"
+      description="Documenting 250+ suspicious deaths connected to intelligence operations and the Jeffrey Epstein network — journalists, scientists, activists, witnesses, and elected leaders killed by or with the help of the CIA, MI6, Mossad, KGB/FSB/GRU, and other services. Sourced research, timelines, and cross-references."
+    >
       <main>
         <div className="container margin-vert--lg">
           <div className="row" style={{ display: 'flex', flexWrap: 'nowrap' }}>
