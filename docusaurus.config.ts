@@ -37,6 +37,99 @@ const config: Config = {
         content: 'dyttroI7C_kCpqpCQZrZ7juCWmwAhVK1Ri3ZaVIDsaU',
       },
     },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'canonical',
+        href: siteUrl + '/',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'robots',
+        content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'author',
+        content: 'Intelligence Murders Investigation',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: 'Intelligence Murders',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:locale',
+        content: 'en_US',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:site',
+        content: '@HolonCitizen',
+      },
+    },
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Intelligence Murders',
+        alternateName: 'Intelligence Service Murdering Americans',
+        url: siteUrl + '/',
+        description:
+          'Investigative archive documenting 250+ suspicious deaths linked to intelligence agencies (CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI) and the Jeffrey Epstein network — journalists, scientists, activists, witnesses, and elected leaders. Sourced research, timelines, cross-references.',
+        inLanguage: 'en',
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: siteUrl + '/?q={search_term_string}',
+          'query-input': 'required name=search_term_string',
+        },
+      }),
+    },
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Intelligence Murders',
+        url: siteUrl + '/',
+        logo: siteUrl + '/img/logo.svg',
+        sameAs: [
+          'https://uapmurders.com/',
+        ],
+      }),
+    },
   ],
 
   presets: [
@@ -47,7 +140,8 @@ const config: Config = {
           path: "docs/Epstein",
           routeBasePath: "epstein-murders",
           sidebarPath: "./sidebarsEpstein.ts",
-          exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md"],
+          exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md", "**/README.mdx"],
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {
@@ -55,6 +149,10 @@ const config: Config = {
         },
         sitemap: {
           lastmod: "date",
+          changefreq: "weekly",
+          priority: 0.7,
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
         },
       } satisfies Preset.Options,
     ],
@@ -68,13 +166,43 @@ const config: Config = {
         path: "docs/Intel",
         routeBasePath: "intelligence-service-murders",
         sidebarPath: "./sidebarsIntelligence.ts",
-        exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md"],
+        exclude: ["**/CLAUDE.md", "**/claude.md", "**/README.md", "**/README.mdx"],
+        showLastUpdateTime: true,
       },
     ],
   ],
 
   themeConfig: {
     image: "img/docusaurus-social-card.jpg",
+    metadata: [
+      {
+        name: "description",
+        content:
+          "Investigative archive of 250+ suspicious deaths connected to intelligence services (CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI) and the Jeffrey Epstein network — journalists, scientists, activists, witnesses, and elected leaders.",
+      },
+      {
+        name: "keywords",
+        content:
+          "intelligence service murders, CIA assassinations, MI6, Mossad, KGB, FSB, GRU, DINA, ISI, Jeffrey Epstein, Ghislaine Maxwell, political assassinations, journalist murders, scientist murders, Operation Condor, Church Committee, COINTELPRO, suspicious deaths, declassified documents, intelligence agencies, whistleblowers",
+      },
+      { property: "og:title", content: "Intelligence Service Murdering Americans" },
+      {
+        property: "og:description",
+        content:
+          "250+ documented profiles of journalists, scientists, activists, and elected leaders killed by or connected to intelligence services and the Epstein network.",
+      },
+      { property: "og:image", content: siteUrl + "/img/docusaurus-social-card.jpg" },
+      { property: "og:image:alt", content: "Intelligence Murders investigation archive" },
+      { property: "og:url", content: siteUrl + "/" },
+      { name: "twitter:title", content: "Intelligence Service Murdering Americans" },
+      {
+        name: "twitter:description",
+        content:
+          "250+ documented profiles of journalists, scientists, activists, and elected leaders killed by or connected to intelligence services and the Epstein network.",
+      },
+      { name: "twitter:image", content: siteUrl + "/img/docusaurus-social-card.jpg" },
+      { name: "twitter:image:alt", content: "Intelligence Murders investigation archive" },
+    ],
     colorMode: {
       respectPrefersColorScheme: true,
     },

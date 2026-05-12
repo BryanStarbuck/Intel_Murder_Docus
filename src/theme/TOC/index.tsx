@@ -413,19 +413,29 @@ const people: Person[] = [
 
 export default function TOC(): React.ReactElement {
   return (
-    <div className={styles.sidebar}>
-      <div className={styles.header}>The Dead</div>
-      {people.map((person, i) => (
-        <div key={i} className={styles.entry}>
-          <Link className={styles.name} to={person.path}>
-            {person.name}
-          </Link>
-          <p className={styles.blurb}>{person.blurb}</p>
-        </div>
-      ))}
+    <nav
+      className={styles.sidebar}
+      aria-label="The Dead — featured profiles"
+      role="navigation"
+    >
+      <h2 className={styles.header}>The Dead</h2>
+      <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+        {people.map((person, i) => (
+          <li key={i} className={styles.entry}>
+            <Link
+              className={styles.name}
+              to={person.path}
+              title={`Profile of ${person.name}`}
+            >
+              {person.name}
+            </Link>
+            <p className={styles.blurb}>{person.blurb}</p>
+          </li>
+        ))}
+      </ul>
       <div className={styles.count}>
         81 profiles from 256+ documented cases
       </div>
-    </div>
+    </nav>
   );
 }
