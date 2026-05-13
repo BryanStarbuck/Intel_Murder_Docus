@@ -65,7 +65,7 @@ echo "========================================================"
 echo ""
 
 # ============================================================
-# Investigation: Epstein  (6 videos)
+# Investigation: Epstein  (7 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
@@ -87,6 +87,10 @@ ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96
 ipfs get --output=2051013988985811342.mp4 QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp && ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
 # Epstein | Senator Nancy Schaefer — Georgia senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling (@redpillb0t)
 # Source: https://x.com/redpillb0t/status/2051013988985811342
+
+ipfs get --output=2054372519465881910.mp4 QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk && ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
+# Epstein | Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026 (@TheEmmapreneur)
+# Source: https://x.com/TheEmmapreneur/status/2054372519465881910
 
 # ============================================================
 # Investigation: Intel  (6 videos)

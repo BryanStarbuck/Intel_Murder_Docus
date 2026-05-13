@@ -1,0 +1,18 @@
+Transcription attempt: 2054372519465881910.mp4
+Source: https://x.com/TheEmmapreneur/status/2054372519465881910
+Generated on: 2026-05-13
+Model used: whisper-base (language: en, CPU after MPS NaN failure)
+Duration: 35.085 seconds
+Audio: AAC stereo, 16 kHz mono extracted
+============================================================
+
+Whisper output (raw):
+[00:00.000 --> 00:10.880]  This.
+[00:10.880 --> 00:25.360]  All.
+
+Note: The video contains background audio (likely music or ambient) but
+no clear spoken-word content that Whisper could transcribe. The full
+textual content of the post is in the X post text itself (see
+docs/Epstein/other/x_posts/2054372519465881910.yaml), which is the
+substantive narrative being shared. The video appears to be a visual
+accompaniment to the text post rather than a spoken statement.

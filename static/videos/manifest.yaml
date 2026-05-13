@@ -125,3 +125,13 @@ videos:
   investigation: 'Intel'
   added_date: '2026-05-10'
   pinned: true
+
+- filename: 2054372519465881910.mp4
+  ipfs_cid: QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
+  source_url: https://x.com/TheEmmapreneur/status/2054372519465881910
+  source_author: '@TheEmmapreneur'
+  description: 'Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026'
+  investigation: 'Epstein'
+  added_date: '2026-05-13'
+  pinned: true

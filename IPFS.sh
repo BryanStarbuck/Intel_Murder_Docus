@@ -16,7 +16,7 @@
 # Entries are derived from: static/videos/manifest.yaml
 
 # ============================================================
-# Investigation: Epstein  (6 videos)
+# Investigation: Epstein  (7 videos)
 # ============================================================
 
 # VIDEO: Epstein survivor testimony — alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting
@@ -36,6 +36,9 @@ ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
 
 # VIDEO: Senator Nancy Schaefer — Georgia state senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling
 ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
+
+# VIDEO: Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026
+ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
 
 # ============================================================
 # Investigation: Intel  (6 videos)
