@@ -66,3 +66,31 @@ ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
 ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
 
 echo "All Intelligence Murders investigation videos pinned."
+
+# ============================================================
+# Reconciled additions (2026-05-13)
+# ============================================================
+
+# 2048522569716990042.mp3  (investigation: Intel)
+ipfs pin add QmZgRXuyh6JXKFYfGqzjCJJZ9PRezVEvUtTSyyaaGLfdgw
+
+# 2050199029980512338.mp3  (investigation: Intel)
+ipfs pin add QmYEdQyR2gJJGJWMMPE436kJ4wRiDyn9wRmJBYeat7UWm2
+
+# 2050269015931818033.mp3  (investigation: Intel)
+ipfs pin add QmeAqzjEa7uWsXEUo6esKAFQMKWL4Z1mKpWb3zAT9PBau1
+
+# 2050380101821354119.mp3  (investigation: Intel)
+ipfs pin add QmTTWtAdci1V9RQSaTVA5J181BAWsPnXjj4XmULNzLbnew
+
+# 2050968626413363217.mp3  (investigation: Intel)
+ipfs pin add QmdAsJbSTdhHG8MzGU9DCd2SUgJN9P3w86S4NyGohyLY5A
+
+# 2051013988985811342.mp3  (investigation: Intel)
+ipfs pin add QmVC7YF54EJHDZ1dZEmHwJdXd37QB56apv9b3rbvSmWtv2
+
+# 2054372519465881910.mp3  (investigation: Intel)
+ipfs pin add Qmc46V5BygAMifvMuWV7Vaqd2GGWoQGuWnzHSmUnyUAJEh
+
+# 2054664863381635215.mp3  (investigation: Intel)
+ipfs pin add Qmdiov3dSkW9rt1nHXFjAmsoyLu5sskL3AZexdPhHttoZN
