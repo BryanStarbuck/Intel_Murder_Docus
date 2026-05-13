@@ -65,7 +65,7 @@ echo "========================================================"
 echo ""
 
 # ============================================================
-# Investigation: Epstein  (7 videos)
+# Investigation: Epstein  (8 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
@@ -91,6 +91,10 @@ ipfs get --output=2051013988985811342.mp4 QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPN
 ipfs get --output=2054372519465881910.mp4 QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk && ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
 # Epstein | Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026 (@TheEmmapreneur)
 # Source: https://x.com/TheEmmapreneur/status/2054372519465881910
+
+ipfs get --output=2054664863381635215.mp4 QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv && ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
+# Epstein | Isaac Kappy video compilation — actor who accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019 (@JOKAQARMY1)
+# Source: https://x.com/JOKAQARMY1/status/2054664863381635215
 
 # ============================================================
 # Investigation: Intel  (6 videos)

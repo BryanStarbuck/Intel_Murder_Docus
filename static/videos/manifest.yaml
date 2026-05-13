@@ -135,3 +135,13 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-05-13'
   pinned: true
+
+- filename: 2054664863381635215.mp4
+  ipfs_cid: QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
+  source_url: https://x.com/JOKAQARMY1/status/2054664863381635215
+  source_author: '@JOKAQARMY1'
+  description: 'Isaac Kappy video compilation — actor who publicly accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019'
+  investigation: 'Epstein'
+  added_date: '2026-05-13'
+  pinned: true

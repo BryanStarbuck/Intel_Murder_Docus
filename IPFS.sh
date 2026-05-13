@@ -16,7 +16,7 @@
 # Entries are derived from: static/videos/manifest.yaml
 
 # ============================================================
-# Investigation: Epstein  (7 videos)
+# Investigation: Epstein  (8 videos)
 # ============================================================
 
 # VIDEO: Epstein survivor testimony — alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting
@@ -39,6 +39,9 @@ ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
 
 # VIDEO: Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026
 ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
+
+# VIDEO: Isaac Kappy video compilation — actor who accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019
+ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
 
 # ============================================================
 # Investigation: Intel  (6 videos)
