@@ -37,13 +37,11 @@ const config: Config = {
         content: 'dyttroI7C_kCpqpCQZrZ7juCWmwAhVK1Ri3ZaVIDsaU',
       },
     },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'canonical',
-        href: siteUrl + '/',
-      },
-    },
+    // NOTE: do NOT add a site-wide <link rel="canonical"> here.
+    // Docusaurus emits a correct per-page canonical automatically.
+    // A global canonical here overrides every page's canonical to the
+    // homepage, causing Google to treat all pages as "Alternate page
+    // with proper canonical tag" and stop indexing them.
     {
       tagName: 'meta',
       attributes: {
@@ -151,7 +149,7 @@ const config: Config = {
           lastmod: "date",
           changefreq: "weekly",
           priority: 0.7,
-          ignorePatterns: ["/tags/**"],
+          ignorePatterns: ["/tags/**", "/404", "/404.html", "/404/"],
           filename: "sitemap.xml",
         },
       } satisfies Preset.Options,
