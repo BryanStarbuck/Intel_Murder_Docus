@@ -225,3 +225,13 @@ videos:
   investigation: 'Intel'
   added_date: '2026-05-13'
   pinned: true
+
+- filename: 2059495213261840428.mp4
+  ipfs_cid: QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
+  source_url: https://x.com/DaniMayakovski/status/2059495213261840428
+  source_author: '@DaniMayakovski'
+  description: 'Fatou Bensouda interview: alleged Mossad/Yossi Cohen threats, $500 envelope at her home, US sanctions for ICC Palestine and Afghanistan investigations'
+  investigation: 'Intel'
+  added_date: '2026-05-27'
+  pinned: true

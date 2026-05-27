@@ -94,3 +94,6 @@ ipfs pin add Qmc46V5BygAMifvMuWV7Vaqd2GGWoQGuWnzHSmUnyUAJEh
 
 # 2054664863381635215.mp3  (investigation: Intel)
 ipfs pin add Qmdiov3dSkW9rt1nHXFjAmsoyLu5sskL3AZexdPhHttoZN
+
+# 2059495213261840428.mp4  (investigation: Intel) — Fatou Bensouda on alleged Mossad/Cohen threats
+ipfs pin add QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
