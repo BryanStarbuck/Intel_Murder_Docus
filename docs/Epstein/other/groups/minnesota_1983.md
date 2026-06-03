@@ -14,7 +14,7 @@ In 1983, a child sexual abuse investigation in the small town of Jordan, Minneso
 | **Active Period** | 1983-1984 (investigation period) |
 | **Location(s)** | Jordan, Minnesota (Scott County); Valley Green trailer park |
 | **Status** | Collapsed — charges dropped; one conviction; investigation closed |
-| **Alleged Connection** | Part of 1980s wave of child abuse ring cases; parallels [Franklin Scandal](franklin_scandal.mdx) pattern of allegations reaching powerful figures followed by institutional shutdown |
+| **Alleged Connection** | Part of 1980s wave of child abuse ring cases; parallels [Franklin Scandal](franklin_scandal.md) pattern of allegations reaching powerful figures followed by institutional shutdown |
 
 ## Overview
 
@@ -70,7 +70,7 @@ The case fell apart for multiple documented reasons:
 
 The Jordan case emerged during the so-called "Satanic Panic" era of the 1980s, alongside similar cases nationwide:
 
-- **[Franklin Scandal](franklin_scandal.mdx)** (Nebraska, 1988) — Another case where children alleged abuse by powerful adults, with investigations that were shut down and witnesses who recanted or died
+- **[Franklin Scandal](franklin_scandal.md)** (Nebraska, 1988) — Another case where children alleged abuse by powerful adults, with investigations that were shut down and witnesses who recanted or died
 - **McMartin Preschool** (California, 1983-1990) — The most famous ritual abuse case, ultimately ending in no convictions
 - **Fells Acres** (Massachusetts, 1984) — Day care abuse case with similar coercive interview concerns
 - **Country Walk** (Florida, 1984) — Ritual abuse allegations at a babysitting service

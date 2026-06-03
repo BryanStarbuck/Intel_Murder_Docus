@@ -5,7 +5,7 @@ keywords: ["Ines Zorreguieta", "Queen Maxima Netherlands", "Jorge Zorreguieta", 
 sidebar_label: "Ines Zorreguieta"
 image: /img/docusaurus-social-card.jpg
 ---
-Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her Buenos Aires apartment at age 33, one day after [Kate Spade](Kate_Spade.mdx) and two days before [Anthony Bourdain](Anthony_Bourdain.mdx) — her father had served Argentina's military junta during the Dirty War, during which the regime systematically disappeared tens of thousands of civilians and oversaw a state-run baby-trafficking operation that stole an estimated 500 children.
+Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her Buenos Aires apartment at age 33, one day after [Kate Spade](Kate_Spade.md) and two days before [Anthony Bourdain](Anthony_Bourdain.md) — her father had served Argentina's military junta during the Dirty War, during which the regime systematically disappeared tens of thousands of civilians and oversaw a state-run baby-trafficking operation that stole an estimated 500 children.
 
 <div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
 
@@ -28,7 +28,7 @@ Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her 
 
 ## Assessment: UNCERTAIN
 
-Inés Zorreguieta had a lengthy, well-documented history of depression and eating disorders, had twice been admitted to psychiatric clinics, and her family — including Queen Maxima — has fully and publicly accepted the suicide ruling. There is no direct documented connection between Inés and Jeffrey Epstein or any trafficking network. However, she cannot simply be dismissed from this investigation for several reasons: (1) she died on June 6, 2018, forming the middle death in a three-person cluster with [Kate Spade](Kate_Spade.mdx) on June 5 and [Anthony Bourdain](Anthony_Bourdain.mdx) on June 8 — all by hanging; (2) her father Jorge Zorreguieta served as one of the most senior civilian ministers in the Videla military dictatorship during Argentina's Dirty War, during which regime forces systematically disappeared an estimated 9,000–30,000 civilians and stole approximately 500 babies from murdered mothers; (3) she worked for Argentina's National Secretariat for Children, Youth, and Family and for UN programs in Panama; (4) she wrote her psychology thesis on the subject of gender differences in suicide eight years before dying by that method. Whether her death represents elite network suppression or a deeply sad mental health tragedy, the context of her life and family history demands documentation here.
+Inés Zorreguieta had a lengthy, well-documented history of depression and eating disorders, had twice been admitted to psychiatric clinics, and her family — including Queen Maxima — has fully and publicly accepted the suicide ruling. There is no direct documented connection between Inés and Jeffrey Epstein or any trafficking network. However, she cannot simply be dismissed from this investigation for several reasons: (1) she died on June 6, 2018, forming the middle death in a three-person cluster with [Kate Spade](Kate_Spade.md) on June 5 and [Anthony Bourdain](Anthony_Bourdain.md) on June 8 — all by hanging; (2) her father Jorge Zorreguieta served as one of the most senior civilian ministers in the Videla military dictatorship during Argentina's Dirty War, during which regime forces systematically disappeared an estimated 9,000–30,000 civilians and stole approximately 500 babies from murdered mothers; (3) she worked for Argentina's National Secretariat for Children, Youth, and Family and for UN programs in Panama; (4) she wrote her psychology thesis on the subject of gender differences in suicide eight years before dying by that method. Whether her death represents elite network suppression or a deeply sad mental health tragedy, the context of her life and family history demands documentation here.
 
 ## Circumstances of Death
 
@@ -38,7 +38,7 @@ Argentine investigators conducted an autopsy through the Forensic Medical Corps.
 
 The Government Information Service of the Netherlands issued a statement the following day: "Queen Maxima and King Willem-Alexander are deeply shocked and very sad." Queen Maxima immediately flew to Argentina for the funeral.
 
-The date of death — June 6, 2018 — placed Inés at the center of a three-day window during which [Kate Spade](Kate_Spade.mdx) (June 5), Inés Zorreguieta (June 6), and [Anthony Bourdain](Anthony_Bourdain.mdx) (June 8) all died by hanging within 72 hours.
+The date of death — June 6, 2018 — placed Inés at the center of a three-day window during which [Kate Spade](Kate_Spade.md) (June 5), Inés Zorreguieta (June 6), and [Anthony Bourdain](Anthony_Bourdain.md) (June 8) all died by hanging within 72 hours.
 
 ## Background
 
@@ -94,7 +94,7 @@ The claims circulating online about Inés Zorreguieta's death and possible elite
 
 A specific narrative circulating on X since shortly after Inés's 2018 death, and resurging in posts through 2025–2026, alleges the following sequence of events. **None of these claims have been confirmed by any court document, journalist investigation, official inquiry, or named primary source.** They are documented here because they form a coherent and widely circulated alternative account.
 
-After Jorge Zorreguieta's death in August 2017, X posts allege that Inés discovered a cache of old video recordings — described variously as film tapes from the 1970s–1980s — while clearing her father's properties. According to these posts, the recordings allegedly showed high-profile politicians, elites, journalists, and other powerful figures raping women and children. Some posts describe it as a "blackmail vault" or "video gallery." The narrative claims Inés made copies and passed the material to her friend **[Natacha Jaitt](Natacha_Jaitt.mdx)**, an Argentine model, television personality, and outspoken activist.
+After Jorge Zorreguieta's death in August 2017, X posts allege that Inés discovered a cache of old video recordings — described variously as film tapes from the 1970s–1980s — while clearing her father's properties. According to these posts, the recordings allegedly showed high-profile politicians, elites, journalists, and other powerful figures raping women and children. Some posts describe it as a "blackmail vault" or "video gallery." The narrative claims Inés made copies and passed the material to her friend **[Natacha Jaitt](Natacha_Jaitt.md)**, an Argentine model, television personality, and outspoken activist.
 
 Whether or not this alleged evidence transfer occurred, Natacha Jaitt did publicly accuse a named list of Argentine politicians, journalists, actors, religious figures, television producers, and soccer club officials of involvement in a pedophile ring, doing so on live television in 2018. Jaitt made a widely circulated on-air statement that has since become a reference point in discussions of suspicious deaths: *"I will not commit suicide. I won't be bought off or drown in a bathtub, nor will I shoot myself in the head. So, if that happens, IT WASN'T ME."* She died in February 2019, with cocaine toxicity listed as the official cause of death. Her family and many X users dispute this ruling as suspicious or a staged murder.
 
@@ -104,25 +104,25 @@ X posts frame Inés and Jaitt as linked exposers of the same network — Inés a
 
 **Individuals named in discussions of Jaitt's accusations:** X posts discussing this narrative reference Jaitt naming, among others, Gustavo Vera — described by posts as a Buenos Aires anti-trafficking politician — and journalist Carlos Pagni, among others. These are X users' characterizations of Jaitt's television statements. Neither individual has been convicted of any crime related to these allegations, and these claims must be treated as unproven allegations attributed to Jaitt's public accusations, not established facts.
 
-**The cluster narrative:** X posts also consistently embed Inés in a broader 2017–2018 cluster of deaths they claim are connected to elite trafficking exposure, alongside [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) (April 2018), [Kate Spade](Kate_Spade.mdx) (June 5, 2018), [Anthony Bourdain](Anthony_Bourdain.mdx) (June 8, 2018), [Chris Cornell](Chris_Cornell.mdx) (May 2017), and [Chester Bennington](Chester_Bennington.mdx) (July 2017). In this narrative, all are portrayed as having been killed because they were actively exposing trafficking networks, not as suicides or accidental deaths.
+**The cluster narrative:** X posts also consistently embed Inés in a broader 2017–2018 cluster of deaths they claim are connected to elite trafficking exposure, alongside [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) (April 2018), [Kate Spade](Kate_Spade.md) (June 5, 2018), [Anthony Bourdain](Anthony_Bourdain.md) (June 8, 2018), [Chris Cornell](Chris_Cornell.md) (May 2017), and [Chester Bennington](Chester_Bennington.md) (July 2017). In this narrative, all are portrayed as having been killed because they were actively exposing trafficking networks, not as suicides or accidental deaths.
 
 **Assessment of this narrative:** The claim that Inés found and distributed blackmail recordings from her father's estate rests entirely on unattributed, unverified X posts. No journalist, court filing, family member, Argentine prosecutor, or person close to either Inés or Jaitt has confirmed any discovery or transfer of evidence. The narrative also requires accepting that a senior minister in the Videla junta maintained recoverable physical video recordings of elite crimes in a family archive for four decades — a claim that has not been substantiated. The timeline overlap between Inés's death and Jaitt's public accusations is the only documented fact linking them, and it is equally consistent with coincidence or the highly charged Argentine political environment of 2018, when trafficking allegations were publicly prominent.
 
 **The Rothschild/elite network claim:** Fringe sources, including a widely circulated post on Steemit, claimed that Inés's work at the United Nations and Queen Maxima's attendance at Davos where she was photographed with figures including Nat Rothschild, constituted evidence of connections to trafficking networks. These claims have no evidentiary basis. Queen Maxima's attendance at international financial and development forums is explained entirely by her role as a UN Secretary-General Special Advocate for Inclusive Finance for Development.
 
-**No Epstein connection:** Inés Zorreguieta does not appear in any Epstein flight logs, black books, court documents, witness testimony, or investigative records. There is no documented connection between Queen Maxima of the Netherlands and Jeffrey Epstein. The European royals documented in the Epstein files involve primarily the British royal family — specifically [Prince Andrew](Prince_Andrew.mdx) — and the Norwegian Crown Princess Mette-Marit, not the Dutch royal house.
+**No Epstein connection:** Inés Zorreguieta does not appear in any Epstein flight logs, black books, court documents, witness testimony, or investigative records. There is no documented connection between Queen Maxima of the Netherlands and Jeffrey Epstein. The European royals documented in the Epstein files involve primarily the British royal family — specifically [Prince Andrew](Prince_Andrew.md) — and the Norwegian Crown Princess Mette-Marit, not the Dutch royal house.
 
-**The June 2018 cluster:** The overlap with [Kate Spade](Kate_Spade.mdx) and [Anthony Bourdain](Anthony_Bourdain.mdx) within 72 hours is statistically and epidemiologically significant. A study published in the *Australian & New Zealand Journal of Psychiatry* (Sinyor et al., 2021) documented 418 excess suicides in the United States in the two months following the Spade and Bourdain deaths, with a 14.5% increase specifically in hangings. The documented copycat contagion effect from the highly publicized deaths of Spade and Bourdain provides a credible epidemiological explanation for the timing of Inés's death.
+**The June 2018 cluster:** The overlap with [Kate Spade](Kate_Spade.md) and [Anthony Bourdain](Anthony_Bourdain.md) within 72 hours is statistically and epidemiologically significant. A study published in the *Australian & New Zealand Journal of Psychiatry* (Sinyor et al., 2021) documented 418 excess suicides in the United States in the two months following the Spade and Bourdain deaths, with a 14.5% increase specifically in hangings. The documented copycat contagion effect from the highly publicized deaths of Spade and Bourdain provides a credible epidemiological explanation for the timing of Inés's death.
 
 ## Why This Death Is Documented Here
 
-- **The June 2018 cluster — three deaths by hanging in 72 hours:** [Kate Spade](Kate_Spade.mdx) on June 5, Inés Zorreguieta on June 6, [Anthony Bourdain](Anthony_Bourdain.mdx) on June 8. Whatever the explanation, documenting three hangings within 72 hours among individuals with elite connections is necessary for pattern analysis.
+- **The June 2018 cluster — three deaths by hanging in 72 hours:** [Kate Spade](Kate_Spade.md) on June 5, Inés Zorreguieta on June 6, [Anthony Bourdain](Anthony_Bourdain.md) on June 8. Whatever the explanation, documenting three hangings within 72 hours among individuals with elite connections is necessary for pattern analysis.
 - **Father served a regime that ran a documented baby-trafficking operation:** This is not a conspiracy theory. It is a documented historical fact that the Videla junta systematically stole approximately 500 babies from murdered mothers and redistributed them through state-organized channels. Inés's father was one of the most senior civilian ministers of that regime. The psychological weight of this family history on a trained psychologist focused on social vulnerability is not trivial.
 - **Thesis on female suicide, eight years before dying by suicide:** This is a specific, documented fact that is both psychologically significant and, in retrospect, deeply unsettling.
 - **Work with children and youth in government and UN programs:** Inés worked within the same institutional structures — national children's secretariats, UN development programs — that in other documented cases on this list have intersected with exploitation networks. This is not an accusation; it is documentation of her proximity to these systems.
-- **Same method as numerous elite-connected deaths on this list:** Hanging is the method used by [Jeffrey Epstein](Jeffrey_Epstein.mdx), [Jean-Luc Brunel](Jean_Luc_Brunel.mdx), [Chris Cornell](Chris_Cornell.mdx), [Chester Bennington](Chester_Bennington.mdx), [Thomas Bowers](Thomas_Bowers.mdx), [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx), and others.
+- **Same method as numerous elite-connected deaths on this list:** Hanging is the method used by [Jeffrey Epstein](Jeffrey_Epstein.md), [Jean-Luc Brunel](Jean_Luc_Brunel.md), [Chris Cornell](Chris_Cornell.md), [Chester Bennington](Chester_Bennington.md), [Thomas Bowers](Thomas_Bowers.md), [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md), and others.
 - **Father's death less than a year before:** Jorge Zorreguieta's death in August 2017 was a significant event in the family. Whether it triggered a mental health crisis, whether it prompted any family reckoning with the dirty war legacy, or whether it is simply chronologically coincidental, is not established.
-- **The Natacha Jaitt parallel and alleged connection:** [Natacha Jaitt](Natacha_Jaitt.mdx) went public on Argentine television in 2018 naming politicians and elites as members of a pedophile ring — and died eight months after Inés. A specific X post narrative alleges that Inés passed evidence she found in her father's estate to Jaitt, making the two women part of the same exposure chain. This narrative has not been confirmed by any named source, but it is the most operationally specific claim connecting Inés to elite trafficking networks, and it merits documentation alongside the documented facts of both women's deaths.
+- **The Natacha Jaitt parallel and alleged connection:** [Natacha Jaitt](Natacha_Jaitt.md) went public on Argentine television in 2018 naming politicians and elites as members of a pedophile ring — and died eight months after Inés. A specific X post narrative alleges that Inés passed evidence she found in her father's estate to Jaitt, making the two women part of the same exposure chain. This narrative has not been confirmed by any named source, but it is the most operationally specific claim connecting Inés to elite trafficking networks, and it merits documentation alongside the documented facts of both women's deaths.
 
 ## What the Evidence Does NOT Show
 
@@ -154,21 +154,21 @@ Inés Zorreguieta had one of the most thoroughly documented mental health histor
 
 ## See Also
 
-- [Kate Spade](Kate_Spade.mdx) — Died by hanging one day before Inés, June 5, 2018
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — Died by hanging two days after Inés, June 8, 2018
-- [Natacha Jaitt](Natacha_Jaitt.mdx) — Argentine activist who publicly named alleged pedophiles on TV, died February 2019; X posts claim Inés passed her evidence found in Jorge Zorreguieta's estate
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — Part of the broader 2017–2018 celebrity death cluster
-- [Chris Cornell](Chris_Cornell.mdx) — 2017 death by hanging; part of the same extended cluster
-- [Chester Bennington](Chester_Bennington.mdx) — July 2017 death by hanging; part of the same extended cluster
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) — Found hanged in his cell; same method
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — Washington DC madam found hanged; called it impossible before she died
+- [Kate Spade](Kate_Spade.md) — Died by hanging one day before Inés, June 5, 2018
+- [Anthony Bourdain](Anthony_Bourdain.md) — Died by hanging two days after Inés, June 8, 2018
+- [Natacha Jaitt](Natacha_Jaitt.md) — Argentine activist who publicly named alleged pedophiles on TV, died February 2019; X posts claim Inés passed her evidence found in Jorge Zorreguieta's estate
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Part of the broader 2017–2018 celebrity death cluster
+- [Chris Cornell](Chris_Cornell.md) — 2017 death by hanging; part of the same extended cluster
+- [Chester Bennington](Chester_Bennington.md) — July 2017 death by hanging; part of the same extended cluster
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in his cell; same method
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — Washington DC madam found hanged; called it impossible before she died
 
 ## Other Shocking Stories
 
-- [Kate Spade](Kate_Spade.mdx): Fashion icon found hanged one day before Inés — her husband wore a mouse mask outside afterward, never fully explained.
-- [Anthony Bourdain](Anthony_Bourdain.mdx): Celebrated chef found hanged two days after Inés. Friend Asia Argento had just been photographed with another man the day before.
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx): Epstein's model scout, awaiting trafficking trial. Found hanged in his cell. Cameras malfunctioned — just like when Epstein died.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine entertainer who named pedophiles publicly. Said "I will not commit suicide." Dead within months.
+- [Kate Spade](Kate_Spade.md): Fashion icon found hanged one day before Inés — her husband wore a mouse mask outside afterward, never fully explained.
+- [Anthony Bourdain](Anthony_Bourdain.md): Celebrated chef found hanged two days after Inés. Friend Asia Argento had just been photographed with another man the day before.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Epstein's model scout, awaiting trafficking trial. Found hanged in his cell. Cameras malfunctioned — just like when Epstein died.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine entertainer who named pedophiles publicly. Said "I will not commit suicide." Dead within months.
 
 ## Sources
 

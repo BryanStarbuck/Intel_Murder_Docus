@@ -50,16 +50,16 @@ The firm became known as "the CIA of Wall Street" and "Wall Street's Private Eye
 Kroll Associates connects to the Epstein network through several threads:
 
 **1. Robert Maxwell Connection**
-In late October 1991, [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — father of [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) and alleged [Mossad](mossad.mdx) asset — contacted Jules Kroll seeking help investigating what Maxwell believed was a conspiracy to destroy his business empire. Kroll was unable to provide Maxwell the information he wanted before Maxwell died under mysterious circumstances on his yacht on November 5, 1991. The timing of this contact, weeks before Maxwell's death, has fueled speculation about what Kroll may have known about the forces aligned against Maxwell.
+In late October 1991, [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — father of [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) and alleged [Mossad](mossad.md) asset — contacted Jules Kroll seeking help investigating what Maxwell believed was a conspiracy to destroy his business empire. Kroll was unable to provide Maxwell the information he wanted before Maxwell died under mysterious circumstances on his yacht on November 5, 1991. The timing of this contact, weeks before Maxwell's death, has fueled speculation about what Kroll may have known about the forces aligned against Maxwell.
 
 **2. Deutsche Bank Executive Ties**
-After Jules Kroll founded the Kroll Bond Rating Agency (KBRA), investigative journalist Whitney Webb reported a "revolving door" between senior management at Kroll's successor firms and [Deutsche Bank](deutsche_bank.mdx) — the bank that served as Epstein's primary financial institution from 2013 to 2018 and was fined $150 million for compliance failures related to his accounts.
+After Jules Kroll founded the Kroll Bond Rating Agency (KBRA), investigative journalist Whitney Webb reported a "revolving door" between senior management at Kroll's successor firms and [Deutsche Bank](deutsche_bank.md) — the bank that served as Epstein's primary financial institution from 2013 to 2018 and was fined $150 million for compliance failures related to his accounts.
 
 **3. Roy Den Hollander and the Salas Attack**
 [Roy Den Hollander](/epstein-murders/Details/Roy_Den_Hollander), who worked at Kroll's Moscow office from 1999 to 2000, attacked the family of U.S. District Judge [Esther Salas](/epstein-murders/Details/Esther_Salas) on July 19, 2020. At the time, Judge Salas had just been assigned a class action lawsuit against Deutsche Bank alleging the bank failed to properly monitor high-risk clients including Jeffrey Epstein. Den Hollander killed Salas's 20-year-old son [Daniel Anderl](/epstein-murders/Details/Daniel_Anderl) and seriously wounded her husband Mark Anderl before being found dead the next day. Authorities stated the attack was related to a separate case Den Hollander had argued before Salas, not the Epstein–Deutsche Bank case. However, the coincidence of a former Kroll employee attacking the judge overseeing the Epstein–Deutsche Bank case drew significant attention from investigators and journalists, including Whitney Webb at Unlimited Hangout.
 
 **4. Shared Intelligence Community Personnel**
-Kroll's extensive hiring of former [CIA](cia.mdx), FBI, [Mossad](mossad.mdx), and MI6 officers mirrors the intelligence connections alleged in the [Epstein network](jeffrey_epstein_network.mdx) itself. Multiple researchers, including Whitney Webb in *One Nation Under Blackmail*, have noted the overlap between the private intelligence world represented by firms like Kroll and the intelligence networks allegedly behind Epstein's blackmail operation.
+Kroll's extensive hiring of former [CIA](cia.md), FBI, [Mossad](mossad.md), and MI6 officers mirrors the intelligence connections alleged in the [Epstein network](jeffrey_epstein_network.md) itself. Multiple researchers, including Whitney Webb in *One Nation Under Blackmail*, have noted the overlap between the private intelligence world represented by firms like Kroll and the intelligence networks allegedly behind Epstein's blackmail operation.
 
 ## Notable Books, Documentaries, and Investigations
 
@@ -103,10 +103,10 @@ Kroll Associates sits at the intersection of several critical threads in the Eps
 
 ## See Also
 
-- [Deutsche Bank](deutsche_bank.mdx) — Executive overlap between Kroll successor firms and Deutsche Bank
-- [CIA](cia.mdx) — Kroll extensively hired former CIA operatives; French intelligence alleged CIA front
-- [Mossad](mossad.mdx) — Kroll hired former Mossad operatives; Jules Kroll met Robert Maxwell before his death
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Connected via Deutsche Bank, Salas attack, and intelligence personnel
+- [Deutsche Bank](deutsche_bank.md) — Executive overlap between Kroll successor firms and Deutsche Bank
+- [CIA](cia.md) — Kroll extensively hired former CIA operatives; French intelligence alleged CIA front
+- [Mossad](mossad.md) — Kroll hired former Mossad operatives; Jules Kroll met Robert Maxwell before his death
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Connected via Deutsche Bank, Salas attack, and intelligence personnel
 - [Esther Salas](/epstein-murders/Details/Esther_Salas) — Former Kroll employee attacked her family during Epstein-Deutsche Bank case
 - [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — Contacted Jules Kroll weeks before his suspicious death
 

@@ -26,7 +26,7 @@ Soundgarden vocalist who ran a foundation fighting child trafficking, found hang
 
 ## Assessment: SUSPICIOUS
 
-Cornell's wife publicly disputes the suicide ruling. A head injury referenced in two EMS reports was omitted from the final autopsy. The Wayne County Medical Examiner ruled the death a suicide in under **90 minutes** — before toxicology results were complete and before the family was contacted. Cornell's forensic expert concluded the investigation was prematurely closed. The drug levels found in Cornell's system — including Ativan, barbiturates, and other substances — were described by a toxicologist as causing "significant motor and mental impairment" and "synergistic depressant activity" that would impair judgment and cloud intention. Cornell's closest friend, [Chester Bennington](Chester_Bennington.mdx), was found hanged by the same method exactly two months later — on Cornell's birthday. Both men had active foundations working with vulnerable children and both were connected, at various degrees of proximity, to anti-trafficking work. Cornell's foundation specifically listed human trafficking victims as one of its core beneficiary populations.
+Cornell's wife publicly disputes the suicide ruling. A head injury referenced in two EMS reports was omitted from the final autopsy. The Wayne County Medical Examiner ruled the death a suicide in under **90 minutes** — before toxicology results were complete and before the family was contacted. Cornell's forensic expert concluded the investigation was prematurely closed. The drug levels found in Cornell's system — including Ativan, barbiturates, and other substances — were described by a toxicologist as causing "significant motor and mental impairment" and "synergistic depressant activity" that would impair judgment and cloud intention. Cornell's closest friend, [Chester Bennington](Chester_Bennington.md), was found hanged by the same method exactly two months later — on Cornell's birthday. Both men had active foundations working with vulnerable children and both were connected, at various degrees of proximity, to anti-trafficking work. Cornell's foundation specifically listed human trafficking victims as one of its core beneficiary populations.
 
 ## Circumstances of Death
 
@@ -142,7 +142,7 @@ No verified direct public quotes from Cornell explicitly naming pedophilia rings
 
 **Dr. Werner Spitz "questioned the ruling"**: Some posts cite the renowned forensic pathologist Dr. Werner Spitz — who worked on the JFK and MLK assassination investigations — as having questioned Cornell's suicide ruling. *What is confirmed*: Dr. Michael Hunter reviewed the case for a documentary and commented on the head injury omission. Dr. Spitz's involvement or public statements regarding the Cornell case specifically are not confirmed in major reporting, and his citation in social media posts has not been traced to a primary source.
 
-**The broader "silenced celebrities" network**: Cornell is consistently grouped with [Chester Bennington](Chester_Bennington.mdx), [Avicii](Avicii_Tim_Bergling.mdx), and [Anthony Bourdain](Anthony_Bourdain.mdx) as a coordinated pattern of silencing celebrity whistleblowers on Hollywood/music-industry pedophilia rings. Some posts connect the cluster to Podesta emails, Epstein, or "Pizzagate." The deaths are real and documented. Whether they represent a coordinated operation or a cluster of deaths with separate causes is not established by any independent investigation.
+**The broader "silenced celebrities" network**: Cornell is consistently grouped with [Chester Bennington](Chester_Bennington.md), [Avicii](Avicii_Tim_Bergling.md), and [Anthony Bourdain](Anthony_Bourdain.md) as a coordinated pattern of silencing celebrity whistleblowers on Hollywood/music-industry pedophilia rings. Some posts connect the cluster to Podesta emails, Epstein, or "Pizzagate." The deaths are real and documented. Whether they represent a coordinated operation or a cluster of deaths with separate causes is not established by any independent investigation.
 
 ### Verified vs. Unverified — Summary
 
@@ -163,7 +163,7 @@ No verified direct public quotes from Cornell explicitly naming pedophilia rings
 
 ## The Chester Bennington Parallel
 
-[Chester Bennington](Chester_Bennington.mdx), vocalist of Linkin Park and Cornell's close friend, was found dead on **July 20, 2017** — Cornell's birthday. He had died by hanging. He was 41.
+[Chester Bennington](Chester_Bennington.md), vocalist of Linkin Park and Cornell's close friend, was found dead on **July 20, 2017** — Cornell's birthday. He had died by hanging. He was 41.
 
 The similarities:
 - **Same method**: Both hanged
@@ -184,10 +184,10 @@ Cornell's death is one of at least five celebrity hangings in a 13-month period,
 | Date | Person | Method | Trafficking/Child Connection |
 |------|--------|--------|------------------------------|
 | May 18, 2017 | Chris Cornell | Hanging | Foundation supported trafficking victims |
-| July 20, 2017 | [Chester Bennington](Chester_Bennington.mdx) | Hanging | Close friend of Cornell; online claims of documentary connection |
-| April 20, 2018 | [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) | Found dead | Created "For a Better Day" music video depicting child trafficking rescue |
-| June 5, 2018 | [Kate Spade](Kate_Spade.mdx) | Hanging | No documented trafficking connection |
-| June 8, 2018 | [Anthony Bourdain](Anthony_Bourdain.mdx) | Hanging | Had spoken out about Harvey Weinstein and predatory behavior; used platform on abuse issues |
+| July 20, 2017 | [Chester Bennington](Chester_Bennington.md) | Hanging | Close friend of Cornell; online claims of documentary connection |
+| April 20, 2018 | [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) | Found dead | Created "For a Better Day" music video depicting child trafficking rescue |
+| June 5, 2018 | [Kate Spade](Kate_Spade.md) | Hanging | No documented trafficking connection |
+| June 8, 2018 | [Anthony Bourdain](Anthony_Bourdain.md) | Hanging | Had spoken out about Harvey Weinstein and predatory behavior; used platform on abuse issues |
 
 Whether this cluster represents coincidence, a shared cultural moment of depression and substance vulnerability, or something more sinister is genuinely unknown. The cluster is real. The anti-trafficking connections range from documented (Cornell's foundation, Avicii's music video) to alleged (others). Each death has its own context and official explanation.
 
@@ -209,7 +209,7 @@ Whether this cluster represents coincidence, a shared cultural moment of depress
 
 - **The exercise band and the height question**: Cornell's use of a red rubber exercise band — not a traditional ligature — is an unusual choice for a deliberate hanging. Exercise bands are not generally what suicidal individuals reach for. Cornell was 6'2". Online forensic discussions have raised the question of whether a rubber exercise band, anchored at door height, would provide sufficient drop for a 6'2" man, or whether his feet could have contacted or nearly contacted the floor — which would complicate the mechanics of death by asphyxiation in the manner described. No published independent forensic expert has definitively resolved this specific claim, but it has become one of the more persistent technical questions raised about the official account.
 
-- **Pattern of hanging deaths in the Epstein-adjacent death cluster**: Cornell died by hanging. [Jeffrey Epstein](Jeffrey_Epstein.mdx) died by hanging. [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) died by hanging. [Mark Middleton](Mark_Middleton.mdx) was found hanged from a tree and shot. Hanging is a method that can be staged. Multiple Epstein-network deaths share this method.
+- **Pattern of hanging deaths in the Epstein-adjacent death cluster**: Cornell died by hanging. [Jeffrey Epstein](Jeffrey_Epstein.md) died by hanging. [Jean-Luc Brunel](Jean_Luc_Brunel.md) died by hanging. [Mark Middleton](Mark_Middleton.md) was found hanged from a tree and shot. Hanging is a method that can be staged. Multiple Epstein-network deaths share this method.
 
 ## The Counterargument
 
@@ -251,20 +251,20 @@ Cornell's foundation's anti-trafficking work, while real and documented, does no
 
 ## See Also
 
-- [Chester Bennington](Chester_Bennington.mdx) — Close friend; died by hanging exactly two months later on Cornell's birthday
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — 2017–2018 death cluster; died by hanging June 2018
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — 2017–2018 death cluster; created trafficking-awareness music video
-- [Kate Spade](Kate_Spade.mdx) — 2017–2018 death cluster; died by hanging June 2018
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Central figure in the trafficking network; died by hanging before trial
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) — Modeling agent found hanged in Paris prison awaiting trafficking trial
-- [Mark Middleton](Mark_Middleton.mdx) — Clinton aide who let Epstein into the White House; found hanged from a tree and shot
+- [Chester Bennington](Chester_Bennington.md) — Close friend; died by hanging exactly two months later on Cornell's birthday
+- [Anthony Bourdain](Anthony_Bourdain.md) — 2017–2018 death cluster; died by hanging June 2018
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — 2017–2018 death cluster; created trafficking-awareness music video
+- [Kate Spade](Kate_Spade.md) — 2017–2018 death cluster; died by hanging June 2018
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Central figure in the trafficking network; died by hanging before trial
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent found hanged in Paris prison awaiting trafficking trial
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide who let Epstein into the White House; found hanged from a tree and shot
 
 ## Other Shocking Stories
 
-- [Chester Bennington](Chester_Bennington.mdx): Cornell's closest friend. Found hanged. Died on Cornell's birthday. Two months apart. Same method.
-- [Mark Middleton](Mark_Middleton.mdx): Clinton aide who signed Epstein into the White House. Found hanged from a tree AND shot in the chest.
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx): 30-year trafficking and blackmail operation targeting world leaders. Hanged in federal custody the night before key witnesses testified.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor who publicly named Hollywood figures as pedophiles on social media. Pushed from a bridge in Arizona at 42.
+- [Chester Bennington](Chester_Bennington.md): Cornell's closest friend. Found hanged. Died on Cornell's birthday. Two months apart. Same method.
+- [Mark Middleton](Mark_Middleton.md): Clinton aide who signed Epstein into the White House. Found hanged from a tree AND shot in the chest.
+- [Jeffrey Epstein](Jeffrey_Epstein.md): 30-year trafficking and blackmail operation targeting world leaders. Hanged in federal custody the night before key witnesses testified.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who publicly named Hollywood figures as pedophiles on social media. Pushed from a bridge in Arizona at 42.
 
 ## Sources
 

@@ -194,18 +194,18 @@ The sealed French dossier, while obviously suspicious-looking, is technically re
 
 ## See Also
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator murdered after releasing a report on CPS child trafficking
-- [Monica Petersen](Monica_Petersen.mdx) — Human trafficking researcher died suddenly in Haiti while investigating trafficking operations
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI director who spent decades investigating elite pedophile rings before his death
-- [Jenny Moore](Jenny_Moore.mdx) — Independent journalist died 4 months after submitting child abuse evidence to the FBI
-- [Chris Cornell](Chris_Cornell.mdx) — Musician found hanged after funding anti-trafficking work; his foundation's quote echoes Diana's own words about protecting children
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator murdered after releasing a report on CPS child trafficking
+- [Monica Petersen](Monica_Petersen.md) — Human trafficking researcher died suddenly in Haiti while investigating trafficking operations
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI director who spent decades investigating elite pedophile rings before his death
+- [Jenny Moore](Jenny_Moore.md) — Independent journalist died 4 months after submitting child abuse evidence to the FBI
+- [Chris Cornell](Chris_Cornell.md) — Musician found hanged after funding anti-trafficking work; his foundation's quote echoes Diana's own words about protecting children
 
 ## Other Shocking Stories
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator shot dead alongside her husband after publishing a report naming CPS child trafficking networks.
-- [Monica Petersen](Monica_Petersen.mdx): Trafficking researcher died in Haiti weeks after Epstein's arrest; evidence seized from her room.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor who publicly accused Hollywood figures of child abuse fell from an Arizona bridge at 42.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher investigating elite ritual abuse found hanged after telling followers she feared she would be murdered.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator shot dead alongside her husband after publishing a report naming CPS child trafficking networks.
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher died in Haiti weeks after Epstein's arrest; evidence seized from her room.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who publicly accused Hollywood figures of child abuse fell from an Arizona bridge at 42.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite ritual abuse found hanged after telling followers she feared she would be murdered.
 
 ## Sources
 

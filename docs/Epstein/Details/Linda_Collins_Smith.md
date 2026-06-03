@@ -101,7 +101,7 @@ The coincidence was noted by many observers, including conservative outlets. Whe
 
 Collins-Smith's death fits a documented pattern of politicians, advocates, and officials who investigated child protective services corruption dying violently or under suspicious circumstances:
 
-- **[Nancy Schaefer](Nancy_Schaefer.mdx)** — Georgia state senator who published "The Corrupt Business of Child Protective Services" in 2007 after a four-year investigation. Found shot dead with her husband on March 26, 2010 in what was ruled a murder-suicide. Disputed by many researchers.
+- **[Nancy Schaefer](Nancy_Schaefer.md)** — Georgia state senator who published "The Corrupt Business of Child Protective Services" in 2007 after a four-year investigation. Found shot dead with her husband on March 26, 2010 in what was ruled a murder-suicide. Disputed by many researchers.
 - **Jonathan Nichols** — Oklahoma state senator who authored child safety legislation; found shot dead June 5, 2019, the day after Collins-Smith.
 - **[Philip Haney](/intel/Details/Philip_Haney/)** — DHS whistleblower on trafficking networks; found shot dead in February 2020, ruled a suicide despite suspicious circumstances.
 
@@ -125,7 +125,7 @@ No direct, verbatim public quotes from Collins-Smith herself about exposing a sp
 
 **Calls for FBI reinvestigation (contemporary, 2025–2026)**: Recent posts explicitly call on current political figures to reopen the case: "Linda Collins-Smith's murder is a tragic reminder of the dangers of exposing corruption and child trafficking syndicates. Her planned exposure of the CPS missing $40–50 million… Kash Patel, our new FBI director, must investigate this case." This reflects ongoing belief in the CPS-trafficking connection and represents active, not merely historical, social media pressure.
 
-**The Nancy Schaefer parallel**: Posts consistently group Collins-Smith with [Nancy Schaefer](Nancy_Schaefer.mdx), the Georgia state senator who published "The Corrupt Business of Child Protective Services" in 2007 and was found shot dead with her husband in 2010. Both deaths are presented as proof that politicians who expose CPS/foster-system trafficking are targeted. Posts frame the pattern: "Never forget Nancy Schaefer, Georgia State Senator, who called out the dangers of CPS and was then murdered…. CPS is one of the largest trafficking rings in the world." The deaths are real. Whether they share a causal connection has not been established by any independent investigation.
+**The Nancy Schaefer parallel**: Posts consistently group Collins-Smith with [Nancy Schaefer](Nancy_Schaefer.md), the Georgia state senator who published "The Corrupt Business of Child Protective Services" in 2007 and was found shot dead with her husband in 2010. Both deaths are presented as proof that politicians who expose CPS/foster-system trafficking are targeted. Posts frame the pattern: "Never forget Nancy Schaefer, Georgia State Senator, who called out the dangers of CPS and was then murdered…. CPS is one of the largest trafficking rings in the world." The deaths are real. Whether they share a causal connection has not been established by any independent investigation.
 
 **O'Donnell moved out-of-state with communication restrictions**: Some posts note that following her plea, O'Donnell's transfer to a facility outside Arkansas and reported communication restrictions have limited the ability of journalists and researchers to independently interview her. Posts treat this as deliberate isolation to prevent her from changing her story or providing additional information.
 
@@ -190,17 +190,17 @@ No direct, verbatim public quotes from Collins-Smith herself about exposing a sp
 
 ## See Also
 
-- [Jonathan Nichols](Jonathan_Nichols.mdx) — Former Oklahoma state senator who authored child safety legislation; found shot dead the day after Collins-Smith's body was discovered
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Former Georgia state senator who published a detailed report on CPS corruption; found dead with her husband in 2010
-- [Monica Petersen](Monica_Petersen.mdx) — Human trafficking researcher who died in Haiti while investigating Clinton Foundation operations
-- [Jenny Moore](Jenny_Moore.mdx) — Journalist who submitted child abuse allegations to the FBI and died four months later
+- [Jonathan Nichols](Jonathan_Nichols.md) — Former Oklahoma state senator who authored child safety legislation; found shot dead the day after Collins-Smith's body was discovered
+- [Nancy Schaefer](Nancy_Schaefer.md) — Former Georgia state senator who published a detailed report on CPS corruption; found dead with her husband in 2010
+- [Monica Petersen](Monica_Petersen.md) — Human trafficking researcher who died in Haiti while investigating Clinton Foundation operations
+- [Jenny Moore](Jenny_Moore.md) — Journalist who submitted child abuse allegations to the FBI and died four months later
 
 ## Other Shocking Stories
 
-- [Jonathan Nichols](Jonathan_Nichols.mdx): Former Oklahoma senator who championed child safety legislation; found shot dead the same week as Collins-Smith.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia state senator who spent four years documenting CPS corruption; found shot dead with her husband.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model who publicly named politicians and priests as pedophiles; said "I won't commit suicide" — found dead months later.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor who publicly named Hollywood figures as pedophiles before dying on an Arizona highway at 42.
+- [Jonathan Nichols](Jonathan_Nichols.md): Former Oklahoma senator who championed child safety legislation; found shot dead the same week as Collins-Smith.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator who spent four years documenting CPS corruption; found shot dead with her husband.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model who publicly named politicians and priests as pedophiles; said "I won't commit suicide" — found dead months later.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who publicly named Hollywood figures as pedophiles before dying on an Arizona highway at 42.
 
 ## Sources
 

@@ -139,9 +139,9 @@ Whether or not the underlying claims have merit is **not** asserted by this page
 - [Madison Cupps](/epstein-murders/Details/Madison_Cupps) — daughter and primary accuser (formal name)
 - [Clares Cupps](/epstein-murders/Details/Clares_Cupps) — same person, informal social-media name
 - [Edgar Maddison Welch](/epstein-murders/Details/Edgar_Maddison_Welch) — "Pizzagate gunman" case; relevant for the "pizza as code word" framing
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Verified elite trafficking operation
-- [Henry Vinson Escort Service](henry_vinson_escort_service.mdx) — Documented DC blackmail operation
-- [Franklin Scandal](franklin_scandal.mdx) — Documented child-trafficking ring
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Verified elite trafficking operation
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — Documented DC blackmail operation
+- [Franklin Scandal](franklin_scandal.md) — Documented child-trafficking ring
 
 ## Sources
 

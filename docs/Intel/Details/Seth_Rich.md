@@ -72,7 +72,7 @@ In July 2021, the FBI released approximately 142 pages of documents related to S
 
 However, these appear to be emails sent by private citizens to the FBI — communications kept on file by standard procedure rather than because of their evidentiary value. No official investigation has substantiated these allegations.
 
-In September 2025, the House Oversight Committee subpoenaed Mueller to testify about the FBI's handling of the Jeffrey Epstein case, but the subpoena was withdrawn due to Mueller's Parkinson's diagnosis. Mueller died on March 20, 2026, without ever testifying. See [Robert Mueller](Robert_Mueller.mdx) for full profile.
+In September 2025, the House Oversight Committee subpoenaed Mueller to testify about the FBI's handling of the Jeffrey Epstein case, but the subpoena was withdrawn due to Mueller's Parkinson's diagnosis. Mueller died on March 20, 2026, without ever testifying. See [Robert Mueller](Robert_Mueller.md) for full profile.
 
 For additional context on these FBI documents, see [this social media thread](https://x.com/hollywood2pt0/status/2035488411092447391).
 
@@ -142,19 +142,19 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 
 ## See Also
 
-- [Robert Mueller](Robert_Mueller.mdx) — FBI Director (2001-2013) whose name appears in FBI documents related to Rich's murder; subpoenaed for Epstein testimony but died before testifying
-- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating intelligence connections who died under suspicious circumstances
-- [Michael Hastings](Michael_Hastings.mdx) — journalist who died in suspicious car crash while investigating intelligence operations
-- [Gary Webb](Gary_Webb.mdx) — journalist who died after exposing CIA operations
-- [Stefan Suto](Stefan_Suto.mdx) — 80-year-old civilian killed by hydrogen peroxide poisoning; death initially ruled natural causes, later reclassified as homicide after forensic autopsy
+- [Robert Mueller](Robert_Mueller.md) — FBI Director (2001-2013) whose name appears in FBI documents related to Rich's murder; subpoenaed for Epstein testimony but died before testifying
+- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections who died under suspicious circumstances
+- [Michael Hastings](Michael_Hastings.md) — journalist who died in suspicious car crash while investigating intelligence operations
+- [Gary Webb](Gary_Webb.md) — journalist who died after exposing CIA operations
+- [Stefan Suto](Stefan_Suto.md) — 80-year-old civilian killed by hydrogen peroxide poisoning; death initially ruled natural causes, later reclassified as homicide after forensic autopsy
 - [Seth Rich (Epstein Kill List)](https://intelligencemurders.com/intelligence-service-murders/Details/Seth_Rich/) — Epstein Kill List cross-reference
 
 ## Other Shocking Stories
 
-- [Pat Tillman](Pat_Tillman.mdx): Three bullets to the forehead at close range. The Pentagon called it 'friendly fire' and burned his uniform.
-- [Aldo Moro](Aldo_Moro.mdx): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
-- [Philip Marshall](Philip_Marshall.mdx): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
-- [Roberto Calvi](Roberto_Calvi.mdx): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
+- [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it 'friendly fire' and burned his uniform.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+- [Philip Marshall](Philip_Marshall.md): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
+- [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
 
 ## Sources
 
@@ -219,11 +219,11 @@ At the DNC, Rich served as the Voter Expansion Data Director, a position focused
 
 ### Epstein Connection — Tangential at Best
 
-Seth Rich has no known direct connection to [Jeffrey Epstein](Jeffrey_Epstein.mdx), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
+Seth Rich has no known direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
 
-- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](Bill_Richardson.mdx), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
+- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](Bill_Richardson.md), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
 - **Washington, DC pattern:** Rich's death fits the broader pattern documented in this project of political operatives, whistleblowers, and investigators dying in the Washington, DC area. The DC area has been the site of multiple overlapping blackmail and trafficking operations spanning decades — Craig Spence's operation, the Henry Vinson Escort Service, the DC Madam, and others.
-- **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.mdx) and [Mark Middleton](Mark_Middleton.mdx). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
+- **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.md) and [Mark Middleton](Mark_Middleton.md). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
 - **WikiLeaks/political information:** The conspiracy theory that Rich leaked DNC emails to WikiLeaks places him in a narrative about political information and cover-ups, but this theory has been contradicted by the Mueller investigation and intelligence community findings.
 
 **To be clear:** Including Seth Rich in this project does not assert that his death was connected to the Epstein network. It is included because his unsolved murder in Washington, DC occurred during a period of intense political activity involving figures who do appear in the Epstein case, and because his case illustrates the broader pattern of suspicious deaths in the DC political ecosystem.
@@ -349,22 +349,22 @@ Important context often omitted from conspiracy narratives:
 
 ## See Also
 
-- [Vince Foster](Vince_Foster.mdx) — Clinton deputy counsel whose death in 1993 became the template for "Clinton body count" theories; Epstein emails reference a Clinton-Foster affair
-- [Monica Petersen](Monica_Petersen.mdx) — Trafficking researcher who died in Haiti in 2016; another politically adjacent death during the same period
-- [Philip Haney](Philip_Haney.mdx) — DHS whistleblower on trafficking networks found shot dead in 2020; another government-connected figure whose death was ruled self-inflicted under disputed circumstances
-- [Jenny Moore](Jenny_Moore.mdx) — Journalist investigating trafficking found dead in a DC hotel in 2018
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — The "DC Madam" who said she would never kill herself; found hanged in 2007
-- [John Ashe](John_Ashe.mdx) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
-- [Mark Middleton](Mark_Middleton.mdx) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
-- [Christopher Sign](Christopher_Sign.mdx) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
+- [Vince Foster](Vince_Foster.md) — Clinton deputy counsel whose death in 1993 became the template for "Clinton body count" theories; Epstein emails reference a Clinton-Foster affair
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016; another politically adjacent death during the same period
+- [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks found shot dead in 2020; another government-connected figure whose death was ruled self-inflicted under disputed circumstances
+- [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel in 2018
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "DC Madam" who said she would never kill herself; found hanged in 2007
+- [John Ashe](John_Ashe.md) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
+- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
 - **Intelligence investigation profile:** [Seth Rich](/intelligence-service-murders/Details/Seth_Rich) — documents the intelligence dimensions of his murder
 
 ## Other Shocking Stories
 
-- [Anastasia Drozdova](Anastasia_Drozdova.mdx): Her friend Korshunova fell from a building.
-- [Aaron Swartz](Aaron_Swartz.mdx): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
-- [Wendy Leigh](Wendy_Leigh.mdx): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
-- [Danny Casolaro](Danny_Casolaro.mdx): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources
 

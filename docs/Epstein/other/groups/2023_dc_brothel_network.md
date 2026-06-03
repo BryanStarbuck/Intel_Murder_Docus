@@ -22,7 +22,7 @@ Han "Hana" Lee, a South Korean national, operated what prosecutors described as 
 
 The network operated through two websites — **bostontopten10.com** and **browneyesgirlsva.blog** — which purported to advertise "nude models for professional photography at upscale studios" as a front for prostitution. Rates ranged from **$350 to $600+ per hour**, with clients also paying monthly membership fees.
 
-When the DOJ announced arrests in November 2023, Acting US Attorney Joshua Levy stated the client list included **elected officials, military officers, government contractors with security clearances, high-tech and pharmaceutical executives, doctors, professors, and attorneys**. The announcement drew immediate comparisons to the [DC Madam case](dc_madam.mdx).
+When the DOJ announced arrests in November 2023, Acting US Attorney Joshua Levy stated the client list included **elected officials, military officers, government contractors with security clearances, high-tech and pharmaceutical executives, doctors, professors, and attorneys**. The announcement drew immediate comparisons to the [DC Madam case](dc_madam.md).
 
 ## Alleged Activities
 
@@ -52,7 +52,7 @@ The DOJ initially announced that clients included **elected officials, military 
 * Named clients appear to be lower-profile individuals: scientists, accountants, professors, retail employees
 * The investigating agent initially stated names were withheld because the investigation was "active and ongoing"
 
-This mirrors the pattern seen in the [DC Madam](dc_madam.mdx), [Henry Vinson](henry_vinson_escort_service.mdx), and [Epstein](jeffrey_epstein_network.mdx) cases — powerful clients are shielded while operators face consequences.
+This mirrors the pattern seen in the [DC Madam](dc_madam.md), [Henry Vinson](henry_vinson_escort_service.md), and [Epstein](jeffrey_epstein_network.md) cases — powerful clients are shielded while operators face consequences.
 
 ## National Security Concerns
 
@@ -86,8 +86,8 @@ While there is no direct operational link to Epstein, the case fits several patt
 * **Client list suppression:** Powerful clients protected from exposure, mirroring Epstein document sealing, DC Madam record suppression, and Vinson client list sealing
 * **Disproportionate consequences:** Operators face prison while powerful clients face minimal accountability
 * **Relatively light sentences:** Han Lee received 4 years for a $5.6 million operation with national security implications; Junmyung Lee received only 1 year
-* Together with the [DC Madam](dc_madam.mdx), [Craig Spence](craig_spence.mdx), [Henry Vinson](henry_vinson_escort_service.mdx), and [Franklin scandal](franklin_scandal.mdx), this case demonstrates that DC-area operations targeting powerful officials continue into the present day
-* The [CIA](cia.mdx) and [Mossad](mossad.mdx) connections alleged in earlier operations raise questions about whether this modern operation also has intelligence dimensions
+* Together with the [DC Madam](dc_madam.md), [Craig Spence](craig_spence.md), [Henry Vinson](henry_vinson_escort_service.md), and [Franklin scandal](franklin_scandal.md), this case demonstrates that DC-area operations targeting powerful officials continue into the present day
+* The [CIA](cia.md) and [Mossad](mossad.md) connections alleged in earlier operations raise questions about whether this modern operation also has intelligence dimensions
 
 ## How the Operation Was Discovered
 
@@ -122,11 +122,11 @@ While there is no direct operational link to Epstein, the case fits several patt
 
 ## See Also
 
-- [DC Madam](dc_madam.mdx) — Palfrey's former lawyer publicly compared the two cases
-- [Craig Spence Operation](craig_spence.mdx) — 1980s DC blackmail operation targeting politicians with sex
-- [Henry Vinson Escort Service](henry_vinson_escort_service.mdx) — DC escort service with sealed client list; same suppression pattern
-- [Franklin Scandal](franklin_scandal.mdx) — Alleged trafficking of minors to DC parties for elite clients
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Parallel pattern of powerful clients shielded from exposure
+- [DC Madam](dc_madam.md) — Palfrey's former lawyer publicly compared the two cases
+- [Craig Spence Operation](craig_spence.md) — 1980s DC blackmail operation targeting politicians with sex
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — DC escort service with sealed client list; same suppression pattern
+- [Franklin Scandal](franklin_scandal.md) — Alleged trafficking of minors to DC parties for elite clients
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Parallel pattern of powerful clients shielded from exposure
 
 ## Sources
 

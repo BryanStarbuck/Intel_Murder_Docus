@@ -47,7 +47,7 @@ According to court filings, released text messages, and FBI documents, the USVI 
 
 Epstein chose the USVI for his operations precisely because of the territory's small government, which was susceptible to financial influence. He donated to local charities, hired local officials, and embedded himself in the territory's power structure.
 
-The USVI eventually secured a $105 million settlement from Epstein's estate and played a key role in the $290 million [JPMorgan Chase](jpmorgan_chase.mdx) settlement — but only after George's successor continued the litigation she started.
+The USVI eventually secured a $105 million settlement from Epstein's estate and played a key role in the $290 million [JPMorgan Chase](jpmorgan_chase.md) settlement — but only after George's successor continued the litigation she started.
 
 ## Why This Group Matters
 
@@ -62,8 +62,8 @@ The USVI eventually secured a $105 million settlement from Epstein's estate and 
 
 ## See Also
 
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — USVI government actively protected Epstein's island operations
-- [JPMorgan Chase](jpmorgan_chase.mdx) — AG Denise George sued JPMorgan and was fired four days later
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — USVI government actively protected Epstein's island operations
+- [JPMorgan Chase](jpmorgan_chase.md) — AG Denise George sued JPMorgan and was fired four days later
 - [Denise George](/epstein-murders/Details/Denise_George) — USVI AG who pursued Epstein's estate; fired and threatened
 
 ## Sources

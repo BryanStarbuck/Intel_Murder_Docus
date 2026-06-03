@@ -132,7 +132,7 @@ The following contact information was published by The Sentinel Network for anyo
 
 ## Connection to Sibling Directories
 
-- [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.mdx) — the historical parallel
+- [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.md) — the historical parallel
 - Several of these individuals also appear in [UAP Deaths](https://uapmurders.com/uaps/) and [Zero Point Energy](https://uapmurders.com/energy/)
 
 ## Why This Cluster Matters
@@ -145,7 +145,7 @@ Whether these cases are connected or coincidental, the question raised by The Se
 
 ## Navigation
 
-- Previous period: [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.mdx)
+- Previous period: [GEC-Marconi Scientists (1982-1990)](gec_marconi_1982_1990.md)
 - Next period: (none yet)
 
 ## Sources

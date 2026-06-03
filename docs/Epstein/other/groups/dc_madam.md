@@ -60,16 +60,16 @@ Palfrey's operation was not directly connected to Epstein, but it demonstrates t
 - Both operators died before their full client lists could be exposed
 - The DC Madam's client base overlapped geographically and demographically with Epstein's network of powerful contacts
 - The suppression of Palfrey's records parallels the sealing and redaction of Epstein documents
-- Together with [Craig Spence's operation](craig_spence.mdx) and the [Franklin scandal](franklin_scandal.mdx), the DC Madam case shows that DC has been a hub for politically compromising sex operations for decades
+- Together with [Craig Spence's operation](craig_spence.md) and the [Franklin scandal](franklin_scandal.md), the DC Madam case shows that DC has been a hub for politically compromising sex operations for decades
 
 ## Connection to Other DC Operations
 
 Washington DC has been the site of multiple elite sex operations with potential blackmail implications:
-- **[Craig Spence](craig_spence.mdx)** — DC lobbyist who organized midnight White House tours with male prostitutes (1989)
-- **[Henry Vinson Escort Service](henry_vinson_escort_service.mdx)** — Largest gay escort service in DC; supplied escorts to Spence; clients allegedly included CIA Director Casey (1986–1989)
-- **[Franklin scandal](franklin_scandal.mdx)** — Alleged trafficking of minors to DC parties (1980s)
-- **[2023 DC Brothel Network](2023_dc_brothel_network.mdx)** — Modern operation near Boston and DC suburbs; Palfrey's former lawyer publicly compared the two cases
-- **The [Epstein network](jeffrey_epstein_network.mdx)** — Multiple DC-area victims and contacts
+- **[Craig Spence](craig_spence.md)** — DC lobbyist who organized midnight White House tours with male prostitutes (1989)
+- **[Henry Vinson Escort Service](henry_vinson_escort_service.md)** — Largest gay escort service in DC; supplied escorts to Spence; clients allegedly included CIA Director Casey (1986–1989)
+- **[Franklin scandal](franklin_scandal.md)** — Alleged trafficking of minors to DC parties (1980s)
+- **[2023 DC Brothel Network](2023_dc_brothel_network.md)** — Modern operation near Boston and DC suburbs; Palfrey's former lawyer publicly compared the two cases
+- **The [Epstein network](jeffrey_epstein_network.md)** — Multiple DC-area victims and contacts
 
 ## Notable Books, Documentaries, and Investigations
 
@@ -92,11 +92,11 @@ Washington DC has been the site of multiple elite sex operations with potential 
 
 ## See Also
 
-- [Craig Spence Operation](craig_spence.mdx) — 1980s DC blackmail operation using sex to compromise politicians
-- [Henry Vinson Escort Service](henry_vinson_escort_service.mdx) — DC's largest gay escort service; supplied escorts to Spence
-- [Franklin Scandal](franklin_scandal.mdx) — Alleged trafficking of minors to DC parties in the same era
-- [2023 DC Brothel Network](2023_dc_brothel_network.mdx) — Modern operation; Palfrey's former lawyer compared the two cases
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Parallel pattern of operator death before full client exposure
+- [Craig Spence Operation](craig_spence.md) — 1980s DC blackmail operation using sex to compromise politicians
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — DC's largest gay escort service; supplied escorts to Spence
+- [Franklin Scandal](franklin_scandal.md) — Alleged trafficking of minors to DC parties in the same era
+- [2023 DC Brothel Network](2023_dc_brothel_network.md) — Modern operation; Palfrey's former lawyer compared the two cases
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Parallel pattern of operator death before full client exposure
 
 ## Sources
 

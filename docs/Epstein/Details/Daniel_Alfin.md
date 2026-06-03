@@ -28,7 +28,7 @@ Alfin's death is confirmed as homicide — shot by the suspect as agents entered
 
 On the morning of February 2, 2021, a team of FBI special agents arrived at an apartment complex in Sunrise, Florida to execute a federal search warrant. The warrant target was **David Lee Huber**, suspected of child pornography offenses.
 
-As agents made entry, Huber opened fire. Special Agent Daniel Alfin and Special Agent [Laura Schwartzenberger](Laura_Schwartzenberger.mdx) were both fatally shot. Three other agents were wounded. Huber barricaded himself inside the apartment and was later found dead — he had shot himself.
+As agents made entry, Huber opened fire. Special Agent Daniel Alfin and Special Agent [Laura Schwartzenberger](Laura_Schwartzenberger.md) were both fatally shot. Three other agents were wounded. Huber barricaded himself inside the apartment and was later found dead — he had shot himself.
 
 Alfin was transported to a local hospital and died from his wounds. He was 36 years old.
 
@@ -76,17 +76,17 @@ None of these questions have public answers.
 
 ## See Also
 
-- [Laura Schwartzenberger](Laura_Schwartzenberger.mdx) — died alongside Alfin on February 2, 2021
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — the central figure in this investigation
-- [Joe Recarey](Joe_Recarey.mdx) — lead Palm Beach detective who built the original Epstein case; died unexpectedly at 50 in 2018
-- [Richard Marcinko](Richard_Marcinko.mdx) — SEAL Team Six founder implicated in Ken Turner's Epstein files emails
+- [Laura Schwartzenberger](Laura_Schwartzenberger.md) — died alongside Alfin on February 2, 2021
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — the central figure in this investigation
+- [Joe Recarey](Joe_Recarey.md) — lead Palm Beach detective who built the original Epstein case; died unexpectedly at 50 in 2018
+- [Richard Marcinko](Richard_Marcinko.md) — SEAL Team Six founder implicated in Ken Turner's Epstein files emails
 
 ## Other Shocking Stories
 
-- [Laura Schwartzenberger](Laura_Schwartzenberger.mdx): Killed alongside Alfin — two FBI child crimes agents shot dead the same morning.
-- [Joe Recarey](Joe_Recarey.mdx): Built the Epstein case, interviewed 30+ victims, died of "brief illness" at age 50.
-- [Gary Caradori](Gary_Caradori.mdx): Franklin scandal investigator's plane disintegrated mid-air over Illinois in 1990.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator exposing CPS trafficking — shot in the back with untraceable gun.
+- [Laura Schwartzenberger](Laura_Schwartzenberger.md): Killed alongside Alfin — two FBI child crimes agents shot dead the same morning.
+- [Joe Recarey](Joe_Recarey.md): Built the Epstein case, interviewed 30+ victims, died of "brief illness" at age 50.
+- [Gary Caradori](Gary_Caradori.md): Franklin scandal investigator's plane disintegrated mid-air over Illinois in 1990.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator exposing CPS trafficking — shot in the back with untraceable gun.
 
 ## Sources
 

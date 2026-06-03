@@ -132,7 +132,7 @@ The broader Hollywood pedophile problem documented by survivors including Corey 
 
 - **Prior suicide attempt**: The August 2017 attempt establishes genuine suicidality. But it also establishes that Salling was not killed at his most psychologically vulnerable point — the post-arrest, pre-plea period. He died at the point when cooperation with investigators was most imminent.
 
-- **Pattern of pre-sentencing deaths**: Salling's death fits a documented pattern across this investigation. [Jeffrey Epstein](Jeffrey_Epstein.mdx) died before trial. [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) was found hanged awaiting trial. [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) was found hanged before sentencing after explicitly saying she would never kill herself. Pre-sentencing deaths prevent the one proceeding at which defendants can be formally compelled to name others.
+- **Pattern of pre-sentencing deaths**: Salling's death fits a documented pattern across this investigation. [Jeffrey Epstein](Jeffrey_Epstein.md) died before trial. [Jean-Luc Brunel](Jean_Luc_Brunel.md) was found hanged awaiting trial. [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) was found hanged before sentencing after explicitly saying she would never kill herself. Pre-sentencing deaths prevent the one proceeding at which defendants can be formally compelled to name others.
 
 - **Identified British victims**: Reports indicating some of Salling's victims were British children point toward international distribution networks with members in multiple countries — networks that remain unidentified.
 
@@ -182,20 +182,20 @@ Following Salling's death, a cluster of posts on X.com (formerly Twitter) circul
 
 ## See Also
 
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Died before trial; same pre-proceeding death pattern
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) — Found hanged in Paris prison awaiting trafficking trial
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — "DC Madam" found hanged before sentencing after saying she would never kill herself
-- [Chester Bennington](Chester_Bennington.mdx) — Musician found hanged; allegedly connected to child trafficking documentary
-- [Chris Cornell](Chris_Cornell.mdx) — Musician found hanged; ran foundation fighting child trafficking
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who publicly named Hollywood pedophiles, fell from a bridge
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — Musician who died after creating trafficking-awareness content
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Died before trial; same pre-proceeding death pattern
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in Paris prison awaiting trafficking trial
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" found hanged before sentencing after saying she would never kill herself
+- [Chester Bennington](Chester_Bennington.md) — Musician found hanged; allegedly connected to child trafficking documentary
+- [Chris Cornell](Chris_Cornell.md) — Musician found hanged; ran foundation fighting child trafficking
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles, fell from a bridge
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Musician who died after creating trafficking-awareness content
 
 ## Other Shocking Stories
 
-- [Chester Bennington](Chester_Bennington.mdx): Close friend of Chris Cornell. Same cause of death. Died on Cornell's birthday. Two months apart.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor publicly named Hollywood figures as pedophiles. Pushed off a bridge in Arizona at 42.
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx): Financier running a 30-year trafficking and blackmail operation. Hanged in federal custody before trial.
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx): Modeling agent who allegedly recruited girls for Epstein. Found hanged in Paris, awaiting trial.
+- [Chester Bennington](Chester_Bennington.md): Close friend of Chris Cornell. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Isaac Kappy](Isaac_Kappy.md): Actor publicly named Hollywood figures as pedophiles. Pushed off a bridge in Arizona at 42.
+- [Jeffrey Epstein](Jeffrey_Epstein.md): Financier running a 30-year trafficking and blackmail operation. Hanged in federal custody before trial.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Modeling agent who allegedly recruited girls for Epstein. Found hanged in Paris, awaiting trial.
 
 ## Sources
 

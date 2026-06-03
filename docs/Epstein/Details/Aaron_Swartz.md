@@ -218,17 +218,17 @@ MIT's own review found no institutional wrongdoing, while simultaneously confirm
 
 ## See Also
 
-- [Seth Rich](Seth_Rich.mdx) — DNC data analyst murdered in 2016; death connected to WikiLeaks and government document exposure
-- [Monica Petersen](Monica_Petersen.mdx) — Trafficking investigator who died while researching powerful organizations
-- [Natacha Jaitt](Natacha_Jaitt.mdx) — Argentine activist who publicly named pedophile clergy and politicians; last post predicted her own murder
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher investigating elite ritual abuse found hanged in 2019 after warning followers she feared being killed
+- [Seth Rich](Seth_Rich.md) — DNC data analyst murdered in 2016; death connected to WikiLeaks and government document exposure
+- [Monica Petersen](Monica_Petersen.md) — Trafficking investigator who died while researching powerful organizations
+- [Natacha Jaitt](Natacha_Jaitt.md) — Argentine activist who publicly named pedophile clergy and politicians; last post predicted her own murder
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher investigating elite ritual abuse found hanged in 2019 after warning followers she feared being killed
 
 ## Other Shocking Stories
 
-- [Seth Rich](Seth_Rich.mdx): DNC staffer shot dead in DC at 27; murder still unsolved; WikiLeaks offered $20,000 reward.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model who publicly named pedophile clergy and politicians died at 41; last post predicted her own murder.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher investigating elite ritual abuse found hanged in 2019 after warning followers she feared being killed.
-- [Monica Petersen](Monica_Petersen.mdx): Human trafficking investigator found dead in Haiti while researching the Clinton Foundation's operations there.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot dead in DC at 27; murder still unsolved; WikiLeaks offered $20,000 reward.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model who publicly named pedophile clergy and politicians died at 41; last post predicted her own murder.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite ritual abuse found hanged in 2019 after warning followers she feared being killed.
+- [Monica Petersen](Monica_Petersen.md): Human trafficking investigator found dead in Haiti while researching the Clinton Foundation's operations there.
 
 ## Sources
 

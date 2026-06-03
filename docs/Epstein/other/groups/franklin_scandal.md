@@ -28,8 +28,8 @@ A state grand jury dismissed the allegations as a "carefully crafted hoax" and i
 
 * According to multiple accusers and investigators, Lawrence King allegedly operated a pedophile ring supplying children to powerful men — allegations King has denied and which were never proven in court
 * Victims alleged they were flown to Washington DC for parties where they were sexually abused
-* Alleged midnight tours of the White House with male prostitutes, facilitated by DC lobbyist [Craig Spence](craig_spence.mdx) using escorts from [Henry Vinson's service](henry_vinson_escort_service.mdx)
-* Alleged [CIA](cia.mdx) cover-up of the investigation
+* Alleged midnight tours of the White House with male prostitutes, facilitated by DC lobbyist [Craig Spence](craig_spence.md) using escorts from [Henry Vinson's service](henry_vinson_escort_service.md)
+* Alleged [CIA](cia.md) cover-up of the investigation
 * Children from Boys Town (a Catholic home for troubled youth) were allegedly among the victims
 * King was allegedly connected to the Republican Party establishment and sang the national anthem at the 1984 Republican National Convention
 * The FBI allegedly failed to properly investigate the allegations
@@ -42,14 +42,14 @@ A state grand jury dismissed the allegations as a "carefully crafted hoax" and i
 * **Andrew "AJ" Caradori** — Gary's 8-year-old son; killed in the plane crash
 * **John DeCamp** — Nebraska state senator and attorney; wrote *The Franklin Cover-Up*; represented victims
 * **Nebraska State Senator Loran Schmit** — Led the legislative investigation; suspected Caradori's death was foul play
-* **Paul Bonacci** — Victim who testified about abuse and won a $1 million civil judgment against King in 1999; also testified about being taken to [Bohemian Grove](bohemian_grove.mdx) and witnessing ritualistic abuse there
+* **Paul Bonacci** — Victim who testified about abuse and won a $1 million civil judgment against King in 1999; also testified about being taken to [Bohemian Grove](bohemian_grove.md) and witnessing ritualistic abuse there
 * **Alisha Owen** — Victim who refused to recant; convicted of perjury; served 4.5 years
 * **Troy Boner** — Victim who recanted under pressure; walked into a New Mexico hospital screaming "they're after me because of this book" (*The Franklin Cover-Up*); was sedated, placed in a room, and **found dead the next morning** bleeding from the mouth (late 2003)
 * **Aaron Owen** — 17-year-old brother of Alisha Owen; **found hanged in his cell** at Lincoln Correctional Center shortly before her perjury trial (November 1990); ruled suicide despite reported indications of beating
 * **Shawn Boner** — Brother of Troy Boner; **died of gunshot wound** allegedly playing Russian Roulette at Capehart military housing near Offutt Air Force Base (January 1991)
 * **Kathleen Sorenson** — Original complainant and foster parent who took testimony from abused children; **killed in head-on car collision** on Highway 30 (October 1989); retired FBI agent [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) stated she was murdered
 * **Charlie Rogers** — Employee and purported lover of Larry King; expressed fear for his life; **alleged suicide** (1986)
-* [Craig Spence](craig_spence.mdx) — DC lobbyist who organized midnight White House tours; **found dead in hotel room November 1989**
+* [Craig Spence](craig_spence.md) — DC lobbyist who organized midnight White House tours; **found dead in hotel room November 1989**
 * [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI Special Agent in Charge who investigated the Franklin case and described "brownstone operations"; died 2011
 
 ## Connection to Epstein Network
@@ -102,13 +102,13 @@ The counterargument does not resolve the deaths of Gary Caradori, Kathleen Soren
 
 ## See Also
 
-- [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.mdx) — Operational deep-dive: how children were recruited, conditioned via alleged Monarch programming, and turned into assets; Paul Bonacci survivor profile
-- [Bohemian Grove](bohemian_grove.mdx) — Paul Bonacci testified about ritualistic abuse at the elite retreat
-- [Craig Spence Operation](craig_spence.mdx) — DC lobbyist with overlapping participants and intelligence connections
-- [Henry Vinson Escort Service](henry_vinson_escort_service.mdx) — Supplied escorts to Spence; linked to Franklin network
-- [CIA](cia.mdx) — Alleged cover-up of the Franklin investigation
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Structural successor with same patterns of elite trafficking
-- [DC Madam](dc_madam.mdx) — Another DC sex operation with suppressed client lists
+- [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.md) — Operational deep-dive: how children were recruited, conditioned via alleged Monarch programming, and turned into assets; Paul Bonacci survivor profile
+- [Bohemian Grove](bohemian_grove.md) — Paul Bonacci testified about ritualistic abuse at the elite retreat
+- [Craig Spence Operation](craig_spence.md) — DC lobbyist with overlapping participants and intelligence connections
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) — Supplied escorts to Spence; linked to Franklin network
+- [CIA](cia.md) — Alleged cover-up of the Franklin investigation
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural successor with same patterns of elite trafficking
+- [DC Madam](dc_madam.md) — Another DC sex operation with suppressed client lists
 
 ## Sources
 

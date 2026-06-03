@@ -31,11 +31,11 @@ Celebrity chef and CNN host who described Bill Clinton as "rapey" and "grabby" a
 
 *Image circulating on social media claims: "Halyna Hutchins' next project was a documentary about Hollywood pedophile rings when she was shot and killed on set by Alec Baldwin. Paul Walker, Anthony Bourdain, Anne Heche... All were working on documentaries regarding human trafficking/paedophilia." Source: [@thematrixb0t on X](https://x.com/thematrixb0t/status/2044984371694997806), April 17, 2026.*
 
-See also: [Paul Walker](Paul_Walker.mdx) | [Anne Heche](Anne_Heche.mdx)
+See also: [Paul Walker](Paul_Walker.md) | [Anne Heche](Anne_Heche.md)
 
 ## Assessment: SUSPICIOUS
 
-Anthony Bourdain publicly called former President Bill Clinton "a piece of shit," "entitled, rapey, gropey, grabby, disgusting" in a February 2018 interview published just weeks after his June death — words that made enemies of some of the most powerful people in Democratic politics. His girlfriend Asia Argento was the most prominent early accuser of Harvey Weinstein. Three days before his death, fashion designer [Kate Spade](Kate_Spade.mdx) was found hanged in her New York apartment; the cluster of hanging deaths in the 2017–2018 period is statistically anomalous. Bourdain left no suicide note. His last text to his assistant — sent hours before his death — said "I'll live, and we'll survive." His mother told interviewers he had shown no suicidal ideation. French authorities found no physical evidence of anyone else in the room. The official ruling is suicide, and there is a documented personal context (relationship breakup, prolonged depression, isolation on the road). But the combination of his explosive public statements against powerful people, the death cluster, and the contradiction between his final communications and the suicide ruling warrants documentation.
+Anthony Bourdain publicly called former President Bill Clinton "a piece of shit," "entitled, rapey, gropey, grabby, disgusting" in a February 2018 interview published just weeks after his June death — words that made enemies of some of the most powerful people in Democratic politics. His girlfriend Asia Argento was the most prominent early accuser of Harvey Weinstein. Three days before his death, fashion designer [Kate Spade](Kate_Spade.md) was found hanged in her New York apartment; the cluster of hanging deaths in the 2017–2018 period is statistically anomalous. Bourdain left no suicide note. His last text to his assistant — sent hours before his death — said "I'll live, and we'll survive." His mother told interviewers he had shown no suicidal ideation. French authorities found no physical evidence of anyone else in the room. The official ruling is suicide, and there is a documented personal context (relationship breakup, prolonged depression, isolation on the road). But the combination of his explosive public statements against powerful people, the death cluster, and the contradiction between his final communications and the suicide ruling warrants documentation.
 
 ## Background
 
@@ -117,7 +117,7 @@ What *is* documented is the following:
 1. Bourdain was one of the most prominent male voices naming powerful abusers publicly.
 2. His girlfriend was the leading accuser of the most powerful man in Hollywood.
 3. His final recorded interview contained attacks on Bill Clinton and Hillary Clinton that were published after his death and received national coverage.
-4. He died three days after [Kate Spade](Kate_Spade.mdx), three weeks after the one-year anniversary of [Chris Cornell](Chris_Cornell.mdx)'s hanging death, and approximately 13 months after [Chester Bennington](Chester_Bennington.mdx)'s hanging death.
+4. He died three days after [Kate Spade](Kate_Spade.md), three weeks after the one-year anniversary of [Chris Cornell](Chris_Cornell.md)'s hanging death, and approximately 13 months after [Chester Bennington](Chester_Bennington.md)'s hanging death.
 5. His mother told interviewers she had no indication he was suicidal.
 
 The documented case for his death being suspicious rests on what he actually said and who he actually named — not on unverified documentary claims.
@@ -127,7 +127,7 @@ The documented case for his death being suspicious rests on what he actually sai
 - **His last text said the opposite of goodbye**: "I'll live, and we'll survive" — sent to his assistant while scheduling appointments for the week after his return home — does not read as the communication of a man who has decided to die hours later.
 - **No suicide note**: French authorities found no note. Bourdain was a writer — one of the most fluent communicators of his generation. The absence of any written farewell is notable.
 - **His mother had no warning**: Gladys Bourdain told interviewers: "He had everything. Success beyond his wildest dreams. Money beyond his wildest dreams." She said he had shown no indication of suicidal thoughts.
-- **Part of a statistically anomalous cluster**: [Chris Cornell](Chris_Cornell.mdx) — hanged May 18, 2017. [Chester Bennington](Chester_Bennington.mdx) — hanged July 20, 2017. [Avicii](Avicii_Tim_Bergling.mdx) — died April 20, 2018. [Kate Spade](Kate_Spade.mdx) — hanged June 5, 2018. Anthony Bourdain — hanged June 8, 2018. Five public figures connected to causes that threatened powerful people dying within 13 months, four by hanging.
+- **Part of a statistically anomalous cluster**: [Chris Cornell](Chris_Cornell.md) — hanged May 18, 2017. [Chester Bennington](Chester_Bennington.md) — hanged July 20, 2017. [Avicii](Avicii_Tim_Bergling.md) — died April 20, 2018. [Kate Spade](Kate_Spade.md) — hanged June 5, 2018. Anthony Bourdain — hanged June 8, 2018. Five public figures connected to causes that threatened powerful people dying within 13 months, four by hanging.
 - **Named the Clintons publicly in his final interview**: His *Popula* interview, calling Bill Clinton "rapey," "gropey," and "a piece of shit" while accusing Hillary of protecting "known rapists" — was conducted in February 2018 and published posthumously. He knew it would come out. He made enemies with this interview that would have been felt at the highest levels of Democratic Party establishment.
 - **Asia Argento's centrality**: His girlfriend's role as lead Weinstein accuser made him a supporting pillar of the entire Weinstein prosecution narrative. Attacking Weinstein's protection network meant attacking the Clinton network that had financially and socially enabled Weinstein for decades.
 - **Hanging method matches the cluster**: The repeated method across the 2017–2018 cluster — Cornell, Bennington, Spade, Bourdain — using ligatures, in private spaces, with no physical evidence of others present, mirrors the documented forensic signature of staged hangings.
@@ -137,10 +137,10 @@ The documented case for his death being suspicious rests on what he actually sai
 
 | Person | Date | Method | Connection |
 |--------|------|--------|------------|
-| [Chris Cornell](Chris_Cornell.mdx) | May 18, 2017 | Hanging | Musician who allegedly investigated trafficking |
-| [Chester Bennington](Chester_Bennington.mdx) | July 20, 2017 | Hanging | Cornell's close friend; died on Cornell's birthday |
-| [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) | April 20, 2018 | Self-inflicted wounds | Electronic musician; produced anti-trafficking content |
-| [Kate Spade](Kate_Spade.mdx) | June 5, 2018 | Hanging | Fashion designer; family disputed suicide ruling |
+| [Chris Cornell](Chris_Cornell.md) | May 18, 2017 | Hanging | Musician who allegedly investigated trafficking |
+| [Chester Bennington](Chester_Bennington.md) | July 20, 2017 | Hanging | Cornell's close friend; died on Cornell's birthday |
+| [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) | April 20, 2018 | Self-inflicted wounds | Electronic musician; produced anti-trafficking content |
+| [Kate Spade](Kate_Spade.md) | June 5, 2018 | Hanging | Fashion designer; family disputed suicide ruling |
 | Anthony Bourdain | June 8, 2018 | Hanging | Celebrity chef; named Clinton and Weinstein publicly |
 
 ## The Counterargument
@@ -205,20 +205,20 @@ A 2021 documentary, *Roadrunner: A Film About Anthony Bourdain*, directed by Mor
 
 ## See Also
 
-- [Kate Spade](Kate_Spade.mdx) — Fashion designer found hanged three days before Bourdain; family disputed suicide ruling
-- [Chris Cornell](Chris_Cornell.mdx) — 2017–2018 death cluster; hanging death, wife disputed suicide
-- [Chester Bennington](Chester_Bennington.mdx) — 2017–2018 death cluster; hanging death on Cornell's birthday
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — 2017–2018 death cluster; died April 2018, weeks before Spade and Bourdain
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx) — Brazilian activist who exposed an elite child trafficking network; died February 2019
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Central figure in the trafficking blackmail network; died by alleged hanging in custody
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx) — Epstein network figure; found hanged in French prison 2022
+- [Kate Spade](Kate_Spade.md) — Fashion designer found hanged three days before Bourdain; family disputed suicide ruling
+- [Chris Cornell](Chris_Cornell.md) — 2017–2018 death cluster; hanging death, wife disputed suicide
+- [Chester Bennington](Chester_Bennington.md) — 2017–2018 death cluster; hanging death on Cornell's birthday
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — 2017–2018 death cluster; died April 2018, weeks before Spade and Bourdain
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Brazilian activist who exposed an elite child trafficking network; died February 2019
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Central figure in the trafficking blackmail network; died by alleged hanging in custody
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Epstein network figure; found hanged in French prison 2022
 
 ## Other Shocking Stories
 
-- [Kate Spade](Kate_Spade.mdx): Found hanged three days before Bourdain. Her husband wore a rat mask to leave the apartment after her death.
-- [Chris Cornell](Chris_Cornell.mdx): Rock legend found hanged. Wife immediately disputed suicide, pointed to sudden behavioral change.
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx): Exposed a baby trafficking operation. Her son wrote "they killed my mother." No death certificate exists.
-- [Monica Petersen](Monica_Petersen.mdx): Trafficking researcher in Haiti. Dead at 32. Her colleagues publicly rejected the suicide ruling.
+- [Kate Spade](Kate_Spade.md): Found hanged three days before Bourdain. Her husband wore a rat mask to leave the apartment after her death.
+- [Chris Cornell](Chris_Cornell.md): Rock legend found hanged. Wife immediately disputed suicide, pointed to sudden behavioral change.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby trafficking operation. Her son wrote "they killed my mother." No death certificate exists.
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti. Dead at 32. Her colleagues publicly rejected the suicide ruling.
 
 ## Sources
 

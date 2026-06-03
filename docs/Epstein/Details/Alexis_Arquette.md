@@ -107,7 +107,7 @@ Arquette, as a prominent transgender actress and member of Hollywood's LGBTQ com
 
 - **She grew up in an environment described by the family as involving physical abuse and adult misconduct.** She entered Hollywood professionally at age 12 — the exact age when the industry's exploitation of children typically begins.
 
-- **The pattern.** Arquette joins a documented pattern of Hollywood figures who were preparing to expose the industry's culture of abuse and died before they could publish. See [Isaac Kappy](Isaac_Kappy.mdx), [Chris Cornell](Chris_Cornell.mdx), [Chester Bennington](Chester_Bennington.mdx), and [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx).
+- **The pattern.** Arquette joins a documented pattern of Hollywood figures who were preparing to expose the industry's culture of abuse and died before they could publish. See [Isaac Kappy](Isaac_Kappy.md), [Chris Cornell](Chris_Cornell.md), [Chester Bennington](Chester_Bennington.md), and [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md).
 
 ## The Counterargument
 
@@ -128,7 +128,7 @@ Arquette's death circulates actively on X (formerly Twitter) as a suspicious dea
 
 **The dominant claim — murdered for exposing closeted celebrities:** The most widespread narrative holds that she was killed specifically for threatening to publicly out closeted gay Hollywood figures, centered on her January 2016 Facebook posts about Will Smith and Jada Pinkett Smith. Posts state directly: "they had Alexis Arquette KILLED for going public about Will Smith being a 100% gay man." Other posts frame her death within a broader "Hellywood demons" narrative, claiming she had access to information that "would have stopped the town." These accounts were the most viral and high-engagement of the X posts referencing her death. **Note on defamation:** These are unverified social media claims. No credible source has established that Will Smith or any other living person had involvement in Arquette's death, which has documented medical causation. These claims are documented here as circulating public claims only, not as established facts.
 
-**The fringe claim — Monica Peterson's USB drive:** A smaller but more directly trafficking-relevant claim circulates primarily in accounts focused on Chris Cornell's death. These posts allege that Arquette was about to hand a USB drive containing [Monica Petersen](Monica_Petersen.mdx)'s Haiti child sex trafficking investigation files to Chris Cornell (who died in May 2017 and is labeled "murdered" in these communities). Under this theory, Arquette serves as the connective link between Petersen's Haiti trafficking research and Cornell's alleged anti-trafficking work, placing her inside the same network of "suicided" investigators that includes Cornell, Chester Bennington, Avicii, Anthony Bourdain, and Kate Spade. No documentary evidence for the USB drive claim has been produced or corroborated by any independent source. It is documented here as a claim circulating within these communities, not as an established fact.
+**The fringe claim — Monica Peterson's USB drive:** A smaller but more directly trafficking-relevant claim circulates primarily in accounts focused on Chris Cornell's death. These posts allege that Arquette was about to hand a USB drive containing [Monica Petersen](Monica_Petersen.md)'s Haiti child sex trafficking investigation files to Chris Cornell (who died in May 2017 and is labeled "murdered" in these communities). Under this theory, Arquette serves as the connective link between Petersen's Haiti trafficking research and Cornell's alleged anti-trafficking work, placing her inside the same network of "suicided" investigators that includes Cornell, Chester Bennington, Avicii, Anthony Bourdain, and Kate Spade. No documentary evidence for the USB drive claim has been produced or corroborated by any independent source. It is documented here as a claim circulating within these communities, not as an established fact.
 
 **"Suicided whistleblower" lists:** Arquette appears routinely on social media compilations of celebrities who allegedly knew too much and were killed — lists that also include Cornell, Bennington, Avicii, Bourdain, and Monica Petersen. Posts in this vein state: "their child sex trafficking rings are way too precious to them, and they will eliminate anyone who gets in the way." These lists treat her as part of a broader pattern of elite suppression rather than singling out any specific motive for her death.
 
@@ -149,28 +149,28 @@ Arquette's death circulates actively on X (formerly Twitter) as a suspicious dea
 
 Arquette's case sits within a documented cluster of entertainment industry figures who spoke publicly about abuse, were preparing exposés, or were known to hold damaging information — and died before their accounts were fully published:
 
-- **[Isaac Kappy](Isaac_Kappy.mdx)** — Actor who publicly named Hollywood figures as pedophiles in 2018, said "if I die, it wasn't suicide," fell from an Arizona bridge in May 2019
-- **[Chris Cornell](Chris_Cornell.mdx)** — Musician who backed a child trafficking documentary, found hanged in his hotel room in May 2017; his wife disputes the suicide ruling
-- **[Chester Bennington](Chester_Bennington.mdx)** — Close friend of Cornell, found hanged in July 2017 on what would have been Cornell's birthday, same method
-- **[Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx)** — Music producer who was working on a documentary about child sex trafficking, died in Oman at age 28 in 2018
-- **[Mark Salling](Mark_Salling.mdx)** — Actor found dead before trial on child pornography charges
+- **[Isaac Kappy](Isaac_Kappy.md)** — Actor who publicly named Hollywood figures as pedophiles in 2018, said "if I die, it wasn't suicide," fell from an Arizona bridge in May 2019
+- **[Chris Cornell](Chris_Cornell.md)** — Musician who backed a child trafficking documentary, found hanged in his hotel room in May 2017; his wife disputes the suicide ruling
+- **[Chester Bennington](Chester_Bennington.md)** — Close friend of Cornell, found hanged in July 2017 on what would have been Cornell's birthday, same method
+- **[Avicii (Tim Bergling)](Avicii_Tim_Bergling.md)** — Music producer who was working on a documentary about child sex trafficking, died in Oman at age 28 in 2018
+- **[Mark Salling](Mark_Salling.md)** — Actor found dead before trial on child pornography charges
 
 ## See Also
 
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who publicly named Hollywood pedophiles, fell from a bridge
-- [Chris Cornell](Chris_Cornell.mdx) — Musician supporting trafficking documentary, found hanged
-- [Chester Bennington](Chester_Bennington.mdx) — Found hanged on Cornell's birthday, same method
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — Worked on trafficking documentary, died at 28
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — Vocal against Hollywood abusers, found hanged in France
-- [Peaches Geldof](Peaches_Geldof.mdx) — Publicly named Scientology-linked child abusers, dead at 25
-- [Monica Petersen](Monica_Petersen.mdx) — Haiti trafficking researcher whose work is alleged in fringe accounts to have been connected to Arquette via a USB drive passed to Chris Cornell
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles, fell from a bridge
+- [Chris Cornell](Chris_Cornell.md) — Musician supporting trafficking documentary, found hanged
+- [Chester Bennington](Chester_Bennington.md) — Found hanged on Cornell's birthday, same method
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Worked on trafficking documentary, died at 28
+- [Anthony Bourdain](Anthony_Bourdain.md) — Vocal against Hollywood abusers, found hanged in France
+- [Peaches Geldof](Peaches_Geldof.md) — Publicly named Scientology-linked child abusers, dead at 25
+- [Monica Petersen](Monica_Petersen.md) — Haiti trafficking researcher whose work is alleged in fringe accounts to have been connected to Arquette via a USB drive passed to Chris Cornell
 
 ## Other Shocking Stories
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia state senator who exposed CPS child trafficking. Shot in the back while asleep. The gun had no traceable ownership.
-- [Isaac Kappy](Isaac_Kappy.mdx): Named Hollywood executives as pedophiles on camera. Said if he died, it wasn't suicide. Fell from a bridge.
-- [Tracy Twyman](Tracy_Twyman.mdx): Picked up another researcher's work on elite pedophilia. Left a dead man's switch. Found dead at home.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model who named powerful pedophiles on live television. Found dead at a party months later.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator who exposed CPS child trafficking. Shot in the back while asleep. The gun had no traceable ownership.
+- [Isaac Kappy](Isaac_Kappy.md): Named Hollywood executives as pedophiles on camera. Said if he died, it wasn't suicide. Fell from a bridge.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up another researcher's work on elite pedophilia. Left a dead man's switch. Found dead at home.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model who named powerful pedophiles on live television. Found dead at a party months later.
 
 ## Sources
 

@@ -28,9 +28,9 @@ The network operated across multiple properties, employed a sophisticated logist
 * Sex trafficking of minors across state and international lines
 * Systematic recording of sexual encounters for alleged blackmail purposes — according to testimony, Epstein's properties were wired with hidden cameras
 * Financial entanglement of powerful figures through gifts, investments, and donations to create leverage
-* Use of modeling agencies ([Elite Model Management](elite_model_management.mdx), [MC2](mc2_model_management.mdx)) as recruitment pipelines
+* Use of modeling agencies ([Elite Model Management](elite_model_management.md), [MC2](mc2_model_management.md)) as recruitment pipelines
 * Operation of a private island (Little St. James) where abuse allegedly occurred beyond U.S. law enforcement reach
-* Alleged intelligence-service backing, reportedly from [Mossad](mossad.mdx) and possibly [CIA](cia.mdx)
+* Alleged intelligence-service backing, reportedly from [Mossad](mossad.md) and possibly [CIA](cia.md)
 
 ## Key Figures
 
@@ -43,21 +43,21 @@ The network operated across multiple properties, employed a sophisticated logist
 * [Steven Hoffenberg](/epstein-murders/Details/Steven_Hoffenberg) — Business partner who described the blackmail operation; found dead 2022
 * [Carolyn Andriano](/epstein-murders/Details/Carolyn_Andriano) — Victim who testified at Maxwell trial; died of overdose 2023
 * [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — Ghislaine's father; alleged Mossad agent who reportedly originated the intelligence connection
-* Les Wexner — Billionaire who gave Epstein power of attorney and his New York mansion (see [Wexner / L Brands](wexner_l_brands.mdx))
+* Les Wexner — Billionaire who gave Epstein power of attorney and his New York mansion (see [Wexner / L Brands](wexner_l_brands.md))
 * Sarah Kellen — Epstein's scheduler and alleged recruiter; granted immunity in 2008 plea deal
 * Lesley Groff — Epstein's executive assistant; named as co-conspirator
 
 ## Connection to Other Groups
 
-* [Mossad](mossad.mdx) — Alleged intelligence backing via Robert Maxwell connection
-* [CIA](cia.mdx) — Prosecutor Alexander Acosta allegedly told transition team Epstein "belonged to intelligence"
-* [Deutsche Bank](deutsche_bank.mdx) — Moved Epstein's money; $150M fine; multiple executives died
-* [JPMorgan Chase](jpmorgan_chase.mdx) — Maintained Epstein accounts for 15+ years despite red flags
-* [Elite Model Management](elite_model_management.mdx) — Modeling agency used as trafficking pipeline
-* [MC2 Model Management](mc2_model_management.mdx) — Agency Epstein directly funded for Brunel
-* [Wexner / L Brands](wexner_l_brands.mdx) — Source of Epstein's wealth and New York townhouse
-* [USVI Government](usvi_government.mdx) — Territorial government that protected Epstein on his island
-* [PROMIS / The Octopus](promis_octopus.mdx) — Predecessor intelligence blackmail operation via Robert Maxwell
+* [Mossad](mossad.md) — Alleged intelligence backing via Robert Maxwell connection
+* [CIA](cia.md) — Prosecutor Alexander Acosta allegedly told transition team Epstein "belonged to intelligence"
+* [Deutsche Bank](deutsche_bank.md) — Moved Epstein's money; $150M fine; multiple executives died
+* [JPMorgan Chase](jpmorgan_chase.md) — Maintained Epstein accounts for 15+ years despite red flags
+* [Elite Model Management](elite_model_management.md) — Modeling agency used as trafficking pipeline
+* [MC2 Model Management](mc2_model_management.md) — Agency Epstein directly funded for Brunel
+* [Wexner / L Brands](wexner_l_brands.md) — Source of Epstein's wealth and New York townhouse
+* [USVI Government](usvi_government.md) — Territorial government that protected Epstein on his island
+* [PROMIS / The Octopus](promis_octopus.md) — Predecessor intelligence blackmail operation via Robert Maxwell
 
 ## Notable Books and Investigations
 
@@ -92,18 +92,18 @@ The network operated across multiple properties, employed a sophisticated logist
 
 ## See Also
 
-- [Mossad](mossad.mdx) — Israeli intelligence allegedly backed the operation via the Maxwell family
-- [CIA](cia.mdx) — Acosta allegedly told to "leave it alone" because Epstein "belonged to intelligence"
-- [Deutsche Bank](deutsche_bank.mdx) — Processed Epstein's finances; multiple executives died suspiciously
-- [JPMorgan Chase](jpmorgan_chase.mdx) — Maintained Epstein's accounts for 15+ years despite red flags
-- [Franklin Scandal](franklin_scandal.mdx) — 1980s predecessor: elite child trafficking with intelligence connections
-- [PROMIS / The Octopus](promis_octopus.mdx) — Earlier Maxwell-linked intelligence surveillance operation
-- [Wexner / L Brands](wexner_l_brands.mdx) — Source of Epstein's wealth, Manhattan townhouse, and legitimacy
-- [USVI Government](usvi_government.mdx) — Territorial government that actively protected Epstein's island operations
-- [Elite Model Management](elite_model_management.mdx) — Modeling agency used as trafficking recruitment pipeline
-- [MC2 Model Management](mc2_model_management.mdx) — Agency Epstein directly funded for associate Jean-Luc Brunel
-- [Kroll Associates](kroll_associates.mdx) — "CIA of Wall Street"; connected via Deutsche Bank and Salas attack
-- [Dutroux Affair](dutroux_affair.mdx) — Belgian pedophile ring with parallel patterns of witness deaths and cover-up
+- [Mossad](mossad.md) — Israeli intelligence allegedly backed the operation via the Maxwell family
+- [CIA](cia.md) — Acosta allegedly told to "leave it alone" because Epstein "belonged to intelligence"
+- [Deutsche Bank](deutsche_bank.md) — Processed Epstein's finances; multiple executives died suspiciously
+- [JPMorgan Chase](jpmorgan_chase.md) — Maintained Epstein's accounts for 15+ years despite red flags
+- [Franklin Scandal](franklin_scandal.md) — 1980s predecessor: elite child trafficking with intelligence connections
+- [PROMIS / The Octopus](promis_octopus.md) — Earlier Maxwell-linked intelligence surveillance operation
+- [Wexner / L Brands](wexner_l_brands.md) — Source of Epstein's wealth, Manhattan townhouse, and legitimacy
+- [USVI Government](usvi_government.md) — Territorial government that actively protected Epstein's island operations
+- [Elite Model Management](elite_model_management.md) — Modeling agency used as trafficking recruitment pipeline
+- [MC2 Model Management](mc2_model_management.md) — Agency Epstein directly funded for associate Jean-Luc Brunel
+- [Kroll Associates](kroll_associates.md) — "CIA of Wall Street"; connected via Deutsche Bank and Salas attack
+- [Dutroux Affair](dutroux_affair.md) — Belgian pedophile ring with parallel patterns of witness deaths and cover-up
 
 ## Sources
 

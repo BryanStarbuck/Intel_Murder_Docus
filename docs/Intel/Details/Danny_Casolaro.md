@@ -121,23 +121,23 @@ However, these counterarguments do not explain the missing briefcase, the illega
 
 ## See Also
 
-- [Gary Webb](Gary_Webb.mdx) — journalist investigating CIA drug trafficking connections, ruled "suicide" with two gunshot wounds to the head, 2004
-- [Michael Hastings](Michael_Hastings.mdx) — journalist investigating CIA director, killed in suspicious car explosion, 2013
-- [Karen Silkwood](Karen_Silkwood.mdx) — whistleblower killed en route to deliver documents to a reporter, 1974
-- [William Colby](William_Colby.mdx) — former CIA Director who died under suspicious circumstances, 1996
-- [Dorothy Kilgallen](Dorothy_Kilgallen.mdx) — journalist investigating the JFK assassination, found dead under suspicious circumstances, 1965
-- [Barry Seal](Barry_Seal.mdx) — CIA drug pilot turned informant, assassinated 1986
+- [Gary Webb](Gary_Webb.md) — journalist investigating CIA drug trafficking connections, ruled "suicide" with two gunshot wounds to the head, 2004
+- [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA director, killed in suspicious car explosion, 2013
+- [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed en route to deliver documents to a reporter, 1974
+- [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances, 1996
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances, 1965
+- [Barry Seal](Barry_Seal.md) — CIA drug pilot turned informant, assassinated 1986
 - [Danny Casolaro (Epstein Kill List)](https://intelligencemurders.com/intelligence-service-murders/Details/Danny_Casolaro/) — cross-reference for PROMIS/Maxwell/Epstein connections
 - PROMIS / The Octopus — the intelligence network Casolaro was investigating
-- [Edmond Safra](Edmond_Safra.mdx) — Banker who reported Russian money laundering to the FBI, killed in suspicious arson; his death intersected intelligence-financial networks similar to what Casolaro was investigating
+- [Edmond Safra](Edmond_Safra.md) — Banker who reported Russian money laundering to the FBI, killed in suspicious arson; his death intersected intelligence-financial networks similar to what Casolaro was investigating
 - CIA — intelligence service implicated in PROMIS theft and distribution
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
-- [Karen Silkwood](Karen_Silkwood.mdx): Documents she was carrying to expose Kerr-McGee vanished from her car after the fatal crash. The company settled.
-- [Paul Klebnikov](Paul_Klebnikov.mdx): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
-- [Barry Seal](Barry_Seal.mdx): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Karen Silkwood](Karen_Silkwood.md): Documents she was carrying to expose Kerr-McGee vanished from her car after the fatal crash. The company settled.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 
 ## Netflix Documentary
 
@@ -165,7 +165,7 @@ In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https:/
 
 ## Additional context from the Epstein Murders investigation
 
-Investigative journalist found with wrists slashed while investigating the PROMIS/Octopus scandal linked to [Robert Maxwell](Robert_Maxwell.mdx) and intelligence blackmail operations.
+Investigative journalist found with wrists slashed while investigating the PROMIS/Octopus scandal linked to [Robert Maxwell](Robert_Maxwell.md) and intelligence blackmail operations.
 
 | Field | Details |
 |-------|---------|
@@ -180,7 +180,7 @@ Investigative journalist found with wrists slashed while investigating the PROMI
 
 ## Assessment: HIGHLY SUSPICIOUS
 
-Casolaro was investigating what he called "The Octopus" — a grand conspiracy linking the Inslaw/PROMIS software affair, Iran-Contra, BCCI, and covert intelligence operations. The PROMIS software is directly connected to [Robert Maxwell](Robert_Maxwell.mdx)'s alleged role distributing backdoored surveillance software for Mossad — the same type of intelligence/blackmail infrastructure that Epstein's operation allegedly later utilized. His briefcase full of documents was missing when his body was found. He had explicitly warned friends that if he was ever found dead by suicide, not to believe it.
+Casolaro was investigating what he called "The Octopus" — a grand conspiracy linking the Inslaw/PROMIS software affair, Iran-Contra, BCCI, and covert intelligence operations. The PROMIS software is directly connected to [Robert Maxwell](Robert_Maxwell.md)'s alleged role distributing backdoored surveillance software for Mossad — the same type of intelligence/blackmail infrastructure that Epstein's operation allegedly later utilized. His briefcase full of documents was missing when his body was found. He had explicitly warned friends that if he was ever found dead by suicide, not to believe it.
 
 ## Circumstances of Death
 
@@ -194,7 +194,7 @@ Joseph Daniel Casolaro was a freelance journalist and writer based in Fairfax, V
 
 ## The PROMIS Connection to Epstein
 
-Casolaro was investigating the theft and modification of PROMIS (Prosecutors Management Information System) software by the U.S. Department of Justice. The software was allegedly modified with a backdoor and distributed internationally by intelligence services — with [Robert Maxwell](Robert_Maxwell.mdx) allegedly serving as a key distributor for Mossad.
+Casolaro was investigating the theft and modification of PROMIS (Prosecutors Management Information System) software by the U.S. Department of Justice. The software was allegedly modified with a backdoor and distributed internationally by intelligence services — with [Robert Maxwell](Robert_Maxwell.md) allegedly serving as a key distributor for Mossad.
 
 This intelligence operation — using compromised software to surveil and gather leverage on foreign governments and individuals — represents the same type of blackmail infrastructure that Epstein's sexual blackmail operation allegedly later served. Both involved gathering compromising material on powerful people for the benefit of intelligence services.
 
@@ -210,7 +210,7 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - Was in Martinsburg specifically to meet a source
 - The FBI's BCCI Task Force questioned whether the death was actually suicide
 - The 1994 DOJ report concluded suicide, but circumstances remain heavily contested
-- Died the same year as [Robert Maxwell](Robert_Maxwell.mdx), whose intelligence operations he was investigating
+- Died the same year as [Robert Maxwell](Robert_Maxwell.md), whose intelligence operations he was investigating
 
 ## The Counterargument
 
@@ -234,11 +234,11 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 
 ## See Also
 
-- [Robert Maxwell](Robert_Maxwell.mdx) — Died November 5, 1991, three months after Casolaro. Alleged PROMIS distributor for Mossad
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Allegedly ran the successor blackmail operation to PROMIS
-- [Ghislaine Maxwell](Ghislaine_Maxwell.mdx) — Robert Maxwell's daughter, Epstein's co-conspirator
-- [Dorothy Kilgallen](Dorothy_Kilgallen.mdx) — Journalist whose investigation files also vanished after her suspicious death
-- [Edmund Safra](Edmund_Safra.mdx) — International banker with intelligence connections; died in suspicious arson fire in Monaco
+- [Robert Maxwell](Robert_Maxwell.md) — Died November 5, 1991, three months after Casolaro. Alleged PROMIS distributor for Mossad
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Allegedly ran the successor blackmail operation to PROMIS
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Robert Maxwell's daughter, Epstein's co-conspirator
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist whose investigation files also vanished after her suspicious death
+- [Edmund Safra](Edmund_Safra.md) — International banker with intelligence connections; died in suspicious arson fire in Monaco
 - **Intelligence investigation profile:** [Danny Casolaro](/intelligence-service-murders/Details/Danny_Casolaro) — documents the intelligence dimensions of the PROMIS/Octopus investigation
 
 ## Related Groups
@@ -253,10 +253,10 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - Washington DC Area — Investigated PROMIS software theft from the U.S. Department of Justice; his "Octopus" investigation centered on Washington power networks
 ## Other Shocking Stories
 
-- [Kevin Preiss](Kevin_Preiss.mdx): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
-- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.mdx): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
-- [LeRoi Moore](LeRoi_Moore.mdx): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
-- [Michael Jackson](Michael_Jackson.mdx): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 
 ## Netflix Documentary
 

@@ -89,7 +89,7 @@ The Trump administration denied intervening in the case. The State Department is
 
 There is no direct evidence linking Alexandrovich to Jeffrey Epstein's network. However, the case connects to the broader pattern documented in this project in several ways:
 
-1. **Intelligence-linked individuals and child sex crimes:** Epstein's network was allegedly backed by [Mossad](mossad.mdx) and the [CIA](cia.mdx). Alexandrovich worked for an Israeli government cyber agency reporting to the Prime Minister. The pattern of intelligence-connected individuals being involved in child sexual exploitation — and receiving apparent protection — is central to this project's research.
+1. **Intelligence-linked individuals and child sex crimes:** Epstein's network was allegedly backed by [Mossad](mossad.md) and the [CIA](cia.md). Alexandrovich worked for an Israeli government cyber agency reporting to the Prime Minister. The pattern of intelligence-connected individuals being involved in child sexual exploitation — and receiving apparent protection — is central to this project's research.
 
 2. **Foreign impunity:** Israel has historically been reluctant to extradite its citizens. The Alexandrovich case demonstrates how a foreign national charged with a child sex crime can escape U.S. jurisdiction through systemic gaps and lack of coordination.
 
@@ -117,9 +117,9 @@ There is no direct evidence linking Alexandrovich to Jeffrey Epstein's network. 
 
 ## See Also
 
-- [Mossad](mossad.mdx) — Alexandrovich worked for Israeli government agency reporting to the PM
-- [CIA](cia.mdx) — Pattern of intelligence-connected individuals in child sex cases receiving protection
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Parallels Epstein's alleged intelligence protection from prosecution
+- [Mossad](mossad.md) — Alexandrovich worked for Israeli government agency reporting to the PM
+- [CIA](cia.md) — Pattern of intelligence-connected individuals in child sex cases receiving protection
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Parallels Epstein's alleged intelligence protection from prosecution
 
 ## Sources
 

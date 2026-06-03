@@ -102,18 +102,18 @@ The case against Bensouda — as documented in her own public statements and by 
 
 ## See Also
 
-- [Charlie Kirk](Charlie_Kirk.mdx) — TPUSA founder; over 72,000 social media posts alleged Mossad involvement in his September 2025 killing.
-- [Jamal Khashoggi](Jamal_Khashoggi.mdx) — Saudi journalist killed by intelligence operatives over reporting that displeased a state actor.
-- [Gerald Bull](Gerald_Bull.mdx) — Canadian weapons designer; Mossad widely believed responsible for his 1990 killing in Brussels.
-- [Hassan Nasrallah](Hassan_Nasrallah.mdx) — Hezbollah Secretary-General killed by Israeli airstrike in 2024.
-- [Vladimir Kara-Murza](Vladimir_Kara_Murza.mdx) — survived two FSB poisoning attempts; precedent in this site for "survived attempt" profile.
+- [Charlie Kirk](Charlie_Kirk.md) — TPUSA founder; over 72,000 social media posts alleged Mossad involvement in his September 2025 killing.
+- [Jamal Khashoggi](Jamal_Khashoggi.md) — Saudi journalist killed by intelligence operatives over reporting that displeased a state actor.
+- [Gerald Bull](Gerald_Bull.md) — Canadian weapons designer; Mossad widely believed responsible for his 1990 killing in Brussels.
+- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah Secretary-General killed by Israeli airstrike in 2024.
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md) — survived two FSB poisoning attempts; precedent in this site for "survived attempt" profile.
 
 ## Other Shocking Stories
 
-- [Charlie Kirk](Charlie_Kirk.mdx): TPUSA founder shot by sniper at campus debate after calling for Epstein file transparency.
-- [Jamal Khashoggi](Jamal_Khashoggi.mdx): Saudi journalist strangled and dismembered inside Istanbul consulate; CIA concluded MBS ordered it.
-- [Gary Webb](Gary_Webb.mdx): Pulitzer journalist who exposed CIA-Contra crack pipeline found dead with two gunshots to head.
-- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD without consent in MKULTRA; 1994 exhumation ruled homicide.
+- [Charlie Kirk](Charlie_Kirk.md): TPUSA founder shot by sniper at campus debate after calling for Epstein file transparency.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist strangled and dismembered inside Istanbul consulate; CIA concluded MBS ordered it.
+- [Gary Webb](Gary_Webb.md): Pulitzer journalist who exposed CIA-Contra crack pipeline found dead with two gunshots to head.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD without consent in MKULTRA; 1994 exhumation ruled homicide.
 
 ## Sources
 

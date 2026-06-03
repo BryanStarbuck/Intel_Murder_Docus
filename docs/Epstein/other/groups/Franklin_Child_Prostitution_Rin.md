@@ -18,7 +18,7 @@ The operational mechanics of the 1980s Omaha trafficking network: how minors wer
 
 ## Overview
 
-The Franklin Child Prostitution Ring refers specifically to the trafficking and exploitation operation allegedly run through and around the Franklin Community Federal Credit Union in Omaha, Nebraska, by its manager Lawrence E. "Larry" King Jr. beginning in the late 1970s or early 1980s. While the [Franklin Scandal overview](franklin_scandal.mdx) documents the broader political cover-up, this page focuses on the operational structure of the ring itself: how children were recruited, conditioned, and systematically exploited.
+The Franklin Child Prostitution Ring refers specifically to the trafficking and exploitation operation allegedly run through and around the Franklin Community Federal Credit Union in Omaha, Nebraska, by its manager Lawrence E. "Larry" King Jr. beginning in the late 1970s or early 1980s. While the [Franklin Scandal overview](franklin_scandal.md) documents the broader political cover-up, this page focuses on the operational structure of the ring itself: how children were recruited, conditioned, and systematically exploited.
 
 According to multiple accusers — including [Paul Bonacci](#paul-bonacci-survivor-profile), Alisha Owen, and others — King and his associates recruited vulnerable children primarily from two sources: the Boys Town Catholic institution for at-risk youth in Omaha and Nebraska's foster care system. Once recruited, children were allegedly subjected to trauma, drugging, and conditioning before being trafficked to elite parties in multiple cities.
 
@@ -120,7 +120,7 @@ The cover-up of the Franklin ring — which resulted in the accusers being jaile
 
 ## Why This Page Matters
 
-The [Franklin Scandal overview](franklin_scandal.mdx) documents the political dimensions — the cover-up, the investigator deaths, the media suppression. This page documents the operational core: how children were systematically recruited, conditioned, and exploited as assets by a structured criminal network with alleged intelligence connections.
+The [Franklin Scandal overview](franklin_scandal.md) documents the political dimensions — the cover-up, the investigator deaths, the media suppression. This page documents the operational core: how children were systematically recruited, conditioned, and exploited as assets by a structured criminal network with alleged intelligence connections.
 
 Understanding the mechanics matters because:
 
@@ -131,13 +131,13 @@ Understanding the mechanics matters because:
 
 ## See Also
 
-- [Franklin Scandal](franklin_scandal.mdx) — Broader political overview: cover-up, grand jury, investigator deaths
-- [Bohemian Grove](bohemian_grove.mdx) — Paul Bonacci alleged witnessing a murder at this elite retreat
-- [CIA](cia.mdx) — Alleged cover-up and possible operational interest in the ring
+- [Franklin Scandal](franklin_scandal.md) — Broader political overview: cover-up, grand jury, investigator deaths
+- [Bohemian Grove](bohemian_grove.md) — Paul Bonacci alleged witnessing a murder at this elite retreat
+- [CIA](cia.md) — Alleged cover-up and possible operational interest in the ring
 - [Gary Caradori](/epstein-murders/Details/Gary_Caradori) — Investigator killed mid-investigation
 - [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — FBI SAC who supported Bonacci's testimony and investigated Monarch claims
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Structural successor demonstrating the model's durability
-- [Craig Spence Operation](craig_spence.mdx) — DC-side operation with overlapping participants and intelligence dimensions
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural successor demonstrating the model's durability
+- [Craig Spence Operation](craig_spence.md) — DC-side operation with overlapping participants and intelligence dimensions
 
 ## Sources
 

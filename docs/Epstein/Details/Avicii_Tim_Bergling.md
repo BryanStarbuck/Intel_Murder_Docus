@@ -28,7 +28,7 @@ World-famous DJ who created a music video explicitly depicting a child trafficki
 
 ## Assessment: SUSPICIOUS
 
-Avicii's death presents a genuinely unresolved contradiction: the night before he was found dead, multiple independent witnesses — fans and hotel staff — described him as cheerful, engaged, and "full of life." A close colleague who had just spent weeks with him in the studio said he "didn't seem like a guy at the end of his days." His brother flew to Oman specifically to seek answers. These documented observations sit uneasily against the official suicide ruling. His 2015 music video "For a Better Day" explicitly depicted a child trafficking ring with the final frame displaying the word "pedofilia" — and Avicii publicly described his motivation as wanting to start a "louder discussion" about child exploitation. He died within the same 2017–2018 cluster as [Chris Cornell](Chris_Cornell.mdx), [Chester Bennington](Chester_Bennington.mdx), [Kate Spade](Kate_Spade.mdx), and [Anthony Bourdain](Anthony_Bourdain.mdx) — all ruled suicides, all alleged by researchers to have connections to trafficking exposure work. The Omani investigation was brief, the autopsy findings were not publicly released in full detail, and Oman does not permit independent press scrutiny of such cases.
+Avicii's death presents a genuinely unresolved contradiction: the night before he was found dead, multiple independent witnesses — fans and hotel staff — described him as cheerful, engaged, and "full of life." A close colleague who had just spent weeks with him in the studio said he "didn't seem like a guy at the end of his days." His brother flew to Oman specifically to seek answers. These documented observations sit uneasily against the official suicide ruling. His 2015 music video "For a Better Day" explicitly depicted a child trafficking ring with the final frame displaying the word "pedofilia" — and Avicii publicly described his motivation as wanting to start a "louder discussion" about child exploitation. He died within the same 2017–2018 cluster as [Chris Cornell](Chris_Cornell.md), [Chester Bennington](Chester_Bennington.md), [Kate Spade](Kate_Spade.md), and [Anthony Bourdain](Anthony_Bourdain.md) — all ruled suicides, all alleged by researchers to have connections to trafficking exposure work. The Omani investigation was brief, the autopsy findings were not publicly released in full detail, and Oman does not permit independent press scrutiny of such cases.
 
 ## Circumstances of Death
 
@@ -82,7 +82,7 @@ The video remains available on YouTube and has been viewed by tens of millions o
 - **Two autopsies, no public release:** Oman conducted two autopsies and concluded there was "no criminal suspicion" — but the full findings were never made public. There was no inquest, no independent forensic review, and no Swedish government inquiry into the death of a Swedish citizen.
 - **No confirmed suicide note:** No suicide note was publicly confirmed, which is unusual for a death officially ruled suicide.
 - **Music video was a deliberate public statement about child trafficking and pedophile politicians:** The "For a Better Day" video was not vague. It depicted the entire pipeline — children taken from families, sold to elites including a politician, survivors taking revenge — with the word "PEDOFILIA" as the closing image. Avicii publicly stated this was an intentional discussion-starter. He was 25 when he made it and 28 when he died.
-- **2017–2018 celebrity death cluster:** His death occurred within the same compressed time window as [Chris Cornell](Chris_Cornell.mdx) (May 2017, hanging), [Chester Bennington](Chester_Bennington.mdx) (July 2017, hanging), [Kate Spade](Kate_Spade.mdx) (June 2018, hanging), and [Anthony Bourdain](Anthony_Bourdain.mdx) (June 2018, hanging). All ruled suicides. All alleged by researchers to have had connections to child trafficking awareness or exposure work.
+- **2017–2018 celebrity death cluster:** His death occurred within the same compressed time window as [Chris Cornell](Chris_Cornell.md) (May 2017, hanging), [Chester Bennington](Chester_Bennington.md) (July 2017, hanging), [Kate Spade](Kate_Spade.md) (June 2018, hanging), and [Anthony Bourdain](Anthony_Bourdain.md) (June 2018, hanging). All ruled suicides. All alleged by researchers to have had connections to child trafficking awareness or exposure work.
 - **Management exploitation documented on film:** The *Avicii: True Stories* documentary, released six months before his death, depicted a management relationship in which Bergling was repeatedly pressured to perform against his own medical objections. His former manager subsequently sued over the portrayal — but the documentary's account is consistent with Bergling's own documented statements and the multiple hospitalization events.
 - **"Full of life" to dead within 24 hours:** The speed of the transition — from being described by independent witnesses as happy and socially engaged one evening, to being found dead the following day — is a documented fact that warrants examination.
 
@@ -140,20 +140,20 @@ These narratives originate in X communities and are not independently verified. 
 
 ## See Also
 
-- [Chris Cornell](Chris_Cornell.mdx) — 2017 death; alleged trafficking documentary connection; hanging
-- [Chester Bennington](Chester_Bennington.mdx) — July 2017 death, two months after Cornell; hanging
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — June 2018 death, weeks after Avicii; hanging
-- [Kate Spade](Kate_Spade.mdx) — June 2018 death, same week as Bourdain; hanging
-- [Isaac Kappy](Isaac_Kappy.mdx) — Openly accused Hollywood figures of child trafficking; died 2019
-- [Monica Petersen](Monica_Petersen.mdx) — Investigating trafficking in Haiti; died 2016
-- [LeRoi Moore](LeRoi_Moore.mdx) — Original co-developer of the *Silent Children* documentary; died 2008
+- [Chris Cornell](Chris_Cornell.md) — 2017 death; alleged trafficking documentary connection; hanging
+- [Chester Bennington](Chester_Bennington.md) — July 2017 death, two months after Cornell; hanging
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 2018 death, weeks after Avicii; hanging
+- [Kate Spade](Kate_Spade.md) — June 2018 death, same week as Bourdain; hanging
+- [Isaac Kappy](Isaac_Kappy.md) — Openly accused Hollywood figures of child trafficking; died 2019
+- [Monica Petersen](Monica_Petersen.md) — Investigating trafficking in Haiti; died 2016
+- [LeRoi Moore](LeRoi_Moore.md) — Original co-developer of the *Silent Children* documentary; died 2008
 
 ## Other Shocking Stories
 
-- [Chris Cornell](Chris_Cornell.mdx): Billionaire rockstar who donated millions to find missing children. Found hanged in Detroit hotel room at 52.
-- [Chester Bennington](Chester_Bennington.mdx): Linkin Park frontman and alleged trafficking investigation participant. Died on Chris Cornell's birthday.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor who publicly named celebrities as pedophiles. Forced off a bridge and killed at 42.
-- [Monica Petersen](Monica_Petersen.mdx): Human trafficking researcher investigating Clinton Foundation connections in Haiti. Died alone at 30.
+- [Chris Cornell](Chris_Cornell.md): Billionaire rockstar who donated millions to find missing children. Found hanged in Detroit hotel room at 52.
+- [Chester Bennington](Chester_Bennington.md): Linkin Park frontman and alleged trafficking investigation participant. Died on Chris Cornell's birthday.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who publicly named celebrities as pedophiles. Forced off a bridge and killed at 42.
+- [Monica Petersen](Monica_Petersen.md): Human trafficking researcher investigating Clinton Foundation connections in Haiti. Died alone at 30.
 
 ## Sources
 

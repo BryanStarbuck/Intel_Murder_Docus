@@ -202,17 +202,17 @@ Despite the credibility problems, several of Gunderson's core claims were subseq
 
 ## See Also
 
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher investigating the same pedophile network Gunderson described; found dead by hanging 2019
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator investigating child trafficking, shot dead alongside husband; ruled murder-suicide
-- [Jenny Moore](Jenny_Moore.mdx) — Former UK police officer investigating elite trafficking, found dead in DC hotel
-- [Linda Collins Smith](Linda_Collins_Smith.mdx) — Arkansas state senator investigating child trafficking through foster care; found shot dead 2019
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher investigating the same pedophile network Gunderson described; found dead by hanging 2019
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, shot dead alongside husband; ruled murder-suicide
+- [Jenny Moore](Jenny_Moore.md) — Former UK police officer investigating elite trafficking, found dead in DC hotel
+- [Linda Collins Smith](Linda_Collins_Smith.md) — Arkansas state senator investigating child trafficking through foster care; found shot dead 2019
 
 ## Other Shocking Stories
 
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher documenting elite pedophile networks recorded a death-threat video 11 days before dying by hanging.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator investigating child trafficking found shot dead alongside her husband in their home.
-- [Jenny Moore](Jenny_Moore.mdx): Former UK police officer interviewing trafficking survivors found dead in a Washington DC hotel room.
-- [Linda Collins Smith](Linda_Collins_Smith.mdx): Arkansas senator investigating child abuse in foster care shot dead in 2019 — days before expected disclosures.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher documenting elite pedophile networks recorded a death-threat video 11 days before dying by hanging.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator investigating child trafficking found shot dead alongside her husband in their home.
+- [Jenny Moore](Jenny_Moore.md): Former UK police officer interviewing trafficking survivors found dead in a Washington DC hotel room.
+- [Linda Collins Smith](Linda_Collins_Smith.md): Arkansas senator investigating child abuse in foster care shot dead in 2019 — days before expected disclosures.
 
 ## Sources
 

@@ -153,21 +153,21 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.mdx) — investigative journalist whose files also vanished after his suspicious death; investigated PROMIS and intelligence connections
-- [Gary Webb](Gary_Webb.mdx) — journalist who died of two gunshot wounds to the head, ruled suicide, while investigating CIA drug trafficking
-- [Karen Silkwood](Karen_Silkwood.mdx) — whistleblower killed in suspicious car crash while transporting documents to a journalist; documents disappeared
-- [Michael Hastings](Michael_Hastings.mdx) — journalist who died in a suspicious single-car explosion after telling friends he was being investigated by the FBI
-- [Frank Olson](Frank_Olson.mdx) — CIA scientist whose 1953 death was reopened decades later; pattern of intelligence agencies staging deaths
-- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.mdx) — CIA-connected socialite investigating JFK assassination, shot dead in 1964; diary seized by James Angleton
+- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist whose files also vanished after his suspicious death; investigated PROMIS and intelligence connections
+- [Gary Webb](Gary_Webb.md) — journalist who died of two gunshot wounds to the head, ruled suicide, while investigating CIA drug trafficking
+- [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed in suspicious car crash while transporting documents to a journalist; documents disappeared
+- [Michael Hastings](Michael_Hastings.md) — journalist who died in a suspicious single-car explosion after telling friends he was being investigated by the FBI
+- [Frank Olson](Frank_Olson.md) — CIA scientist whose 1953 death was reopened decades later; pattern of intelligence agencies staging deaths
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite investigating JFK assassination, shot dead in 1964; diary seized by James Angleton
 - CIA (Group Profile) — intelligence service connected to this case
 - **Epstein investigation profile:** [Dorothy Kilgallen](https://intelligencemurders.com/intelligence-service-murders/Details/Dorothy_Kilgallen/) — documents her investigation's connection to sexual blackmail networks linked to Roy Cohn and J. Edgar Hoover
 
 ## Other Shocking Stories
 
-- [Alexander Litvinenko](Alexander_Litvinenko.mdx): Former FSB officer poisoned with radioactive polonium-210 in his tea at a London hotel. Took three weeks to die.
-- [Karen Silkwood](Karen_Silkwood.mdx): Drove to meet a journalist with documents proving plutonium plant dangers. Car forced off road. Documents gone.
-- [Danny_Casolaro](Danny_Casolaro.mdx): Found in a hotel bathtub with wrists slashed twelve times. His briefcase full of investigation files had vanished.
-- [David Kelly](David_Kelly.mdx): British weapons inspector who challenged Iraq WMD claims. Found dead in woods. Key evidence sealed for 70 years.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with radioactive polonium-210 in his tea at a London hotel. Took three weeks to die.
+- [Karen Silkwood](Karen_Silkwood.md): Drove to meet a journalist with documents proving plutonium plant dangers. Car forced off road. Documents gone.
+- [Danny_Casolaro](Danny_Casolaro.md): Found in a hotel bathtub with wrists slashed twelve times. His briefcase full of investigation files had vanished.
+- [David Kelly](David_Kelly.md): British weapons inspector who challenged Iraq WMD claims. Found dead in woods. Key evidence sealed for 70 years.
 
 ## Sources
 
@@ -283,12 +283,12 @@ Dorothy Kilgallen's investigation positioned her at the intersection of sexual b
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating the PROMIS/Octopus intelligence scandal, found dead in 1991
-- [Gary Webb](Gary_Webb_Journalist.mdx) — Journalist who exposed CIA drug trafficking, found dead with two gunshot wounds in 2004
-- [Jenny Moore](Jenny_Moore.mdx) — Citizen journalist investigating child trafficking, found dead in 2018
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI Special Agent who investigated elite pedophile rings and described intelligence "brownstone operations"
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator investigating child trafficking who was found shot dead alongside her husband
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating the PROMIS/Octopus intelligence scandal, found dead in 1991
+- [Gary Webb](Gary_Webb_Journalist.md) — Journalist who exposed CIA drug trafficking, found dead with two gunshot wounds in 2004
+- [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating child trafficking, found dead in 2018
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent who investigated elite pedophile rings and described intelligence "brownstone operations"
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking who was found shot dead alongside her husband
 - **Intelligence investigation profile:** [Dorothy Kilgallen](/intelligence-service-murders/Details/Dorothy_Kilgallen) — documents her JFK assassination investigation and CIA/FBI surveillance in detail
 
 ## Sources

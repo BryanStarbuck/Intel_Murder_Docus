@@ -139,7 +139,7 @@ The involvement of these figures raises a central question: when Bittencourt esc
 - **She was already in hiding under active protection**: She had left Brazil specifically because of death threats. Protection was already in place. The threats found her anyway — or something else happened.
 - **Contradictory death locations with no explanation**: Spain vs. Lebanon. Her own son gave a different country than the initial reports, and no one ever explained the discrepancy.
 - **Theory of a faked death**: People close to her — including her first husband — openly speculated she staged her death. This is unusual. It means even those closest to her did not accept the death as a simple suicide.
-- **Institutional pattern**: She fits the documented pattern of investigators who expose elite-connected child trafficking networks dying or disappearing under disputed circumstances: [Monica Petersen](Monica_Petersen.mdx), [Jenny Moore](Jenny_Moore.mdx), [Nancy Schaefer](Nancy_Schaefer.mdx), [Isaac Kappy](Isaac_Kappy.mdx), [Tracy Twyman](Tracy_Twyman.mdx), [Ted Gunderson](Ted_Gunderson.mdx).
+- **Institutional pattern**: She fits the documented pattern of investigators who expose elite-connected child trafficking networks dying or disappearing under disputed circumstances: [Monica Petersen](Monica_Petersen.md), [Jenny Moore](Jenny_Moore.md), [Nancy Schaefer](Nancy_Schaefer.md), [Isaac Kappy](Isaac_Kappy.md), [Tracy Twyman](Tracy_Twyman.md), [Ted Gunderson](Ted_Gunderson.md).
 - **Celebrity protection shield**: João de Deus's connections to Bill Clinton, Oprah Winfrey, and Marina Abramovic meant that a full, public investigation into his baby trafficking operation could implicate extremely powerful people. Bittencourt was the primary source driving that investigation.
 - **American media blackout**: Despite the global significance of the João de Deus case, Bittencourt's death received near-zero coverage in major American outlets.
 - **Referenced in Epstein documents**: X posts circulating in 2025–2026 noted that her baby farm accusations appeared in an email within the Epstein document releases, citing media coverage of her case. Whether that reference reflects an investigative overlap or routine news monitoring cannot be confirmed from currently available records.
@@ -169,21 +169,21 @@ The absence of verifiable death documentation could, in theory, reflect administ
 
 ## See Also
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who investigated CPS child trafficking and was found shot dead alongside her husband in 2010
-- [Monica Petersen](Monica_Petersen.mdx) — Trafficking researcher who died in Haiti while investigating connections to the Clinton Foundation and a trafficking network
-- [Jenny Moore](Jenny_Moore.mdx) — Independent journalist investigating child trafficking; found dead in a DC hotel room in August 2018
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI Special Agent in Charge who spent 20 years investigating elite trafficking networks; died 2011
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who publicly named Hollywood pedophiles; fell from a bridge in Arizona, May 2019
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher who continued Kappy's investigative work; found hanged in her garage, July 2019
-- [Natacha Jaitt](Natacha_Jaitt.mdx) — Argentine model who named entertainment executives as pedophiles, died before her trial
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — Celebrity chef who named powerful abusers publicly; died by alleged hanging three months after Bittencourt
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who investigated CPS child trafficking and was found shot dead alongside her husband in 2010
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti while investigating connections to the Clinton Foundation and a trafficking network
+- [Jenny Moore](Jenny_Moore.md) — Independent journalist investigating child trafficking; found dead in a DC hotel room in August 2018
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent 20 years investigating elite trafficking networks; died 2011
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles; fell from a bridge in Arizona, May 2019
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher who continued Kappy's investigative work; found hanged in her garage, July 2019
+- [Natacha Jaitt](Natacha_Jaitt.md) — Argentine model who named entertainment executives as pedophiles, died before her trial
+- [Anthony Bourdain](Anthony_Bourdain.md) — Celebrity chef who named powerful abusers publicly; died by alleged hanging three months after Bittencourt
 
 ## Other Shocking Stories
 
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model publicly named entertainers as pedophiles. Said "I will not commit suicide." Found dead at a party.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): State senator investigating child trafficking. Found shot dead alongside her husband. Ruled murder-suicide.
-- [Monica Petersen](Monica_Petersen.mdx): Trafficking researcher in Haiti died at 32. Colleagues publicly disputed the suicide ruling.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor named Hollywood pedophiles on social media. Fell from a bridge weeks later.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model publicly named entertainers as pedophiles. Said "I will not commit suicide." Found dead at a party.
+- [Nancy Schaefer](Nancy_Schaefer.md): State senator investigating child trafficking. Found shot dead alongside her husband. Ruled murder-suicide.
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti died at 32. Colleagues publicly disputed the suicide ruling.
+- [Isaac Kappy](Isaac_Kappy.md): Actor named Hollywood pedophiles on social media. Fell from a bridge weeks later.
 
 ## Sources
 

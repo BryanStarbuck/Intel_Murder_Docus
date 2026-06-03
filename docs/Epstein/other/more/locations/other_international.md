@@ -58,7 +58,7 @@ Multiple living persons connected to Epstein are based in Norway:
 
 ## Poland — Warsaw
 
-- **[Max Spiers](https://intelligencemurders.com/intelligence-service-murders/Details/Max_Spiers/)** (2016, age 39) — British conspiracy researcher found dead on a sofa in Warsaw. Was investigating elite pedophilia networks. UK coroner called Polish investigation "wholly incompetent." Covered in detail under [United Kingdom](united_kingdom.mdx).
+- **[Max Spiers](https://intelligencemurders.com/intelligence-service-murders/Details/Max_Spiers/)** (2016, age 39) — British conspiracy researcher found dead on a sofa in Warsaw. Was investigating elite pedophilia networks. UK coroner called Polish investigation "wholly incompetent." Covered in detail under [United Kingdom](united_kingdom.md).
 
 ## Geographic Patterns
 

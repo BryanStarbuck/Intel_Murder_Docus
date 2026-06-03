@@ -24,7 +24,7 @@ Hydroxychloroquine (HCQ) is an inexpensive antimalarial drug that has been on th
 
 ## What Hydroxychloroquine Is
 
-Hydroxychloroquine (sold under brand names including Plaquenil, and as a generic by manufacturers including [Apotex](Details/Barry_Sherman.mdx) under the name *Apo-Hydroxyquine*) is an antimalarial drug derived from chloroquine. Approved by the FDA in 1955, it has been used continuously for decades to treat:
+Hydroxychloroquine (sold under brand names including Plaquenil, and as a generic by manufacturers including [Apotex](Details/Barry_Sherman.md) under the name *Apo-Hydroxyquine*) is an antimalarial drug derived from chloroquine. Approved by the FDA in 1955, it has been used continuously for decades to treat:
 
 - Malaria (prophylaxis and active infection)
 - Systemic lupus erythematosus
@@ -51,7 +51,7 @@ This investigation makes no finding on the underlying medical question. What it 
 
 ## The Sherman Murders and Apotex
 
-In December 2017 — roughly two years before the COVID-19 pandemic emerged — **[Barry Sherman](Details/Barry_Sherman.mdx)** and his wife **Honey Sherman** were found dead in their Toronto home. Toronto Police initially briefed reporters that a murder-suicide was the leading theory; six weeks later, on January 26, 2018, after the family's privately retained forensic team produced contrary findings, police publicly reclassified the case as a "targeted double homicide." It remains unsolved as of 2026, despite a $10 million CAD privately-funded reward — the largest in Canadian history.
+In December 2017 — roughly two years before the COVID-19 pandemic emerged — **[Barry Sherman](Details/Barry_Sherman.md)** and his wife **Honey Sherman** were found dead in their Toronto home. Toronto Police initially briefed reporters that a murder-suicide was the leading theory; six weeks later, on January 26, 2018, after the family's privately retained forensic team produced contrary findings, police publicly reclassified the case as a "targeted double homicide." It remains unsolved as of 2026, despite a $10 million CAD privately-funded reward — the largest in Canadian history.
 
 Barry Sherman founded **Apotex Inc.**, Canada's largest pharmaceutical company and one of the world's largest generic drug manufacturers. Apotex produced generic hydroxychloroquine. According to [@LightOnLiberty](https://x.com/LightOnLiberty/status/2050723603319030010) on X (May 2, 2026), Apotex was "Canada's ONLY manufacturer for cheaper and more effective Hydroxychloroquine." The "only" claim is **disputed** — other generic manufacturers operated in Canada at the time — but Apotex was unquestionably one of Canada's largest producers of generic HCQ and a globally significant supplier.
 
@@ -65,7 +65,7 @@ The questions raised by the post:
 
 These questions remain open. Readers should weigh them against the absence of any corroborating evidence.
 
-**See:** [Barry Sherman profile](Details/Barry_Sherman.mdx) | [COVID-19 topic page](/intel/Covid)
+**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [COVID-19 topic page](/intel/Covid)
 
 ## Additional Account from a GTA Resident
 
@@ -82,13 +82,13 @@ This is a personal recollection and a set of circulating claims, not findings of
 - **The "known culprit" / sealed-court claim:** Toronto Police have publicly identified no suspect by name in the Sherman case as of 2026. A "person of interest" video was released in 2021. Sealing orders **have** been issued in Sherman-related civil and probate proceedings — most notably contested by the *Toronto Star* in *Sherman Estate v. Donovan*, **2021 SCC 25**, where the Supreme Court of Canada ruled against blanket sealing of the estate file. Search-warrant information-to-obtain (ITO) materials in the homicide investigation reportedly remain sealed at the request of police and the Crown for ongoing-investigation reasons. **No public court order names any "culprit."** The contributor's framing is preserved as a stated claim, not as a finding.
 - **The Canadian HCQ possession claim:** As of 2026, hydroxychloroquine is a **prescription-only** medication in Canada under the Food and Drugs Act (Health Canada's Prescription Drug List). It is **not** scheduled under the Controlled Drugs and Substances Act. With a valid prescription, possession is lawful. During COVID-19, **Health Canada** and several **provincial pharmacy regulatory colleges** issued guidance restricting HCQ prescribing **for COVID-19** outside clinical trials — for example, the Ontario College of Pharmacists and the College of Physicians and Surgeons of Ontario both issued such guidance in spring 2020. The investigation is **not aware** of a general criminal-arrest power for HCQ possession in Canada. The contributor's "Big Pharma" framing is documented as their stated interpretation, not as an investigative conclusion.
 
-The recollection is preserved because the contributor was geographically and temporally proximate to the [Sherman case](Details/Barry_Sherman.mdx) and personally noted the [COVID-era](/intel/Covid) thematic connection.
+The recollection is preserved because the contributor was geographically and temporally proximate to the [Sherman case](Details/Barry_Sherman.md) and personally noted the [COVID-era](/intel/Covid) thematic connection.
 
 ## Generic Manufacturers and Pricing
 
 Hydroxychloroquine has been off-patent for decades. Multiple generic manufacturers around the world produce it, including:
 
-- **Apotex (Canada)** — *Apo-Hydroxyquine*. Founded by [Barry Sherman](Details/Barry_Sherman.mdx).
+- **Apotex (Canada)** — *Apo-Hydroxyquine*. Founded by [Barry Sherman](Details/Barry_Sherman.md).
 - **Teva Pharmaceutical Industries (Israel/global)** — major generic producer worldwide.
 - **Mylan / Viatris (U.S./global)** — major generic producer.
 - **Sandoz (Novartis) (Switzerland/global)** — major generic producer.
@@ -104,8 +104,8 @@ This investigation tracks documented retaliation against doctors, scientists, or
 
 | Person | Year | Status | Connection |
 |--------|------|--------|-----------|
-| [Barry Sherman](Details/Barry_Sherman.mdx) | 2017 | Deceased | Apotex founder, major generic HCQ producer. Unsolved targeted double homicide. Linked by social-media speculation to the COVID-19 HCQ dispute; no investigative finding supports the link. |
-| [Brandy Vaughan](Details/Brandy_Vaughan.mdx) | 2020 | Deceased | Former Merck sales rep and Vioxx whistleblower who founded *Learn The Risk*. Documented years of professional-grade home intrusions. Found dead at 44 of sudden blood clots. Had publicly predicted her death and named pharmaceutical-industry retaliation. |
+| [Barry Sherman](Details/Barry_Sherman.md) | 2017 | Deceased | Apotex founder, major generic HCQ producer. Unsolved targeted double homicide. Linked by social-media speculation to the COVID-19 HCQ dispute; no investigative finding supports the link. |
+| [Brandy Vaughan](Details/Brandy_Vaughan.md) | 2020 | Deceased | Former Merck sales rep and Vioxx whistleblower who founded *Learn The Risk*. Documented years of professional-grade home intrusions. Found dead at 44 of sudden blood clots. Had publicly predicted her death and named pharmaceutical-industry retaliation. |
 
 If you are aware of additional documented cases — especially of physicians or scientists who reported professional or physical retaliation tied to advocating for or against HCQ — please consider submitting them.
 
@@ -120,9 +120,9 @@ It documents people, deaths, and circulating claims — and applies the project'
 
 ## See Also
 
-- [Barry Sherman](Details/Barry_Sherman.mdx) — Apotex founder, unsolved 2017 double homicide
+- [Barry Sherman](Details/Barry_Sherman.md) — Apotex founder, unsolved 2017 double homicide
 - [COVID-19](/intel/Covid) — broader pandemic-era topic page
-- [Brandy Vaughan](Details/Brandy_Vaughan.mdx) — Merck whistleblower, 2020
+- [Brandy Vaughan](Details/Brandy_Vaughan.md) — Merck whistleblower, 2020
 - [Intelligence Service Murders — Overview](/intel/) — full investigation index
 
 ## Sources

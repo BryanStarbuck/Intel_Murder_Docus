@@ -42,7 +42,7 @@ Colby was appointed DCI by President Nixon in September 1973, inheriting an agen
 When the Church Committee (Senate Select Committee to Study Governmental Operations) began investigating CIA abuses in 1975, Colby made a choice that stunned the intelligence establishment: he cooperated. He provided the committee with the "Family Jewels" — a 693-page internal report cataloguing illegal CIA activities from 1959 to 1973, including:
 
 - **Assassination plots** against foreign leaders (Castro, Lumumba, Trujillo, Diem, Schneider)
-- **MKULTRA** — the secret program of LSD experiments on unwitting subjects, including the case of [Frank Olson](Frank_Olson.mdx)
+- **MKULTRA** — the secret program of LSD experiments on unwitting subjects, including the case of [Frank Olson](Frank_Olson.md)
 - **Domestic surveillance** — illegal wiretapping and mail-opening targeting American citizens
 - **Operation CHAOS** — spying on the antiwar movement
 
@@ -100,7 +100,7 @@ No criminal investigation was ever opened. According to CovertAction Magazine, t
 - **No real investigation**: No criminal inquiry was opened. The CIA controlled the death scene
 - **Zalin Grant's theory**: Colby's friend from Vietnam, journalist Zalin Grant, investigated the death and envisioned a scenario in which two or three men abducted Colby from his cottage, while others came by boat, towed his canoe away, suffocated Colby, put his body on ice, and later placed it near the canoe — but on the wrong side of the spit of land
 - **Lifetime of enemies**: Colby had made the most powerful enemies imaginable — the entire CIA establishment, Kissinger, the national security apparatus — by exposing their crimes
-- **Pattern match**: Former CIA officer [John Paisley](John_Paisley.mdx) also died in the Chesapeake Bay under suspicious circumstances in 1978. Bodies in water is a recurring pattern in intelligence-connected deaths
+- **Pattern match**: Former CIA officer [John Paisley](John_Paisley.md) also died in the Chesapeake Bay under suspicious circumstances in 1978. Bodies in water is a recurring pattern in intelligence-connected deaths
 
 ## The Counterargument
 
@@ -124,22 +124,22 @@ However, Colby's wife Sally Shelton-Colby, his other children, and his biographe
 
 ## See Also
 
-- [Frank Olson](Frank_Olson.mdx) — CIA scientist killed in 1953 during MKULTRA; Colby personally apologized to his family and exposed the program
-- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating PROMIS software and intelligence operations, found dead in a bathtub in 1991; another "suicide" in water connected to intelligence investigations
-- [Barry Seal](Barry_Seal.mdx) — CIA-connected drug smuggler assassinated in 1986; Colby oversaw the agency during the era when CIA drug operations expanded
-- [John Paisley](John_Paisley.mdx) — CIA officer found dead in Chesapeake Bay in 1978; another intelligence figure who died in Maryland waters under suspicious circumstances
-- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.mdx) — CIA-connected socialite murdered in 1964; James Angleton, whom Colby fired, was at the center of the cover-up
-- [Gary Webb](Gary_Webb.mdx) — Journalist who exposed CIA-crack cocaine connection, died by alleged suicide in 2004
-- [Philip Marshall](Philip_Marshall.mdx) — Pilot who wrote about CIA drug flights, found dead alongside his two children in 2013
+- [Frank Olson](Frank_Olson.md) — CIA scientist killed in 1953 during MKULTRA; Colby personally apologized to his family and exposed the program
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS software and intelligence operations, found dead in a bathtub in 1991; another "suicide" in water connected to intelligence investigations
+- [Barry Seal](Barry_Seal.md) — CIA-connected drug smuggler assassinated in 1986; Colby oversaw the agency during the era when CIA drug operations expanded
+- [John Paisley](John_Paisley.md) — CIA officer found dead in Chesapeake Bay in 1978; another intelligence figure who died in Maryland waters under suspicious circumstances
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite murdered in 1964; James Angleton, whom Colby fired, was at the center of the cover-up
+- [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack cocaine connection, died by alleged suicide in 2004
+- [Philip Marshall](Philip_Marshall.md) — Pilot who wrote about CIA drug flights, found dead alongside his two children in 2013
 - CIA (Group Profile) — Intelligence service connected to this case
 - **Epstein investigation profile:** [William Colby](https://intelligencemurders.com/intelligence-service-murders/Details/William_Colby/) — documents his connection to the Franklin scandal and sexual blackmail operations that prefigured Epstein
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD without consent, fell from a hotel window. His family fought for decades for the truth.
-- [Danny Casolaro](Danny_Casolaro.mdx): Journalist investigating "The Octopus" found dead in a hotel bathtub, wrists slashed, all his notes missing.
-- [John Paisley](John_Paisley.mdx): CIA deputy director found floating in Chesapeake Bay with diving weights. Ruled suicide despite a gunshot wound.
-- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in a car crash en route to meet a reporter. Her documents vanished from the wreck.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD without consent, fell from a hotel window. His family fought for decades for the truth.
+- [Danny Casolaro](Danny_Casolaro.md): Journalist investigating "The Octopus" found dead in a hotel bathtub, wrists slashed, all his notes missing.
+- [John Paisley](John_Paisley.md): CIA deputy director found floating in Chesapeake Bay with diving weights. Ruled suicide despite a gunshot wound.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in a car crash en route to meet a reporter. Her documents vanished from the wreck.
 
 ## Sources
 
@@ -202,14 +202,14 @@ Colby's cooperation with Congress was deeply resented within the intelligence co
 
 After leaving government, Colby reportedly maintained knowledge of how CIA sexual blackmail operations evolved beyond MKUltra and Midnight Climax. Whitney Webb's *One Nation Under Blackmail* documents how these CIA-run sexual entrapment programs -- using prostitutes, drugs, and hidden cameras to compromise targets -- were direct precursors to the sexual blackmail operation later attributed to Jeffrey Epstein and his intelligence connections.
 
-Colby was also reportedly advising the Nebraska Legislature's investigation into the Franklin child abuse scandal, which involved allegations that prominent political and business figures ran a child sex trafficking ring in Omaha. He had connections to investigator [Gary Caradori](Gary_Caradori.mdx), whose plane disintegrated mid-air in 1990 while he was returning with photographic evidence in the Franklin case.
+Colby was also reportedly advising the Nebraska Legislature's investigation into the Franklin child abuse scandal, which involved allegations that prominent political and business figures ran a child sex trafficking ring in Omaha. He had connections to investigator [Gary Caradori](Gary_Caradori.md), whose plane disintegrated mid-air in 1990 while he was returning with photographic evidence in the Franklin case.
 
 ## Why This Death Possibly Raises Questions
 
 - Colby left dinner cooking on the stove, his computer running, and the lights on -- details his wife Sally Shelton-Colby and biographer Randall Woods stated were inconsistent with a planned canoe outing, according to The Huffington Post and other reporting.
 - Colby was an experienced outdoorsman and former OSS operative who had survived behind enemy lines in World War II; going canoeing alone at night in cold water without a life jacket struck those who knew him as uncharacteristic.
 - He had been speaking about CIA sexual blackmail operations and domestic intelligence abuses -- knowledge that connected directly to programs that preceded the Epstein operation.
-- He was advising the Franklin scandal investigation, in which investigator [Gary Caradori](Gary_Caradori.mdx) had already died under suspicious circumstances.
+- He was advising the Franklin scandal investigation, in which investigator [Gary Caradori](Gary_Caradori.md) had already died under suspicious circumstances.
 - His body was not recovered for nine days, making forensic analysis more difficult.
 - The intelligence community had reason to view Colby as a threat: he had already exposed the Family Jewels and MKUltra, and continued to speak about classified programs after leaving government.
 
@@ -237,13 +237,13 @@ Colby was also reportedly advising the Nebraska Legislature's investigation into
 
 ## See Also
 
-- [Gary Caradori](Gary_Caradori.mdx) -- Investigator in the Franklin scandal whose plane disintegrated mid-air in 1990; Colby was reportedly advising the same investigation
-- [Craig Spence](Craig_Spence.mdx) -- Washington lobbyist connected to the Franklin network who was found dead in a hotel room in 1989
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) -- Ran the sexual blackmail operation that CIA programs like Midnight Climax prefigured
-- [Ted Gunderson](Ted_Gunderson.mdx) -- Former FBI Special Agent in Charge who investigated the Franklin scandal and described "brownstone operations" -- intelligence-run sexual blackmail using minors
-- [Danny Casolaro](Danny_Casolaro.mdx) -- Journalist investigating intelligence blackmail operations; found dead in 1991
-- [Nancy Schaefer](Nancy_Schaefer.mdx) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
-- [Troy Boner](Troy_Boner.mdx) -- Franklin scandal witness who later recanted under alleged pressure; found dead
+- [Gary Caradori](Gary_Caradori.md) -- Investigator in the Franklin scandal whose plane disintegrated mid-air in 1990; Colby was reportedly advising the same investigation
+- [Craig Spence](Craig_Spence.md) -- Washington lobbyist connected to the Franklin network who was found dead in a hotel room in 1989
+- [Jeffrey Epstein](Jeffrey_Epstein.md) -- Ran the sexual blackmail operation that CIA programs like Midnight Climax prefigured
+- [Ted Gunderson](Ted_Gunderson.md) -- Former FBI Special Agent in Charge who investigated the Franklin scandal and described "brownstone operations" -- intelligence-run sexual blackmail using minors
+- [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating intelligence blackmail operations; found dead in 1991
+- [Nancy Schaefer](Nancy_Schaefer.md) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
+- [Troy Boner](Troy_Boner.md) -- Franklin scandal witness who later recanted under alleged pressure; found dead
 - **Intelligence investigation profile:** [William Colby](/intelligence-service-murders/Details/William_Colby) — documents his CIA career, Church Committee cooperation, and suspicious drowning death in detail
 
 ## Sources

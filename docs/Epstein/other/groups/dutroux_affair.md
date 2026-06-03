@@ -84,9 +84,9 @@ The Dutroux affair is not directly connected to Epstein, but the structural para
 
 ## See Also
 
-- [Jimmy Savile / BBC Cover-Up](jimmy_savile.mdx) — UK parallel: institutional protection of prolific predator for decades
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Structural parallels: elite participants, witness deaths, cover-up
-- [Franklin Scandal](franklin_scandal.mdx) — US parallel: alleged elite pedophile ring with dead investigators
+- [Jimmy Savile / BBC Cover-Up](jimmy_savile.md) — UK parallel: institutional protection of prolific predator for decades
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural parallels: elite participants, witness deaths, cover-up
+- [Franklin Scandal](franklin_scandal.md) — US parallel: alleged elite pedophile ring with dead investigators
 
 ## Sources
 

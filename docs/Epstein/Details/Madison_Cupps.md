@@ -3,9 +3,9 @@ title: Madison Cupps
 ---
 
 # Madison Cupps
-Daughter of [Bryan Cupps](Bryan_Cupps.mdx) (verified cofounder of [CyberSlice](../other/groups/CyberSlice.mdx)); musician and independent-podcast guest who, beginning April 2026, publicly alleged on X and on podcasts that her father ran a child trafficking ring and had her witnesses killed by intelligence-service contacts. Madison was identified by the source X account as having "passed away under mysterious circumstances on April 10th, 2026." Her death has not been independently confirmed by an obituary, death record, or mainstream news report locatable in available sources as of May 13, 2026.
+Daughter of [Bryan Cupps](Bryan_Cupps.md) (verified cofounder of [CyberSlice](../other/groups/CyberSlice.md)); musician and independent-podcast guest who, beginning April 2026, publicly alleged on X and on podcasts that her father ran a child trafficking ring and had her witnesses killed by intelligence-service contacts. Madison was identified by the source X account as having "passed away under mysterious circumstances on April 10th, 2026." Her death has not been independently confirmed by an obituary, death record, or mainstream news report locatable in available sources as of May 13, 2026.
 
-> *Same person as the [Clares Cupps](Clares_Cupps.mdx) page — "Clares" is the informal name she used on social media (Instagram: @madisonclares.music). Both pages exist by user request; this page is the formal-name version.*
+> *Same person as the [Clares Cupps](Clares_Cupps.md) page — "Clares" is the informal name she used on social media (Instagram: @madisonclares.music). Both pages exist by user request; this page is the formal-name version.*
 
 | Field | Details |
 |-------|---------|
@@ -18,8 +18,8 @@ Daughter of [Bryan Cupps](Bryan_Cupps.mdx) (verified cofounder of [CyberSlice](.
 | **Official Ruling** | Not located in public records |
 | **Nationality** | American |
 | **Killed on US Soil** | Reportedly yes; not confirmed |
-| **Category** | Witness / Primary Accuser (against [Bryan Cupps](Bryan_Cupps.mdx)) |
-| **Alleged Family Connection** | Daughter of [Bryan Cupps](Bryan_Cupps.mdx); identifies a twin sister and three additional siblings (all redacted in published versions) |
+| **Category** | Witness / Primary Accuser (against [Bryan Cupps](Bryan_Cupps.md)) |
+| **Alleged Family Connection** | Daughter of [Bryan Cupps](Bryan_Cupps.md); identifies a twin sister and three additional siblings (all redacted in published versions) |
 
 ## Image Evidence — Alleged IC3 Complaint Screenshots
 
@@ -46,7 +46,7 @@ On **April 23, 2026** — chronologically *after* Madison's reported death date 
 
 *Image attachment to the April 23, 2026 "I'm not suicidal" post. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2047459351992902080), 2026-04-23. IPFS CID: `QmaB7tSqxBKsdch5Z9Bw7kRJRTBMtAJKMcZ9FSWuTMtjyL`. The authenticity of the underlying statement (whether Madison made it, when, and in what context) has not been independently verified.*
 
-If Madison's death is later confirmed as having occurred under circumstances inconsistent with suicide, this statement would slot her into the documented pattern this site tracks of public accusers stating before death that they would never take their own lives — alongside [Natacha Jaitt](Natacha_Jaitt.mdx) ("if I die, it wasn't me"), [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/) ("if I die, wasn't suicide"), and [Tracy Twyman](Tracy_Twyman.mdx).
+If Madison's death is later confirmed as having occurred under circumstances inconsistent with suicide, this statement would slot her into the documented pattern this site tracks of public accusers stating before death that they would never take their own lives — alongside [Natacha Jaitt](Natacha_Jaitt.md) ("if I die, it wasn't me"), [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/) ("if I die, wasn't suicide"), and [Tracy Twyman](Tracy_Twyman.md).
 
 ## Assessment: UNCERTAIN
 
@@ -95,7 +95,7 @@ According to publicly available information (Instagram @madisonclares.music, Tik
 
 This complaint names **two living persons** as alleged participants or enablers of serious crimes:
 
-1. **[Bryan Cupps](Bryan_Cupps.mdx)** — Madison's father. ALIVE. Subject of the complaint's primary accusations (child sexual abuse, production and sale of CSAM, claims of CIA "assassin" employment). He has not been criminally charged or sued in connection with these claims to the knowledge of this entry's research. He has not publicly responded to the allegations. His verified mainstream career as a technology entrepreneur is documented on his [profile page](Bryan_Cupps.mdx).
+1. **[Bryan Cupps](Bryan_Cupps.md)** — Madison's father. ALIVE. Subject of the complaint's primary accusations (child sexual abuse, production and sale of CSAM, claims of CIA "assassin" employment). He has not been criminally charged or sued in connection with these claims to the knowledge of this entry's research. He has not publicly responded to the allegations. His verified mainstream career as a technology entrepreneur is documented on his [profile page](Bryan_Cupps.md).
 
 2. **Autumn Taylor Cupps** — Madison's mother. Assumed ALIVE (no public death record located). The complaint alleges she found child pornography on the father's computer "but did nothing about it" and that "she told her best friend at the time who later told me about it." This characterization rests on hearsay attributed by Madison to her mother's then-best-friend, by way of a complaint screenshot circulated on social media — three layers of attribution from any potential factual claim. Autumn Taylor Cupps has not been criminally charged, sued, or subject to a child-protective-services finding in any documented public record locatable in available sources. She has not publicly responded to these allegations. This entry does not assert any of the alleged conduct as fact; her name appears here only because she is named in the circulated complaint, with full attribution to that source.
 
@@ -148,18 +148,18 @@ It DOES record what the post claims, with full attribution, including the gaps i
 
 ## See Also
 
-- [Clares Cupps](Clares_Cupps.mdx) — same person; informal-name version of this profile, per user request
-- [Bryan Cupps](Bryan_Cupps.mdx) — Madison's father, subject of the allegations
-- [CyberSlice](../other/groups/CyberSlice.mdx) — the company at the center of the allegations
-- [Edgar Maddison Welch](Edgar_Maddison_Welch.mdx) — Pizzagate gunman case; relevant for the "pizza as code word" framing in Madison's claims
-- [Franklin Scandal](../other/groups/franklin_scandal.mdx) — documented elite child trafficking ring; useful comparison case
+- [Clares Cupps](Clares_Cupps.md) — same person; informal-name version of this profile, per user request
+- [Bryan Cupps](Bryan_Cupps.md) — Madison's father, subject of the allegations
+- [CyberSlice](../other/groups/CyberSlice.md) — the company at the center of the allegations
+- [Edgar Maddison Welch](Edgar_Maddison_Welch.md) — Pizzagate gunman case; relevant for the "pizza as code word" framing in Madison's claims
+- [Franklin Scandal](../other/groups/franklin_scandal.md) — documented elite child trafficking ring; useful comparison case
 
 ## Other Shocking Stories
 
-- [Carolyn Andriano](Carolyn_Andriano.mdx): Maxwell trial witness; mother said she was drug-free; second Epstein victim to die in a Palm Beach hotel.
-- [Aaron Owen](Aaron_Owen.mdx): 17, Franklin scandal — brother of key witness, hanged in jail cell hours before sister was to testify.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model accused elites of pedophilia on TV — tweeted "if I die, it wasn't me"; died at party venue.
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx): Exposed John of God's baby trafficking — died in hiding; son said "they killed my mother."
+- [Carolyn Andriano](Carolyn_Andriano.md): Maxwell trial witness; mother said she was drug-free; second Epstein victim to die in a Palm Beach hotel.
+- [Aaron Owen](Aaron_Owen.md): 17, Franklin scandal — brother of key witness, hanged in jail cell hours before sister was to testify.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model accused elites of pedophilia on TV — tweeted "if I die, it wasn't me"; died at party venue.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed John of God's baby trafficking — died in hiding; son said "they killed my mother."
 
 ## Sources
 

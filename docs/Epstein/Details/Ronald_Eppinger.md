@@ -1,11 +1,11 @@
 ---
 title: "Ronald R. Eppinger Sr."
-description: "Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.mdx) to Epstein, died in Miami with undocumented cause."
+description: "Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.md) to Epstein, died in Miami with undocumented cause."
 keywords: ["Ronald Eppinger", "Jeffrey Epstein", "Ghislaine Maxwell", "sex trafficking", "blackmail", "elite trafficking ring", "Epstein network", "suspicious death", "intelligence murder", "cover-up"]
 sidebar_label: "Ronald Eppinger"
 image: /img/docusaurus-social-card.jpg
 ---
-Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.mdx) to Epstein, died in Miami with undocumented cause.
+Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.md) to Epstein, died in Miami with undocumented cause.
 
 | Field | Details |
 |-------|---------|
@@ -28,7 +28,7 @@ Ronald R. Eppinger Sr. died in November 2006 in Miami, Florida. The cause and ci
 
 ## Background
 
-Eppinger was described as a Miami pimp who allegedly was the first person to traffic [Virginia Giuffre](Virginia_Giuffre.mdx) to [Jeffrey Epstein](Jeffrey_Epstein.mdx). This allegation places him at the very beginning of the chain that brought one of Epstein's most prominent victims into the trafficking network.
+Eppinger was described as a Miami pimp who allegedly was the first person to traffic [Virginia Giuffre](Virginia_Giuffre.md) to [Jeffrey Epstein](Jeffrey_Epstein.md). This allegation places him at the very beginning of the chain that brought one of Epstein's most prominent victims into the trafficking network.
 
 ## Why This Death Possibly Raises Questions
 
@@ -44,19 +44,19 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 > At age 13, Virginia "was living on the streets of Miami Beach when she was approached by Ron Eppinger, a self-described modeling agent" which "was, in reality, a front for a sex trafficking operation."
 > — Crime Timelines ([Crime Timelines: Virginia Giuffre](https://crimetimelines.com/virginia-giuffre/))
 
-> "He was not part of the glamorous jet-set elite that orbited [Jeffrey Epstein](Jeffrey_Epstein.mdx). He never flew to Little Saint James. He did not attend VIP dinners. Yet his operation in Miami became an early node in the trafficking web."
+> "He was not part of the glamorous jet-set elite that orbited [Jeffrey Epstein](Jeffrey_Epstein.md). He never flew to Little Saint James. He did not attend VIP dinners. Yet his operation in Miami became an early node in the trafficking web."
 > — Niels Groeneveld, researcher ([X/Twitter thread](https://x.com/nigroeneveld/status/1950229368757747913))
 
 ## See Also
 
-- [Virginia Giuffre](Virginia_Giuffre.mdx) — Allegedly trafficked by Eppinger to Epstein
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx)
+- [Virginia Giuffre](Virginia_Giuffre.md) — Allegedly trafficked by Eppinger to Epstein
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 ## Other Shocking Stories
 
-- [Anne Heche](Anne_Heche.mdx): Starred in a child trafficking film. Weeks later, crashed her car into a house and never regained consciousness.
-- [Matthew Perry](Matthew_Perry.mdx): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
-- [John Connolly](John_Connolly.mdx): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
-- [Denise George](Denise_George.mdx): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Anne Heche](Anne_Heche.md): Starred in a child trafficking film. Weeks later, crashed her car into a house and never regained consciousness.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
 
 ## Sources
 

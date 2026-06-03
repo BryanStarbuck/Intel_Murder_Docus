@@ -23,7 +23,7 @@ Former Oklahoma state senator and prosecutor who authored some of the toughest c
 
 ## Assessment: SUSPICIOUS
 
-Jonathan Nichols — who spent 12 years authoring Oklahoma's most aggressive child predator legislation, including the death penalty for repeat child molesters, life imprisonment for child predators, the statewide Child Abuse Response Team (CART), and the crime of aggravated child pornography — died of a gunshot wound to the chest on June 5, 2019. Norman police initially investigated the death as a possible homicide because, according to a police affidavit, "the firearm believed to have caused the wound was in an unexpected position," with undisclosed law enforcement sources reporting the gun was found on a table across the room from the body. His wife, Talitha Nichols, called 911 after hearing a shot and finding his body. The medical examiner ruled suicide with heavy alcohol intoxication as a contributing factor. His death occurred one day after the body of [Linda Collins-Smith](Linda_Collins_Smith.mdx) — a fellow Republican state senator from Arkansas who had reportedly been investigating child trafficking through DHS/CPS — was discovered. Two Republican former state senators, both with records of fighting child predators, dead in the same week. The pattern is documented across multiple news outlets from CNN to Fox News.
+Jonathan Nichols — who spent 12 years authoring Oklahoma's most aggressive child predator legislation, including the death penalty for repeat child molesters, life imprisonment for child predators, the statewide Child Abuse Response Team (CART), and the crime of aggravated child pornography — died of a gunshot wound to the chest on June 5, 2019. Norman police initially investigated the death as a possible homicide because, according to a police affidavit, "the firearm believed to have caused the wound was in an unexpected position," with undisclosed law enforcement sources reporting the gun was found on a table across the room from the body. His wife, Talitha Nichols, called 911 after hearing a shot and finding his body. The medical examiner ruled suicide with heavy alcohol intoxication as a contributing factor. His death occurred one day after the body of [Linda Collins-Smith](Linda_Collins_Smith.md) — a fellow Republican state senator from Arkansas who had reportedly been investigating child trafficking through DHS/CPS — was discovered. Two Republican former state senators, both with records of fighting child predators, dead in the same week. The pattern is documented across multiple news outlets from CNN to Fox News.
 
 ## Circumstances of Death
 
@@ -76,7 +76,7 @@ After term limits ended his Senate service in 2012, Nichols served as:
 
 ## The Claimed Connection to Child Trafficking
 
-Nichols' connection to child protection was his defining professional identity. As an assistant district attorney, he prosecuted child abuse cases for years before entering politics. His CART legislation directly created statewide infrastructure for investigating child abuse. His death occurred one day after [Linda Collins-Smith](Linda_Collins_Smith.mdx) — a former Arkansas state senator who had reportedly been actively investigating a child trafficking network operating through Arkansas state government and DHS/CPS — was discovered shot to death.
+Nichols' connection to child protection was his defining professional identity. As an assistant district attorney, he prosecuted child abuse cases for years before entering politics. His CART legislation directly created statewide infrastructure for investigating child abuse. His death occurred one day after [Linda Collins-Smith](Linda_Collins_Smith.md) — a former Arkansas state senator who had reportedly been actively investigating a child trafficking network operating through Arkansas state government and DHS/CPS — was discovered shot to death.
 
 Some investigators and alternative media sources have drawn a direct line between the deaths of both senators and their work exposing child predator networks, citing their shared advocacy for child protection and the timing of their deaths. CD Media reported that a source stated the two deaths were related. No law enforcement agency has officially confirmed this.
 
@@ -92,16 +92,16 @@ No public evidence has emerged that Nichols was, at the time of his death in 201
 
 - **His wife called 911 after hearing the shot.** She was in the residence. This means there was a witness to the timeline, though not to the act itself. Her presence and the call create a documented record.
 
-- **Died one day after Linda Collins-Smith.** The body of former Arkansas state Senator [Linda Collins-Smith](Linda_Collins_Smith.mdx) was discovered June 4, 2019. Collins-Smith had reportedly been investigating a child trafficking ring operating through Arkansas state government and DHS/CPS. Nichols died June 5, 2019. Two Republican former state senators with records of fighting child predators, dead in consecutive days.
+- **Died one day after Linda Collins-Smith.** The body of former Arkansas state Senator [Linda Collins-Smith](Linda_Collins_Smith.md) was discovered June 4, 2019. Collins-Smith had reportedly been investigating a child trafficking ring operating through Arkansas state government and DHS/CPS. Nichols died June 5, 2019. Two Republican former state senators with records of fighting child predators, dead in consecutive days.
 
 - **Extensive child predator legislative record.** Nichols had spent years authoring some of the toughest child predator laws in the country — including the death penalty for repeat child molesters, life imprisonment for child predators, and the CART investigation unit. His work directly threatened individuals involved in child exploitation at the institutional level.
 
 - **No known documented motive for suicide.** Colleagues and fellow legislators expressed shock. State Sen. Rob Standridge called it "a tremendous loss." Oklahoma House Speaker Charles McCall said Nichols "served the people of Oklahoma with absolute distinction." No public reports indicated financial distress, legal trouble, or known personal crisis.
 
 - **Pattern of anti-trafficking politicians dying.** Nichols' death fits into a documented cluster:
-  - [Linda Collins-Smith](Linda_Collins_Smith.mdx) — Arkansas state senator reportedly investigating DHS/CPS trafficking, stabbed to death May/June 2019 (same week as Nichols)
-  - [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010
-  - [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI Special Agent in Charge who investigated elite blackmail networks involving minors for decades, died 2011
+  - [Linda Collins-Smith](Linda_Collins_Smith.md) — Arkansas state senator reportedly investigating DHS/CPS trafficking, stabbed to death May/June 2019 (same week as Nichols)
+  - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010
+  - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who investigated elite blackmail networks involving minors for decades, died 2011
 
 - **Alcohol intoxication as a factor.** While the medical examiner cites heavy drinking as consistent with impaired judgment, heavy intoxication also makes a person more vulnerable to a staged death.
 
@@ -111,7 +111,7 @@ No public evidence has emerged that Nichols was, at the time of his death in 201
 - The medical examiner confirmed the finding of self-inflicted gunshot wound with heavy alcohol involvement. A person drinking heavily and impulsively choosing a chest shot, rather than the statistically more common head wound, is unusual but not impossible.
 - The "unexpected position" of the firearm, while initially concerning, may have a mechanical explanation: the gun could have fallen from a hand or been displaced after discharge, or Nichols could have set it down on the table after the wound was inflicted, before collapsing.
 - Nichols was not known to be actively investigating any trafficking case at the time of his death. His legislative career had ended seven years prior. The connection to child trafficking through his work is historical, not contemporaneous.
-- [Linda Collins-Smith's](Linda_Collins_Smith.mdx) killer was identified as Rebecca O'Donnell, convicted of that murder on a financial motive. No official connection between the two deaths was established by law enforcement.
+- [Linda Collins-Smith's](Linda_Collins_Smith.md) killer was identified as Rebecca O'Donnell, convicted of that murder on a financial motive. No official connection between the two deaths was established by law enforcement.
 - People in difficult personal situations do not always show external signs of distress. Colleagues' shock does not rule out personal struggles that were not public.
 
 ## Key Quotes
@@ -138,17 +138,17 @@ No public evidence has emerged that Nichols was, at the time of his death in 201
 
 ## See Also
 
-- [Linda Collins-Smith](Linda_Collins_Smith.mdx) — Former Arkansas state senator reportedly investigating DHS/CPS child trafficking; stabbed to death the same week as Nichols
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Former Georgia state senator who published a report exposing CPS corruption; killed in 2010, ruled murder-suicide
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI SAC who investigated the Franklin scandal and elite blackmail "brownstone operations" for decades; died 2011, associates allege arsenic poisoning
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Arrested on trafficking charges six weeks after Nichols' death; found dead in jail cell August 2019
+- [Linda Collins-Smith](Linda_Collins_Smith.md) — Former Arkansas state senator reportedly investigating DHS/CPS child trafficking; stabbed to death the same week as Nichols
+- [Nancy Schaefer](Nancy_Schaefer.md) — Former Georgia state senator who published a report exposing CPS corruption; killed in 2010, ruled murder-suicide
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated the Franklin scandal and elite blackmail "brownstone operations" for decades; died 2011, associates allege arsenic poisoning
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Arrested on trafficking charges six weeks after Nichols' death; found dead in jail cell August 2019
 
 ## Other Shocking Stories
 
-- [Linda Collins-Smith](Linda_Collins_Smith.mdx): State senator reportedly investigating child trafficking through CPS. Stabbed to death the day before Nichols died.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who published a full report on corrupt CPS child trafficking. Shot dead in 2010.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Publicly named pedophiles on national TV. Predicted her own murder. Found dead before she could testify.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher investigating elite trafficking networks. Left a dead man's switch video. Found hanged in her garage.
+- [Linda Collins-Smith](Linda_Collins_Smith.md): State senator reportedly investigating child trafficking through CPS. Stabbed to death the day before Nichols died.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who published a full report on corrupt CPS child trafficking. Shot dead in 2010.
+- [Natacha Jaitt](Natacha_Jaitt.md): Publicly named pedophiles on national TV. Predicted her own murder. Found dead before she could testify.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite trafficking networks. Left a dead man's switch video. Found hanged in her garage.
 
 ## Sources
 

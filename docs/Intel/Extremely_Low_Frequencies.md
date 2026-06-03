@@ -11,7 +11,7 @@ image: /img/docusaurus-social-card.jpg
 
 Extremely low frequency (ELF) electromagnetic research sits at the intersection of consciousness science, weapons development, and intelligence secrecy — a combination that has historically made its practitioners targets for harassment, discrediting, and worse.
 
-[Timeline](timeline.mdx) | [By Method](methods.mdx) | [Intelligence Service Murders](index.mdx)
+[Timeline](timeline.md) | [By Method](methods.md) | [Intelligence Service Murders](index.md)
 
 ## What Is ELF Research?
 
@@ -45,7 +45,7 @@ In **August 1978**, his estate at Ossining, New York was burned to the ground by
 
 *Puharich's son Andy and filmmaker Greg Mallozzi explain why his ELF research likely got him in trouble and who wanted it silenced. Source: [@JonesDanny on X](https://x.com/JonesDanny/status/2050269015931818033), May 1, 2026.*
 
-**Full profile:** [Andrija Puharich](Details/Andrija_Puharich.mdx)
+**Full profile:** [Andrija Puharich](Details/Andrija_Puharich.md)
 
 ### Key Details from the Video (Transcribed)
 
@@ -97,11 +97,11 @@ Puharich's ELF research overlapped significantly with his UAP and consciousness 
 
 ## Related Profiles
 
-* [Andrija Puharich](Details/Andrija_Puharich.mdx) — Primary case. Arson of his research estate, 1978. Fled to Mexico. Directly accused CIA.
-* [Frank Olson](Details/Frank_Olson.mdx) — CIA scientist working on psychochemical weapons; MKULTRA victim; died in fall from hotel window.
-* [Philip K. Dick](Details/Philip_K_Dick.mdx) — Author documenting FBI/CIA surveillance; home safe professionally blown open.
-* [Christopher Fallen](Details/Christopher_Fallen.mdx) — Former HAARP chief scientist; found bound and asphyxiated.
-* [Paul Vigay](Details/Paul_Vigay.mdx) — British researcher studying electromagnetic anomalies; found dead at sea.
+* [Andrija Puharich](Details/Andrija_Puharich.md) — Primary case. Arson of his research estate, 1978. Fled to Mexico. Directly accused CIA.
+* [Frank Olson](Details/Frank_Olson.md) — CIA scientist working on psychochemical weapons; MKULTRA victim; died in fall from hotel window.
+* [Philip K. Dick](Details/Philip_K_Dick.md) — Author documenting FBI/CIA surveillance; home safe professionally blown open.
+* [Christopher Fallen](Details/Christopher_Fallen.md) — Former HAARP chief scientist; found bound and asphyxiated.
+* [Paul Vigay](Details/Paul_Vigay.md) — British researcher studying electromagnetic anomalies; found dead at sea.
 
 ## Sources and Further Reading
 

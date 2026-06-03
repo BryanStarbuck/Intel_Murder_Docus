@@ -44,7 +44,7 @@ The bank's connection to the Epstein case is notable not just for the financial 
 
 On July 19, 2020, a gunman disguised as a FedEx driver arrived at Judge Esther Salas's home in North Brunswick, New Jersey. The gunman, [Roy Den Hollander](/epstein-murders/Details/Roy_Den_Hollander), shot and killed her 20-year-old son [Daniel Anderl](/epstein-murders/Details/Daniel_Anderl) and seriously wounded her husband. Salas had been assigned the Epstein-Deutsche Bank investor lawsuit just four days earlier.
 
-Den Hollander had previously worked for **[Kroll Associates](kroll_associates.mdx)** — a firm known as "the CIA of Wall Street" — which had direct ties to both Deutsche Bank and intelligence agencies. He killed himself the following day.
+Den Hollander had previously worked for **[Kroll Associates](kroll_associates.md)** — a firm known as "the CIA of Wall Street" — which had direct ties to both Deutsche Bank and intelligence agencies. He killed himself the following day.
 
 ## Connection to Epstein Network
 
@@ -78,9 +78,9 @@ The pattern of deaths among Deutsche Bank executives connected to Epstein's fina
 
 ## See Also
 
-- [JPMorgan Chase](jpmorgan_chase.mdx) — Epstein's prior bank; together they provided 20+ years of financial infrastructure
-- [Kroll Associates](kroll_associates.mdx) — "CIA of Wall Street" with executive ties to Deutsche Bank
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Deutsche Bank was the financial backbone of Epstein's later operations
+- [JPMorgan Chase](jpmorgan_chase.md) — Epstein's prior bank; together they provided 20+ years of financial infrastructure
+- [Kroll Associates](kroll_associates.md) — "CIA of Wall Street" with executive ties to Deutsche Bank
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Deutsche Bank was the financial backbone of Epstein's later operations
 - [Esther Salas](/epstein-murders/Details/Esther_Salas) — Judge assigned Epstein-Deutsche Bank case; son killed four days later
 - [Thomas Bowers](/epstein-murders/Details/Thomas_Bowers) — Head of American wealth management; oversaw Epstein accounts; found hanged
 

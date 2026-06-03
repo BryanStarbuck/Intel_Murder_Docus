@@ -79,16 +79,16 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who also texted warnings before his death while investigating intelligence-connected conspiracies
-- [Bill Cooper](Bill_Cooper.mdx) — Author and broadcaster killed after exposing government conspiracies
-- [Jenny Moore](Jenny_Moore.mdx) — Citizen journalist investigating trafficking, found dead in DC hotel
-- [Philip Marshall](Philip_Marshall.mdx) — Author exposing CIA connections, found dead
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist who also texted warnings before his death while investigating intelligence-connected conspiracies
+- [Bill Cooper](Bill_Cooper.md) — Author and broadcaster killed after exposing government conspiracies
+- [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking, found dead in DC hotel
+- [Philip Marshall](Philip_Marshall.md) — Author exposing CIA connections, found dead
 ## Other Shocking Stories
 
-- [Jan Kuciak](Jan_Kuciak.mdx): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
-- [Daniel Pearl](Daniel_Pearl.mdx): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
-- [Anastasia Baburova](Anastasia_Baburova.mdx): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
-- [Maxim Kuzminov](Maxim_Kuzminov.mdx): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
 
 ## Sources
 
@@ -130,8 +130,8 @@ Max Spiers' connection to the Epstein case is through his research into elite pe
 
 - Spiers was investigating what he believed was an elite pedophilia ring involving powerful individuals — the same type of network later documented in the Epstein case
 - His mother stated he was researching "an organisation he believed was involved in running a paedophile ring"
-- His death occurred in July 2016 — three years before Epstein's arrest but during the same period other trafficking researchers were dying ([Monica Petersen](Monica_Petersen.mdx) died four months later)
-- The pattern of conspiracy researchers and journalists investigating elite pedophilia dying (Spiers 2016, [Isaac Kappy](Isaac_Kappy.mdx) 2019, [Tracy Twyman](Tracy_Twyman.mdx) 2019) is part of the broader Epstein-adjacent death pattern
+- His death occurred in July 2016 — three years before Epstein's arrest but during the same period other trafficking researchers were dying ([Monica Petersen](Monica_Petersen.md) died four months later)
+- The pattern of conspiracy researchers and journalists investigating elite pedophilia dying (Spiers 2016, [Isaac Kappy](Isaac_Kappy.md) 2019, [Tracy Twyman](Tracy_Twyman.md) 2019) is part of the broader Epstein-adjacent death pattern
 
 ## Circumstances of Death
 
@@ -171,18 +171,18 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 
 ## See Also
 
-- [Monica Petersen](Monica_Petersen.mdx)
-- [Isaac Kappy](Isaac_Kappy.mdx)
-- [Tracy Twyman](Tracy_Twyman.mdx)
-- [Nikolai Mushegian](Nikolai_Mushegian.mdx) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
-- [Jenny Moore](Jenny_Moore.mdx) — Former police officer turned journalist investigating elite trafficking, found dead in DC hotel
+- [Monica Petersen](Monica_Petersen.md)
+- [Isaac Kappy](Isaac_Kappy.md)
+- [Tracy Twyman](Tracy_Twyman.md)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
+- [Jenny Moore](Jenny_Moore.md) — Former police officer turned journalist investigating elite trafficking, found dead in DC hotel
 
 ## Other Shocking Stories
 
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
-- [Joe Recarey](Joe_Recarey.mdx): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
-- [Ella Rich](Ella_Rich.mdx): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
-- [John Connolly](John_Connolly.mdx): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Jeffrey Epstein](Jeffrey_Epstein.md): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Ella Rich](Ella_Rich.md): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
 
 ## Sources
 

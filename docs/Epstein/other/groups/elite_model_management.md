@@ -33,7 +33,7 @@ Elite Model Management was one of the world's most prestigious modeling agencies
 
 * John Casablancas — Founder; admitted to sexual relationship with a 15-year-old; died 2013
 * **Gérald Marie** — President of Elite Model Management Europe; accused of rape by Karen Mulder, Carré Otis, and others; French investigation closed 2023 on statute of limitations grounds
-* **[Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel)** — Scout and agent at Elite; later founded [MC2](mc2_model_management.mdx) with Epstein funding; found hanged in prison 2022
+* **[Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel)** — Scout and agent at Elite; later founded [MC2](mc2_model_management.md) with Epstein funding; found hanged in prison 2022
 * [Karen Mulder](/epstein-murders/Details/Karen_Mulder) — Supermodel who named Brunel and Marie as abusers on French TV in 2001; silenced, hospitalized, career destroyed
 * [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova) — Model documented on Epstein's jet at 18; fell from 9th floor 2008
 * [Anastasia Drozdova](/epstein-murders/Details/Anastasia_Drozdova) — Korshunova's friend; died identically one year later
@@ -42,7 +42,7 @@ Elite Model Management was one of the world's most prestigious modeling agencies
 ## Connection to Epstein Network
 
 The connection between Elite and Epstein was direct:
-- Brunel was a longtime Elite agent who founded [MC2 Model Management](mc2_model_management.mdx) with Epstein's money
+- Brunel was a longtime Elite agent who founded [MC2 Model Management](mc2_model_management.md) with Epstein's money
 - [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) introduced Brunel to Epstein
 - [Virginia Giuffre](/epstein-murders/Details/Virginia_Giuffre) testified that Epstein bragged about "sleeping with over 1,000 of Brunel's girls"
 - Giuffre testified Brunel sent "12-year-old girls from France" to Epstein as a "surprise birthday gift"
@@ -70,8 +70,8 @@ The connection between Elite and Epstein was direct:
 
 ## See Also
 
-- [MC2 Model Management](mc2_model_management.mdx) — Successor agency Brunel founded with Epstein's money
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Elite served as a direct trafficking recruitment pipeline
+- [MC2 Model Management](mc2_model_management.md) — Successor agency Brunel founded with Epstein's money
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Elite served as a direct trafficking recruitment pipeline
 - [Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel) — Elite agent who procured girls for Epstein; found hanged in prison
 - [Karen Mulder](/epstein-murders/Details/Karen_Mulder) — Named predators on French TV in 2001; silenced and hospitalized
 

@@ -23,7 +23,7 @@ Founding saxophonist of Dave Matthews Band, died at 46 from pneumonia stemming f
 
 ## Assessment: UNCERTAIN
 
-LeRoi Moore's death is documented as a well-established case of accidental injury followed by medical complications over approximately seven weeks. There is no direct connection to [Jeffrey Epstein](Jeffrey_Epstein.mdx) or any trafficking network. The coroner's official cause of death was pneumonia — not, as was widely reported at the time, a blood clot. The sole tangential link to the broader network covered in this investigation is institutional, not personal: Dave Matthews Band was later signed to Wasserman Music for booking representation, and in 2026 it was revealed that Wasserman Music's founder, Casey Wasserman, had sexually-charged email correspondence with [Ghislaine Maxwell](Ghislaine_Maxwell.mdx), flew on Epstein's plane with Maxwell and former President Clinton, and ultimately sold his company in the fallout. Moore died in 2008 — thirteen years before Wasserman Music was even founded, and eighteen years before the Wasserman-Epstein connection became public. This is one of the weakest connections in this investigation, documented here for completeness and for the audience's awareness of how Epstein-connected figures penetrated even the most unlikely institutional corners of the entertainment industry.
+LeRoi Moore's death is documented as a well-established case of accidental injury followed by medical complications over approximately seven weeks. There is no direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md) or any trafficking network. The coroner's official cause of death was pneumonia — not, as was widely reported at the time, a blood clot. The sole tangential link to the broader network covered in this investigation is institutional, not personal: Dave Matthews Band was later signed to Wasserman Music for booking representation, and in 2026 it was revealed that Wasserman Music's founder, Casey Wasserman, had sexually-charged email correspondence with [Ghislaine Maxwell](Ghislaine_Maxwell.md), flew on Epstein's plane with Maxwell and former President Clinton, and ultimately sold his company in the fallout. Moore died in 2008 — thirteen years before Wasserman Music was even founded, and eighteen years before the Wasserman-Epstein connection became public. This is one of the weakest connections in this investigation, documented here for completeness and for the audience's awareness of how Epstein-connected figures penetrated even the most unlikely institutional corners of the entertainment industry.
 
 ## Circumstances of Death
 
@@ -63,7 +63,7 @@ This connection is indirect, institutional, and post-mortem. It is documented he
 
 Dave Matthews Band was signed to Paradigm Talent Agency for booking representation. In April 2021, sports and entertainment executive Casey Wasserman acquired Paradigm's North American live music business and created Wasserman Music. Dave Matthews Band became part of the Wasserman Music roster.
 
-In early 2026, following the public release of Epstein-related documents, sexually-charged emails between Wasserman and [Ghislaine Maxwell](Ghislaine_Maxwell.mdx) surfaced. Wasserman admitted to flying on Epstein's private plane with Maxwell and former President Bill Clinton on a trip to Africa. The revelation triggered a mass exodus of artists: Chappell Roan, Laufey, Orville Peck, Weyes Blood, Dropkick Murphys, Sylvan Esso, and others left the agency. Wasserman announced the sale of the company on February 13, 2026.
+In early 2026, following the public release of Epstein-related documents, sexually-charged emails between Wasserman and [Ghislaine Maxwell](Ghislaine_Maxwell.md) surfaced. Wasserman admitted to flying on Epstein's private plane with Maxwell and former President Bill Clinton on a trip to Africa. The revelation triggered a mass exodus of artists: Chappell Roan, Laufey, Orville Peck, Weyes Blood, Dropkick Murphys, Sylvan Esso, and others left the agency. Wasserman announced the sale of the company on February 13, 2026.
 
 Industry sources noted that teams representing Dave Matthews Band and Phish were expected to potentially depart as well. Neither band's representatives publicly commented.
 
@@ -110,7 +110,7 @@ None of these constitute meaningful evidence of anything other than a tragic acc
 ## Why This Connection Is Weak
 
 - **No direct Epstein link:** Moore is not named in any Epstein documents, flight logs, contact lists, or court filings.
-- **No documented trafficking activism:** Unlike [Chris Cornell](Chris_Cornell.mdx) or [Avicii](Avicii_Tim_Bergling.mdx), Moore made no known public statements about trafficking and was not publicly identified as an anti-trafficking activist before his death. X.com posts allege he co-originated *The Silent Children* documentary with Lisa Beane, but this claim is not corroborated by contemporaneous mainstream reporting from 2008 and Moore left no documented public record on the subject.
+- **No documented trafficking activism:** Unlike [Chris Cornell](Chris_Cornell.md) or [Avicii](Avicii_Tim_Bergling.md), Moore made no known public statements about trafficking and was not publicly identified as an anti-trafficking activist before his death. X.com posts allege he co-originated *The Silent Children* documentary with Lisa Beane, but this claim is not corroborated by contemporaneous mainstream reporting from 2008 and Moore left no documented public record on the subject.
 - **Medically explained death:** Pneumonia following a punctured lung, especially in a patient with pre-existing health considerations, is a recognized medical complication. The coroner's determination was straightforward.
 - **No "silencing" motive:** Moore had no known information about elite abuse networks and had not spoken publicly about trafficking, corruption, or powerful individuals.
 - **Agency connection is post-mortem and indirect:** The Wasserman-Epstein link surfaced 18 years after Moore's death. Wasserman Music itself did not exist until 2021 — 13 years after Moore died. Moore's relationship was with Paradigm Talent Agency, not with Wasserman.
@@ -129,18 +129,18 @@ LeRoi Moore's contributions to the Charlottesville community were genuine and su
 
 ## See Also
 
-- [Chris Cornell](Chris_Cornell.mdx) — Soundgarden vocalist, found hanged 2017, linked to anti-trafficking work and documentary
-- [Chester Bennington](Chester_Bennington.mdx) — Linkin Park vocalist, found hanged 2017, Cornell's close friend
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — EDM producer who worked on a trafficking documentary; died 2018 in Oman
-- [Michael Hutchence](Michael_Hutchence.mdx) — INXS frontman, found hanged 1997, family disputes suicide ruling
-- [Ghislaine Maxwell](Ghislaine_Maxwell.mdx) — Convicted Epstein co-conspirator; Maxwell's connection to Wasserman is the institutional link in this case
+- [Chris Cornell](Chris_Cornell.md) — Soundgarden vocalist, found hanged 2017, linked to anti-trafficking work and documentary
+- [Chester Bennington](Chester_Bennington.md) — Linkin Park vocalist, found hanged 2017, Cornell's close friend
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — EDM producer who worked on a trafficking documentary; died 2018 in Oman
+- [Michael Hutchence](Michael_Hutchence.md) — INXS frontman, found hanged 1997, family disputes suicide ruling
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted Epstein co-conspirator; Maxwell's connection to Wasserman is the institutional link in this case
 
 ## Other Shocking Stories
 
-- [Chris Cornell](Chris_Cornell.mdx): Rock icon reportedly planning a trafficking documentary. Found hanged in a Detroit hotel room.
-- [Avicii (Tim_Bergling)](Avicii_Tim_Bergling.mdx): EDM superstar who made a music video explicitly about child trafficking. Dead at 28 in Oman.
-- [Chester Bennington](Chester_Bennington.mdx): Linkin Park frontman. Found hanged on what would have been Chris Cornell's birthday.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Publicly named pedophiles including a close associate of Pope Francis. Found dead weeks before testifying.
+- [Chris Cornell](Chris_Cornell.md): Rock icon reportedly planning a trafficking documentary. Found hanged in a Detroit hotel room.
+- [Avicii (Tim_Bergling)](Avicii_Tim_Bergling.md): EDM superstar who made a music video explicitly about child trafficking. Dead at 28 in Oman.
+- [Chester Bennington](Chester_Bennington.md): Linkin Park frontman. Found hanged on what would have been Chris Cornell's birthday.
+- [Natacha Jaitt](Natacha_Jaitt.md): Publicly named pedophiles including a close associate of Pope Francis. Found dead weeks before testifying.
 
 ## Sources
 

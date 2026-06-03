@@ -102,7 +102,7 @@ Anyone reading the post should weigh the following:
 
 * **No independent corroboration.** Major media outlets have not reported on the trafficking allegations. No court filings or law enforcement actions are publicly known.
 * **Single source.** The claims trace to one person — Madison Cupps — primarily via independent podcasts and social-media interviews, with circulation amplified by an independent podcaster (Emma Katherine / @TheEmmapreneur) who focuses on whistleblower and survivor content.
-* **"Pizza as code word" claim** is a recurring trope in the "Pizzagate" universe of online conspiracy theories that has been thoroughly examined and contested by mainstream media; it appeared most prominently in the 2016 Comet Ping Pong narrative, which led to [Edgar Maddison Welch](Edgar_Maddison_Welch.mdx) entering the restaurant with a rifle. Welch found no evidence of trafficking and was convicted.
+* **"Pizza as code word" claim** is a recurring trope in the "Pizzagate" universe of online conspiracy theories that has been thoroughly examined and contested by mainstream media; it appeared most prominently in the 2016 Comet Ping Pong narrative, which led to [Edgar Maddison Welch](Edgar_Maddison_Welch.md) entering the restaurant with a rifle. Welch found no evidence of trafficking and was convicted.
 * **Verified business history.** CyberSlice's actual operations (an automated nationwide pizza-ordering platform built on NeXT/WebObjects) are documented in independent contemporaneous press, including 1997 *Palo Alto Online* coverage.
 * **Cupps has not been charged or sued** in connection with the allegations.
 * **Disputed cofounder list.** The April 28 post names "Steve Green, Tim Glass, and Steve Jobs" as cofounders alongside Bryan Cupps. Independent mainstream sources (PMQ Pizza, AppStorey, Boing Boing, *Palo Alto Online*) consistently list the verified cofounders as **Bryan Cupps, Tim Glass, and Jim Brimhall** — not Steve Green or Steve Jobs. Steve Jobs is documented as having placed CyberSlice's first online order (the platform was built on his company's NeXT WebObjects technology) and as having nominated Cupps for the Computerworld Smithsonian Award, but Jobs is not listed as a cofounder in any independent business source. The discrepancy is itself a meaningful data point about the post's accuracy.
@@ -119,13 +119,13 @@ Readers should treat the trafficking allegations as **unverified claims attribut
 
 ## Madison Cupps — The Source
 
-See the full profile: **[Madison Cupps](Madison_Cupps.mdx)** (or, by informal name, **[Clares Cupps](Clares_Cupps.mdx)** — same person).
+See the full profile: **[Madison Cupps](Madison_Cupps.md)** (or, by informal name, **[Clares Cupps](Clares_Cupps.md)** — same person).
 
 Summary of what is publicly known:
 
 * Reportedly the daughter of Bryan Cupps; identifies as a musician on social media (Instagram @madisonclares.music)
 * Appeared on multiple podcasts including *Warrior of Truth* (Kelly Dillon) and Spotify "070: Origins of Pizzagate w/ Madison Clares"
-* On **April 24, 2026** (post 2047769275708895549, ~59,593 impressions, 2 photo attachments), @TheEmmapreneur circulated what is presented as Madison's IC3 (Internet Crime Complaint Center) complaint, naming Bryan Cupps as the alleged abuser and naming Madison's mother **Autumn Taylor Cupps** as having found CSAM on the father's computer "but did nothing about it." Sibling names in the published version are redacted. The full attributed text and the 2 IC3 screenshot images are on the [Madison Cupps profile](Madison_Cupps.mdx#image-evidence--alleged-ic3-complaint-screenshots).
+* On **April 24, 2026** (post 2047769275708895549, ~59,593 impressions, 2 photo attachments), @TheEmmapreneur circulated what is presented as Madison's IC3 (Internet Crime Complaint Center) complaint, naming Bryan Cupps as the alleged abuser and naming Madison's mother **Autumn Taylor Cupps** as having found CSAM on the father's computer "but did nothing about it." Sibling names in the published version are redacted. The full attributed text and the 2 IC3 screenshot images are on the [Madison Cupps profile](Madison_Cupps.md#image-evidence--alleged-ic3-complaint-screenshots).
 * On **April 28, 2026** (post 2049133495377670615, ~114,262 impressions, 4 photo attachments), the same account published the longer "Original PizzaGate" statement attributed to Madison.
 * According to the @TheEmmapreneur posts, Madison "died under mysterious circumstances on April 10th, 2026"
 * This death has **not been independently confirmed** by an obituary, death record, or mainstream news report available to this entry's research as of May 13, 2026
@@ -133,20 +133,20 @@ Summary of what is publicly known:
 
 ## See Also
 
-- [Madison Cupps](Madison_Cupps.mdx) — daughter and primary accuser; reportedly deceased April 10, 2026 (unconfirmed)
-- [Clares Cupps](Clares_Cupps.mdx) — same person under informal social-media name
-- [CyberSlice](../other/groups/CyberSlice.mdx) — Group profile covering the company's verified history and the related allegations
-- [Edgar Maddison Welch](Edgar_Maddison_Welch.mdx) — "Pizzagate gunman" case; relevant context on "pizza as code word" claims
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.mdx) — Documented elite trafficking operation
-- [Henry Vinson Escort Service](../other/groups/henry_vinson_escort_service.mdx) — Documented DC blackmail operation
-- [Franklin Scandal](../other/groups/franklin_scandal.mdx) — Documented child trafficking ring with witness deaths
+- [Madison Cupps](Madison_Cupps.md) — daughter and primary accuser; reportedly deceased April 10, 2026 (unconfirmed)
+- [Clares Cupps](Clares_Cupps.md) — same person under informal social-media name
+- [CyberSlice](../other/groups/CyberSlice.md) — Group profile covering the company's verified history and the related allegations
+- [Edgar Maddison Welch](Edgar_Maddison_Welch.md) — "Pizzagate gunman" case; relevant context on "pizza as code word" claims
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Documented elite trafficking operation
+- [Henry Vinson Escort Service](../other/groups/henry_vinson_escort_service.md) — Documented DC blackmail operation
+- [Franklin Scandal](../other/groups/franklin_scandal.md) — Documented child trafficking ring with witness deaths
 
 ## Other Shocking Stories
 
-- [Edgar Maddison Welch](Edgar_Maddison_Welch.mdx): Pizzagate gunman killed by police weeks before new Epstein files validated elite trafficking premise.
-- [Aaron Owen](Aaron_Owen.mdx): Franklin scandal — brother of key witness, hanged in jail cell hours before sister was to testify.
-- [Carolyn Andriano](Carolyn_Andriano.mdx): Maxwell trial witness. Drug-free per mother. Second Epstein victim to die in Palm Beach hotel room.
-- [Mary Kennedy](Mary_Kennedy.mdx): RFK Jr.'s ex-wife. Flew on Epstein's plane. Epstein emailed "whoops" upon learning of her death.
+- [Edgar Maddison Welch](Edgar_Maddison_Welch.md): Pizzagate gunman killed by police weeks before new Epstein files validated elite trafficking premise.
+- [Aaron Owen](Aaron_Owen.md): Franklin scandal — brother of key witness, hanged in jail cell hours before sister was to testify.
+- [Carolyn Andriano](Carolyn_Andriano.md): Maxwell trial witness. Drug-free per mother. Second Epstein victim to die in Palm Beach hotel room.
+- [Mary Kennedy](Mary_Kennedy.md): RFK Jr.'s ex-wife. Flew on Epstein's plane. Epstein emailed "whoops" upon learning of her death.
 
 ## Sources
 

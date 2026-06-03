@@ -47,7 +47,7 @@ The Savile case is not directly connected to Epstein, but the parallels are exte
 
 - **Celebrity as cover:** Both used fame and social prestige to access victims and deflect suspicion
 - **Institutional protection:** BBC/NHS protected Savile; financial institutions and intelligence agencies allegedly protected Epstein
-- **Access to power:** Savile was close to the Royal Family (particularly Prince Charles); Epstein was close to [Prince Andrew](/epstein-murders/Details/Prince_Andrew), presidents, and prime ministers. See [Jeffrey Epstein Network](jeffrey_epstein_network.mdx).
+- **Access to power:** Savile was close to the Royal Family (particularly Prince Charles); Epstein was close to [Prince Andrew](/epstein-murders/Details/Prince_Andrew), presidents, and prime ministers. See [Jeffrey Epstein Network](jeffrey_epstein_network.md).
 - **Scale of abuse:** Both cases involved hundreds of victims over decades
 - **Exposure only after death/arrest:** Both operations continued for decades despite complaints and red flags
 - **Media suppression:** BBC killed the Savile investigation; multiple outlets spiked Epstein stories
@@ -74,8 +74,8 @@ The Savile case is not directly connected to Epstein, but the parallels are exte
 
 ## See Also
 
-- [Dutroux Affair](dutroux_affair.mdx) — Belgian parallel: elite pedophile ring with 27+ dead witnesses
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Celebrity predator protected by institutions; hundreds of victims
+- [Dutroux Affair](dutroux_affair.md) — Belgian parallel: elite pedophile ring with 27+ dead witnesses
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Celebrity predator protected by institutions; hundreds of victims
 - [Jill Dando](/epstein-murders/Details/Jill_Dando) — BBC presenter who compiled dossier on BBC pedophile ring; shot dead 1999
 
 ## Sources

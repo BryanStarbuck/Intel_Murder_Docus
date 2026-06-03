@@ -170,17 +170,17 @@ Rich's family has consistently stated two things simultaneously: they believe th
 
 ## See Also
 
-- [Monica Petersen](Monica_Petersen.mdx) — Human trafficking researcher died in Haiti while investigating the Clinton Foundation's operations
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who published a landmark report on CPS corruption; found dead with her husband in 2010
-- [Jenny Moore](Jenny_Moore.mdx) — Journalist who submitted child abuse allegations to the FBI and died four months later
-- [Aaron Swartz](Aaron_Swartz.mdx) — Internet activist and digital rights advocate who died in 2013 during a federal prosecution many viewed as politically motivated
+- [Monica Petersen](Monica_Petersen.md) — Human trafficking researcher died in Haiti while investigating the Clinton Foundation's operations
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who published a landmark report on CPS corruption; found dead with her husband in 2010
+- [Jenny Moore](Jenny_Moore.md) — Journalist who submitted child abuse allegations to the FBI and died four months later
+- [Aaron Swartz](Aaron_Swartz.md) — Internet activist and digital rights advocate who died in 2013 during a federal prosecution many viewed as politically motivated
 
 ## Other Shocking Stories
 
-- [Monica Petersen](Monica_Petersen.mdx): Human trafficking investigator died suddenly in Haiti while scrutinizing Clinton Foundation aid operations.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia state senator who spent years documenting CPS corruption; found shot dead with her husband.
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor who publicly named Hollywood figures as pedophiles and was found dead on an Arizona highway at 42.
-- [Jenny Moore](Jenny_Moore.mdx): Journalist who went to the FBI with child abuse claims and was found dead in a hotel room four months later.
+- [Monica Petersen](Monica_Petersen.md): Human trafficking investigator died suddenly in Haiti while scrutinizing Clinton Foundation aid operations.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator who spent years documenting CPS corruption; found shot dead with her husband.
+- [Isaac Kappy](Isaac_Kappy.md): Actor who publicly named Hollywood figures as pedophiles and was found dead on an Arizona highway at 42.
+- [Jenny Moore](Jenny_Moore.md): Journalist who went to the FBI with child abuse claims and was found dead in a hotel room four months later.
 
 ## Sources
 

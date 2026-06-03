@@ -125,7 +125,7 @@ The following anomalies are documented in investigative records and court filing
 
 ## Connected to the Franklin Scandal
 
-The North Fox Island ring's operational model — recruiting vulnerable boys, conditioning them through abuse, creating CSAM for distribution to wealthy subscribers, using fraudulent nonprofits, and achieving near-total impunity for principal operators — mirrors the structure documented a decade later in the [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.mdx) in Nebraska. Richards' 1977 Senate testimony explicitly described how networks like North Fox Island "not only recruited children as product but also fostered and communicated to the massive customer base" — suggesting an interconnected national infrastructure.
+The North Fox Island ring's operational model — recruiting vulnerable boys, conditioning them through abuse, creating CSAM for distribution to wealthy subscribers, using fraudulent nonprofits, and achieving near-total impunity for principal operators — mirrors the structure documented a decade later in the [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.md) in Nebraska. Richards' 1977 Senate testimony explicitly described how networks like North Fox Island "not only recruited children as product but also fostered and communicated to the massive customer base" — suggesting an interconnected national infrastructure.
 
 Some researchers allege a continuous network linking North Fox Island through Franklin to other rings. These connections are alleged by survivor testimony and researchers; they are not established by judicial findings.
 
@@ -142,19 +142,19 @@ Some researchers allege a continuous network linking North Fox Island through Fr
 
 ## See Also
 
-- [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.mdx) — Similar operational model: CSAM production, institutional fronts, wealthy client network, near-total impunity for principal operators
-- [Franklin Scandal](franklin_scandal.mdx) — The broader political cover-up connected to the Nebraska trafficking ring
+- [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.md) — Similar operational model: CSAM production, institutional fronts, wealthy client network, near-total impunity for principal operators
+- [Franklin Scandal](franklin_scandal.md) — The broader political cover-up connected to the Nebraska trafficking ring
 - [Gary Caradori](/epstein/Details/Gary_Caradori) — Investigator who reportedly obtained photographs before his death in a plane crash
 - [Ted Gunderson](/epstein/Details/Ted_Gunderson) — Former FBI agent who investigated elite child abuse networks including rings connected to North Fox Island
-- [Dutroux Affair](dutroux_affair.mdx) — Belgian ring with similar establishment protection; 27+ witnesses died
-- [Jordan, Minnesota (1983)](minnesota_1983.mdx) — Another ring with institutional protection; investigation collapsed despite 24 adults charged
+- [Dutroux Affair](dutroux_affair.md) — Belgian ring with similar establishment protection; 27+ witnesses died
+- [Jordan, Minnesota (1983)](minnesota_1983.md) — Another ring with institutional protection; investigation collapsed despite 24 adults charged
 
 ## Other Shocking Stories
 
 - [Gary Caradori](/epstein/Details/Gary_Caradori): Nebraska investigator's small plane exploded mid-air days before he planned to reveal evidence.
 - [Ted Gunderson](/epstein/Details/Ted_Gunderson): Former FBI chief who investigated elite child rings — died at 82 after claiming he was being poisoned.
 - [Gary Webb](/epstein/Details/Gary_Webb_Journalist): CIA-drug trafficking reporter shot himself twice in the head — ruled suicide.
-- [Dutroux Affair](dutroux_affair.mdx): Belgian pedophile ring with establishment protection — over 27 connected witnesses died.
+- [Dutroux Affair](dutroux_affair.md): Belgian pedophile ring with establishment protection — over 27 connected witnesses died.
 
 ## Sources
 

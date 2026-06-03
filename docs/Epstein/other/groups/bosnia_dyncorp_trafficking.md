@@ -94,8 +94,8 @@ While there is no direct link to Epstein, the Bosnia trafficking scandal demonst
 
 ## Related Groups
 
-- [CIA](cia.mdx) — DynCorp was a major CIA/military contractor; the contractor/UN immunity structure parallels intelligence community protection
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Structural parallels: elite perpetrators, institutional cover-up, whistleblower retaliation, minors as victims
+- [CIA](cia.md) — DynCorp was a major CIA/military contractor; the contractor/UN immunity structure parallels intelligence community protection
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural parallels: elite perpetrators, institutional cover-up, whistleblower retaliation, minors as victims
 
 ## Related Locations
 
@@ -103,8 +103,8 @@ While there is no direct link to Epstein, the Bosnia trafficking scandal demonst
 
 ## See Also
 
-- [CIA](cia.mdx) — DynCorp was a major CIA/military contractor with total impunity
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Structural parallels: elite perpetrators, institutional cover-up, minors as victims
+- [CIA](cia.md) — DynCorp was a major CIA/military contractor with total impunity
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural parallels: elite perpetrators, institutional cover-up, minors as victims
 
 ## Sources
 

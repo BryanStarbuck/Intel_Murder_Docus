@@ -139,7 +139,7 @@ Former Director of National Intelligence James Clapper stated on CNN in May 2017
 - [Umar Dzhabrailov](/epstein-murders/Details/Umar_Dzhabrailov) — Russian mogul with Maxwell/Epstein connections, found dead of gunshot to head in Moscow in 2026
 - [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Recently released DOJ files reveal extensive contacts with Russian intelligence-linked officials
 - [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova) — Kazakh-born model who appeared on Epstein's jet, fell from 9th floor in Manhattan
-- [Danny Casolaro](Danny_Casolaro.mdx) — Investigator of PROMIS intelligence software with connections to both intelligence operations and the Epstein orbit
+- [Danny Casolaro](Danny_Casolaro.md) — Investigator of PROMIS intelligence software with connections to both intelligence operations and the Epstein orbit
 
 ## Other Shocking Stories
 

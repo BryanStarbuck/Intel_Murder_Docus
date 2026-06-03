@@ -26,7 +26,7 @@ Multiple former intelligence operatives, investigative journalists, and authors 
 
 * According to former Mossad operative Ari Ben-Menashe, Robert Maxwell was recruited by Mossad in the 1960s and served as an agent for decades
 * Ben-Menashe publicly stated that Epstein and Ghislaine Maxwell were running a sexual blackmail operation "ichud" (unified) with Israeli intelligence
-* Robert Maxwell allegedly distributed backdoored [PROMIS software](promis_octopus.mdx) to intelligence agencies worldwide on behalf of Mossad
+* Robert Maxwell allegedly distributed backdoored [PROMIS software](promis_octopus.md) to intelligence agencies worldwide on behalf of Mossad
 * Seymour Hersh, in *The Samson Option* (1991), documented Maxwell's intelligence ties and claimed Maxwell tried to blackmail Mossad when his financial empire collapsed
 * Multiple authors allege Epstein's properties were wired with hidden cameras to record sexual encounters — a standard intelligence collection technique
 * Epstein's alleged intelligence connections were reportedly why prosecutor Alexander Acosta gave him the lenient 2008 plea deal; Acosta allegedly told the Trump transition team Epstein "belonged to intelligence" and to "leave it alone"
@@ -58,17 +58,17 @@ The alleged Mossad connection is considered by many researchers to be the key to
 - Ghislaine Maxwell provided the operational leadership
 - Epstein provided the social access and financial cover
 - The sexual blackmail material allegedly gave Israel leverage over American and European politicians
-- The [PROMIS software](promis_octopus.mdx) operation was an earlier version of the same concept — using technology backdoors instead of sexual compromise to gather intelligence
+- The [PROMIS software](promis_octopus.md) operation was an earlier version of the same concept — using technology backdoors instead of sexual compromise to gather intelligence
 
 ## Connection to Other Groups
 
-* [CIA](cia.mdx) — Joint involvement in PROMIS software distribution; alleged shared awareness of Epstein operation
-* [PROMIS / The Octopus](promis_octopus.mdx) — Robert Maxwell distributed backdoored PROMIS for Mossad
-* [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Alleged intelligence backing of the operation
-* [Kroll Associates](kroll_associates.mdx) — Private intelligence firm that hired former Mossad operatives; Jules Kroll met with Robert Maxwell weeks before his death
-* [Deutsche Bank](deutsche_bank.mdx) — Financial institution with intelligence community personnel overlap via Kroll
-* [Wexner / L Brands](wexner_l_brands.mdx) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
-* [Tom Alexandrovich Case](tom_alexandrovich_case.mdx) — Israeli cyber official (reporting to PM) arrested in FBI child predator sting; returned to Israel after posting bail. Has pleaded not guilty.
+* [CIA](cia.md) — Joint involvement in PROMIS software distribution; alleged shared awareness of Epstein operation
+* [PROMIS / The Octopus](promis_octopus.md) — Robert Maxwell distributed backdoored PROMIS for Mossad
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Alleged intelligence backing of the operation
+* [Kroll Associates](kroll_associates.md) — Private intelligence firm that hired former Mossad operatives; Jules Kroll met with Robert Maxwell weeks before his death
+* [Deutsche Bank](deutsche_bank.md) — Financial institution with intelligence community personnel overlap via Kroll
+* [Wexner / L Brands](wexner_l_brands.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Tom Alexandrovich Case](tom_alexandrovich_case.md) — Israeli cyber official (reporting to PM) arrested in FBI child predator sting; returned to Israel after posting bail. Has pleaded not guilty.
 
 ## Notable Books, Documentaries, and Investigations
 
@@ -99,11 +99,11 @@ An FBI Los Angeles field office memo reported a confidential human source (CHS) 
 
 ## See Also
 
-- [CIA](cia.mdx) — Joint involvement in PROMIS distribution; alleged shared awareness of Epstein
-- [PROMIS / The Octopus](promis_octopus.mdx) — Robert Maxwell distributed backdoored PROMIS software for Mossad
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Alleged Mossad-backed sexual blackmail operation
-- [Kroll Associates](kroll_associates.mdx) — Hired former Mossad operatives; Jules Kroll met Maxwell before his death
-- [Tom Alexandrovich Case](tom_alexandrovich_case.mdx) — Israeli cyber official arrested in FBI child predator sting
+- [CIA](cia.md) — Joint involvement in PROMIS distribution; alleged shared awareness of Epstein
+- [PROMIS / The Octopus](promis_octopus.md) — Robert Maxwell distributed backdoored PROMIS software for Mossad
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Alleged Mossad-backed sexual blackmail operation
+- [Kroll Associates](kroll_associates.md) — Hired former Mossad operatives; Jules Kroll met Maxwell before his death
+- [Tom Alexandrovich Case](tom_alexandrovich_case.md) — Israeli cyber official arrested in FBI child predator sting
 
 ## Sources
 

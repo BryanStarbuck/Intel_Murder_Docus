@@ -125,10 +125,10 @@ According to reports on X, the DOJ deleted Epstein files from its public databas
 
 ## Related Pages
 
-* [Department of Justice (DOJ)](../groups/doj.mdx) — DOJ's role in the Epstein case
+* [Department of Justice (DOJ)](../groups/doj.md) — DOJ's role in the Epstein case
 * [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Epstein's profile
 * [Pam Bondi](/epstein-murders/Details/Pam_Bondi) — Former AG who oversaw the file releases
-* [USVI Government](../groups/usvi_government.mdx) — Territorial government that protected Epstein
+* [USVI Government](../groups/usvi_government.md) — Territorial government that protected Epstein
 
 ## Sources
 

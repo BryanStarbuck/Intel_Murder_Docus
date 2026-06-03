@@ -18,7 +18,7 @@ Intelligence surveillance software stolen from Inslaw Inc., backdoored, and dist
 
 ## Overview
 
-PROMIS (Prosecutors Management Information System) was case management software developed by Inslaw Inc. in the early 1980s. The U.S. Department of Justice allegedly stole the software, and intelligence agencies — reportedly [Mossad](mossad.mdx) and [CIA](cia.mdx) — modified it with a backdoor that allowed covert surveillance of any system running it. The backdoored software was then sold to intelligence agencies, banks, and governments worldwide, giving the operators access to their most sensitive data.
+PROMIS (Prosecutors Management Information System) was case management software developed by Inslaw Inc. in the early 1980s. The U.S. Department of Justice allegedly stole the software, and intelligence agencies — reportedly [Mossad](mossad.md) and [CIA](cia.md) — modified it with a backdoor that allowed covert surveillance of any system running it. The backdoored software was then sold to intelligence agencies, banks, and governments worldwide, giving the operators access to their most sensitive data.
 
 [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) allegedly served as the primary distributor of the backdoored software for Mossad. Journalist [Danny Casolaro](https://intelligencemurders.com/intelligence-service-murders/Details/Danny_Casolaro/) was investigating this operation — which he called "The Octopus" — when he was found dead in a hotel bathtub with his wrists slashed 10–12 times in August 1991. Maxwell died three months later.
 
@@ -51,7 +51,7 @@ The PROMIS operation and the Epstein operation share a common thread: both were 
 
 1. **[Robert Maxwell](/epstein-murders/Details/Robert_Maxwell)** distributed backdoored PROMIS software for Mossad
 2. Robert Maxwell's daughter **[Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell)** became the operational leader of Epstein's sexual blackmail network
-3. Both operations allegedly served [Mossad](mossad.mdx) intelligence objectives
+3. Both operations allegedly served [Mossad](mossad.md) intelligence objectives
 4. Danny Casolaro and Robert Maxwell died within three months of each other in 1991
 5. The PROMIS operation gathered intelligence through technology; the Epstein operation gathered it through sexual compromise — both served the same alleged purpose
 
@@ -80,9 +80,9 @@ The PROMIS operation and the Epstein operation share a common thread: both were 
 
 ## See Also
 
-- [Mossad](mossad.mdx) — Robert Maxwell distributed backdoored PROMIS for Israeli intelligence
-- [CIA](cia.mdx) — CIA allegedly modified PROMIS with surveillance backdoor
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Maxwell family links both operations across generations
+- [Mossad](mossad.md) — Robert Maxwell distributed backdoored PROMIS for Israeli intelligence
+- [CIA](cia.md) — CIA allegedly modified PROMIS with surveillance backdoor
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Maxwell family links both operations across generations
 - [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — Alleged primary distributor; died three months after Casolaro
 - [Danny Casolaro](https://intelligencemurders.com/intelligence-service-murders/Details/Danny_Casolaro/) — Journalist investigating "The Octopus"; wrists slashed August 1991
 

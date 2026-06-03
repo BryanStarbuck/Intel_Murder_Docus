@@ -22,7 +22,7 @@ Iconic fashion designer found hanged in her Manhattan apartment — three days b
 
 ## Assessment: SUSPICIOUS
 
-Kate Spade's death checks several boxes that collectively warrant documentation beyond simple suicide. She died three days before [Anthony Bourdain](Anthony_Bourdain.mdx) in the same manner, making them the third and fourth prominent figures in a 13-month hanging cluster. Her husband Andy Spade was present in the apartment when she died. Two days after her death, he was photographed outside the building wearing a cartoon mouse mask — behavior that generated global media attention and has never been explained to public satisfaction. Her family's account of her mental state is contradicted by other family members, and her closest associates said she was "trying to work things out" and had sounded "happy" the night before. A separate sub-cluster of three elite fashion designers — McQueen (2010), L'Wren Scott (2014), and Spade (2018) — all hanged themselves using clothing or accessories; this pattern within a single industry is statistically unusual. No direct Epstein network connection has been established by credible evidence, but the pattern, the timing, and the peculiar post-death behavior of her husband all justify serious documentation.
+Kate Spade's death checks several boxes that collectively warrant documentation beyond simple suicide. She died three days before [Anthony Bourdain](Anthony_Bourdain.md) in the same manner, making them the third and fourth prominent figures in a 13-month hanging cluster. Her husband Andy Spade was present in the apartment when she died. Two days after her death, he was photographed outside the building wearing a cartoon mouse mask — behavior that generated global media attention and has never been explained to public satisfaction. Her family's account of her mental state is contradicted by other family members, and her closest associates said she was "trying to work things out" and had sounded "happy" the night before. A separate sub-cluster of three elite fashion designers — McQueen (2010), L'Wren Scott (2014), and Spade (2018) — all hanged themselves using clothing or accessories; this pattern within a single industry is statistically unusual. No direct Epstein network connection has been established by credible evidence, but the pattern, the timing, and the peculiar post-death behavior of her husband all justify serious documentation.
 
 ## Circumstances of Death
 
@@ -79,11 +79,11 @@ The documented facts, as established by PolitiFact: The *Kate Spade New York* br
 ### The Death Cluster Connection
 
 Kate Spade is included in the documented 2017–2018 celebrity death cluster by hanging:
-- [Chris Cornell](Chris_Cornell.mdx) — May 18, 2017 (hanging, Detroit)
-- [Chester Bennington](Chester_Bennington.mdx) — July 20, 2017 (hanging, Palos Verdes Estates, CA)
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — April 20, 2018 (self-inflicted wounds, Muscat, Oman)
+- [Chris Cornell](Chris_Cornell.md) — May 18, 2017 (hanging, Detroit)
+- [Chester Bennington](Chester_Bennington.md) — July 20, 2017 (hanging, Palos Verdes Estates, CA)
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — April 20, 2018 (self-inflicted wounds, Muscat, Oman)
 - Kate Spade — June 5, 2018 (hanging, New York City)
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — June 8, 2018 (hanging, Strasbourg, France)
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging, Strasbourg, France)
 
 Five prominent public figures, all at the peak of cultural influence, dead within 13 months. Three of them within 8 weeks of each other in 2018. Cornell and Bennington were documented survivors of childhood sexual abuse and had personal, stated motivations to expose exploitation of children. Avicii made a short documentary explicitly about child sex trafficking in 2012. Bourdain had made extensive public statements about elite protection of sexual abusers in the post-Weinstein climate. Spade's documented connection to this subject matter is the weakest of the five, but her placement in the cluster — three days before Bourdain — has made her part of every analysis of the group.
 
@@ -101,7 +101,7 @@ Both Scott and Spade used a scarf and a door handle in New York apartments. The 
 - **"Ask Daddy!" — the note:** The specific wording "Ask Daddy!" at the end of a suicide note addressed to a 13-year-old is unusual in ways that are difficult to quantify but widely noted. Suicide notes typically explain or say goodbye. Directing a child to ask the father an unstated question — with an exclamation point — reads as deliberately incomplete, as if there is something to be disclosed that Kate did not write down. The note's full content was never released.
 - **The mouse mask:** Andy Spade's decision to appear publicly outside the family building wearing a Disney character's face two days after his wife's death has no satisfactory public explanation. His representative did not provide a statement. The choice of character — a mouse from a child-rescue film — generated immediate and sustained symbolic interpretation, regardless of intent.
 - **Husband was in the apartment:** Andy Spade was present in the couple's apartment, in a separate room, when Kate died and when her body was discovered.
-- **Three days before Bourdain:** Spade died June 5. [Anthony Bourdain](Anthony_Bourdain.mdx) died June 8. Three days apart. Both by hanging. Both in Europe or New York. Both at the peak of their careers.
+- **Three days before Bourdain:** Spade died June 5. [Anthony Bourdain](Anthony_Bourdain.md) died June 8. Three days apart. Both by hanging. Both in Europe or New York. Both at the peak of their careers.
 - **Conflicting family accounts:** Kate's estranged sister characterized her death as not unexpected and said Kate had been planning it since 2014. Andy Spade said he had spoken to her the night before and she "sounded happy." Kate's best friend said she had been "trying to work things out" and was in a positive trajectory with her marriage. These accounts are not reconcilable with each other.
 - **Living separately but husband present in apartment:** The couple had been living separately for 10 months. Yet Andy Spade was in the apartment the morning Kate died. The circumstances of how and why he was there have not been explained in detail.
 - **Fashion designer death sub-cluster:** Spade was the third elite fashion designer to die by hanging in eight years; the second to use a scarf on a door handle in a New York apartment.
@@ -141,20 +141,20 @@ The 2017–2018 broader cluster may represent a statistical coincidence amplifie
 > -- NYPD Chief of Detectives Dermot Shea, [CBS News](https://www.cbsnews.com/news/kate-spade-fashion-designer-dead-apparent-suicide-sister-struggled-bipolar-disorder/)
 
 ## See Also
-- [Anthony Bourdain](Anthony_Bourdain.mdx) — Died by hanging three days after Spade; both in the same cluster; Bourdain had made prominent public statements about elite protection of abusers
-- [Chris Cornell](Chris_Cornell.mdx) — 2017–2018 death cluster; hanging; documented childhood sexual abuse survivor
-- [Chester Bennington](Chester_Bennington.mdx) — 2017–2018 death cluster; hanging; childhood sexual abuse survivor; died on Cornell's birthday
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — 2017–2018 death cluster; made explicit anti-trafficking documentary; died weeks before Spade
-- [Ines Zorreguieta](Ines_Zorreguieta.mdx) — Dutch princess who died by hanging the same week as Spade; three high-profile hangings in one week
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Central figure in the trafficking network connected to the broader death cluster narrative
-- [Mary Kennedy](Mary_Kennedy.mdx) — Kennedy family; high-profile woman whose hanging was ruled suicide amid disputed circumstances
+- [Anthony Bourdain](Anthony_Bourdain.md) — Died by hanging three days after Spade; both in the same cluster; Bourdain had made prominent public statements about elite protection of abusers
+- [Chris Cornell](Chris_Cornell.md) — 2017–2018 death cluster; hanging; documented childhood sexual abuse survivor
+- [Chester Bennington](Chester_Bennington.md) — 2017–2018 death cluster; hanging; childhood sexual abuse survivor; died on Cornell's birthday
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — 2017–2018 death cluster; made explicit anti-trafficking documentary; died weeks before Spade
+- [Ines Zorreguieta](Ines_Zorreguieta.md) — Dutch princess who died by hanging the same week as Spade; three high-profile hangings in one week
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Central figure in the trafficking network connected to the broader death cluster narrative
+- [Mary Kennedy](Mary_Kennedy.md) — Kennedy family; high-profile woman whose hanging was ruled suicide amid disputed circumstances
 
 ## Other Shocking Stories
 
-- [Chester Bennington](Chester_Bennington.mdx): Linkin Park singer hanged on Chris Cornell's exact birthday. Family says it wasn't suicide. No conventional note.
-- [Anthony Bourdain](Anthony_Bourdain.mdx): Celebrity chef hanged three days after Spade. Had called out elite abuse protectors in post-Weinstein era.
-- [Avicii (Tim_Bergling)](Avicii_Tim_Bergling.mdx): DJ made anti-child-trafficking documentary. Dead at 28 of self-inflicted wounds. Family disputes official account.
-- [Chris Cornell](Chris_Cornell.mdx): Soundgarden vocalist hanged in Detroit hotel room. Wife denied suicide. Texted her affectionately hours before.
+- [Chester Bennington](Chester_Bennington.md): Linkin Park singer hanged on Chris Cornell's exact birthday. Family says it wasn't suicide. No conventional note.
+- [Anthony Bourdain](Anthony_Bourdain.md): Celebrity chef hanged three days after Spade. Had called out elite abuse protectors in post-Weinstein era.
+- [Avicii (Tim_Bergling)](Avicii_Tim_Bergling.md): DJ made anti-child-trafficking documentary. Dead at 28 of self-inflicted wounds. Family disputes official account.
+- [Chris Cornell](Chris_Cornell.md): Soundgarden vocalist hanged in Detroit hotel room. Wife denied suicide. Texted her affectionately hours before.
 
 ## Sources
 - [TMZ: Kate Spade Suicide Note — "Ask Daddy"](https://www.tmz.com/2018/06/05/kate-spade-suicide-note-daughter-ask-daddy/)

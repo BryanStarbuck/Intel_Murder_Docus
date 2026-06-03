@@ -145,15 +145,15 @@ No motive has been confirmed by police.
 
 - [COVID-19](/intel/Covid) — pandemic-era topic page covering the public-health, regulatory, and policy disputes that this case has been linked to in social-media commentary
 - [Hydroxychloroquine](/intel/Hydroxychloroquine) — topic page on the antimalarial drug, its COVID-19 controversy, and Apotex's role as a generic producer
-- [Brandy Vaughan](Brandy_Vaughan.mdx) — former Merck sales rep and pharmaceutical-industry critic who died in 2020 after years of documented stalking
-- [David Kelly](David_Kelly.mdx) — UK weapons inspector whose death is widely cited as another high-profile, contested ruling
+- [Brandy Vaughan](Brandy_Vaughan.md) — former Merck sales rep and pharmaceutical-industry critic who died in 2020 after years of documented stalking
+- [David Kelly](David_Kelly.md) — UK weapons inspector whose death is widely cited as another high-profile, contested ruling
 
 ## Other Shocking Stories
 
-- [Brandy Vaughan](Brandy_Vaughan.mdx): Former Merck rep predicted her own death after years of stalking. Found dead at 44 of sudden blood clots.
-- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower carrying evidence to the New York Times — forced off the road and killed.
-- [Edmond Safra](Edmond_Safra.mdx): Billionaire banker died in a Monaco fire after his Mossad-trained security was conveniently absent.
-- [Danny Casolaro](Danny_Casolaro.mdx): Told friends "if anything happens to me, it's not suicide." Found with wrists slashed in a hotel.
+- [Brandy Vaughan](Brandy_Vaughan.md): Former Merck rep predicted her own death after years of stalking. Found dead at 44 of sudden blood clots.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower carrying evidence to the New York Times — forced off the road and killed.
+- [Edmond Safra](Edmond_Safra.md): Billionaire banker died in a Monaco fire after his Mossad-trained security was conveniently absent.
+- [Danny Casolaro](Danny_Casolaro.md): Told friends "if anything happens to me, it's not suicide." Found with wrists slashed in a hotel.
 
 ## Sources
 

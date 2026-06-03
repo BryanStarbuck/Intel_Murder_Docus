@@ -128,17 +128,17 @@ The counterargument is equally important: Turner's claims were investigated by t
 
 ## See Also
 
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — the central figure in this investigation
-- [Nadia Marcinko](Nadia_Marcinko.mdx) — Epstein's pilot (no relation to Richard Marcinko), missing since January 2024
-- [Daniel Alfin](Daniel_Alfin.mdx) — FBI agent killed serving child exploitation warrant, February 2021
-- [Laura Schwartzenberger](Laura_Schwartzenberger.mdx) — FBI agent killed serving child exploitation warrant, February 2021
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — the central figure in this investigation
+- [Nadia Marcinko](Nadia_Marcinko.md) — Epstein's pilot (no relation to Richard Marcinko), missing since January 2024
+- [Daniel Alfin](Daniel_Alfin.md) — FBI agent killed serving child exploitation warrant, February 2021
+- [Laura Schwartzenberger](Laura_Schwartzenberger.md) — FBI agent killed serving child exploitation warrant, February 2021
 
 ## Other Shocking Stories
 
-- [Jean-Luc Brunel](Jean_Luc_Brunel.mdx): Found hanged in Paris prison awaiting trafficking trial — same as Epstein.
-- [Gary Caradori](Gary_Caradori.mdx): Franklin scandal investigator's plane disintegrated mid-air; briefcase vanished.
-- [Craig Spence](Craig_Spence.mdx): DC lobbyist bugged his home and ran CIA blackmail operation; died before grand jury.
-- [Virginia Giuffre](Virginia_Giuffre.mdx): Top Epstein accuser posted "not suicidal" — then died by gunshot in Australia.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in Paris prison awaiting trafficking trial — same as Epstein.
+- [Gary Caradori](Gary_Caradori.md): Franklin scandal investigator's plane disintegrated mid-air; briefcase vanished.
+- [Craig Spence](Craig_Spence.md): DC lobbyist bugged his home and ran CIA blackmail operation; died before grand jury.
+- [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser posted "not suicidal" — then died by gunshot in Australia.
 
 ## Sources
 

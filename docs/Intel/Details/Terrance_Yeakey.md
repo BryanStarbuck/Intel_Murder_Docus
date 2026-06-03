@@ -110,16 +110,16 @@ According to public reporting compiled by Wikipedia, *All That's Interesting*, a
 
 ## See Also
 
-- [Phil Schneider](Phil_Schneider.mdx) — Self-described government whistleblower who died the same year (1996) with all his research materials stolen.
-- [Bill Cooper](Bill_Cooper.mdx) — Conspiracy researcher shot by sheriff's deputies in 2001; had publicly warned of major US attacks.
-- [Karen Silkwood](Karen_Silkwood.mdx) — Nuclear whistleblower whose suspicious car crash en route to a reporter remains contested.
+- [Phil Schneider](Phil_Schneider.md) — Self-described government whistleblower who died the same year (1996) with all his research materials stolen.
+- [Bill Cooper](Bill_Cooper.md) — Conspiracy researcher shot by sheriff's deputies in 2001; had publicly warned of major US attacks.
+- [Karen Silkwood](Karen_Silkwood.md) — Nuclear whistleblower whose suspicious car crash en route to a reporter remains contested.
 
 ## Other Shocking Stories
 
-- [Phil Schneider](Phil_Schneider.mdx): Geologist found strangled with a catheter tube weeks after publicly saying any "suicide" of his was murder.
-- [Gary Webb](Gary_Webb.mdx): Pulitzer-contributing journalist found shot twice in the head after exposing CIA-Contra cocaine; ruled suicide.
-- [Danny Casolaro](Danny_Casolaro.mdx): Investigator told friends "if I die, it wasn't suicide" — found with wrists slashed in a hotel room.
-- [Job Price](Job_Price.mdx): SEAL Team 4 commander; four forensic experts said the Afghanistan "suicide" scene was staged.
+- [Phil Schneider](Phil_Schneider.md): Geologist found strangled with a catheter tube weeks after publicly saying any "suicide" of his was murder.
+- [Gary Webb](Gary_Webb.md): Pulitzer-contributing journalist found shot twice in the head after exposing CIA-Contra cocaine; ruled suicide.
+- [Danny Casolaro](Danny_Casolaro.md): Investigator told friends "if I die, it wasn't suicide" — found with wrists slashed in a hotel room.
+- [Job Price](Job_Price.md): SEAL Team 4 commander; four forensic experts said the Afghanistan "suicide" scene was staged.
 
 ## Sources
 

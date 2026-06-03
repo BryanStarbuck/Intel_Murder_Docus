@@ -182,10 +182,10 @@ Posts show a screenshot of the original alongside the death announcement and cal
 Natacha Jaitt belongs to a disturbing and documented pattern of individuals who publicly stated they would not kill themselves — and then died:
 
 - **[Isaac Kappy](/intel/Details/Isaac_Kappy/)** — Hollywood actor who named pedophiles, recorded videos saying "if I die, it wasn't suicide," stepped or was pushed from a bridge in May 2019 — three months after Jaitt.
-- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx)** — The "DC Madam," told multiple people she would never hang herself, found hanged 16 days after her conviction.
-- **[Tracy Twyman](Tracy_Twyman.mdx)** — Researcher who continued Kappy's trafficking investigation, left a recorded "dead man's switch" video, found hanged in her garage July 2019.
-- **[Sabrina Bittencourt](Sabrina_Bittencourt.mdx)** — Exposed the baby-trafficking ring of "John of God," died in hiding in Barcelona in February 2019 — the same month as Jaitt. Her son said "they killed my mother."
-- **[Nikolai Mushegian](Nikolai_Mushegian.mdx)** — Tweeted specifically about CIA/Mossad sex trafficking networks, drowned four hours later.
+- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "DC Madam," told multiple people she would never hang herself, found hanged 16 days after her conviction.
+- **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who continued Kappy's trafficking investigation, left a recorded "dead man's switch" video, found hanged in her garage July 2019.
+- **[Sabrina Bittencourt](Sabrina_Bittencourt.md)** — Exposed the baby-trafficking ring of "John of God," died in hiding in Barcelona in February 2019 — the same month as Jaitt. Her son said "they killed my mother."
+- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted specifically about CIA/Mossad sex trafficking networks, drowned four hours later.
 
 Jaitt's death occurred in February 2019 — the opening of a cluster that also included Bittencourt (February 2019), Kappy (May 2019), Twyman (July 2019), and Epstein himself (August 2019).
 
@@ -194,7 +194,7 @@ Jaitt's death occurred in February 2019 — the opening of a cluster that also i
 While Jaitt's accusations focused on Argentine figures rather than Epstein specifically, her case connects to the global elite abuse pattern in several ways:
 
 - **The Independiente football club abuse ring** parallels documented institutional child exploitation in the Epstein network, the Jimmy Savile/BBC scandal, and the Franklin scandal — powerful institutions used as cover and access pipelines.
-- **The Vatican/Church connection** — Jaitt's accusations against Vera and Pope Francis echo [Sabrina Bittencourt](Sabrina_Bittencourt.mdx)'s exposure of "John of God" (Joao Teixeira de Faria), a Brazilian faith healer with connections to powerful political and church figures.
+- **The Vatican/Church connection** — Jaitt's accusations against Vera and Pope Francis echo [Sabrina Bittencourt](Sabrina_Bittencourt.md)'s exposure of "John of God" (Joao Teixeira de Faria), a Brazilian faith healer with connections to powerful political and church figures.
 - **Intelligence service involvement** — The documented AFI connection to Jaitt's case parallels the Epstein network's documented intelligence connections (Mossad, CIA), in which intelligence services both exploit and manage blackmail operations.
 - **International trafficking networks** — Elite abuse networks operate across national borders. The same patterns — powerful men, institutional protection, whistleblowers silenced, evidence managed — appear across Epstein's operation, the Dutroux affair in Belgium, and the networks Jaitt exposed in Argentina.
 
@@ -232,19 +232,19 @@ While Jaitt's accusations focused on Argentine figures rather than Epstein speci
 
 ## See Also
 
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx) — Exposed John of God's baby-selling operation; died in hiding in Barcelona, same month as Jaitt
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher who continued trafficking investigation, left dead man's switch recording, found hanged
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — "DC Madam" who told multiple people she would never hang herself; found hanged 16 days after conviction
-- [Isaac Kappy](Isaac_Kappy.mdx) — Hollywood actor who named pedophiles and said "if I die, it wasn't suicide"; fell from a bridge May 2019
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia senator who published full report on CPS corruption; killed 2010
-- [Janet Ossebaard](Janet_Ossebaard.mdx) — Dutch filmmaker behind trafficking documentary "Fall of the Cabal"; said she'd never commit suicide, found dead 2023
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Exposed John of God's baby-selling operation; died in hiding in Barcelona, same month as Jaitt
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher who continued trafficking investigation, left dead man's switch recording, found hanged
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who told multiple people she would never hang herself; found hanged 16 days after conviction
+- [Isaac Kappy](Isaac_Kappy.md) — Hollywood actor who named pedophiles and said "if I die, it wasn't suicide"; fell from a bridge May 2019
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia senator who published full report on CPS corruption; killed 2010
+- [Janet Ossebaard](Janet_Ossebaard.md) — Dutch filmmaker behind trafficking documentary "Fall of the Cabal"; said she'd never commit suicide, found dead 2023
 
 ## Other Shocking Stories
 
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx): Exposed a baby-selling operation tied to a Brazilian faith healer. Died in hiding in Barcelona the same month as Jaitt.
-- [Tracy Twyman](Tracy_Twyman.mdx): Left a dead man's switch recording warning of her own death. Found hanged in her garage five months after Jaitt died.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who published a detailed report on child trafficking through CPS. Shot dead at home.
-- [Jonathan Nichols](Jonathan_Nichols.mdx): Authored death penalty laws for child molesters. Found dead with the gun reportedly across the room from his body.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation tied to a Brazilian faith healer. Died in hiding in Barcelona the same month as Jaitt.
+- [Tracy Twyman](Tracy_Twyman.md): Left a dead man's switch recording warning of her own death. Found hanged in her garage five months after Jaitt died.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who published a detailed report on child trafficking through CPS. Shot dead at home.
+- [Jonathan Nichols](Jonathan_Nichols.md): Authored death penalty laws for child molesters. Found dead with the gun reportedly across the room from his body.
 
 ## Sources
 

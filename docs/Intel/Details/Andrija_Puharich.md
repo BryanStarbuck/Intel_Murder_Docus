@@ -108,17 +108,17 @@ The research carried direct weapons implications: Puharich claimed the Soviet Un
 
 ## See Also
 
-- [Philip K. Dick](Philip_K_Dick.mdx) — Sci-fi author under documented FBI/CIA surveillance; home safe professionally blown open in 1971
-- [Frank Olson](Frank_Olson.mdx) — CIA scientist dosed with LSD (MKULTRA); died in fall from hotel window
-- [Paul Vigay](Paul_Vigay.mdx) — British UFO/crop circle researcher found in sea; open verdict
-- [Christopher Fallen](Christopher_Fallen.mdx) — AFRL physicist and former HAARP chief scientist; found bound and suffocated
+- [Philip K. Dick](Philip_K_Dick.md) — Sci-fi author under documented FBI/CIA surveillance; home safe professionally blown open in 1971
+- [Frank Olson](Frank_Olson.md) — CIA scientist dosed with LSD (MKULTRA); died in fall from hotel window
+- [Paul Vigay](Paul_Vigay.md) — British UFO/crop circle researcher found in sea; open verdict
+- [Christopher Fallen](Christopher_Fallen.md) — AFRL physicist and former HAARP chief scientist; found bound and suffocated
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.mdx): CIA dosed him with LSD without consent. He fell from a hotel window. Medical examiner ruled homicide.
-- [Philip K. Dick](Philip_K_Dick.mdx): FBI surveillance confirmed. His home safe was blown open with professional explosives. Never solved.
-- [Gary Webb](Gary_Webb.mdx): Exposed CIA-Contra cocaine pipeline. Found with two bullets in his head. Ruled suicide.
-- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower carrying documents to the NY Times. Rear-bumped off the road. Settlement paid.
+- [Frank Olson](Frank_Olson.md): CIA dosed him with LSD without consent. He fell from a hotel window. Medical examiner ruled homicide.
+- [Philip K. Dick](Philip_K_Dick.md): FBI surveillance confirmed. His home safe was blown open with professional explosives. Never solved.
+- [Gary Webb](Gary_Webb.md): Exposed CIA-Contra cocaine pipeline. Found with two bullets in his head. Ruled suicide.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower carrying documents to the NY Times. Rear-bumped off the road. Settlement paid.
 
 ## Counterarguments / Alternative Explanations
 

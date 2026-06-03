@@ -61,11 +61,11 @@ The Wexner connection is foundational to the Epstein operation:
 
 ## Connection to Other Groups
 
-* [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Wexner was the financial foundation of Epstein's power
-* [CIA](cia.mdx) — Southern Air Transport (CIA-owned 1960–1973) relocated to Columbus, Ohio and shipped Wexner's L Brands products
-* [Mossad](mossad.mdx) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
-* [Deutsche Bank](deutsche_bank.mdx) — Epstein's bank after JPMorgan; financial nexus
-* [JPMorgan Chase](jpmorgan_chase.mdx) — Epstein's bank before Deutsche Bank
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Wexner was the financial foundation of Epstein's power
+* [CIA](cia.md) — Southern Air Transport (CIA-owned 1960–1973) relocated to Columbus, Ohio and shipped Wexner's L Brands products
+* [Mossad](mossad.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Deutsche Bank](deutsche_bank.md) — Epstein's bank after JPMorgan; financial nexus
+* [JPMorgan Chase](jpmorgan_chase.md) — Epstein's bank before Deutsche Bank
 
 ## Notable Books and Investigations
 
@@ -88,10 +88,10 @@ The Wexner connection is foundational to the Epstein operation:
 
 ## See Also
 
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — Wexner's wealth was the financial foundation of Epstein's power
-- [CIA](cia.mdx) — Southern Air Transport (CIA-owned) relocated to Wexner's Columbus base
-- [Mossad](mossad.mdx) — Mega Group co-founded by Wexner alleged to have Mossad connections
-- [Deutsche Bank](deutsche_bank.mdx) — Epstein's bank after JPMorgan; financial nexus
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Wexner's wealth was the financial foundation of Epstein's power
+- [CIA](cia.md) — Southern Air Transport (CIA-owned) relocated to Wexner's Columbus base
+- [Mossad](mossad.md) — Mega Group co-founded by Wexner alleged to have Mossad connections
+- [Deutsche Bank](deutsche_bank.md) — Epstein's bank after JPMorgan; financial nexus
 - [Arthur Shapiro](/epstein-murders/Details/Arthur_Shapiro) — Wexner's financial manager gunned down 1985; Epstein took his position
 
 ## Sources

@@ -39,13 +39,13 @@ MC2 Model Management was a modeling agency founded by [Jean-Luc Brunel](/epstein
 
 MC2 was not merely connected to the Epstein network — it was allegedly created as part of it. The financial backing came directly from Epstein, and the agency's co-founder was one of Epstein's most important trafficking associates. The agency provided the infrastructure (visa sponsorship, housing, travel) needed to move young women across international borders.
 
-MC2 represents the evolution of the modeling-industry trafficking pipeline from [Elite Model Management](elite_model_management.mdx), where Brunel had previously worked. After allegations surfaced about his conduct at Elite, Brunel simply created a new agency — with Epstein's money.
+MC2 represents the evolution of the modeling-industry trafficking pipeline from [Elite Model Management](elite_model_management.md), where Brunel had previously worked. After allegations surfaced about his conduct at Elite, Brunel simply created a new agency — with Epstein's money.
 
 ## Why This Group Matters
 
 * Direct financial link between Epstein and a modeling agency used for trafficking
 * Demonstrates how legitimate business structures were created specifically to facilitate abuse
-* The agency's Tel Aviv office raises questions about [intelligence service connections](mossad.mdx)
+* The agency's Tel Aviv office raises questions about [intelligence service connections](mossad.md)
 * Brunel's death in prison before trial means the full extent of MC2's operations may never be known
 
 ## Related Locations
@@ -55,9 +55,9 @@ MC2 represents the evolution of the modeling-industry trafficking pipeline from 
 
 ## See Also
 
-- [Elite Model Management](elite_model_management.mdx) — Predecessor agency where Brunel previously worked
-- [Jeffrey Epstein Network](jeffrey_epstein_network.mdx) — MC2 was created as part of Epstein's trafficking infrastructure
-- [Mossad](mossad.mdx) — MC2's Tel Aviv office raises questions about intelligence connections
+- [Elite Model Management](elite_model_management.md) — Predecessor agency where Brunel previously worked
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — MC2 was created as part of Epstein's trafficking infrastructure
+- [Mossad](mossad.md) — MC2's Tel Aviv office raises questions about intelligence connections
 - [Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel) — Co-founder; found hanged in Paris prison before trial
 
 ## Sources

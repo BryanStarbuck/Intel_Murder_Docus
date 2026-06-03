@@ -25,7 +25,7 @@ Page Six editor at the New York Post who received a detailed email from former M
 
 ## Assessment: JOURNALIST — RECEIVED WITNESS ACCOUNT
 
-Emily Smith was the named recipient of a May 2021 email from [Richard C. Curtiss](Richard_C_Curtiss.mdx), a former MCC inmate who claimed firsthand knowledge of how Jeffrey Epstein was killed. The email, which surfaced in the 2026 DOJ Epstein Files release, describes disabled cameras, a "goon squad" that recorded killings, and direct death threats Curtiss received inside the facility. Critically, the email is followed by 24 or more fully redacted pages in the DOJ document set — raising questions about what additional information, threats, or evidence those pages contain.
+Emily Smith was the named recipient of a May 2021 email from [Richard C. Curtiss](Richard_C_Curtiss.md), a former MCC inmate who claimed firsthand knowledge of how Jeffrey Epstein was killed. The email, which surfaced in the 2026 DOJ Epstein Files release, describes disabled cameras, a "goon squad" that recorded killings, and direct death threats Curtiss received inside the facility. Critically, the email is followed by 24 or more fully redacted pages in the DOJ document set — raising questions about what additional information, threats, or evidence those pages contain.
 
 ## The Email
 
@@ -81,17 +81,17 @@ At the time Curtiss emailed her in May 2021, Smith was serving as editor of Page
 
 ## See Also
 
-- [Richard C. Curtiss](Richard_C_Curtiss.mdx) — Former MCC inmate who sent this email; claims firsthand knowledge of Epstein's death
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Died at MCC under disputed circumstances
-- [Ghislaine Maxwell](Ghislaine_Maxwell.mdx) — Held at MDC Brooklyn, referenced in the email
+- [Richard C. Curtiss](Richard_C_Curtiss.md) — Former MCC inmate who sent this email; claims firsthand knowledge of Epstein's death
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Died at MCC under disputed circumstances
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Held at MDC Brooklyn, referenced in the email
 - [Jenny Moore](/intelligence-service-murders/Details/Jenny_Moore/) — Journalist investigating child trafficking who was found dead in a DC hotel
 
 ## Other Shocking Stories
 
-- [Richard C. Curtiss](Richard_C_Curtiss.mdx): Former MCC inmate who described a "goon squad" that recorded killings inside the prison where Epstein died.
-- [Virginia Giuffre](Virginia_Giuffre.mdx): Top Epstein accuser who posted she was "not suicidal" — then died by reported suicide in 2024.
+- [Richard C. Curtiss](Richard_C_Curtiss.md): Former MCC inmate who described a "goon squad" that recorded killings inside the prison where Epstein died.
+- [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser who posted she was "not suicidal" — then died by reported suicide in 2024.
 - [Danny Casolaro](/intelligence-service-murders/Details/Danny_Casolaro/): Investigating the PROMIS/Maxwell intel operation. Found with wrists slashed in a hotel. Briefcase missing.
-- [Karen Mulder](Karen_Mulder.mdx): Named Epstein's recruiter on French TV. Footage destroyed. Hospitalized for five months — paid for by her accused rapist.
+- [Karen Mulder](Karen_Mulder.md): Named Epstein's recruiter on French TV. Footage destroyed. Hospitalized for five months — paid for by her accused rapist.
 
 ## Sources
 

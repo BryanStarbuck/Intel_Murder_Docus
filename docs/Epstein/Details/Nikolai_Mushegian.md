@@ -33,7 +33,7 @@ Mushegian was born in Lexington, Kentucky, to parents who had immigrated from th
 
 His contributions included: co-founding MakerDAO and designing the DAI stablecoin (2017), developing Wrapped Ether (WETH, 2016), co-authoring the Balancer DEX white paper (2019), co-founding RAI stablecoin (2020), and co-founding RICO stablecoin (2022).
 
-Mushegian had relocated to Puerto Rico — the same Caribbean island territory where [Jeffrey Epstein](Jeffrey_Epstein.mdx) maintained significant operations and where multiple Epstein associates relocated for tax advantages. In the period before his death, he had expressed concerns about surveillance and threats in online posts. His connection to the Epstein network scope is geographic and thematic: he publicly alleged an intelligence-linked trafficking blackmail operation in the same Caribbean region Epstein used, and died hours after doing so.
+Mushegian had relocated to Puerto Rico — the same Caribbean island territory where [Jeffrey Epstein](Jeffrey_Epstein.md) maintained significant operations and where multiple Epstein associates relocated for tax advantages. In the period before his death, he had expressed concerns about surveillance and threats in online posts. His connection to the Epstein network scope is geographic and thematic: he publicly alleged an intelligence-linked trafficking blackmail operation in the same Caribbean region Epstein used, and died hours after doing so.
 
 ## Circumstances of Death
 
@@ -48,7 +48,7 @@ Puerto Rico police conducted an investigation and found no evidence of foul play
 - Was found fully clothed with his wallet still on him, which is inconsistent with someone who voluntarily went swimming
 - Died at 29, young and in apparent good health, with no reported history of mental illness or suicidal ideation
 - The official riptide explanation was accepted with no further investigation despite the extraordinary timing of his pre-death tweet
-- His allegations of intelligence agency sex trafficking in the Caribbean mirror the documented structure of [Jeffrey Epstein](Jeffrey_Epstein.mdx)'s network, which had alleged ties to Mossad through [Robert Maxwell](Robert_Maxwell.mdx) and others
+- His allegations of intelligence agency sex trafficking in the Caribbean mirror the documented structure of [Jeffrey Epstein](Jeffrey_Epstein.md)'s network, which had alleged ties to Mossad through [Robert Maxwell](Robert_Maxwell.md) and others
 - Autopsy found only a small skull laceration; no other signs of violence — but this finding was presented as ruling out foul play rather than as unexplained
 
 ## The Counterargument
@@ -56,15 +56,15 @@ Puerto Rico police conducted an investigation and found no evidence of foul play
 Police in Puerto Rico found no physical evidence of foul play. The ocean at Condado Beach has known riptide hazards; drowning deaths occur there. Mushegian had shown signs of mental disturbance in the period before his death — his tweet may reflect paranoid ideation rather than intelligence about a real plot. His claims about his ex-girlfriend being a spy and planting a laptop are unverifiable and fit a pattern of conspiracy-adjacent thinking common in certain cryptocurrency community circles. Being clothed at a beach does not in itself suggest foul play in a riptide scenario. The crypto community and public figures like Candace Owens amplified the case quickly and emotionally, which increased public awareness but did not produce additional evidence.
 
 ## See Also
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — operated trafficking network from Caribbean islands, the same region Mushegian warned about
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — operated trafficking network from Caribbean islands, the same region Mushegian warned about
 - [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/) — another public figure who warned about elite pedophilia networks and predicted his own death
-- [Tracy Twyman](Tracy_Twyman.mdx) — researcher who warned about elite trafficking and was found dead
+- [Tracy Twyman](Tracy_Twyman.md) — researcher who warned about elite trafficking and was found dead
 - [Max Spiers](/intelligence-service-murders/Details/Max_Spiers/) — researcher investigating elite pedophilia, told mother to "investigate" if he died, found dead in Poland
 
 ## Pattern: Those Who Speak Out
 Mushegian fits a documented pattern of individuals who publicly accused intelligence agencies or elite networks of sex trafficking and died shortly afterward:
 - [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/): "If I die, it wasn't suicide" — fell from bridge (2019)
-- [Tracy Twyman](Tracy_Twyman.mdx): left dead man's switch — found hanged (2019)
+- [Tracy Twyman](Tracy_Twyman.md): left dead man's switch — found hanged (2019)
 - [Max Spiers](/intelligence-service-murders/Details/Max_Spiers/): "If anything happens to me, investigate" — found dead (2016)
 - [Jenny Moore](/intelligence-service-murders/Details/Jenny_Moore/): journalist investigating trafficking — found dead in DC hotel (2018)
 - Nikolai Mushegian: "They will torture me to death" — drowned hours later (2022)
@@ -84,9 +84,9 @@ Mushegian fits a documented pattern of individuals who publicly accused intellig
 - Caribbean — Drowned at Condado Beach in San Juan, Puerto Rico; tweeted about CIA/Mossad trafficking ring operating out of Puerto Rico and Caribbean islands
 ## Other Shocking Stories
 
-- [Kevin Preiss](Kevin_Preiss.mdx): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
 - [Max Spiers](/intelligence-service-murders/Details/Max_Spiers/): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
-- [Aivar Rehe](Aivar_Rehe.mdx): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.
+- [Aivar Rehe](Aivar_Rehe.md): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.
 - [Philip Haney](/intelligence-service-murders/Details/Philip_Haney/): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
 
 ## Sources

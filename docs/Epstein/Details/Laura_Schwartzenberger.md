@@ -1,13 +1,13 @@
 ---
 title: Laura Schwartzenberger
-description: "FBI Special Agent killed in the line of duty on February 2, 2021 in Sunrise, Florida, while serving a warrant on a child pornography suspect alongside Special Agent [Daniel Alfin](Daniel_Alfin.mdx)."
+description: "FBI Special Agent killed in the line of duty on February 2, 2021 in Sunrise, Florida, while serving a warrant on a child pornography suspect alongside Special Agent [Daniel Alfin](Daniel_Alfin.md)."
 keywords: ["Laura Schwartzenberger", "Jeffrey Epstein", "Ghislaine Maxwell", "sex trafficking", "blackmail", "elite trafficking ring", "Epstein network", "suspicious death", "intelligence murder", "cover-up"]
 sidebar_label: "Laura Schwartzenberger"
 image: /img/docusaurus-social-card.jpg
 ---
 
 # Laura Schwartzenberger
-FBI Special Agent killed in the line of duty on February 2, 2021 in Sunrise, Florida, while serving a warrant on a child pornography suspect alongside Special Agent [Daniel Alfin](Daniel_Alfin.mdx). She had been with the FBI since December 2005 and spent her career on violent crimes against children.
+FBI Special Agent killed in the line of duty on February 2, 2021 in Sunrise, Florida, while serving a warrant on a child pornography suspect alongside Special Agent [Daniel Alfin](Daniel_Alfin.md). She had been with the FBI since December 2005 and spent her career on violent crimes against children.
 
 | Field | Details |
 |-------|---------|
@@ -22,11 +22,11 @@ FBI Special Agent killed in the line of duty on February 2, 2021 in Sunrise, Flo
 
 ## Assessment: MODERATE SUSPICION
 
-Schwartzenberger's death is confirmed as homicide — shot by the suspect as agents entered his apartment. That is not in dispute. Her connection to this investigation is the same as [Daniel Alfin](Daniel_Alfin.mdx)'s: conspiracy circles have alleged that both agents were investigating Jeffrey Epstein at the time of their deaths. No mainstream source, FBI statement, or court record confirms this. The warrant they served was on a child pornography suspect named David Lee Huber — not an Epstein-related case based on all available public records. This profile documents both the facts and the allegation.
+Schwartzenberger's death is confirmed as homicide — shot by the suspect as agents entered his apartment. That is not in dispute. Her connection to this investigation is the same as [Daniel Alfin](Daniel_Alfin.md)'s: conspiracy circles have alleged that both agents were investigating Jeffrey Epstein at the time of their deaths. No mainstream source, FBI statement, or court record confirms this. The warrant they served was on a child pornography suspect named David Lee Huber — not an Epstein-related case based on all available public records. This profile documents both the facts and the allegation.
 
 ## Circumstances of Death
 
-On February 2, 2021, a team of FBI agents arrived at an apartment complex in Sunrise, Florida to execute a federal search warrant. The target was **David Lee Huber**, a child pornography suspect. As agents entered, Huber opened fire. Special Agent [Daniel Alfin](Daniel_Alfin.mdx) and Special Agent Schwartzenberger were both fatally shot. Three other agents sustained injuries. Huber barricaded himself inside and later shot himself.
+On February 2, 2021, a team of FBI agents arrived at an apartment complex in Sunrise, Florida to execute a federal search warrant. The target was **David Lee Huber**, a child pornography suspect. As agents entered, Huber opened fire. Special Agent [Daniel Alfin](Daniel_Alfin.md) and Special Agent Schwartzenberger were both fatally shot. Three other agents sustained injuries. Huber barricaded himself inside and later shot himself.
 
 Schwartzenberger was transported to a local hospital and pronounced dead. Both agents died the same morning.
 
@@ -51,13 +51,13 @@ In the same social media and conspiracy coverage that claimed Alfin had been inv
 The allegation circulates because:
 1. Both agents worked on crimes against children — the same category as the Epstein case
 2. Their deaths came approximately two years after Epstein's death in custody
-3. The pattern of law enforcement dying before their Epstein-connected cases conclude fits a theme documented in other profiles (see [Joe Recarey](Joe_Recarey.mdx))
+3. The pattern of law enforcement dying before their Epstein-connected cases conclude fits a theme documented in other profiles (see [Joe Recarey](Joe_Recarey.md))
 
 None of these are evidence of a connection — they are contextual proximity.
 
 ## Why This Case Is Included
 
-See [Daniel Alfin](Daniel_Alfin.mdx). The same questions apply: What was the full scope of David Lee Huber's network? Were there connections to larger organized networks? These questions remain publicly unanswered.
+See [Daniel Alfin](Daniel_Alfin.md). The same questions apply: What was the full scope of David Lee Huber's network? Were there connections to larger organized networks? These questions remain publicly unanswered.
 
 The deaths of two FBI crimes-against-children agents killed by a single warrant subject on the same morning in Florida — the epicenter of Epstein's operations — is documented here because:
 
@@ -80,17 +80,17 @@ The deaths of two FBI crimes-against-children agents killed by a single warrant 
 
 ## See Also
 
-- [Daniel Alfin](Daniel_Alfin.mdx) — died alongside Schwartzenberger on February 2, 2021
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — the central figure in this investigation
-- [Joe Recarey](Joe_Recarey.mdx) — lead Palm Beach detective who built the Epstein case; died unexpectedly at 50
-- [Richard Marcinko](Richard_Marcinko.mdx) — SEAL Team Six founder implicated in Ken Turner's Epstein files emails
+- [Daniel Alfin](Daniel_Alfin.md) — died alongside Schwartzenberger on February 2, 2021
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — the central figure in this investigation
+- [Joe Recarey](Joe_Recarey.md) — lead Palm Beach detective who built the Epstein case; died unexpectedly at 50
+- [Richard Marcinko](Richard_Marcinko.md) — SEAL Team Six founder implicated in Ken Turner's Epstein files emails
 
 ## Other Shocking Stories
 
-- [Daniel Alfin](Daniel_Alfin.mdx): Killed alongside Schwartzenberger — two FBI child crimes agents shot dead the same morning in Florida.
-- [Joe Recarey](Joe_Recarey.mdx): Interviewed 30+ Epstein victims, built the original case — died of a "brief illness" at 50.
-- [Gary Caradori](Gary_Caradori.mdx): Franklin scandal investigator — plane broke apart in the sky over Illinois; briefcase missing.
-- [Virginia Giuffre](Virginia_Giuffre.mdx): Primary Epstein accuser posted "not suicidal" on Instagram — died by gunshot in Australia.
+- [Daniel Alfin](Daniel_Alfin.md): Killed alongside Schwartzenberger — two FBI child crimes agents shot dead the same morning in Florida.
+- [Joe Recarey](Joe_Recarey.md): Interviewed 30+ Epstein victims, built the original case — died of a "brief illness" at 50.
+- [Gary Caradori](Gary_Caradori.md): Franklin scandal investigator — plane broke apart in the sky over Illinois; briefcase missing.
+- [Virginia Giuffre](Virginia_Giuffre.md): Primary Epstein accuser posted "not suicidal" on Instagram — died by gunshot in Australia.
 
 ## Sources
 

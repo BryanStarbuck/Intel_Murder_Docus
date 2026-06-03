@@ -97,7 +97,7 @@ The CIA drug-running networks Webb exposed are connected to the broader intellig
 - [Danny Casolaro](/intelligence-service-murders/Details/Danny_Casolaro/) — Journalist investigating PROMIS/Octopus scandal, found dead in 1991
 - [Jenny Moore](/intelligence-service-murders/Details/Jenny_Moore/) — Citizen journalist investigating child trafficking, found dead in 2018
 - [Vince Foster](/intelligence-service-murders/Details/Vince_Foster/) — Clinton White House official found dead in 1993, connected to Arkansas-era controversies
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Intelligence-connected sex trafficker whose network overlaps with CIA drug-running infrastructure
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Intelligence-connected sex trafficker whose network overlaps with CIA drug-running infrastructure
 
 ## Sources
 

@@ -93,18 +93,18 @@ Independent reporting after his death repeatedly placed his social circle inside
 
 ## See Also
 
-- [Aaron Swartz](Aaron_Swartz.mdx) — Reddit co-founder and internet freedom activist whose father said he was "killed by the government." Built SecureDrop one month before his ruled-suicide death.
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who publicly accused Hollywood elites of pedophilia and said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest.
-- [Danny Casolaro](Danny_Casolaro.mdx) — Investigated PROMIS software and "The Octopus" — CIA/DOJ/intelligence connections plus the Epstein orbit. Found with wrists slashed in a hotel room.
-- [Max Spiers](Max_Spiers.mdx) — UK conspiracy researcher investigating elite pedophile rings. Texted his mother "if anything happens to me, investigate" two days before his death.
+- [Aaron Swartz](Aaron_Swartz.md) — Reddit co-founder and internet freedom activist whose father said he was "killed by the government." Built SecureDrop one month before his ruled-suicide death.
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly accused Hollywood elites of pedophilia and said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest.
+- [Danny Casolaro](Danny_Casolaro.md) — Investigated PROMIS software and "The Octopus" — CIA/DOJ/intelligence connections plus the Epstein orbit. Found with wrists slashed in a hotel room.
+- [Max Spiers](Max_Spiers.md) — UK conspiracy researcher investigating elite pedophile rings. Texted his mother "if anything happens to me, investigate" two days before his death.
 - Cross-investigation: [Epstein Kill List](/epstein-murders/) — for the full network of Epstein-orbit deaths.
 
 ## Other Shocking Stories
 
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor naming Hollywood pedophiles, plunged from bridge onto I-40 sixty days before Epstein's arrest.
-- [Aaron Swartz](Aaron_Swartz.mdx): SecureDrop's creator, hanged at 26, one month after finishing the whistleblower tool.
-- [Danny Casolaro](Danny_Casolaro.mdx): Octopus investigator found with twelve wrist slashes; missing briefcase never recovered.
-- [Max Spiers](Max_Spiers.mdx): MKULTRA researcher vomited two litres of black fluid in a Warsaw apartment; Polish probe called "wholly incompetent."
+- [Isaac Kappy](Isaac_Kappy.md): Actor naming Hollywood pedophiles, plunged from bridge onto I-40 sixty days before Epstein's arrest.
+- [Aaron Swartz](Aaron_Swartz.md): SecureDrop's creator, hanged at 26, one month after finishing the whistleblower tool.
+- [Danny Casolaro](Danny_Casolaro.md): Octopus investigator found with twelve wrist slashes; missing briefcase never recovered.
+- [Max Spiers](Max_Spiers.md): MKULTRA researcher vomited two litres of black fluid in a Warsaw apartment; Polish probe called "wholly incompetent."
 
 ## Sources
 

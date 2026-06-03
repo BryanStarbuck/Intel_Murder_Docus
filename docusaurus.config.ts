@@ -14,6 +14,10 @@ const config: Config = {
     v4: true,
   },
 
+  markdown: {
+    format: "detect",
+  },
+
   url: siteUrl,
   baseUrl,
   trailingSlash: true,

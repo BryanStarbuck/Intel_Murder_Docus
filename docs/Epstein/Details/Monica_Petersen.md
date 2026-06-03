@@ -123,17 +123,17 @@ The scale of ongoing public interest, however, is itself a documented fact. Pete
 
 ## See Also
 
-- [Klaus Eberwein](Klaus_Eberwein.mdx) — Haitian government official found dead in a Miami hotel room with a gunshot to the head, one week before testifying before Haiti's anti-corruption commission; ruled suicide
-- [Jenny Moore](Jenny_Moore.mdx) — Independent journalist and former police officer found dead in a Washington D.C.-area hotel room four months after submitting child abuse allegations to the FBI
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator shot dead after publishing a report on CPS-connected child trafficking networks
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI Special Agent in Charge who spent decades investigating elite pedophile rings
+- [Klaus Eberwein](Klaus_Eberwein.md) — Haitian government official found dead in a Miami hotel room with a gunshot to the head, one week before testifying before Haiti's anti-corruption commission; ruled suicide
+- [Jenny Moore](Jenny_Moore.md) — Independent journalist and former police officer found dead in a Washington D.C.-area hotel room four months after submitting child abuse allegations to the FBI
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator shot dead after publishing a report on CPS-connected child trafficking networks
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating elite pedophile rings
 
 ## Other Shocking Stories
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator shot dead in her home after publishing a report naming child trafficking networks within CPS.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life.
-- [Jenny Moore](Jenny_Moore.mdx): Former cop and journalist died of apparent seizure in a DC-area hotel — weeks after handing child abuse evidence to the FBI.
-- [Klaus Eberwein](Klaus_Eberwein.mdx): Haitian official found shot dead the week before he was due to testify about Haiti reconstruction corruption.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator shot dead in her home after publishing a report naming child trafficking networks within CPS.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life.
+- [Jenny Moore](Jenny_Moore.md): Former cop and journalist died of apparent seizure in a DC-area hotel — weeks after handing child abuse evidence to the FBI.
+- [Klaus Eberwein](Klaus_Eberwein.md): Haitian official found shot dead the week before he was due to testify about Haiti reconstruction corruption.
 
 ## Sources
 

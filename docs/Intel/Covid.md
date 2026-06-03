@@ -29,13 +29,13 @@ This investigation does not take a position on virology, vaccine efficacy, lockd
 1. Were people **killed, threatened, or silenced** during or because of the pandemic in ways that show signs of intelligence-service or state-level operations?
 2. Were **suspicious deaths** of doctors, scientists, journalists, or whistleblowers connected — directly or by timing — to specific COVID-19 disputes (treatments, origins, mandates, or data)?
 3. Did the public dispute over particular treatments (most prominently **[hydroxychloroquine](/intel/Hydroxychloroquine)**) produce documented retaliation against people raising contrary views?
-4. Are there cases pre-dating the pandemic — like the **2017 murder of [Barry Sherman](Details/Barry_Sherman.mdx)**, founder of Canada's largest generic-drug manufacturer Apotex — that, with hindsight, fall within this investigation's scope?
+4. Are there cases pre-dating the pandemic — like the **2017 murder of [Barry Sherman](Details/Barry_Sherman.md)**, founder of Canada's largest generic-drug manufacturer Apotex — that, with hindsight, fall within this investigation's scope?
 
 This page collects those threads. Each linked profile applies the project's strict defamation and attribution rules.
 
 ## The Sherman Murders and Apotex
 
-In December 2017 — roughly two years before the COVID-19 pandemic emerged — **[Barry Sherman](Details/Barry_Sherman.mdx)** and his wife **Honey Sherman** were found dead in their Toronto home, strangled with belts and posed in the basement pool room. After Toronto Police initially briefed reporters that a murder-suicide was the leading theory, the family hired its own forensic team; six weeks later, on January 26, 2018, police publicly reclassified the case as a "targeted double homicide." It remains unsolved as of 2026, despite the largest privately-funded reward in Canadian history.
+In December 2017 — roughly two years before the COVID-19 pandemic emerged — **[Barry Sherman](Details/Barry_Sherman.md)** and his wife **Honey Sherman** were found dead in their Toronto home, strangled with belts and posed in the basement pool room. After Toronto Police initially briefed reporters that a murder-suicide was the leading theory, the family hired its own forensic team; six weeks later, on January 26, 2018, police publicly reclassified the case as a "targeted double homicide." It remains unsolved as of 2026, despite the largest privately-funded reward in Canadian history.
 
 Sherman was the founder and majority owner of **Apotex Inc.**, Canada's largest pharmaceutical company and one of the world's largest generic drug manufacturers. Apotex produced generic hydroxychloroquine (under the brand *Apo-Hydroxyquine*) and was a significant supplier in Canada and several other markets.
 
@@ -49,7 +49,7 @@ The questions the post raises:
 
 These questions remain open. Readers should treat them as questions raised by the public, not findings.
 
-**See:** [Barry Sherman profile](Details/Barry_Sherman.mdx) | [Hydroxychloroquine topic page](/intel/Hydroxychloroquine)
+**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [Hydroxychloroquine topic page](/intel/Hydroxychloroquine)
 
 ## Additional Account from a GTA Resident
 
@@ -68,7 +68,7 @@ This is a personal recollection and a set of circulating claims, not findings of
 
 The recollection is preserved because the contributor was geographically and temporally proximate to the Sherman case and personally noted the COVID-era thematic connection that this investigation now examines.
 
-For the full case file, see the [Barry Sherman profile](Details/Barry_Sherman.mdx). For the drug context, see the [Hydroxychloroquine topic page](/intel/Hydroxychloroquine).
+For the full case file, see the [Barry Sherman profile](Details/Barry_Sherman.md). For the drug context, see the [Hydroxychloroquine topic page](/intel/Hydroxychloroquine).
 
 ## Related Profiles in This Investigation
 
@@ -76,9 +76,9 @@ Several deaths already documented elsewhere in the investigation have direct or 
 
 | Person | Year | Connection |
 |--------|------|-----------|
-| [Barry Sherman](Details/Barry_Sherman.mdx) | 2017 | Apotex founder; major generic producer of hydroxychloroquine. Unsolved double homicide later linked by social-media speculation to the COVID-19 hydroxychloroquine dispute. |
-| [Brandy Vaughan](Details/Brandy_Vaughan.mdx) | 2020 | Former Merck sales rep and Vioxx whistleblower who founded *Learn The Risk*. Found dead at 44 of sudden blood clots after years of documented stalking and home intrusions. Had publicly predicted her death and named pharmaceutical-industry retaliation. |
-| [Trevor Moore](Details/Trevor_Moore.mdx) | 2021 | Comedian who created the viral "Epstein/COVID kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19's emergence. Fell from a balcony at age 41. |
+| [Barry Sherman](Details/Barry_Sherman.md) | 2017 | Apotex founder; major generic producer of hydroxychloroquine. Unsolved double homicide later linked by social-media speculation to the COVID-19 hydroxychloroquine dispute. |
+| [Brandy Vaughan](Details/Brandy_Vaughan.md) | 2020 | Former Merck sales rep and Vioxx whistleblower who founded *Learn The Risk*. Found dead at 44 of sudden blood clots after years of documented stalking and home intrusions. Had publicly predicted her death and named pharmaceutical-industry retaliation. |
+| [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Comedian who created the viral "Epstein/COVID kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19's emergence. Fell from a balcony at age 41. |
 
 If new COVID-related profiles are added to the investigation, they should be linked from this table.
 
@@ -89,7 +89,7 @@ The drug **hydroxychloroquine (HCQ)** — long approved for malaria, lupus, and 
 - The drug's pre-pandemic use and safety record
 - The March–June 2020 FDA Emergency Use Authorization and its revocation
 - The retracted *Lancet* and *NEJM* "Surgisphere" studies
-- The role of generic manufacturers including [Apotex](Details/Barry_Sherman.mdx)
+- The role of generic manufacturers including [Apotex](Details/Barry_Sherman.md)
 - The retaliation reported by physicians who advocated for HCQ use
 
 ## What This Investigation Does Not Claim
@@ -105,9 +105,9 @@ What this investigation **does** track:
 
 ## See Also
 
-- [Barry Sherman](Details/Barry_Sherman.mdx) — Apotex founder, unsolved 2017 double homicide
+- [Barry Sherman](Details/Barry_Sherman.md) — Apotex founder, unsolved 2017 double homicide
 - [Hydroxychloroquine](/intel/Hydroxychloroquine) — the drug, the dispute, and the people connected to it
-- [Brandy Vaughan](Details/Brandy_Vaughan.mdx) — Merck whistleblower whose 2020 death raised questions about pharmaceutical-industry retaliation
+- [Brandy Vaughan](Details/Brandy_Vaughan.md) — Merck whistleblower whose 2020 death raised questions about pharmaceutical-industry retaliation
 - [Intelligence Service Murders — Overview](/intel/) — full investigation index
 
 ## Sources

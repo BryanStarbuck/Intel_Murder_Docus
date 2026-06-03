@@ -85,7 +85,7 @@ The FBI, citing standard policy, neither confirmed nor denied receiving any subm
 - **Hotel room, far from home:** Moore died in a Washington D.C.-area hotel room — she was not at her California home. She had come to the D.C. area specifically in connection with her federal agency submissions and follow-up.
 - **Police ruling of "not suspicious" made before toxicology returned:** The Prince George's County Police determination that the death was not suspicious was made before toxicology and autopsy results were available — meaning the ruling was based on scene investigation alone, not confirmed cause of death.
 - **Final interview**: Moore gave a detailed interview five weeks before her death laying out explosive allegations. Her awareness that this work could get her killed is documented on tape.
-- **Pattern:** Moore's death occurred during a period when multiple individuals investigating elite child sex abuse — [Nancy Schaefer](Nancy_Schaefer.mdx), [Monica Petersen](Monica_Petersen.mdx), [Tracy Twyman](Tracy_Twyman.mdx) — died under contested circumstances within a few years of each other.
+- **Pattern:** Moore's death occurred during a period when multiple individuals investigating elite child sex abuse — [Nancy Schaefer](Nancy_Schaefer.md), [Monica Petersen](Monica_Petersen.md), [Tracy Twyman](Tracy_Twyman.md) — died under contested circumstances within a few years of each other.
 
 ## The Counterargument
 
@@ -127,17 +127,17 @@ The case continues to circulate in online communities, particularly in discussio
 
 ## See Also
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator shot dead after publishing a report naming child trafficking networks within CPS
-- [Monica Petersen](Monica_Petersen.mdx) — Human trafficking researcher who died by hanging in Haiti while allegedly investigating Clinton Foundation-linked trafficking operations
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI Special Agent in Charge who spent decades investigating elite pedophile rings before his death
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator shot dead after publishing a report naming child trafficking networks within CPS
+- [Monica Petersen](Monica_Petersen.md) — Human trafficking researcher who died by hanging in Haiti while allegedly investigating Clinton Foundation-linked trafficking operations
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating elite pedophile rings before his death
 
 ## Other Shocking Stories
 
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator shot dead in her home after publishing a report naming child trafficking networks within CPS.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life.
-- [Monica Petersen](Monica_Petersen.mdx): Human trafficking researcher died in Haiti — body too embalmed for autopsy — while allegedly investigating Clinton Foundation operations.
-- [Natacha Jaitt](Natacha_Jaitt.mdx): Argentine model publicly named elite pedophiles live on television, then died at a sex party before testifying.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator shot dead in her home after publishing a report naming child trafficking networks within CPS.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite ritual abuse found hanged at 41 after warning followers she feared for her life.
+- [Monica Petersen](Monica_Petersen.md): Human trafficking researcher died in Haiti — body too embalmed for autopsy — while allegedly investigating Clinton Foundation operations.
+- [Natacha Jaitt](Natacha_Jaitt.md): Argentine model publicly named elite pedophiles live on television, then died at a sex party before testifying.
 
 ## Sources
 

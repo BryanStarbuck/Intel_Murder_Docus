@@ -88,7 +88,7 @@ As The Sentinel Network noted: "The structural architecture is the same as what 
 
 ## Connection to AFRL Cluster (2025-2026)
 
-The [AFRL Scientist Cluster (2025-2029)](afrl_cluster_2025_2029.mdx) mirrors the GEC-Marconi pattern:
+The [AFRL Scientist Cluster (2025-2029)](afrl_cluster_2025_2029.md) mirrors the GEC-Marconi pattern:
 - Defense-connected individuals
 - Anomalous circumstances
 - Jurisdictional fragmentation preventing pattern recognition
@@ -97,7 +97,7 @@ The [AFRL Scientist Cluster (2025-2029)](afrl_cluster_2025_2029.mdx) mirrors the
 Both clusters involve scientists working on dual-use technology (civilian applications with military implications) in the domains of sensors, materials, directed energy, and space-based systems.
 
 ## Navigation
-- Next period: [AFRL Scientist Cluster (2025-2029)](afrl_cluster_2025_2029.mdx)
+- Next period: [AFRL Scientist Cluster (2025-2029)](afrl_cluster_2025_2029.md)
 
 ## Sources
 - [THE LONG COUNT -- The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)

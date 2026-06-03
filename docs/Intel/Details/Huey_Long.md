@@ -93,17 +93,17 @@ The 1992 Starrs forensic team's findings were inconclusive, not definitive — t
 
 ## See Also
 
-- [Paul Wellstone](Paul_Wellstone.mdx) — U.S. Senator killed in 2002 plane crash; Iraq War's loudest opponent.
-- [George S. Patton](George_Patton.mdx) — General who died 12 days after a minor crash; OSS operative later claimed assassination.
-- [Frank Olson](Frank_Olson.mdx) — Pre-modern-CIA-era death (1953) re-investigated by family and historians; exhumation found cranial injuries.
-- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.mdx) — Politically connected American shot execution-style; diary seized and destroyed by CIA's Angleton.
+- [Paul Wellstone](Paul_Wellstone.md) — U.S. Senator killed in 2002 plane crash; Iraq War's loudest opponent.
+- [George S. Patton](George_Patton.md) — General who died 12 days after a minor crash; OSS operative later claimed assassination.
+- [Frank Olson](Frank_Olson.md) — Pre-modern-CIA-era death (1953) re-investigated by family and historians; exhumation found cranial injuries.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — Politically connected American shot execution-style; diary seized and destroyed by CIA's Angleton.
 
 ## Other Shocking Stories
 
-- [Trevor Moore](Trevor_Moore.mdx): Comedian who exposed elite trafficking to 100 million viewers, fell from a balcony at age 41.
-- [Pat Tillman](Pat_Tillman.mdx): NFL star turned Army Ranger shot three times in the head at close range; Pentagon covered it up.
-- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower run off the road carrying documents to a New York Times reporter.
-- [Danny Casolaro](Danny_Casolaro.mdx): Investigative journalist found with slashed wrists; briefcase missing; said "if I die, it wasn't suicide."
+- [Trevor Moore](Trevor_Moore.md): Comedian who exposed elite trafficking to 100 million viewers, fell from a balcony at age 41.
+- [Pat Tillman](Pat_Tillman.md): NFL star turned Army Ranger shot three times in the head at close range; Pentagon covered it up.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower run off the road carrying documents to a New York Times reporter.
+- [Danny Casolaro](Danny_Casolaro.md): Investigative journalist found with slashed wrists; briefcase missing; said "if I die, it wasn't suicide."
 
 ## Sources
 

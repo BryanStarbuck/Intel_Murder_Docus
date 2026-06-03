@@ -94,22 +94,22 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 
 ## See Also
 
-- [Bill Cooper](Bill_Cooper.mdx) -- government critic shot dead under suspicious circumstances
-- [William Colby](William_Colby.mdx) -- former CIA Director who died under suspicious circumstances
-- [David Kelly](David_Kelly.mdx) -- government whistleblower found dead, ruled suicide
-- [Gary Webb](Gary_Webb.mdx) -- investigative journalist who died from two gunshots to the head, ruled suicide
-- [Danny Casolaro](Danny_Casolaro.mdx) -- journalist investigating government corruption found dead, ruled suicide
-- [Seth Rich](Seth_Rich.mdx) -- DNC staffer shot dead in DC; another politically connected death with disputed circumstances
-- [John Rossi](John_Rossi.mdx) — Army general found dead two days before assuming command of Space and Missile Defense Command; like Haney, a government insider whose death was ruled suicide under suspicious timing
-- [Paul Vigay](Paul_Vigay.mdx) — British IT consultant and researcher found dead in the sea; open verdict at inquest, family disputed suicide theory
+- [Bill Cooper](Bill_Cooper.md) -- government critic shot dead under suspicious circumstances
+- [William Colby](William_Colby.md) -- former CIA Director who died under suspicious circumstances
+- [David Kelly](David_Kelly.md) -- government whistleblower found dead, ruled suicide
+- [Gary Webb](Gary_Webb.md) -- investigative journalist who died from two gunshots to the head, ruled suicide
+- [Danny Casolaro](Danny_Casolaro.md) -- journalist investigating government corruption found dead, ruled suicide
+- [Seth Rich](Seth_Rich.md) -- DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- [John Rossi](John_Rossi.md) — Army general found dead two days before assuming command of Space and Missile Defense Command; like Haney, a government insider whose death was ruled suicide under suspicious timing
+- [Paul Vigay](Paul_Vigay.md) — British IT consultant and researcher found dead in the sea; open verdict at inquest, family disputed suicide theory
 - **Epstein investigation profile:** [Philip Haney](https://intelligencemurders.com/intelligence-service-murders/Details/Philip_Haney/) — documents his DHS trafficking investigations connected to the Epstein network
 
 ## Other Shocking Stories
 
-- [Maurice Bishop](Maurice_Bishop.mdx): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
-- [Masoud Alimohammadi](Masoud_Alimohammadi.mdx): Iranian physics professor killed by a remote-controlled motorcycle bomb outside his front door.
-- [Omar Torrijos](Omar_Torrijos.mdx): Panama's leader died in a plane crash two months after Ecuador's president died the same way.
-- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.mdx): Fourth Iranian nuclear scientist killed by a magnetic car bomb. Same method, same motorcycle assassins, different year.
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Masoud Alimohammadi](Masoud_Alimohammadi.md): Iranian physics professor killed by a remote-controlled motorcycle bomb outside his front door.
+- [Omar Torrijos](Omar_Torrijos.md): Panama's leader died in a plane crash two months after Ecuador's president died the same way.
+- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md): Fourth Iranian nuclear scientist killed by a magnetic car bomb. Same method, same motorcycle assassins, different year.
 
 ## Sources
 
@@ -199,11 +199,11 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 
 ## See Also
 
-- [Seth Rich](Seth_Rich.mdx) — DNC staffer shot dead in DC; another politically connected death with disputed circumstances
-- [Vince Foster](Vince_Foster.mdx) — Clinton deputy counsel found dead; another government figure whose suicide ruling is disputed
-- [Monica Petersen](Monica_Petersen.mdx) — Trafficking researcher who died in Haiti in 2016
-- [Jenny Moore](Jenny_Moore.mdx) — Journalist investigating trafficking found dead in a DC hotel
-- [Christopher Sign](Christopher_Sign.mdx) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
+- [Seth Rich](Seth_Rich.md) — DNC staffer shot dead in DC; another politically connected death with disputed circumstances
+- [Vince Foster](Vince_Foster.md) — Clinton deputy counsel found dead; another government figure whose suicide ruling is disputed
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
+- [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel
+- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
 - **Intelligence investigation profile:** [Philip Haney](/intelligence-service-murders/Details/Philip_Haney) — documents his whistleblowing and death from the intelligence operations perspective
 
 ## Related Groups
@@ -215,10 +215,10 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 - Other U.S. Locations — Found shot dead near Plymouth, California, in a park-and-ride lot along State Highway 16
 ## Other Shocking Stories
 
-- [Daniel Anderl](Daniel_Anderl.mdx): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
-- [Johnny Rios](Johnny_Rios.mdx): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
-- [Denise George](Denise_George.mdx): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
-- [Tracy Twyman](Tracy_Twyman.mdx): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
+- [Daniel Anderl](Daniel_Anderl.md): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
 
 ## Sources
 

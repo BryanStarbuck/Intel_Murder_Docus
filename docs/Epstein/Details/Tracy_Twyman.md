@@ -6,7 +6,7 @@ sidebar_label: "Tracy Twyman"
 image: /img/docusaurus-social-card.jpg
 ---
 
-Author and researcher investigating elite pedophile networks and occult ritual abuse was found hanged in her garage in July 2019 — two months after [Isaac Kappy](Isaac_Kappy.mdx)'s death, whose research she was actively continuing. She had recorded a detailed 27-minute death-threat warning video just 11 days after Kappy died, then went silent on social media before her body was found.
+Author and researcher investigating elite pedophile networks and occult ritual abuse was found hanged in her garage in July 2019 — two months after [Isaac Kappy](Isaac_Kappy.md)'s death, whose research she was actively continuing. She had recorded a detailed 27-minute death-threat warning video just 11 days after Kappy died, then went silent on social media before her body was found.
 
 | Field | Details |
 |-------|---------|
@@ -44,7 +44,7 @@ Twyman founded the *Dagobert's Revenge* magazine and later the *DragonKey Press*
 
 ### Transition into Pedophile Network Research
 
-In 2018, Twyman shifted focus from esoteric history to active investigation of child trafficking and elite pedophile networks. She began researching [Isaac Kappy](Isaac_Kappy.mdx)'s claims about Hollywood pedophilia. Her research expanded from Kappy's Hollywood allegations to what she concluded was a connected network running through elite political and occult circles — including the Pizzagate and spirit cooking controversies centered on John Podesta, and connections to organized child abuse abroad.
+In 2018, Twyman shifted focus from esoteric history to active investigation of child trafficking and elite pedophile networks. She began researching [Isaac Kappy](Isaac_Kappy.md)'s claims about Hollywood pedophilia. Her research expanded from Kappy's Hollywood allegations to what she concluded was a connected network running through elite political and occult circles — including the Pizzagate and spirit cooking controversies centered on John Podesta, and connections to organized child abuse abroad.
 
 A significant component of her research, documented in the dead man's switch video and described by colleagues, involved a specific school near Yorkshire, England, where she claimed to have identified evidence that children were being exploited via YouTube. She gathered what was described as "binders" of evidence from this investigation, including documentation of what she believed were coded references in videos targeting the children.
 
@@ -87,13 +87,13 @@ Twyman's research connected multiple elite networks she alleged were linked:
 
 ## Why This Death Raises Questions
 
-- She recorded a detailed 27-minute video documenting death threats and hacking just 11 days after a fellow researcher ([Isaac Kappy](Isaac_Kappy.mdx)) died — and instructed friends to release it only if she was killed
+- She recorded a detailed 27-minute video documenting death threats and hacking just 11 days after a fellow researcher ([Isaac Kappy](Isaac_Kappy.md)) died — and instructed friends to release it only if she was killed
 - She explicitly told friends she had received death threats and stopped using social media out of fear — not out of suicidal withdrawal
 - She had gathered documented evidence of child exploitation, taken it to the FBI, and the FBI refused to engage — leaving her without institutional protection
 - The death threats she described were "personally tailored" to her specific fears, suggesting the threatening parties had intimate knowledge about her
 - She died by hanging — the same method as Jeffrey Epstein, Jean-Luc Brunel, Mark Middleton, and Thomas Bowers, all of whose deaths are connected to elite trafficking networks
 - Her death occurred approximately one month before Epstein's arrest on July 6, 2019 — placing it at the precise moment when Epstein-adjacent witnesses and researchers faced peak exposure risk
-- Her death came just two months after [Isaac Kappy](Isaac_Kappy.mdx)'s death, whose research she was actively extending
+- Her death came just two months after [Isaac Kappy](Isaac_Kappy.md)'s death, whose research she was actively extending
 - The campground she had investigated in Arizona (near Williams/Green Leaf Canyon area) was reportedly closed after her inquiry — suggesting someone was tracking what she was looking into; accounts describe the campground as potentially tied to "Turks or a cult figure," though this has not been independently verified
 - She died in a period when multiple people researching overlapping material died in a cluster
 
@@ -103,7 +103,7 @@ Twyman's death was part of a notable concentration of deaths among researchers a
 
 | Date | Person | Method |
 |------|--------|--------|
-| May 13, 2019 | [Isaac Kappy](Isaac_Kappy.mdx) | Bridge fall, Arizona |
+| May 13, 2019 | [Isaac Kappy](Isaac_Kappy.md) | Bridge fall, Arizona |
 | July 2019 | Tracy Twyman | Hanging, Oregon |
 | July 6, 2019 | Jeffrey Epstein arrested | — |
 | August 10, 2019 | Jeffrey Epstein | Hanging, Manhattan |
@@ -115,7 +115,7 @@ Twyman's death was part of a notable concentration of deaths among researchers a
 | 2017 | *Genuflect* published — contains research on elite ritual abuse |
 | 2018 | Twyman begins researching Kappy's Hollywood pedophile allegations |
 | 2018–2019 | Gathers binders of evidence; approaches FBI; FBI declines |
-| May 13, 2019 | [Isaac Kappy](Isaac_Kappy.mdx) dies, Bellemont, Arizona |
+| May 13, 2019 | [Isaac Kappy](Isaac_Kappy.md) dies, Bellemont, Arizona |
 | **May 24, 2019** | **Twyman records 27-minute dead man's switch video; gives to two friends** |
 | Late May–June 2019 | Twyman stops using Twitter and YouTube; receives escalating threats |
 | **July 2019** | **Twyman found hanged in her garage** |
@@ -168,17 +168,17 @@ Twyman's death is treated as an unambiguous murder in X conspiracy communities, 
 
 ## See Also
 
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who made public accusations about elite pedophilia; died two months before Twyman; she was actively continuing his research at the time of her death
-- [Jenny Moore](Jenny_Moore.mdx) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel room
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator investigating child trafficking, found shot alongside her husband
-- [Ted Gunderson](Ted_Gunderson.mdx) — Former FBI SAC who spent decades investigating elite pedophile networks and intelligence-run trafficking; died 2011; associates allege arsenic poisoning
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who made public accusations about elite pedophilia; died two months before Twyman; she was actively continuing his research at the time of her death
+- [Jenny Moore](Jenny_Moore.md) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel room
+- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot alongside her husband
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who spent decades investigating elite pedophile networks and intelligence-run trafficking; died 2011; associates allege arsenic poisoning
 
 ## Other Shocking Stories
 
-- [Isaac Kappy](Isaac_Kappy.mdx): Actor named Hollywood pedophiles on camera, posted "not suicidal" video — found dead weeks later.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator investigating child trafficking shot dead alongside her husband; ruled murder-suicide.
-- [Ted Gunderson](Ted_Gunderson.mdx): Former FBI chief exposed intelligence-run pedophile networks for 30 years; associates claim he was arsenic-poisoned.
-- [Jenny Moore](Jenny_Moore.mdx): Former police officer investigating elite child trafficking; found dead in DC hotel after interview with a victim.
+- [Isaac Kappy](Isaac_Kappy.md): Actor named Hollywood pedophiles on camera, posted "not suicidal" video — found dead weeks later.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator investigating child trafficking shot dead alongside her husband; ruled murder-suicide.
+- [Ted Gunderson](Ted_Gunderson.md): Former FBI chief exposed intelligence-run pedophile networks for 30 years; associates claim he was arsenic-poisoned.
+- [Jenny Moore](Jenny_Moore.md): Former police officer investigating elite child trafficking; found dead in DC hotel after interview with a victim.
 
 ## Sources
 

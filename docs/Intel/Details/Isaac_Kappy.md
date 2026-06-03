@@ -110,7 +110,7 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 
 ## Why This Death Raises Questions
 
-- **Explicit prediction:** Multiple videos stating "If I die, it wasn't suicide" — matching the pattern of [Danny Casolaro](Danny_Casolaro.mdx), who told friends the same thing before being found dead
+- **Explicit prediction:** Multiple videos stating "If I die, it wasn't suicide" — matching the pattern of [Danny Casolaro](Danny_Casolaro.md), who told friends the same thing before being found dead
 - **Timing:** 60 days before Epstein's arrest, during a period when SDNY was reportedly building its case
 - **Sequential deaths:** Kappy (May) → Twyman (July) → Epstein (August) — three deaths in three months, all connected to the same network
 - **Twyman's dead man's switch:** Eleven days after Kappy's death, Tracy Twyman recorded a 27-minute video documenting threats against her life connected to the same research. She was found hanged six weeks later
@@ -146,17 +146,17 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who investigated PROMIS/intelligence connections and told friends "if I die, it wasn't suicide"; found dead 1991
-- [Gary Webb](Gary_Webb.mdx) — Journalist who exposed CIA-crack connection; died of two gunshots to the head, ruled suicide
-- [Bill Cooper](Bill_Cooper.mdx) — Author of *Behold a Pale Horse*; predicted 9/11-type event; killed in tactical operation 2001
-- [Philip Marshall](Philip_Marshall.mdx) — CIA-connected pilot who wrote about Saudi-9/11 connections; found dead with his two children 2013
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist who investigated PROMIS/intelligence connections and told friends "if I die, it wasn't suicide"; found dead 1991
+- [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; died of two gunshots to the head, ruled suicide
+- [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*; predicted 9/11-type event; killed in tactical operation 2001
+- [Philip Marshall](Philip_Marshall.md) — CIA-connected pilot who wrote about Saudi-9/11 connections; found dead with his two children 2013
 - [Epstein Kill List profile](https://intelligencemurders.com/intelligence-service-murders/Details/Isaac_Kappy/) — Full Epstein-network analysis of Kappy's case
 ## Other Shocking Stories
 
-- [Fidan Doğan](Fidan_Dogan.mdx): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
-- [Qasem Soleimani](Qasem_Soleimani.mdx): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
-- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.mdx): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
-- [Serena Shim](Serena_Shim.mdx): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Qasem Soleimani](Qasem_Soleimani.md): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
 
 ## Sources
 
@@ -198,7 +198,7 @@ Actor who publicly accused Hollywood elites of pedophilia and claimed to possess
 
 ## Assessment: SUSPICIOUS
 
-Isaac Kappy repeatedly and publicly stated **"If I die, it wasn't suicide"** in recorded videos throughout 2018 and 2019, then died in a manner ruled suicide. He had been publicly naming powerful Hollywood figures as pedophiles, claimed to possess hacked Epstein blackmail materials, and died exactly 60 days before Epstein's July 6, 2019 arrest. His associate [Tracy Twyman](Tracy_Twyman.mdx), who continued his research, was found hanged two months after Kappy's death. The case is rated SUSPICIOUS rather than HIGHLY SUSPICIOUS because the Arizona DPS investigation found witness corroboration of the suicide, toxicology supported substance abuse, and no forensic evidence of foul play has been made public.
+Isaac Kappy repeatedly and publicly stated **"If I die, it wasn't suicide"** in recorded videos throughout 2018 and 2019, then died in a manner ruled suicide. He had been publicly naming powerful Hollywood figures as pedophiles, claimed to possess hacked Epstein blackmail materials, and died exactly 60 days before Epstein's July 6, 2019 arrest. His associate [Tracy Twyman](Tracy_Twyman.md), who continued his research, was found hanged two months after Kappy's death. The case is rated SUSPICIOUS rather than HIGHLY SUSPICIOUS because the Arizona DPS investigation found witness corroboration of the suicide, toxicology supported substance abuse, and no forensic evidence of foul play has been made public.
 
 ## Circumstances of Death
 
@@ -246,8 +246,8 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 
 ## Why This Death Possibly Raises Questions
 
-- **Explicit death prediction:** Kappy recorded multiple videos explicitly stating "If I die, it wasn't suicide" — the same pattern seen in [Natacha Jaitt](Natacha_Jaitt.mdx), [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx), [Danny Casolaro](Danny_Casolaro.mdx), and [Nikolai Mushegian](Nikolai_Mushegian.mdx)
-- **60-day window:** Kappy died May 13, 2019. [Jeffrey Epstein](Jeffrey_Epstein.mdx) was arrested July 6, 2019. The proximity has been noted by researchers as falling within the "pre-arrest cluster" that also included [Sabrina Bittencourt](Sabrina_Bittencourt.mdx) (February 2019), [Natacha Jaitt](Natacha_Jaitt.mdx) (February 2019), [Tracy Twyman](Tracy_Twyman.mdx) (July 2019), and Epstein himself (August 2019)
+- **Explicit death prediction:** Kappy recorded multiple videos explicitly stating "If I die, it wasn't suicide" — the same pattern seen in [Natacha Jaitt](Natacha_Jaitt.md), [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md), [Danny Casolaro](Danny_Casolaro.md), and [Nikolai Mushegian](Nikolai_Mushegian.md)
+- **60-day window:** Kappy died May 13, 2019. [Jeffrey Epstein](Jeffrey_Epstein.md) was arrested July 6, 2019. The proximity has been noted by researchers as falling within the "pre-arrest cluster" that also included [Sabrina Bittencourt](Sabrina_Bittencourt.md) (February 2019), [Natacha Jaitt](Natacha_Jaitt.md) (February 2019), [Tracy Twyman](Tracy_Twyman.md) (July 2019), and Epstein himself (August 2019)
 - **Tracy Twyman's death:** Twyman picked up Kappy's research after his death, then was found hanged in her garage approximately two months later. Eleven days after Kappy died, Twyman recorded her own 27-minute "dead man's switch" video documenting threats against her life
 - **Final Instagram note anomalies:** The note's tone — claiming to be "the reincarnation of Judas Iscariot," apologizing to Trump, QAnon, and Jesus Christ — struck some observers as coerced or written under duress rather than reflecting genuine suicidal ideation. Others interpret it as a mental health crisis
 - **No prior suicidal history:** Kappy had no documented history of suicidal ideation before the final note. He was actively producing content and engaging with followers up until his last days
@@ -288,23 +288,23 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 
 ## See Also
 
-- [Tracy Twyman](Tracy_Twyman.mdx) — Continued Kappy's research into Epstein connections; found hanged July 2019, two months later
-- [Jeffrey Epstein](Jeffrey_Epstein.mdx) — Arrested July 2019, found dead August 2019
-- [Nikolai Mushegian](Nikolai_Mushegian.mdx) — Tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
-- [Natacha Jaitt](Natacha_Jaitt.mdx) — Argentine TV host who named pedophiles; said "if I die, it wasn't me"; found dead February 2019
-- [Sabrina Bittencourt](Sabrina_Bittencourt.mdx) — Brazilian anti-trafficking activist; found dead February 2019
-- [Max Spiers](Max_Spiers.mdx) — Conspiracy researcher who texted mother fearing murder; died 2016
-- [Jenny Moore](Jenny_Moore.mdx) — Citizen journalist investigating trafficking; found dead in DC hotel 2018
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — "DC Madam" who said she would not commit suicide; found hanged 2008
-- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
+- [Tracy Twyman](Tracy_Twyman.md) — Continued Kappy's research into Epstein connections; found hanged July 2019, two months later
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Arrested July 2019, found dead August 2019
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — Tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
+- [Natacha Jaitt](Natacha_Jaitt.md) — Argentine TV host who named pedophiles; said "if I die, it wasn't me"; found dead February 2019
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Brazilian anti-trafficking activist; found dead February 2019
+- [Max Spiers](Max_Spiers.md) — Conspiracy researcher who texted mother fearing murder; died 2016
+- [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking; found dead in DC hotel 2018
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she would not commit suicide; found hanged 2008
+- [Danny Casolaro](Danny_Casolaro.md) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
 - Jeffrey Epstein Network — The network Kappy claimed to be exposing
 - [Intel Murders profile](/intelligence-service-murders/Details/Isaac_Kappy) — Intelligence service connection analysis
 ## Other Shocking Stories
 
-- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.mdx): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
-- [Gary Caradori](Gary_Caradori.mdx): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
-- [Max Spiers](Max_Spiers.mdx): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
-- [Vitaly Churkin](Vitaly_Churkin.mdx): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Max Spiers](Max_Spiers.md): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources
 

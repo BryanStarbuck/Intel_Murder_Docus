@@ -25,7 +25,7 @@ British socialite and television presenter who publicly named two mothers who ha
 
 ## Assessment: SUSPICIOUS
 
-Peaches Geldof died five months after publicly naming, on Twitter, two women whose babies had been sexually abused by Lostprophets singer Ian Watkins — one of the most shocking child sex crime convictions in British history. The heroin that killed her tested at 61% purity — described at the inquest as "importation quality," more than double the 26% average street purity — suggesting a supply chain operating at a level far above ordinary street dealing. Kent Police investigated for 15 months and were never able to identify who supplied it. Her 11-month-old son Phaedra was in the house and was alone with her body for approximately 15 hours before her death was discovered. Peaches is the third member of the same immediate family chain to die within 17 years: [Michael Hutchence](Michael_Hutchence.mdx) in 1997 and her mother Paula Yates in 2000, both under circumstances that generated their own controversies. She died at a younger age than either of them.
+Peaches Geldof died five months after publicly naming, on Twitter, two women whose babies had been sexually abused by Lostprophets singer Ian Watkins — one of the most shocking child sex crime convictions in British history. The heroin that killed her tested at 61% purity — described at the inquest as "importation quality," more than double the 26% average street purity — suggesting a supply chain operating at a level far above ordinary street dealing. Kent Police investigated for 15 months and were never able to identify who supplied it. Her 11-month-old son Phaedra was in the house and was alone with her body for approximately 15 hours before her death was discovered. Peaches is the third member of the same immediate family chain to die within 17 years: [Michael Hutchence](Michael_Hutchence.md) in 1997 and her mother Paula Yates in 2000, both under circumstances that generated their own controversies. She died at a younger age than either of them.
 
 ## Circumstances of Death
 
@@ -65,7 +65,7 @@ Kent Police launched a 15-month investigation into the source of the heroin. In 
 
 Peaches was born on March 13, 1989, the second daughter of **Bob Geldof** — organizer of Live Aid and frontman of the Boomtown Rats — and **Paula Yates**, television presenter on *The Tube* and *The Big Breakfast*.
 
-Her parents' marriage collapsed after Paula Yates left Bob Geldof for INXS frontman **[Michael Hutchence](Michael_Hutchence.mdx)**. Hutchence was found dead in a Sydney hotel room on **November 22, 1997**, at age 37, with a belt around his neck, hanging from the door of his hotel room at the Ritz-Carlton. The death was officially ruled suicide by hanging, though his family disputed the finding, and the circumstances were the subject of significant controversy. Peaches was 8 years old.
+Her parents' marriage collapsed after Paula Yates left Bob Geldof for INXS frontman **[Michael Hutchence](Michael_Hutchence.md)**. Hutchence was found dead in a Sydney hotel room on **November 22, 1997**, at age 37, with a belt around his neck, hanging from the door of his hotel room at the Ritz-Carlton. The death was officially ruled suicide by hanging, though his family disputed the finding, and the circumstances were the subject of significant controversy. Peaches was 8 years old.
 
 Three years later, on **September 17, 2000** — her sister Pixie's 10th birthday — Peaches's mother Paula Yates was found dead of a heroin overdose at her home in Notting Hill, London. Yates was 41. The coroner ruled it was not suicide but described as "foolish and incautious" behaviour; traces of morphine, a heroin derivative, were found in her blood. Peaches was 11 years old. She and her sisters were raised by Bob Geldof.
 
@@ -195,7 +195,7 @@ Whether Peaches had broader knowledge of networks through which such recruitment
 
 | Person | Relationship | Location of Death | Age | Year | Cause |
 |--------|-------------|-------------------|-----|------|-------|
-| [Michael Hutchence](Michael_Hutchence.mdx) | Mother's partner / stepfather figure to Peaches | Ritz-Carlton Hotel, Sydney | 37 | 1997 | Hanging — ruled suicide, disputed |
+| [Michael Hutchence](Michael_Hutchence.md) | Mother's partner / stepfather figure to Peaches | Ritz-Carlton Hotel, Sydney | 37 | 1997 | Hanging — ruled suicide, disputed |
 | Paula Yates | Peaches's mother | Notting Hill, London | 41 | 2000 | Heroin overdose — ruled accidental |
 | **Peaches Geldof** | — | Wrotham, Kent | 25 | 2014 | Heroin overdose — ruled accidental |
 
@@ -214,19 +214,19 @@ When Peaches drew public attention to this case — naming the women who had fac
 
 ## See Also
 
-- [Michael Hutchence](Michael_Hutchence.mdx) — INXS frontman and Peaches's mother's partner; found hanged in Sydney hotel, 1997
-- [Chris Cornell](Chris_Cornell.mdx) — Backed child trafficking documentary; found hanged in Detroit hotel, 2017
-- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.mdx) — Created anti-trafficking music video; died in Oman, 2018
-- [Isaac Kappy](Isaac_Kappy.mdx) — Named Hollywood pedophiles on video, said "if I die, wasn't suicide"; fell from a bridge in Arizona, 2019
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher continuing Kappy's work into elite pedophilia; found hanged in 2019 after warning followers she feared being killed
-- [Nancy Schaefer](Nancy_Schaefer.mdx) — US state senator who exposed CPS child trafficking; shot dead in 2010
+- [Michael Hutchence](Michael_Hutchence.md) — INXS frontman and Peaches's mother's partner; found hanged in Sydney hotel, 1997
+- [Chris Cornell](Chris_Cornell.md) — Backed child trafficking documentary; found hanged in Detroit hotel, 2017
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Created anti-trafficking music video; died in Oman, 2018
+- [Isaac Kappy](Isaac_Kappy.md) — Named Hollywood pedophiles on video, said "if I die, wasn't suicide"; fell from a bridge in Arizona, 2019
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher continuing Kappy's work into elite pedophilia; found hanged in 2019 after warning followers she feared being killed
+- [Nancy Schaefer](Nancy_Schaefer.md) — US state senator who exposed CPS child trafficking; shot dead in 2010
 
 ## Other Shocking Stories
 
-- [Isaac Kappy](Isaac_Kappy.mdx): Said on camera: "If I die, it wasn't suicide." Two months later, fell from a bridge in Arizona.
-- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who exposed child trafficking through CPS. Shot dead with her husband at home, 2010.
-- [Chris Cornell](Chris_Cornell.mdx): Backed anti-child-trafficking documentary. Found hanged in a Detroit hotel, 2017.
-- [Tracy Twyman](Tracy_Twyman.mdx): Researcher who documented elite ritual abuse found hanged in 2019 after posting warnings about being targeted.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: "If I die, it wasn't suicide." Two months later, fell from a bridge in Arizona.
+- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who exposed child trafficking through CPS. Shot dead with her husband at home, 2010.
+- [Chris Cornell](Chris_Cornell.md): Backed anti-child-trafficking documentary. Found hanged in a Detroit hotel, 2017.
+- [Tracy Twyman](Tracy_Twyman.md): Researcher who documented elite ritual abuse found hanged in 2019 after posting warnings about being targeted.
 
 ## Sources
 

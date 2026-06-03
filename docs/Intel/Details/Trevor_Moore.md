@@ -206,7 +206,7 @@ No family members or WKUK co-stars have publicly suggested murder. Co-stars late
 - **Livestream-to-death timeline:** Moore was on a livestream with Zach Cregger just hours before his death, suggesting he was functional and social earlier that evening. The progression from coherent livestream to dead on a patio within hours raises timing questions
 - **Vague initial reporting:** The death was initially reported with minimal detail. Multiple commentators have noted how "vague and underreported" the circumstances were
 - **"Staff reactions were odd":** According to Reddit users who claim to have questioned Moore's staff, responses were described as unusual
-- **Pattern match with [Bill Cooper](Bill_Cooper.mdx):** Cooper predicted a 9/11-type attack on radio in June 2001, was killed by sheriff's deputies less than two months after 9/11. Moore delivered the Epstein/COVID theory in October 2020, died less than a year later. Both used mass-audience platforms to deliver theories that, if true, would expose intelligence operations
+- **Pattern match with [Bill Cooper](Bill_Cooper.md):** Cooper predicted a 9/11-type attack on radio in June 2001, was killed by sheriff's deputies less than two months after 9/11. Moore delivered the Epstein/COVID theory in October 2020, died less than a year later. Both used mass-audience platforms to deliver theories that, if true, would expose intelligence operations
 - **Unverified neighbor crash rumors:** Some online accounts claim Moore was involved in incidents with neighbors' property before the fall, though these remain unverified
 
 ## The Counterargument
@@ -318,18 +318,18 @@ The conspiracy theory follows the same trajectory as other cases in this project
 - [Trevor Moore](https://intelligencemurders.com/intelligence-service-murders/Details/Trevor_Moore/) — Profile in the Epstein Kill List (focuses on Epstein network connection)
 - [Isaac Kappy](https://intelligencemurders.com/intelligence-service-murders/Details/Isaac_Kappy/) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
 - [Steve Bing](/epstein-murders/Details/Steve_Bing) — Fell from 27th floor in Los Angeles (2020)
-- [Bill Cooper](Bill_Cooper.mdx) — Author of *Behold a Pale Horse*, predicted 9/11-type attack on radio, killed less than two months after 9/11. Same pattern: mass-audience platform, dangerous theories, dead
-- [Michael Hastings](Michael_Hastings.mdx) — Journalist investigating CIA Director Brennan, died in suspicious high-speed car crash in Los Angeles (2013)
-- [Seth Rich](Seth_Rich.mdx) — DNC data director, shot in DC under disputed circumstances (2016)
-- [John Lennon](John_Lennon.mdx) — Musician and activist under FBI COINTELPRO surveillance, shot in NYC (1980). The original case of a mainstream cultural figure allegedly killed for reaching too many people with the wrong ideas
-- [Gary Webb](Gary_Webb.mdx) — Journalist who exposed CIA-Contra-crack connection, career destroyed, died of two gunshots to the head ruled "suicide" (2004)
-- [Danny Casolaro](Danny_Casolaro.mdx) — Investigating PROMIS/CIA/"The Octopus," found dead in hotel with wrists slashed, briefcase missing (1991)
+- [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*, predicted 9/11-type attack on radio, killed less than two months after 9/11. Same pattern: mass-audience platform, dangerous theories, dead
+- [Michael Hastings](Michael_Hastings.md) — Journalist investigating CIA Director Brennan, died in suspicious high-speed car crash in Los Angeles (2013)
+- [Seth Rich](Seth_Rich.md) — DNC data director, shot in DC under disputed circumstances (2016)
+- [John Lennon](John_Lennon.md) — Musician and activist under FBI COINTELPRO surveillance, shot in NYC (1980). The original case of a mainstream cultural figure allegedly killed for reaching too many people with the wrong ideas
+- [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-crack connection, career destroyed, died of two gunshots to the head ruled "suicide" (2004)
+- [Danny Casolaro](Danny_Casolaro.md) — Investigating PROMIS/CIA/"The Octopus," found dead in hotel with wrists slashed, briefcase missing (1991)
 ## Other Shocking Stories
 
-- [Sergei Yushenkov](Sergei_Yushenkov.mdx): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.
-- [Sergei Magnitsky](Sergei_Magnitsky.mdx): Exposed a $230 million government fraud. Russia beat him to death in prison.
-- [David Kelly](David_Kelly.mdx): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
-- [Dag Hammarskjold](Dag_Hammarskjold.mdx): UN Secretary-General's plane crashed in Africa.
+- [Sergei Yushenkov](Sergei_Yushenkov.md): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.
+- [Sergei Magnitsky](Sergei_Magnitsky.md): Exposed a $230 million government fraud. Russia beat him to death in prison.
+- [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
 
 ## Sources
 
@@ -378,7 +378,7 @@ Comedian, filmmaker, and musician who used boundary-pushing comedy to deliver ex
 
 Trevor Moore was not an investigative journalist. He was something potentially more dangerous to powerful interests: a mainstream comedian with a Comedy Central platform, 100+ million YouTube views, and the ability to deliver explosive conspiracy theories — child trafficking to elites, Epstein's dead man's switch, CIA operations, Hollywood pedophile rings — to audiences who would never read a conspiracy blog. Comedy was the delivery mechanism. It made the content shareable, viral, and deniable all at once.
 
-In October 2020, Moore connected [Jeffrey Epstein](Jeffrey_Epstein.mdx)'s arrest (July 2019), Epstein's death (August 2019), and the emergence of COVID-19 (November-December 2019) into a single narrative: Epstein had a bioweapon "kill switch" that triggered when he was taken down. Ten months later, Moore was dead at 41 — found on his backyard patio after falling from a second-story balcony at 2:30 a.m. The reported BAC was extremely high (0.21-0.27), and security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure.
+In October 2020, Moore connected [Jeffrey Epstein](Jeffrey_Epstein.md)'s arrest (July 2019), Epstein's death (August 2019), and the emergence of COVID-19 (November-December 2019) into a single narrative: Epstein had a bioweapon "kill switch" that triggered when he was taken down. Ten months later, Moore was dead at 41 — found on his backyard patio after falling from a second-story balcony at 2:30 a.m. The reported BAC was extremely high (0.21-0.27), and security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure.
 
 ## Background
 
@@ -399,7 +399,7 @@ Moore's body of work systematically attacked the most powerful institutions and 
 
 ### The Epstein "Kill Switch" / COVID-19 Theory (October 2020)
 
-During a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented a theory: [Jeffrey Epstein](Jeffrey_Epstein.mdx) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon released if Epstein were ever arrested or killed.
+During a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented a theory: [Jeffrey Epstein](Jeffrey_Epstein.md) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon released if Epstein were ever arrested or killed.
 
 **The timeline Moore laid out:**
 - **July 6, 2019:** Epstein arrested on new sex-trafficking charges
@@ -451,7 +451,7 @@ No family members or WKUK co-stars have publicly suggested murder.
 - **Systematic anti-elite content:** Moore's entire career was a sustained assault on elite power — Hollywood child trafficking, CIA operations, secret societies, elite pedophile rings, and calls for revolution. This was a decade-plus body of work reaching millions
 - **The comedy delivery mechanism:** Moore's format was uniquely threatening because it bypassed skepticism filters that protect powerful people. Conspiracy blogs can be dismissed; a Comedy Central comedian cannot be controlled the same way
 - **Mainstream platform:** Unlike fringe content creators, Moore had Comedy Central, IFC, 100+ million YouTube views, and a massive social media following
-- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths: [Isaac Kappy](Isaac_Kappy.mdx) (fell from bridge, 2019), [Steve Bing](Steve_Bing.mdx) (fell from 27th floor, 2020), [Ruslana Korshunova](Ruslana_Korshunova.mdx) (fell from 9th floor, 2008), [Anastasia Drozdova](Anastasia_Drozdova.mdx) (fell from building, 2009)
+- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths: [Isaac Kappy](Isaac_Kappy.md) (fell from bridge, 2019), [Steve Bing](Steve_Bing.md) (fell from 27th floor, 2020), [Ruslana Korshunova](Ruslana_Korshunova.md) (fell from 9th floor, 2008), [Anastasia Drozdova](Anastasia_Drozdova.md) (fell from building, 2009)
 - **Extreme intoxication as potential cover:** A BAC of 0.21-0.27 could indicate someone deliberately incapacitated before being pushed or placed in position to fall. High BAC provides a ready-made explanation that discourages further investigation
 - **Age 41:** Young, healthy, no reported medical conditions
 - **2:30 a.m. timing:** Minimal witnesses, maximum opportunity for covert action
@@ -493,18 +493,18 @@ In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X vi
 ## See Also
 
 - [Trevor Moore — Intel Murders Profile](/intelligence-service-murders/Details/Trevor_Moore) — Extended profile with full discography and intelligence connection analysis
-- [Isaac Kappy](Isaac_Kappy.mdx) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
-- [Steve Bing](Steve_Bing.mdx) — Fell from 27th floor in Los Angeles (2020)
-- [Ruslana Korshunova](Ruslana_Korshunova.mdx) — Fell from 9th floor in New York (2008)
-- [Anastasia Drozdova](Anastasia_Drozdova.mdx) — Died identically to Korshunova one year later (2009)
-- [Chris Cornell](Chris_Cornell.mdx) — Backed trafficking documentary, hung (2017)
-- [Chester Bennington](Chester_Bennington.mdx) — Cornell's friend, same method, Cornell's birthday (2017)
+- [Isaac Kappy](Isaac_Kappy.md) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
+- [Steve Bing](Steve_Bing.md) — Fell from 27th floor in Los Angeles (2020)
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Fell from 9th floor in New York (2008)
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Died identically to Korshunova one year later (2009)
+- [Chris Cornell](Chris_Cornell.md) — Backed trafficking documentary, hung (2017)
+- [Chester Bennington](Chester_Bennington.md) — Cornell's friend, same method, Cornell's birthday (2017)
 ## Other Shocking Stories
 
-- [Mark Salling](Mark_Salling.mdx): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
-- [Matthew Perry](Matthew_Perry.mdx): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
-- [John Deroo](John_Deroo.mdx): Shot six times in the face.
-- [Marc Angelucci](Marc_Angelucci.mdx): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [John Deroo](John_Deroo.md): Shot six times in the face.
+- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
 
 ## Sources
 

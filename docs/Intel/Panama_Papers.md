@@ -64,7 +64,7 @@ Multiple men have since been convicted for their roles in the assassination. The
 
 A 437-page Maltese public inquiry found that the **state itself bore responsibility** for her death, finding it had created an "atmosphere of impunity" that emboldened the killers.
 
-**→ Full profile: [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.mdx)**
+**→ Full profile: [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md)**
 
 ## The Death of Jürgen Mossack
 
@@ -74,7 +74,7 @@ A 437-page Maltese public inquiry found that the **state itself bore responsibil
 
 | Person | Role | Status |
 |--------|------|--------|
-| [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.mdx) | Maltese journalist who exposed Panama-linked corruption | Assassinated October 16, 2017 |
+| [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) | Maltese journalist who exposed Panama-linked corruption | Assassinated October 16, 2017 |
 | Jürgen Mossack | Co-founder of Mossack Fonseca | Deceased March 3, 2025 |
 | Ramón Fonseca Mora | Co-founder of Mossack Fonseca | Deceased May 9, 2022 |
 | Yorgen Fenech | Alleged mastermind of Caruana Galizia assassination | Trial ongoing as of 2026 |

@@ -169,9 +169,9 @@ Favorito's analysis was published through OpEd News and circulated in Georgia po
 
 Schaefer is not the only person who pursued CPS corruption and trafficking and died under disputed circumstances:
 
-- **[Linda Collins-Smith](Linda_Collins_Smith.mdx)** — Arkansas state senator who was investigating DHS/CPS corruption and child trafficking, found stabbed to death in her home in June 2019. Her death was classified as homicide (shooter unidentified)
-- **[Gary Caradori](Gary_Caradori.mdx)** — The lead investigator of the Franklin child abuse scandal in Nebraska, who died in July 1990 when his small aircraft disintegrated mid-air. He was carrying materials he had described as explosive evidence. The NTSB found the crash resulted from "undetermined" causes
-- **[Ted Gunderson](Ted_Gunderson.mdx)** — Retired FBI Special Agent in Charge who spent decades investigating the Franklin scandal and elite child trafficking networks; died in 2011 with supporters alleging arsenic poisoning
+- **[Linda Collins-Smith](Linda_Collins_Smith.md)** — Arkansas state senator who was investigating DHS/CPS corruption and child trafficking, found stabbed to death in her home in June 2019. Her death was classified as homicide (shooter unidentified)
+- **[Gary Caradori](Gary_Caradori.md)** — The lead investigator of the Franklin child abuse scandal in Nebraska, who died in July 1990 when his small aircraft disintegrated mid-air. He was carrying materials he had described as explosive evidence. The NTSB found the crash resulted from "undetermined" causes
+- **[Ted Gunderson](Ted_Gunderson.md)** — Retired FBI Special Agent in Charge who spent decades investigating the Franklin scandal and elite child trafficking networks; died in 2011 with supporters alleging arsenic poisoning
 - Multiple CPS reform advocates and family court critics have died in disputed circumstances, creating what researcher Krstafer Pinkerton has described as a pattern of "blood behind the bench"
 
 ## The Counterargument
@@ -235,18 +235,18 @@ Many posts embed a video clip of one of her public speeches — typically from 2
 
 ## See Also
 
-- [Linda Collins-Smith](Linda_Collins_Smith.mdx) — Arkansas state senator investigating DHS/CPS corruption, stabbed to death in 2019
-- [Ted Gunderson](Ted_Gunderson.mdx) — Retired FBI SAC who investigated Franklin scandal and elite blackmail networks
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher into elite pedophilia who left a dead man's switch, found dead at home
-- [Jenny Moore](Jenny_Moore.mdx) — Journalist investigating child abuse claims against politicians, found dead in a hotel room
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.mdx) — "DC Madam" who said she would never hang herself, found hanged
+- [Linda Collins-Smith](Linda_Collins_Smith.md) — Arkansas state senator investigating DHS/CPS corruption, stabbed to death in 2019
+- [Ted Gunderson](Ted_Gunderson.md) — Retired FBI SAC who investigated Franklin scandal and elite blackmail networks
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher into elite pedophilia who left a dead man's switch, found dead at home
+- [Jenny Moore](Jenny_Moore.md) — Journalist investigating child abuse claims against politicians, found dead in a hotel room
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she would never hang herself, found hanged
 
 ## Other Shocking Stories
 
-- [Alexis Arquette](Alexis_Arquette.mdx): Hollywood actress who described her early career as a "tornado of cocaine and pedophilia." Died the day all media was consumed by 9/11 memorials.
-- [Isaac Kappy](Isaac_Kappy.mdx): Named Hollywood executives as pedophiles on camera. Said if he died, it wasn't suicide. Fell from a bridge.
-- [Tracy Twyman](Tracy_Twyman.mdx): Picked up another researcher's work on elite pedophilia. Left a dead man's switch. Found dead at home.
-- [Linda Collins-Smith](Linda_Collins_Smith.mdx): Arkansas senator investigating CPS child trafficking like Schaefer. Stabbed to death in her home in 2019.
+- [Alexis Arquette](Alexis_Arquette.md): Hollywood actress who described her early career as a "tornado of cocaine and pedophilia." Died the day all media was consumed by 9/11 memorials.
+- [Isaac Kappy](Isaac_Kappy.md): Named Hollywood executives as pedophiles on camera. Said if he died, it wasn't suicide. Fell from a bridge.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up another researcher's work on elite pedophilia. Left a dead man's switch. Found dead at home.
+- [Linda Collins-Smith](Linda_Collins_Smith.md): Arkansas senator investigating CPS child trafficking like Schaefer. Stabbed to death in her home in 2019.
 
 ## Sources
 

@@ -52,7 +52,7 @@ However, critics note that the Clinton Foundation's role in Haiti relief and dev
 - Multiple Haitian officials connected to corruption investigations have died under unusual circumstances
 - The PetroCaribe fund scandal implicated powerful figures across multiple Haitian administrations
 - His deteriorated financial circumstances (working as an Uber driver) suggest he may have been cut off from former patronage networks
-- [Monica Petersen](Monica_Petersen.mdx), a trafficking researcher working in Haiti, also died under disputed circumstances in November 2016
+- [Monica Petersen](Monica_Petersen.md), a trafficking researcher working in Haiti, also died under disputed circumstances in November 2016
 
 ## The Counterargument
 
@@ -72,8 +72,8 @@ However, critics note that the Clinton Foundation's role in Haiti relief and dev
 
 ## See Also
 
-- [Monica Petersen](Monica_Petersen.mdx) — Trafficking researcher who died in Haiti in November 2016
-- [Mark Middleton](Mark_Middleton.mdx) — Clinton advisor found dead in 2022
+- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in November 2016
+- [Mark Middleton](Mark_Middleton.md) — Clinton advisor found dead in 2022
 - [Vince Foster](/intelligence-service-murders/Details/Vince_Foster/) — Deputy White House Counsel found dead in 1993
 
 ## Sources

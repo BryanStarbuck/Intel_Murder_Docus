@@ -42,7 +42,7 @@ Individual deaths and connections in states with one or two connected cases.
 
 ## Ashton, Illinois (near Chicago)
 
-- **[Gary Caradori](/epstein-murders/Details/Gary_Caradori)** (1990) — **HIGHLY SUSPICIOUS.** His plane disintegrated mid-air near Ashton, Illinois, while returning from Chicago with evidence for the [Franklin scandal](/epstein-murders/other/groups/franklin_scandal) investigation. Covered in detail under [Omaha, Nebraska](omaha_nebraska.mdx).
+- **[Gary Caradori](/epstein-murders/Details/Gary_Caradori)** (1990) — **HIGHLY SUSPICIOUS.** His plane disintegrated mid-air near Ashton, Illinois, while returning from Chicago with evidence for the [Franklin scandal](/epstein-murders/other/groups/franklin_scandal) investigation. Covered in detail under [Omaha, Nebraska](omaha_nebraska.md).
 
 ## Sources
 

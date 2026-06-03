@@ -145,18 +145,18 @@ His accusations against prominent named individuals were embraced primarily by Q
 
 ## See Also
 
-- [Tracy Twyman](Tracy_Twyman.mdx) — Researcher who was actively continuing Kappy's investigations at the time of her own suspicious death two months later
-- [Chris Cornell](Chris_Cornell.mdx) — Soundgarden vocalist whose death Kappy connected to Hollywood trafficking networks
-- [Chester Bennington](Chester_Bennington.mdx) — Linkin Park vocalist, close friend of Cornell, died on Cornell's birthday
-- [Mark Salling](Mark_Salling.mdx) — Glee actor who died weeks before sentencing on child exploitation charges
-- [Jenny Moore](Jenny_Moore.mdx) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel
+- [Tracy Twyman](Tracy_Twyman.md) — Researcher who was actively continuing Kappy's investigations at the time of her own suspicious death two months later
+- [Chris Cornell](Chris_Cornell.md) — Soundgarden vocalist whose death Kappy connected to Hollywood trafficking networks
+- [Chester Bennington](Chester_Bennington.md) — Linkin Park vocalist, close friend of Cornell, died on Cornell's birthday
+- [Mark Salling](Mark_Salling.md) — Glee actor who died weeks before sentencing on child exploitation charges
+- [Jenny Moore](Jenny_Moore.md) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel
 
 ## Other Shocking Stories
 
-- [Tracy Twyman](Tracy_Twyman.mdx): Recorded a death-threat video 11 days after Kappy died — found hanged six weeks later.
-- [Chris Cornell](Chris_Cornell.mdx): Soundgarden vocalist hanged after Detroit concert; wife hired forensic expert disputing suicide.
-- [Mark Salling](Mark_Salling.mdx): Glee actor died by suicide two months before sentencing on child pornography charges.
-- [Jenny Moore](Jenny_Moore.mdx): Ex-police officer investigating elite child trafficking found dead in DC hotel room.
+- [Tracy Twyman](Tracy_Twyman.md): Recorded a death-threat video 11 days after Kappy died — found hanged six weeks later.
+- [Chris Cornell](Chris_Cornell.md): Soundgarden vocalist hanged after Detroit concert; wife hired forensic expert disputing suicide.
+- [Mark Salling](Mark_Salling.md): Glee actor died by suicide two months before sentencing on child pornography charges.
+- [Jenny Moore](Jenny_Moore.md): Ex-police officer investigating elite child trafficking found dead in DC hotel room.
 
 ## Sources
 

@@ -11,7 +11,7 @@ image: /img/docusaurus-social-card.jpg
 
 Tesla's "earth resonance" experiments in the 1890s demonstrated that mechanical oscillators tuned to the Earth's resonant frequency could theoretically trigger seismic events. A century later, whistleblowers claim that classified programs weaponized this concept — and that people who raised the possibility publicly were silenced.
 
-[Timeline](timeline.mdx) | [By Method](methods.mdx) | [Intelligence Service Murders](index.mdx)
+[Timeline](timeline.md) | [By Method](methods.md) | [Intelligence Service Murders](index.md)
 
 ## What Is the Earthquake Weapon Theory?
 
@@ -39,7 +39,7 @@ Schneider identified himself as a structural engineer and geologist who had work
 
 Schneider was found dead on January 17, 1996 — approximately one year after his most prominent lectures on this subject. The official ruling was suicide by strangulation. His ex-wife disputed the finding. All his research materials, samples, and lecture notes were missing from his apartment.
 
-**Full profile:** [Phil Schneider](Details/Phil_Schneider.mdx)
+**Full profile:** [Phil Schneider](Details/Phil_Schneider.md)
 
 ### Video: Schneider on the Earthquake Device
 
@@ -78,15 +78,15 @@ The earthquake weapon hypothesis overlaps significantly with the broader field o
 
 **Andrija Puharich**, whose estate was burned to the ground in August 1978 in what he publicly attributed to CIA action, also investigated ELF effects on biological and physical systems. He alleged Soviet ELF programs were already operating in the climatic disruption and geological influence domains.
 
-**See:** [ELF Research Suppression](Extremely_Low_Frequencies.mdx)
+**See:** [ELF Research Suppression](Extremely_Low_Frequencies.md)
 
 ## Deaths Connected to This Research
 
 | Name | Year | Role | Suspicion Level |
 |------|------|------|-----------------|
-| [Phil Schneider](Details/Phil_Schneider.mdx) | 1996 | Claimed government geologist; publicly alleged operational earthquake device | **HIGHLY SUSPICIOUS** |
-| [Andrija Puharich](Details/Andrija_Puharich.mdx) | 1995 | ELF/electromagnetic researcher; estate burned 1978; fled U.S. to Mexico | **SUSPICIOUS** |
-| [Christopher Fallen](Details/Christopher_Fallen.mdx) | 2024 | HAARP chief scientist; found bound and asphyxiated in New Mexico | **HIGHLY SUSPICIOUS** |
+| [Phil Schneider](Details/Phil_Schneider.md) | 1996 | Claimed government geologist; publicly alleged operational earthquake device | **HIGHLY SUSPICIOUS** |
+| [Andrija Puharich](Details/Andrija_Puharich.md) | 1995 | ELF/electromagnetic researcher; estate burned 1978; fled U.S. to Mexico | **SUSPICIOUS** |
+| [Christopher Fallen](Details/Christopher_Fallen.md) | 2024 | HAARP chief scientist; found bound and asphyxiated in New Mexico | **HIGHLY SUSPICIOUS** |
 
 ## Why Intelligence Services Would Suppress This Research
 
@@ -114,12 +114,12 @@ The scientific consensus is that both earthquakes had natural origins. Schneider
 
 ## Related Profiles
 
-- [Phil Schneider](Details/Phil_Schneider.mdx) — Whistleblower who specifically claimed government earthquake device; found dead 1996
-- [Andrija Puharich](Details/Andrija_Puharich.mdx) — ELF researcher whose estate was burned; fled U.S.
-- [Christopher Fallen](Details/Christopher_Fallen.mdx) — HAARP chief scientist; bound asphyxiation 2024
+- [Phil Schneider](Details/Phil_Schneider.md) — Whistleblower who specifically claimed government earthquake device; found dead 1996
+- [Andrija Puharich](Details/Andrija_Puharich.md) — ELF researcher whose estate was burned; fled U.S.
+- [Christopher Fallen](Details/Christopher_Fallen.md) — HAARP chief scientist; bound asphyxiation 2024
 
 **Related thematic pages:**
-- [ELF Research Suppression](Extremely_Low_Frequencies.mdx) — Electromagnetic weapons and the pattern of targeting ELF researchers
+- [ELF Research Suppression](Extremely_Low_Frequencies.md) — Electromagnetic weapons and the pattern of targeting ELF researchers
 
 **Sister investigation (UAP Physics):**
 The question of whether classified physics programs have advanced beyond the public record — including exotic propulsion, energy, and geophysical manipulation — is documented at the Physics investigation on the UAP Murders sister site:
