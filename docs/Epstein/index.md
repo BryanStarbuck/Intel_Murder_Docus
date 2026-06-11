@@ -3,14 +3,14 @@ title: Epstein Murders
 sidebar_label: Overview
 sidebar_position: 1
 slug: /
-description: 142 profiles of people connected to Jeffrey Epstein's sex trafficking and blackmail operation who died under suspicious circumstances — 93 deaths flagged suspicious, with sourced research, timelines, and cross-references.
+description: 143 profiles of people connected to Jeffrey Epstein's sex trafficking and blackmail operation who died under suspicious circumstances — 93 deaths flagged suspicious, with sourced research, timelines, and cross-references.
 ---
 
 # Deaths Connected to the Jeffrey Epstein Cover-Up
 
 People connected to Epstein's sex trafficking and blackmail operation keep dying under suspicious circumstances. This documents every known death.
 
-**142 profiles documented. 93 suspicious deaths. April 2026.** | **[Intelligence Service Murders](/intelligence-service-murders/)**
+**143 profiles documented. 93 suspicious deaths. June 2026.** | **[Intelligence Service Murders](/intelligence-service-murders/)**
 
 | Name | Cause of Death | Suspicion Level | Details |
 |------|----------------|-----------------|---------|
@@ -99,6 +99,7 @@ People connected to Epstein's sex trafficking and blackmail operation keep dying
 | [Linda Collins-Smith](Details/Linda_Collins_Smith.md) | Stabbed to death | **MODERATE SUSPICION** | Arkansas state senator investigating DHS/CPS corruption. Killer convicted, but broader context and timing raise questions. |
 | [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective. Died unexpectedly at 50. |
 | [Mark Salling](Details/Mark_Salling.md) | Hanging, ruled suicide | **MODERATE SUSPICION** | *Glee* actor with 50,000+ child abuse images. Hanged 5 weeks before sentencing. Network sources never identified. |
+| [Lou Pearlman](Details/Lou_Pearlman.mdx) | Heart infection in federal custody | **MODERATE SUSPICION** | Boy band mogul (Backstreet Boys, NSYNC) accused by multiple band members of sexually abusing boys he managed. Parallel ring to Epstein's. Convicted Ponzi schemer; died in custody before abuse allegations were ever investigated. |
 | [Corey Haim](Details/Corey_Haim.md) | Pneumonia / heart disease | **MODERATE SUSPICION** | Child actor allegedly raped at 13 in Hollywood. Died at 38 after decades of trauma-driven addiction. Silenced before #MeToo. |
 | [Daniel Alfin](Details/Daniel_Alfin.md) | Shot by warrant subject | **MODERATE SUSPICION** | FBI Special Agent, Crimes Against Children unit. Killed serving warrant on child pornography suspect in Sunrise, FL, February 2, 2021. Widely alleged in conspiracy circles to have been investigating Epstein — unconfirmed. Died alongside Agent Schwartzenberger; suspect self-inflicted after barricading. |
 | [Laura Schwartzenberger](Details/Laura_Schwartzenberger.md) | Shot by warrant subject | **MODERATE SUSPICION** | FBI Special Agent, Crimes Against Children unit. Killed alongside [Daniel Alfin](Details/Daniel_Alfin.md) serving warrant in Sunrise, FL, February 2, 2021. Conspiracy claim alleges Epstein connection — not confirmed by any official source. Both worked on dark-web child exploitation networks. |
@@ -353,7 +354,7 @@ This research documents deaths and events connected to the Epstein case from pub
 
 ---
 
-*Last Updated: April 20, 2026 — Added profiles for [Richard Marcinko](Details/Richard_Marcinko.md) (SEAL Team Six founder implicated in 2026 Epstein files), [Daniel Alfin](Details/Daniel_Alfin.md) and [Laura Schwartzenberger](Details/Laura_Schwartzenberger.md) (FBI Crimes Against Children agents killed 2021, alleged Epstein connection unconfirmed). Updated 2026 DOJ releases pattern with Ken Turner email timeline.*
+*Last Updated: June 11, 2026 — Added profile for [Lou Pearlman](Details/Lou_Pearlman.mdx) (boy band mogul accused of abusing band members — a parallel ring to Epstein's; died in federal custody 2016), with Slave Princess documentary video evidence.*
 
 **Suspicious deaths documented in this investigation: 93** — individuals who died under circumstances rated Moderate Suspicion or higher, connected to the Epstein network, elite blackmail operations, or related cover-ups.
 

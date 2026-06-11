@@ -235,3 +235,13 @@ videos:
   investigation: 'Intel'
   added_date: '2026-05-27'
   pinned: true
+
+- filename: 2065099565447930204.mp4
+  ipfs_cid: QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
+  source_url: https://x.com/PizzaGateX/status/2065099565447930204
+  source_author: '@PizzaGateX'
+  description: 'Slave Princess documentary excerpt: Lou Pearlman boy band abuse allegations, Aaron Carter, and Charlie Crist handling of Pearlman investigations as Florida AG'
+  investigation: 'Epstein'
+  added_date: '2026-06-11'
+  pinned: true

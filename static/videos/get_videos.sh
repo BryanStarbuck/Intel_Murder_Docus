@@ -65,7 +65,7 @@ echo "========================================================"
 echo ""
 
 # ============================================================
-# Investigation: Epstein  (8 videos)
+# Investigation: Epstein  (9 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
@@ -95,6 +95,10 @@ ipfs get --output=2054372519465881910.mp4 QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg
 ipfs get --output=2054664863381635215.mp4 QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv && ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
 # Epstein | Isaac Kappy video compilation — actor who accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019 (@JOKAQARMY1)
 # Source: https://x.com/JOKAQARMY1/status/2054664863381635215
+
+ipfs get --output=2065099565447930204.mp4 QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY && ipfs pin add QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
+# Epstein | Slave Princess documentary excerpt — Lou Pearlman boy band abuse allegations, Aaron Carter, Charlie Crist handling of Pearlman investigations as Florida AG (@PizzaGateX)
+# Source: https://x.com/PizzaGateX/status/2065099565447930204
 
 # ============================================================
 # Investigation: Intel  (6 videos)

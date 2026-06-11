@@ -16,7 +16,7 @@
 # Entries are derived from: static/videos/manifest.yaml
 
 # ============================================================
-# Investigation: Epstein  (8 videos)
+# Investigation: Epstein  (9 videos)
 # ============================================================
 
 # VIDEO: Epstein survivor testimony — alleged infant soul-hunting, mountain hunting rituals, Texas ranch human hunting
@@ -42,6 +42,9 @@ ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
 
 # VIDEO: Isaac Kappy video compilation — actor who accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019
 ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
+
+# VIDEO: Slave Princess documentary excerpt — Lou Pearlman boy band abuse allegations, Aaron Carter, Charlie Crist handling of Pearlman investigations as Florida AG
+ipfs pin add QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
 
 # ============================================================
 # Investigation: Intel  (6 videos)
