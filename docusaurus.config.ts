@@ -175,7 +175,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/cover.jpeg",
     metadata: [
       {
         name: "description",
@@ -193,7 +193,7 @@ const config: Config = {
         content:
           "250+ documented profiles of journalists, scientists, activists, and elected leaders killed by or connected to intelligence services and the Epstein network.",
       },
-      { property: "og:image", content: siteUrl + "/img/docusaurus-social-card.jpg" },
+      { property: "og:image", content: siteUrl + "/img/cover.jpeg" },
       { property: "og:image:alt", content: "Intelligence Murders investigation archive" },
       { property: "og:url", content: siteUrl + "/" },
       { name: "twitter:title", content: "Intelligence Service Murdering Americans" },
@@ -202,7 +202,7 @@ const config: Config = {
         content:
           "250+ documented profiles of journalists, scientists, activists, and elected leaders killed by or connected to intelligence services and the Epstein network.",
       },
-      { name: "twitter:image", content: siteUrl + "/img/docusaurus-social-card.jpg" },
+      { name: "twitter:image", content: siteUrl + "/img/cover.jpeg" },
       { name: "twitter:image:alt", content: "Intelligence Murders investigation archive" },
     ],
     colorMode: {
