@@ -245,3 +245,13 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-06-11'
   pinned: true
+
+- filename: 2067608272601743704.mp4
+  ipfs_cid: QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
+  source_url: https://x.com/ValerieAnne1970/status/2067608272601743704
+  source_author: '@ValerieAnne1970'
+  description: 'Brandy Vaughan — Merck whistleblower who warned any harm to her would be foul play; found dead at 44 by her 9-year-old son'
+  investigation: 'Intel'
+  added_date: '2026-06-19'
+  pinned: true

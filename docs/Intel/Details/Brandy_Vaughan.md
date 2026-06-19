@@ -80,6 +80,12 @@ The pattern of harassment Vaughan reported began in 2015 and escalated until her
 
 - **Computer Moved:** Days after the alarm incident, she found her computer had been moved from its hiding place above her microwave to the middle of her kitchen floor — a clear message that someone had been inside her home again.
 
+- **The Ladder at the Window:** In the video she recorded documenting the harassment, Vaughan stated that after leaving town for roughly two weeks and "going off the grid," she returned to find her own ladder — normally kept in the garage — set up open directly in front of her bedroom window, the only window whose blinds were open. She said a neighbor who was feeding her dogs confirmed the ladder had not been there the previous day, indicating it had been placed the night before she returned. According to Vaughan, the security experts she consulted called it an unmistakable "we're watching you" message.
+
+- **The Moved Buddha:** Vaughan said that two days later she found a heavy Buddha statue — normally kept on top of her dogs' crate — moved onto the garage floor, with framed photos knocked over. She stated the statue was far too heavy to have simply fallen and would not have landed where it did.
+
+- **The "Sitting Duck":** In the video, Vaughan described finding a duck object on her kitchen table that she said was not hers and that no one with access to her home would have brought. She connected it to phone conversations in which she had repeatedly said she felt like "a sitting duck," interpreting the object as confirmation that her phone was being monitored. She also stated that security experts who had themselves conducted intimidation work for corporations told her the pattern — a tapped phone, and an interior window left unlocked during the break-in to ease future covert entry — was consistent with professional corporate surveillance.
+
 - **Ongoing Pattern:** In the weeks and months leading up to her death, Vaughan publicly reported continuing stalking, harassment, threats, and intimidation.
 
 ## Why This Death Raises Questions
@@ -122,6 +128,8 @@ She also recorded a video approximately five years before her death stating that
 > "Ever wonder why I speak out against Big Pharma and suffer the major consequences? Because I will fight for my son and humanity and I will educate people on pharmaceutical product dangers until my last breath!" — Social media post
 
 > "What is being passed off as 'health'care these days is really 'sick'care because pharmaceutical companies — and even doctors to some extent — don't make money off healthy people. The pharmaceutical industry wants to keep you sick." — Public statement
+
+> "I'm not gonna go away. I'm not gonna be silenced, because these are important issues... We may have lost the battle, but we still have a war to win. And hopefully by documenting this intimidation, they won't be able to get away with it in the future — with me, and with anyone else who speaks out." — Closing words of her video documenting the intimidation campaign
 
 ## Counterarguments / Alternative Explanations
 

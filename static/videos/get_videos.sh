@@ -101,7 +101,7 @@ ipfs get --output=2065099565447930204.mp4 QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxA
 # Source: https://x.com/PizzaGateX/status/2065099565447930204
 
 # ============================================================
-# Investigation: Intel  (6 videos)
+# Investigation: Intel  (7 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
@@ -127,6 +127,10 @@ ipfs get --output=2050968626413363217.mp4 QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo
 ipfs get --output=2053290253494981052.mp4 QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke && ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
 # Intel | Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatality in survivable 2013 Molokai plane crash (@LightOnLiberty)
 # Source: https://x.com/LightOnLiberty/status/2053290253494981052
+
+ipfs get --output=2067608272601743704.mp4 QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B && ipfs pin add QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
+# Intel | Brandy Vaughan — Merck whistleblower who warned any harm to her would be foul play, found dead at 44 by her 9-year-old son (@ValerieAnne1970)
+# Source: https://x.com/ValerieAnne1970/status/2067608272601743704
 
 
 echo ""
