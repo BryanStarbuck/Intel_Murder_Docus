@@ -22,6 +22,16 @@ Former Merck pharmaceutical sales representative turned whistleblower who founde
 | **Victim Was Intel Employee** | No |
 | **Category** | Whistleblower |
 
+## Video Evidence
+
+<video controls style={{maxWidth: '50vw', maxHeight: '70vh', display: 'block', margin: '1rem auto'}}>
+  <source src="https://ipfs.io/ipfs/QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Brandy Vaughan's warning that her life was in jeopardy and her statement that any harm to her would be "foul play." Source: [@ValerieAnne1970 on X](https://x.com/ValerieAnne1970/status/2067608272601743704), June 18, 2026.*
+
 ## Assessment: SUSPICIOUS
 
 A 44-year-old woman who reported receiving "the highest health rating possible" on recent life insurance medical tests died suddenly of blood clots — a condition that can be induced by injection of certain substances. This occurred after years of documented stalking, professional-grade home intrusions (including someone bypassing her $3,000 alarm system using the master code at 3:45 AM), and intimidation that began immediately after she became a prominent pharmaceutical industry critic. She had explicitly and publicly predicted her own death, arranged for private investigators, and stated she would never take her own life. While the Santa Barbara County Coroner ruled natural causes after extra scrutiny, the pattern of intimidation she documented and the convenience of the timing raise significant questions.
@@ -145,6 +155,7 @@ Snopes and other fact-checking outlets reported the death as natural causes base
 - [Children's Health Defense — Police Launch Investigation Into Death of Brandy Vaughan](https://childrenshealthdefense.org/defender/police-launch-investigation-death-brandy-vaughan/)
 - [Wikipedia — Learn The Risk](https://en.wikipedia.org/wiki/Learn_The_Risk)
 - [X post with video of Brandy Vaughan's warning](https://x.com/ValerieAnne1970/status/2039342025586172256)
+- [X post with video — "found dead by her 9 year old son... it's foul play"](https://x.com/ValerieAnne1970/status/2067608272601743704) (@ValerieAnne1970, June 18, 2026)
 
 *This information was built by Grok and Claude AI research.*
 

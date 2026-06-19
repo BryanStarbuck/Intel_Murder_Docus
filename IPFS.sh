@@ -47,7 +47,7 @@ ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
 ipfs pin add QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
 
 # ============================================================
-# Investigation: Intel  (6 videos)
+# Investigation: Intel  (7 videos)
 # ============================================================
 
 # VIDEO: General George S. Patton speaking about the postwar situation before his assassination
@@ -67,6 +67,9 @@ ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
 
 # VIDEO: Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatality in survivable 2013 Molokai plane crash
 ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
+
+# VIDEO: Brandy Vaughan — Merck whistleblower who warned any harm to her would be "foul play," found dead at 44 by her 9-year-old son
+ipfs pin add QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
 
 echo "All Intelligence Murders investigation videos pinned."
 
