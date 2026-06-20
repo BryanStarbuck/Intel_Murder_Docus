@@ -61,7 +61,7 @@ INPUT COMPONENTS
   and inform the user
 
 ROOT_DIR dir is ~/BGit/Bryan_git/Intel_Murder_Docus
-TRANSCRIBE_JS is file ~/BGit/act3/tools/Transcription/Transcribe.js
+TRANSCRIBE_JS is file ~/BGit/all/tools/Transcription/Transcribe.js
 
 ============================
 DIRECTORY HIERARCHY
@@ -643,7 +643,7 @@ STEP 6: TRANSCRIBE VIDEO (if TRANSCRIBE_REQUESTED = true AND video was downloade
 * Skip this step entirely if TRANSCRIBE_REQUESTED is not true.
 * Skip if no video was downloaded in Step 5 — inform the user.
 
-* TRANSCRIBE_JS is file ~/BGit/act3/tools/Transcription/Transcribe.js
+* TRANSCRIBE_JS is file ~/BGit/all/tools/Transcription/Transcribe.js
 
 * Create a temp directory:
   ```bash
@@ -652,7 +652,7 @@ STEP 6: TRANSCRIBE VIDEO (if TRANSCRIBE_REQUESTED = true AND video was downloade
 
 * Run the transcription:
   ```bash
-  cd "$TRANSC_TMPDIR" && node ~/BGit/act3/tools/Transcription/Transcribe.js "{ROOT_DIR}/static/videos/{video_filename}" transcription.txt
+  cd "$TRANSC_TMPDIR" && node ~/BGit/all/tools/Transcription/Transcribe.js "{ROOT_DIR}/static/videos/{video_filename}" transcription.txt
   ```
 
 * Wait for completion (may take several minutes for long videos).
