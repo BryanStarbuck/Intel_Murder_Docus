@@ -522,7 +522,6 @@ STEP 5: DOWNLOAD VIDEO (if video present)
       ## Video Evidence
 
       <video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
-        <source src="http://127.0.0.1:8080/ipfs/{CID}" type="video/mp4" />
         <source src="https://ipfs.io/ipfs/{CID}" type="video/mp4" />
         <source src="https://dweb.link/ipfs/{CID}" type="video/mp4" />
         Your browser does not support the video tag.

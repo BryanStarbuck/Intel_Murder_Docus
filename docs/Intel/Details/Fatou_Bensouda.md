@@ -9,7 +9,6 @@ Former chief prosecutor of the International Criminal Court (2012–2021) who st
 ## Video Evidence
 
 <video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
-  <source src="http://127.0.0.1:8080/ipfs/QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi" type="video/mp4" />
   <source src="https://ipfs.io/ipfs/QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi" type="video/mp4" />
   Your browser does not support the video tag.
