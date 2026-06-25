@@ -216,6 +216,7 @@ All 199 profiles organized by decade and year.
 - **2020** — [Brandy Vaughan](Details/Brandy_Vaughan.md) — Merck whistleblower (Vioxx) and founder of Learn The Risk found dead at 44 from blood clots. Years of professional-grade stalking and home intrusions. Publicly warned: "If something happens to me, it's foul play."
 - **2021** — [Trevor Moore](Details/Trevor_Moore.md) — Comedian (100M+ YouTube views) who exposed elite corruption, Epstein/COVID theory. Fell from balcony at 2:30 a.m.
 - **2021** — [Stefan Suto](Details/Stefan_Suto.md) — 80-year-old civilian. Forensic autopsy ruled homicide — unlicensed doctor injected lethal hydrogen peroxide concentration 171x normal. Family alleges Mossad assassination targeting son-in-law.
+- **2021** — [John McAfee](Details/John_McAfee.md) — Antivirus pioneer who claimed a "dead man's switch" of incriminating government data. Found hanged in a Spanish prison cell on June 23, hours after his U.S. extradition was approved. Ruled suicide; widow disputes it. The [Champlain Towers collapse](Champlain_Towers_Collapse.md) killed 98 the next day — a viral 2026 theory (unverified, contradicted by NIST) ties the two together.
 - **2022** — [Alexander Tyulakov](Details/Alexander_Tyulakov.md) — Gazprom executive found hanged morning after Russia invaded Ukraine.
 - **2022** — [Leonid Shulman](Details/Leonid_Shulman.md) — Gazprom transport chief found dead with stab wounds to wrists.
 - **2022** — [Ravil Maganov](Details/Ravil_Maganov.md) — Lukoil chairman fell from hospital window. Board had called for end to Ukraine war.

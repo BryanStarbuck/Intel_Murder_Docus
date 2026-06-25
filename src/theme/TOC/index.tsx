@@ -409,6 +409,11 @@ const people: Person[] = [
     path: "/intelligence-service-murders/Details/Terrance_Yeakey",
     blurb: "Age 30. OKC bombing rescue hero. Three days before his Medal of Valor ceremony, found dead — eleven cuts, throat slashed, 'self-shot' a mile from his car.",
   },
+  {
+    name: "John McAfee",
+    path: "/intelligence-service-murders/Details/John_McAfee",
+    blurb: "Antivirus pioneer, age 75. Claimed a '31TB dead man's switch' on government corruption. Found hanged in a Spanish prison hours after his US extradition was approved.",
+  },
 ];
 
 export default function TOC(): React.ReactElement {

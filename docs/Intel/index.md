@@ -14,7 +14,7 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 
 [Timeline](timeline.md) | [By Country](by_country.md) | [By Method](methods.md)
 
-**Topic pages:** [Panama Papers](Panama_Papers.md) | [COVID-19](Covid.md) | [Hydroxychloroquine](Hydroxychloroquine.md) | [Earthquake Weapons](Earth_Quake.md) | [Extremely Low Frequencies](Extremely_Low_Frequencies.md)
+**Topic pages:** [Panama Papers](Panama_Papers.md) | [COVID-19](Covid.md) | [Hydroxychloroquine](Hydroxychloroquine.md) | [Earthquake Weapons](Earth_Quake.md) | [Extremely Low Frequencies](Extremely_Low_Frequencies.md) | [Champlain Towers Collapse](Champlain_Towers_Collapse.md)
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -66,6 +66,7 @@ Intelligence agencies murder journalists, scientists, activists, and elected lea
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
 | [Nikolai Mushegian](Details/Nikolai_Mushegian.md) | 2022 | Drowned at San Juan beach (ruled accidental) | **SUSPICIOUS** | 29-year-old MakerDAO co-founder and crypto millionaire. Hours before drowning, tweeted that "CIA and Mossad and pedo elite are running some kind of sex trafficking entrapment blackmail ring out of Puerto Rico and caribbean islands" and that they would "torture me to death" by framing him with a laptop planted by his ex-girlfriend, "a spy." Found face-down in surf at Condado Beach, fully clothed with wallet on him. Police closed as accidental within days. Friend of Brock Pierce, the Puerto Rico–based crypto billionaire whose released Epstein emails discussed bringing "20 Ukrainian women." |
+| [John McAfee](Details/John_McAfee.md) | 2021 | Hanging in Spanish prison cell, ruled suicide | **SUSPICIOUS** | Antivirus pioneer who publicly claimed to hold "31+ terabytes" of data on government corruption via a "dead man's switch." Found hanged hours after a court approved his U.S. extradition. Widow Janice McAfee rejects the suicide ruling; he had a "$WHACKD" tattoo and had said he would never kill himself "à la Epstein." A separate viral 2026 theory — unverified and contradicted by federal investigators — ties the [Champlain Towers collapse](Champlain_Towers_Collapse.md) the next day to destroying his data. |
 | [Brandy Vaughan](Details/Brandy_Vaughan.md) | 2020 | Blood clots (bilateral pulmonary embolism) | **SUSPICIOUS** | Merck whistleblower who exposed Vioxx scandal, founded Learn The Risk. Found dead at 44 by her 9-year-old son after years of professional-grade stalking and home intrusions. Publicly warned: "If something happens to me, it's foul play." |
 | [Philip Haney](Details/Philip_Haney.md) | 2020 | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on terrorism. Family disputes suicide. Had been threatening to expose more. |
 | [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot during Iran-Contra. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
