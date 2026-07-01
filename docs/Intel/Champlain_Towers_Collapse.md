@@ -5,11 +5,11 @@ sidebar_label: Champlain Towers Collapse
 
 # The Champlain Towers Collapse — 98 Dead in Surfside
 
-On June 24, 2021 — the day after antivirus pioneer [John McAfee](Details/John_McAfee.md) was found dead in a Spanish prison — the Champlain Towers South condominium in Surfside, Florida, partially collapsed in the middle of the night, killing 98 people. A theory circulating widely on X in June 2026 claims the building was deliberately destroyed to eliminate McAfee's "dead man's switch" of incriminating data. This page documents both the claim and the official investigation, with attribution.
+On June 24, 2021 — the day after antivirus pioneer [John McAfee](Details/John_McAfee.mdx) was found dead in a Spanish prison — the Champlain Towers South condominium in Surfside, Florida, partially collapsed in the middle of the night, killing 98 people. A theory circulating widely on X in June 2026 claims the building was deliberately destroyed to eliminate McAfee's "dead man's switch" of incriminating data. This page documents both the claim and the official investigation, with attribution.
 
 ## Assessment: UNCERTAIN
 
-The Champlain Towers South collapse is the subject of a viral online theory tying it to [John McAfee](Details/John_McAfee.md)'s claimed "dead man's switch." **That theory is unverified and contradicts the official federal investigation.** The U.S. National Institute of Standards and Technology (NIST) attributes the collapse to a structural "punching shear" failure compounded by design flaws and corrosion. This page presents the theory as a reported claim, not as established fact, and rates the intelligence-cover-up interpretation **UNCERTAIN**.
+The Champlain Towers South collapse is the subject of a viral online theory tying it to [John McAfee](Details/John_McAfee.mdx)'s claimed "dead man's switch." **That theory is unverified and contradicts the official federal investigation.** The U.S. National Institute of Standards and Technology (NIST) attributes the collapse to a structural "punching shear" failure compounded by design flaws and corrosion. This page presents the theory as a reported claim, not as established fact, and rates the intelligence-cover-up interpretation **UNCERTAIN**.
 
 <img
   src="/images/Champlain_Towers_Collapse.jpg"
@@ -72,7 +72,7 @@ This page exists to document the claim **and** the evidence against it, so reade
 
 ## See Also
 
-- [John McAfee](Details/John_McAfee.md) — the antivirus pioneer whose "dead man's switch" the theory centers on
+- [John McAfee](Details/John_McAfee.mdx) — the antivirus pioneer whose "dead man's switch" the theory centers on
 - Jeffrey Epstein's contested in-custody death — see the [Epstein Kill List](/epstein-murders/)
 - [Nikolai Mushegian](Details/Nikolai_Mushegian.md) — crypto founder who warned of an intelligence blackmail ring before drowning
 
