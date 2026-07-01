@@ -7,6 +7,12 @@ image: /img/docusaurus-social-card.jpg
 ---
 Comedian, filmmaker, and musician who used boundary-pushing comedy to deliver explosive anti-elite content — Hollywood child trafficking, Epstein's bioweapon "kill switch," CIA conspiracies, 9/11 truth, Illuminati/secret societies, and calls for revolution — to millions of viewers through Comedy Central, IFC, YouTube, and social media. Died at age 41 after allegedly falling from a second-story balcony at his home in Los Angeles, approximately ten months after his viral Epstein/COVID-19 theory connected Epstein's arrest to the emergence of the coronavirus.
 
+<img
+  src="/images/Trevor_Moore.jpeg"
+  alt="Trevor Moore, comedian and co-founder of The Whitest Kids U' Know, who died in 2021 at age 41"
+  style={{maxHeight: '40vh', width: 'auto', aspectRatio: '2752/1536'}}
+/>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Trevor Paul Moore |
