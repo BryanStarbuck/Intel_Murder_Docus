@@ -179,12 +179,41 @@ STEP 1: FETCH THE POST (if X URL provided)
   - https://twitter.com/{username}/status/{post_id}
   - The post_id is the numeric string after /status/
 
-* Fetch the full post data using xurl with expanded fields:
+* Fetch the full post data using xurl with expanded fields. The expansions below also
+  pull in any QUOTED tweet and its media — this is essential because media (video or
+  images) is frequently attached to a quoted tweet, not to the post you were given:
   ```bash
-  xurl "/2/tweets/{post_id}?tweet.fields=created_at,author_id,public_metrics,text,entities,conversation_id,lang,note_tweet,attachments&expansions=author_id,attachments.media_keys&user.fields=name,username,description,public_metrics&media.fields=url,preview_image_url,type,width,height,duration_ms,variants" --auth app
+  xurl "/2/tweets/{post_id}?tweet.fields=created_at,author_id,public_metrics,text,entities,conversation_id,lang,note_tweet,attachments,referenced_tweets&expansions=author_id,attachments.media_keys,referenced_tweets.id,referenced_tweets.id.attachments.media_keys,referenced_tweets.id.author_id&user.fields=name,username,description,public_metrics&media.fields=url,preview_image_url,type,width,height,duration_ms,variants" --auth app
   ```
+  With these expansions, a quoted tweet's media appears in `includes.media`, the quoted
+  tweet object in `includes.tweets`, and its author in `includes.users`.
 
 * If xurl fails or returns an error, inform the user and stop.
+
+* **RESOLVE THE MEDIA SOURCE (quoted / linked status) — do this BEFORE printing the
+  Has Video / Has Images line, so media is never silently dropped.** Media often does
+  NOT live on the post you were given — it lives in a QUOTED tweet, or in a status URL
+  pasted into the post's text:
+
+  - Set MEDIA_SOURCE_URL = the original post URL and QUOTED_ORIGIN = none by default.
+  - PARENT_HAS_MEDIA = true if `includes.media` contains an entry whose media_key is in
+    THIS post's own `attachments.media_keys`. If true, keep MEDIA_SOURCE_URL = original
+    post URL and skip the rest of this resolution.
+  - If PARENT_HAS_MEDIA is false, find a quoted or linked status, in order:
+      1. QUOTED TWEET: `referenced_tweets` entry with type == "quoted" → QUOTED_ID = its
+         `id`; its media is already in `includes.media` (via the expansions).
+      2. LINKED STATUS: else scan `entities.urls` for the FIRST `expanded_url` matching
+         https://(x|twitter).com/{anyuser}/status/{digits} (ignore ?query) → QUOTED_ID =
+         the digits after /status/.
+      3. If QUOTED_ID came from the linked-status path and its media is not already in
+         `includes.media`, fetch that status with the SAME xurl command (post_id =
+         QUOTED_ID) and read its media, author, and text.
+  - If media was found on the quoted/linked status:
+      * MEDIA_SOURCE_URL = https://x.com/{quoted_username}/status/{QUOTED_ID} — the URL
+        yt-dlp (Step 5) and curl (Step 5B) MUST download from, NOT the parent post.
+      * QUOTED_ORIGIN = @{quoted_username}. Treat the quoted status's video/image
+        attachments as this post's media for Steps 5 and 5B.
+  - If no media is found anywhere, the post genuinely has no media.
 
 * Output:
   ```
@@ -195,8 +224,9 @@ STEP 1: FETCH THE POST (if X URL provided)
   Date: {created_at}
   Text: {full text of post}
   Likes: {like_count} | Retweets: {retweet_count} | Views: {impression_count}
-  Has Video: {yes/no}
-  Has Images: {yes/no — count if yes}
+  Has Video: {yes/no — if from a quote/link, write "yes (from quoted {QUOTED_ORIGIN})"}
+  Has Images: {yes/no — count if yes; note "(from quoted {QUOTED_ORIGIN})" if applicable}
+  Media source: {MEDIA_SOURCE_URL — only show if different from the original post URL}
   ============================================
   ```
 
@@ -443,10 +473,28 @@ STEP 5: DOWNLOAD VIDEO (if video present)
 
 * Check for a video from:
   - The X post's media attachments (type "video")
+  - A QUOTED or linked status resolved in Step 1 — the video lives on the quoted tweet,
+    not the post you were given. Use MEDIA_SOURCE_URL (the quoted status URL) as the
+    yt-dlp download target.
   - A separate video URL provided in the input
   - A URL in the text block that points to video content
 
-* If a video is available:
+* **DO NOT skip this step because Step 1 reported "Has Video: no".** The X API's
+  `includes.media` block is NOT a reliable signal for quote/repost videos — a true quote
+  tweet leaves the media_key on the quoted tweet, so the API returns no media even though a
+  video exists. yt-dlp walks quoted AND reposted media itself via GraphQL, straight from the
+  post URL. Whenever a video download is not explicitly skipped, ALWAYS attempt the yt-dlp
+  download below against the original post URL — regardless of what Step 1 detected. Only
+  conclude the post has no video if yt-dlp itself finds nothing.
+
+* VIDEO_SOURCE_URL for the yt-dlp command below is chosen in this priority order:
+    1. The ORIGINAL post URL — try this FIRST. yt-dlp resolves quoted and reposted media
+       on its own, so the post URL alone downloads the video in the vast majority of cases.
+    2. If a separate direct video URL was provided in the input, use it.
+    3. FALLBACK only if step 1 yielded nothing: MEDIA_SOURCE_URL (the quoted status URL
+       resolved in Step 1). Re-run yt-dlp against it before giving up.
+
+* Attempt the video download (do NOT pre-gate on Step 1 detection):
 
   5-pre. CHECK FOR DUPLICATE before downloading:
     Check whether {ROOT_DIR}/static/videos/{post_id}.mp4 (or similar) already exists:
@@ -456,12 +504,14 @@ STEP 5: DOWNLOAD VIDEO (if video present)
     If the file exists, skip steps 5a–5b and use the existing file for embedding.
     Output: "Video already exists: {filename} — skipping download"
 
-  5a. Download using yt-dlp:
+  5a. Download using yt-dlp. Try the ORIGINAL post URL first; if it downloads nothing and
+    a quoted status was resolved in Step 1, retry against MEDIA_SOURCE_URL:
     ```bash
     mkdir -p {ROOT_DIR}/static/videos
-    yt-dlp "{video_source_url}" -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s"
+    yt-dlp "{original_post_url}" -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s" \
+      || yt-dlp "{MEDIA_SOURCE_URL}" -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s"
     ```
-    If yt-dlp fails, try with cookies or inform the user.
+    If both fail, try with cookies or inform the user.
 
   5b. IPFS pin (optional but preferred for censorship resistance):
     - Ensure the IPFS daemon is running (check: ipfs swarm peers)
@@ -529,6 +579,9 @@ STEP 5: DOWNLOAD VIDEO (if video present)
 
       *{Description}. Source: [@{username} on X]({original_url}), {date}.*
       ```
+    - If the video came from a quoted/linked status (QUOTED_ORIGIN is set), credit the
+      original media poster: *{Description}. Video by {QUOTED_ORIGIN}, quoted by
+      [@{username} on X]({original_url}), {date}.*
     - NEVER use cloudflare-ipfs.com (shut down in 2024)
     - NEVER use HTML width attribute — only CSS style={{width: '100%'}}
     - If IPFS was NOT pinned, use only the local source:
@@ -565,6 +618,8 @@ STEP 5B: DOWNLOAD IMAGES (if images present)
 
 * Check for images from:
   - The X post's media attachments (type "photo") — may be 1 or more images
+  - A QUOTED or linked status resolved in Step 1 — its photo media is in `includes.media`;
+    download from the pbs.twimg.com URLs as usual and credit QUOTED_ORIGIN in the caption
   - A direct image URL provided in the input (Component 2b)
   - A URL in the text block that points to an image
 
