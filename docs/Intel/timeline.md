@@ -31,6 +31,7 @@ All 199 profiles organized by decade and year.
 - **1961** — [Patrice Lumumba](Details/Patrice_Lumumba.md) — Congolese PM executed. CIA and Belgian intelligence confirmed.
 - **1961** — [Rafael Trujillo](Details/Rafael_Trujillo.md) — Dominican Republic dictator ambushed and shot. CIA supplied weapons.
 - **1961** — [Dag Hammarskjold](Details/Dag_Hammarskjold.md) — UN Secretary-General killed in plane crash. 2019 UN inquiry found "plausible" shoot-down.
+- **1963** — [Phil Graham](Details/Phil_Graham.md) — *Washington Post* publisher who had publicly named JFK's mistress seven months earlier died of a shotgun wound, ruled suicide.
 - **1963** — [Ngo Dinh Diem](Details/Ngo_Dinh_Diem.md) — South Vietnamese president shot in CIA-backed coup.
 - **1964** — [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) — JFK's alleged mistress shot execution-style on Georgetown towpath. CIA seized diary.
 - **1965** — [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) — Journalist found dead after privately interviewing Jack Ruby about JFK assassination. Notes vanished.

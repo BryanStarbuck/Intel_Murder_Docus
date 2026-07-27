@@ -158,6 +158,7 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 - [Sergei Protosenya](Details/Sergei_Protosenya.md) — Former Novatek executive found hanged in Spanish villa (2022)
 - [Boris Berezovsky](Details/Boris_Berezovsky.md) — Found hanged, evidence consistent with strangulation by third party (2013)
 - [David Kelly](Details/David_Kelly.md) — Wrist slashed, almost no blood at scene, records sealed until 2073 (2003)
+- [Phil Graham](Details/Phil_Graham.md) — Shotgun wound at his Virginia farm, ruled suicide; documented manic depression supports the finding, but he had named JFK's mistress in public seven months earlier and died three months before the assassination (1963)
 
 ## Beating / Torture / Denial of Medical Care
 

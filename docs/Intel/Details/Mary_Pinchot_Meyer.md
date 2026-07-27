@@ -19,6 +19,16 @@ Washington socialite, artist, and alleged mistress of President John F. Kennedy,
 | **Alleged Intelligence Connection** | CIA — ex-husband Cord Meyer was senior CIA official; CIA counterintelligence chief James Angleton searched for and allegedly destroyed her diary |
 | **Category** | Political Figure / Civilian Casualty |
 
+## Image Evidence
+
+<img
+  src="/images/2081559456748548485_1.jpg"
+  alt="Mary Pinchot, age 22, Vassar College yearbook photograph, 1942"
+  style={{maxHeight: '45vh', width: 'auto', aspectRatio: '1122/1402'}}
+/>
+
+*Mary Pinchot, age 22, Vassar College yearbook, 1942. Source: [@BasedSamParker on X](https://x.com/BasedSamParker/status/2081559456748548485), July 27, 2026.*
+
 ## Assessment: HIGHLY SUSPICIOUS
 
 Mary Pinchot Meyer was killed in what bore the hallmarks of a professional execution — two shots, one to the head and one to the heart — while walking in broad daylight on a Georgetown towpath. The only suspect, Ray Crump Jr., was acquitted after the prosecution failed to produce a murder weapon, forensic evidence, or a credible motive. Within hours of her death, CIA counterintelligence chief James Angleton was attempting to break into her art studio to retrieve her private diary, which reportedly documented her affair with President Kennedy. The diary was allegedly destroyed. Her murder occurred less than eleven months after JFK's assassination and just weeks after the Warren Commission report was released — timing that has fueled decades of suspicion that she was killed because of what she knew.
@@ -71,7 +81,25 @@ Mary Pinchot Meyer had known John F. Kennedy since at least the late 1930s, when
 
 According to accounts confirmed by Ben Bradlee in his 1995 memoir *A Good Life*, Meyer first visited Kennedy at the White House in October 1961, and their relationship became sexually intimate by January 1962. According to James Truitt — a friend in whom Meyer confided — Meyer visited the White House approximately thirty times between January 1962 and November 1963, frequently using a private entrance and elevator. Most of these visits reportedly occurred when First Lady Jacqueline Kennedy was out of town.
 
-Meyer attended Kennedy's 46th birthday party aboard the presidential yacht *Sequoia* in May 1963. An unsent 1963 letter from Kennedy to Meyer, which hints at their intimacy, was sold at auction in 2016. The affair was not publicly known until 1976, when the *National Enquirer* published a story based on information provided by James Truitt. Ben Bradlee subsequently confirmed its existence in his memoir.
+Meyer attended Kennedy's 46th birthday party aboard the presidential yacht *Sequoia* in May 1963. The affair was not publicly known until 1976, when the *National Enquirer* published a story based on information provided by James Truitt. Ben Bradlee subsequently confirmed its existence in his memoir.
+
+#### The Unsent October 1963 Letter
+
+A four-page handwritten letter from Kennedy to Meyer, written on White House notepaper circa October 1963, was never sent. It was retained by Kennedy's personal secretary Evelyn Lincoln and surfaced decades later. RR Auction of Boston sold it in June 2016 for **$88,971** including buyer's premium, well above its pre-sale estimate of roughly $30,000. Signed only with the initial "J.," it reads in part:
+
+> "Why don't you leave suburbia for once—come and see me—either here—or at the Cape next week or in Boston the 19th. I know it is unwise, irrational, and that you may hate it—on the other hand you may not—and I will love it. You say that it is good for me not to get what I want. After all of these years—you should give me a more loving answer than that. Why don't you just say yes."
+
+Kennedy was in Boston on October 19, 1963, for a Democratic Party fundraiser, which helps date the letter to the weeks before his assassination. It is not known whether Meyer ever learned of it, or whether the two met. She was murdered slightly less than a year after it was written.
+
+#### Myer Feldman's Recollections
+
+White House deputy special counsel Myer Feldman recalled seeing Meyer frequently in the Oval Office and the presidential residence. According to Feldman's account, Kennedy did not routinely ask her to leave when official business came up, as he sometimes did with other social visitors, and Feldman came to regard Kennedy's high estimation of her as obvious — to the point that Feldman considered using Meyer as an informal channel when he needed to get something in front of the president. If accurate, Feldman's recollection suggests Meyer had access to substantive policy discussion, not merely social access — a distinction central to the question of what she might have known.
+
+#### Phil Graham's 1963 Disclosure
+
+The affair was disclosed publicly — and then buried — more than a year before Meyer's death. In January 1963, at a newspaper publishers' gathering in Phoenix, Arizona, *Washington Post* publisher [Phil Graham](Phil_Graham.md) seized a microphone during what was later described as a manic episode and told the assembled editors that President Kennedy was involved with Meyer, naming her. Graham's assistant, James Truitt — the same friend to whom Meyer had confided about her diary — summoned Graham's physician. Graham was sedated, restrained, and flown back to Washington. The press corps did not report what he had said.
+
+Graham died seven months later, on August 3, 1963, of a shotgun wound at his Virginia farm, ruled a suicide. See [Phil Graham](Phil_Graham.md) for the circumstances of that death and the arguments for and against the official ruling.
 
 ### Alleged LSD Sessions and Timothy Leary
 
@@ -104,6 +132,8 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 - **Destruction of evidence:** The diary was allegedly burned by the CIA's counterintelligence chief. Whatever it contained is lost.
 - **Timing:** Meyer was killed on October 12, 1964 — less than eleven months after JFK's assassination and just fifteen days after the Warren Commission report was released to the public on September 27, 1964 (submitted to President Johnson on September 24). According to some accounts, Meyer had expressed disbelief in the Warren Commission's lone-gunman conclusion and had allegedly told friends she intended to speak out.
 - **No further investigation:** After Crump's acquittal, no serious effort was made to identify the actual killer. The case simply went cold.
+- **Disputed fate of her federal case files:** Commentators researching the case have claimed that a 2017 Freedom of Information Act response indicated portions of Meyer's FBI file were destroyed in 1988, and that further records went missing around 1994 during the transfer of Bureau holdings to the National Archives under the President John F. Kennedy Assassination Records Collection Act of 1992. This site has not independently verified either the destruction date or the transfer gap against a released FOIA response or NARA finding aid; the claim is recorded here as an unverified assertion requiring documentary confirmation. What is not disputed is that the FBI opened a file on Meyer's political activities decades before her death, stemming from her left-wing associations at Vassar and afterward.
+- **A second, unproven motive hypothesis — the Dimona dispute:** Some commentators have proposed that Meyer's proximity to Kennedy during his confidential 1963 dispute with Israeli Prime Minister David Ben-Gurion over inspection access to the Dimona nuclear reactor gave her — or was believed to have given her — knowledge that made her a target. The underlying dispute is documented: correspondence declassified in 1995, with the fuller record released in 2019, shows Kennedy pressing Ben-Gurion hard on inspections. But no released document places Meyer inside those discussions, and no evidence has surfaced tying any foreign service to her death. This remains speculation, offered here as a hypothesis in circulation rather than a supported finding.
 - **Cord Meyer's deathbed statement:** In February 2001, according to writer C. David Heymann, the dying Cord Meyer responded to a question about who killed his ex-wife by saying, "The same sons of bitches that killed John F. Kennedy" — a striking statement from a career CIA officer who spent over 25 years at the agency.
 - **Pattern of JFK-connected deaths:** Meyer's murder fits a broader pattern of suspicious deaths among people connected to the Kennedy assassination. [Dorothy Kilgallen](Dorothy_Kilgallen.md), the most prominent journalist in America investigating JFK's murder — who had secured an exclusive private interview with Jack Ruby and obtained classified Warren Commission testimony — died of a suspicious barbiturate overdose on November 8, 1965, just thirteen months after Meyer. Both women had expressed disbelief in the lone-gunman theory, both had access to powerful insiders, and both died before they could publish or speak publicly about what they knew.
 
@@ -131,6 +161,7 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 
 ## See Also
 
+- [Phil Graham](Phil_Graham.md) — *Washington Post* publisher who publicly disclosed the Kennedy–Meyer affair in January 1963 and died of a shotgun wound seven months later, ruled suicide
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating JFK assassination, died of suspicious overdose in November 1965. Both Kilgallen and Meyer challenged the Warren Commission, both had insider access, and both died before going public with what they knew.
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed under suspicious circumstances; MKULTRA connection links to Meyer's interest in LSD and the CIA's parallel drug experiments
 - [William Colby](William_Colby.md) — Former CIA Director who died under suspicious circumstances
@@ -162,6 +193,11 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 - [When Ben Bradlee and James Angleton Obstructed Justice — Future of Freedom Foundation](https://www.fff.org/2021/03/05/when-ben-bradlee-and-james-angleton-obstructed-justice/)
 - [New Evidence About Mary Meyer's Murder — University of Georgia Law Digital Commons](https://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=1271&context=fac_pm)
 - [Peter Janney — Wikipedia](https://en.wikipedia.org/wiki/Peter_Janney)
+- [John F. Kennedy Handwritten Letter to Mary Pinchot Meyer — RR Auction (sold $88,971, June 2016)](https://www.rrauction.com/auctions/lot-detail/335973804788021-john-f-kennedy-handwritten-letter-to-mary-pinchot-meyer/)
+- [A Steamy Letter From JFK Is up for Auction — Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/steamy-letter-jfk-auction-180959310/)
+- [JFK's Love Letter to Alleged Mistress Is up for Auction — ABC News](https://abcnews.go.com/US/jfks-love-letter-alleged-mistress-auction/story?id=39585248)
+- [Phil Graham — Wikipedia](https://en.wikipedia.org/wiki/Phil_Graham) (January 1963 Phoenix disclosure of the affair)
+- [@BasedSamParker on X, July 27, 2026](https://x.com/BasedSamParker/status/2081559456748548485) — long-form post compiling the letter, the Feldman recollections, the Graham disclosure, and the disputed FBI records claims
 - Nina Burleigh, *A Very Private Woman: The Life and Unsolved Murder of Presidential Mistress Mary Meyer* (1998)
 - Peter Janney, *Mary's Mosaic: The CIA Conspiracy to Murder John F. Kennedy, Mary Pinchot Meyer, and Their Vision for World Peace* (2012; third edition 2016)
 - Ben Bradlee, *A Good Life: Newspapering and Other Adventures* (1995)

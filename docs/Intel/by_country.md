@@ -52,6 +52,7 @@ All 156 profiles organized by the country where the killing or attack occurred.
 - [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) — American Nazi Party founder shot from rooftop, Arlington VA (1967)
 - [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) — Journalist found dead after interviewing Jack Ruby about JFK assassination. Notes vanished (1965)
 - [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) — JFK's alleged mistress shot on Georgetown towpath, Washington DC (1964)
+- [Phil Graham](Details/Phil_Graham.md) — *Washington Post* publisher who had publicly named JFK's mistress, died of shotgun wound at his Virginia farm, ruled suicide, Marshall VA (1963)
 - [Frank Olson](Details/Frank_Olson.md) — CIA scientist fell from New York hotel window after MKULTRA dosing (1953)
 - [William Colby](Details/William_Colby.md) — Former CIA Director drowned during canoe trip, Rock Point MD (1996)
 - [John Paisley](Details/John_Paisley.md) — Senior CIA officer found in Chesapeake Bay with gunshot wound (1978)
