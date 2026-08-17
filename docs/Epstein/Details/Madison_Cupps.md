@@ -168,6 +168,7 @@ It DOES record what the post claims, with full attribution, including the gaps i
 - [@TheEmmapreneur on X — post 2047773226231566705 (pointer to the 'not suicidal' post, 2026-04-24)](https://x.com/TheEmmapreneur/status/2047773226231566705)
 - [@TheEmmapreneur on X — post 2047769275708895549 (IC3 complaint, 2026-04-24, ~59,593 impressions, 2 image attachments)](https://x.com/TheEmmapreneur/status/2047769275708895549)
 - [@TheEmmapreneur on X — post 2049133495377670615 ("The Original PizzaGate," 2026-04-28, ~114,262 impressions, 4 image attachments)](https://x.com/TheEmmapreneur/status/2049133495377670615)
+- [@TheEmmapreneur on X — post 2047769275708895549 (earlier video, 2026-04-24)](https://x.com/TheEmmapreneur/status/2047769275708895549) — archived and embedded on [Bryan Cupps](Bryan_Cupps.md#earlier-video--april-24-2026); transcript at `docs/Epstein/other/transcripts/2047769275708895549_transcript.txt`. This video names additional living public figures; those passages are not reproduced on this site and none of those individuals has been charged or sued in connection with the claims.
 - [@TheEmmapreneur on X — post 2054372519465881910 (video re-post, 2026-05-13)](https://x.com/TheEmmapreneur/status/2054372519465881910)
 - [@TheEmmapreneur on X — post 2054373572219457694 ("The Original #PizzaGate" pointer, 2026-05-13)](https://x.com/TheEmmapreneur/status/2054373572219457694)
 - [@TheEmmapreneur on X — post 2054373906476040541 ("Madison's complaints to police and IC3" pointer, 2026-05-13)](https://x.com/TheEmmapreneur/status/2054373906476040541)

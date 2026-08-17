@@ -38,7 +38,6 @@ In **August 1978**, his estate at Ossining, New York was burned to the ground by
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

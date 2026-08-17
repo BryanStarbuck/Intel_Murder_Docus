@@ -115,13 +115,146 @@ All content lives under {ROOT_DIR}.
 ```
 
 ============================
+HOW MEDIA IS SERVED — READ THIS BEFORE TOUCHING ANY EMBED
+============================
+
+Videos and images are served two DIFFERENT ways. Swapping them is the single most
+common way a run silently produces a page with dead media.
+
+  * VIDEO  → served from IPFS, embedded as public gateway URLs, greppable by CID.
+               <source src="https://ipfs.io/ipfs/{CID}" type="video/mp4" />
+             Video files ARE gitignored — {ROOT_DIR}/static/videos/.gitignore contains
+             `*.mp4`, deliberately, because they are too large to commit. IPFS is their
+             ONLY distribution path. This is why video needs more verification, not less.
+
+  * IMAGE  → served OUT OF THE REPO from the Docusaurus static dir, at
+               /images/{filename}
+             The binary IS committed to git and deployed with the site. An image may
+             ALSO be pinned to IPFS as a mirror, but the CID is never the src.
+
+WHY IMAGES DO NOT USE AN IPFS GATEWAY AS THEIR src:
+
+  `ipfs add --pin` only makes bytes available FROM THIS MACHINE. Unless a remote
+  pinning service is configured (`ipfs pin remote service ls` — check it), every CID
+  has exactly ONE provider: Bryan's machine. A page can therefore ship a correct-looking
+  <img src="https://ipfs.io/..."> that renders fine here, passes every local check, and
+  is a broken icon for every real visitor the moment this machine sleeps. A green
+  gateway check proves "it works right now" — it proves NOTHING about durability.
+
+  Images are small and belong in the repo, where the deploy serves them with no
+  dependency on any machine being awake. Videos are too large to commit, so they stay
+  on IPFS and carry that single-provider caveat, which every run must state.
+
+VIDEO HAS NO FALLBACK. This is the asymmetry that matters. If an image's CID dies the
+repo copy still serves it; if a VIDEO's CID dies the player is dead for every visitor,
+silently, forever. A manifest video whose bytes are neither on disk nor pinned by this
+node has NO PROVIDER anywhere on the network. So every video this skill adds MUST be:
+  1. downloaded and verified non-empty on disk,
+  2. `ipfs add --pin`ed,
+  3. announced with `ipfs routing provide {CID}` (pinning alone does not announce),
+  4. probed against the PUBLIC gateway (not localhost),
+  5. actually embedded on a page, and
+  6. recorded in manifest.yaml, IPFS.sh, and get_videos.sh.
+A run that does 1–3 and skips 5 produces an orphan: a pinned video on no page, which
+is invisible and therefore never noticed.
+
+Consequence for verification: grep the identifier that matches the media TYPE. Grepping
+a page for a CID reports a false negative on images, because the string the browser
+fetches is /images/{filename}, not the CID. See Step 9H.
+
+============================
+RUN LOG (MANDATORY, EVERY RUN)
+============================
+
+HISTORY_DIR dir is ~/T/_intel_skill/history/
+RUN_LOG is file {HISTORY_DIR}{YYYY-MM-DD}_{HH-MM-SS}.md
+
+Every invocation writes exactly one run-log file, IN ADDITION to all the other work.
+Purpose: months later Bryan must be able to read one file and know what was passed in,
+what the skill decided, what commands it ran, what came back, and what it wrote. Without
+this there is no way to audit which posts were ever processed — reconstructing it from
+Claude Code session transcripts is slow and lossy.
+
+* FIRST ACTION OF EVERY RUN, before parsing input, before any fetch:
+  ```bash
+  mkdir -p ~/T/_intel_skill/history
+  date "+%Y-%m-%d_%H-%M-%S"
+  ```
+  Use the REAL clock — never invent a timestamp. Immediately write the header block
+  (verbatim input, cwd) so a run that dies mid-way still leaves a log naming its input.
+
+* APPEND AS YOU GO — do not buffer the log to the end. After each step completes or
+  fails, append its entry. A crashed or context-exhausted run must still leave a partial
+  log showing the last step reached. A failed step records the exact stderr, not a
+  summary of it.
+
+* Log format:
+
+  ```markdown
+  # Intel_X_add_link run {stamp}
+
+  ## Input
+  Raw arguments (verbatim, including line breaks and URL wrapping):
+  {exact raw input}
+  Parsed URLs (after un-wrapping): {list}
+  Flags: investigation={Epstein/Intel/auto} transcribe={y/n}
+
+  ## Media inventory (Step 5-pre)
+  {the inventory table, verbatim}
+
+  ## Steps
+  | # | Step | Result | Detail |
+  |---|------|--------|--------|
+  | 1 | Fetch post | OK/FAILED | {post_id} @{user}, video={n} images={n}, quoted={id or none} |
+  | 5 | Video download | OK/FAILED/SKIPPED | {filename}, {bytes}, yt-dlp exit {code} |
+  | 5b | IPFS pin + provide | OK/FAILED | {CID} |
+  | 5b2 | Public gateway verify | OK/FAILED | http {code}, type {type} |
+  | 5B | Image download | OK/FAILED/SKIPPED | {n} files, git-tracked {n} |
+  | 6 | Transcription | OK/FAILED/SKIPPED | {words} words |
+  | 9H | Media on page | PASS/FAIL | {per media item} |
+
+  ## Commands run
+  Each media/IPFS/git/transcription command verbatim, with exit code and the first and
+  last 10 lines of output. yt-dlp failures get their FULL stderr.
+
+  ## Media outcome
+  {one line per inventory row: type, identifier, PLACED → page | BLOCKED → why}
+
+  ## Files written
+  {one line per file created or modified}
+
+  ## Warnings and unfinished business
+  {every gap, skipped step, unverified CID, uncommitted binary, or manual follow-up.
+   If there are none, write "none".}
+  ```
+
+============================
+NEVER TRUST A PIPED EXIT CODE
+============================
+
+The shell reports the LAST command's status, so `somecmd | tail -20` exits 0 even when
+somecmd failed. A run that trusts that exit code will call a failed step clean. This has
+actually bitten the sibling Holon skill (2026-08-15: an audit printed
+"RESULT: FAIL — 17 issue(s)" and was reported as exit 0).
+
+When a command's success matters, redirect and check separately:
+```bash
+somecmd > /tmp/out.txt 2>&1; echo "exit=$?"
+tail -30 /tmp/out.txt
+```
+This applies especially to yt-dlp, ipfs, node Transcribe.js, and npm run build.
+
+ALSO: yt-dlp CAN EXIT 0 WITHOUT WRITING A FILE. Never infer a download from an exit
+code — stat the file and check its size is greater than zero. See Step 5.
+
+============================
 INVESTIGATION REGISTRY
 ============================
 
 Use this registry to match content against the two investigations.
 When auto-detecting, scan all available text for these keywords and topics.
 
-**Investigation 1: Epstein** (`docs/Epstein/`, URL path `/epstein/`)
+**Investigation 1: Epstein** (`docs/Epstein/`, URL path `/epstein-murders/`)
 * Scope: People connected to Jeffrey Epstein, child trafficking rings, sex-trafficking
   blackmail operations, and deaths/disappearances related to any of the above
 * Keywords: Epstein, Jeffrey Epstein, Ghislaine Maxwell, Little Saint James, pedophile island,
@@ -129,7 +262,7 @@ When auto-detecting, scan all available text for these keywords and topics.
   Les Wexner, Jean-Luc Brunel, Victoria Giuffre, Alan Dershowitz, Bill Clinton island,
   Prince Andrew, Epstein client list, flight logs, black book, Cell-Tech, dead man's switch
 
-**Investigation 2: Intel** (`docs/Intel/`, URL path `/intel/`)
+**Investigation 2: Intel** (`docs/Intel/`, URL path `/intelligence-service-murders/`)
 * Scope: Victims of political assassination by intelligence services — journalists, scientists,
   political leaders, activists, whistleblowers, and civilians killed by CIA, MI6/SIS, Mossad,
   KGB/FSB/GRU, DINA, ISI, and other intelligence agencies
@@ -496,32 +629,100 @@ STEP 5: DOWNLOAD VIDEO (if video present)
 
 * Attempt the video download (do NOT pre-gate on Step 1 detection):
 
-  5-pre. CHECK FOR DUPLICATE before downloading:
-    Check whether {ROOT_DIR}/static/videos/{post_id}.mp4 (or similar) already exists:
-    ```bash
-    ls {ROOT_DIR}/static/videos/{post_id}* 2>/dev/null
+  5-pre. BUILD THE MEDIA INVENTORY — this is the run's completion contract.
+
+    Before downloading anything, write down EVERY piece of media this post carries
+    (videos and images, including those on a quoted/linked status). This list is the
+    thing the run is measured against. At the end of the run, every row must read
+    either PLACED (with the page it is on) or BLOCKED (with a concrete reason).
+    "Downloaded" is NOT a terminal state — a downloaded, pinned video on no page is an
+    orphan, which is the exact failure mode this inventory exists to catch.
+
     ```
-    If the file exists, skip steps 5a–5b and use the existing file for embedding.
+    ------------- Media inventory (post {post_id}) -------------
+    | # | Type  | Source                    | Status |
+    |---|-------|---------------------------|--------|
+    | 1 | video | {post_id} (this post)     | PENDING |
+    | 2 | photo | quoted @{user} media 1/2  | PENDING |
+    ------------------------------------------------------------
+    ```
+
+    Carry this table into the run log and re-print it, resolved, in the Step 9 summary.
+    A run that ends with any row still PENDING is INCOMPLETE — say so plainly rather
+    than reporting success.
+
+    CHECK FOR DUPLICATES before downloading:
+    ```bash
+    ls {ROOT_DIR}/static/videos/{post_id}* {ROOT_DIR}/static/images/{post_id}* 2>/dev/null
+    ```
+    If a file exists, skip its download and use the existing file for embedding.
     Output: "Video already exists: {filename} — skipping download"
 
+    ALSO check whether this post was already processed in a previous run:
+    ```bash
+    ls {ROOT_DIR}/docs/*/other/x_posts/{post_id}.yaml 2>/dev/null
+    grep -rl "{post_id}" {ROOT_DIR}/static/videos/manifest.yaml 2>/dev/null
+    ```
+    A post with a YAML record but no video on disk is a PREVIOUSLY FAILED RUN. Treat it
+    as work to redo, not as work already done — re-download and re-place it, and say so
+    in the summary.
+
   5a. Download using yt-dlp. Try the ORIGINAL post URL first; if it downloads nothing and
-    a quoted status was resolved in Step 1, retry against MEDIA_SOURCE_URL:
+    a quoted status was resolved in Step 1, retry against MEDIA_SOURCE_URL. Use
+    `-S "res,tbr"` to take the highest-quality rendition, and `--yes-playlist` so a post
+    carrying MULTIPLE videos yields all of them rather than only the first:
     ```bash
     mkdir -p {ROOT_DIR}/static/videos
-    yt-dlp "{original_post_url}" -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s" \
-      || yt-dlp "{MEDIA_SOURCE_URL}" -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s"
+    yt-dlp --yes-playlist -S "res,tbr" "{original_post_url}" \
+      -o "{ROOT_DIR}/static/videos/{post_id}.%(ext)s" > /tmp/ytdlp.txt 2>&1
+    echo "exit=$?"; tail -20 /tmp/ytdlp.txt
     ```
-    If both fail, try with cookies or inform the user.
+    If nothing landed, retry against MEDIA_SOURCE_URL, then try cookies
+    (`--cookies-from-browser chrome`), then inform the user. Record the FULL stderr of a
+    failure in the run log — not a summary.
 
-  5b. IPFS pin (optional but preferred for censorship resistance):
-    - Ensure the IPFS daemon is running (check: ipfs swarm peers)
-    - Start if needed: brew services start kubo
-    - Add and pin the video:
+  5a-2. VERIFY THE DOWNLOAD — MANDATORY. **yt-dlp can exit 0 without writing a file**
+    (private post, deleted media, geo-block, format-selection miss). An exit code is not
+    evidence. Stat the file and require a non-zero size:
+    ```bash
+    ls -la {ROOT_DIR}/static/videos/{post_id}.* 2>/dev/null
+    test -s {ROOT_DIR}/static/videos/{post_id}.mp4 \
+      && echo "VIDEO OK: $(stat -f%z {ROOT_DIR}/static/videos/{post_id}.mp4) bytes" \
+      || echo "FAIL: no video file on disk — do NOT proceed to pin/embed"
+    ```
+    If this fails, mark the video BLOCKED in the Step 5-pre inventory with the reason,
+    and do NOT write a manifest entry, an IPFS.sh line, or a page embed for it. A
+    manifest row pointing at a file that was never downloaded is worse than no row: it
+    reads as done and hides the gap from every later audit.
+
+  5b. IPFS pin — REQUIRED for video, not optional. Video is gitignored, so IPFS is its
+    only distribution path; an unpinned video is unreachable for everyone.
+    - Ensure the IPFS daemon is running: `ipfs swarm peers > /dev/null 2>&1 && echo UP || echo DOWN`
+    - Start if needed: `brew services start kubo` (then wait for it to come up)
+    - Add and pin, capturing just the CID with -Q:
       ```bash
-      ipfs add --pin {ROOT_DIR}/static/videos/{filename}
+      CID=$(ipfs add --pin -Q {ROOT_DIR}/static/videos/{filename}); echo "CID=$CID"
       ```
-    - Capture the CID from the output (e.g., "added QmXyz... filename")
-    - Verify pin: ipfs pin ls {CID}
+      NEVER use `ipfs add -n` — that computes a CID WITHOUT storing the bytes, producing
+      a hash that looks valid, records cleanly in the manifest, and has no provider at all.
+    - Verify the pin actually exists:
+      ```bash
+      ipfs pin ls --type=recursive $CID && echo "PINNED" || echo "FAIL: not pinned"
+      ```
+    - ANNOUNCE IT TO THE DHT — pinning alone does NOT publish. Without this the CID may
+      be unreachable from public gateways even though it is pinned locally:
+      ```bash
+      ipfs routing provide $CID; echo "provide exit=$?"
+      ```
+    - PROBE THE PUBLIC GATEWAY (never localhost — a visitor's browser has no node):
+      ```bash
+      curl -s -o /dev/null -w "http=%{http_code} type=%{content_type}\n" \
+        -r 0-1000 --max-time 120 "https://ipfs.io/ipfs/$CID"
+      ```
+      PASS is http 200/206 with content_type video/mp4. A 504 with type text/plain means
+      NO PROVIDER — the video is dead for every visitor. Do not report the run as
+      complete on a 504; say so explicitly in the summary and the run log.
+      (A dweb.link 301 is normal — it redirects to its subdomain form.)
     - If IPFS is not available, skip pinning and note this in the summary
 
   5c. Update manifest.yaml:
@@ -786,6 +987,223 @@ STEP 7: PROCESS TRANSCRIPTION INTO INVESTIGATION (if transcription succeeded)
   ```
 
 ============================
+STEP 7H: PUBLICATION VERIFICATION — THE RUN IS NOT DONE UNTIL THIS PASSES
+============================
+
+Everything before this step is work the skill BELIEVES it did. This step proves it.
+Historically this is where runs went wrong silently: the download step "succeeded," the
+manifest got a row, and no page ever showed the media. Do not skip it and do not
+summarize it — report each check as its own PASS / FAIL / SKIPPED line.
+
+* 7H-0. RE-PRINT THE MEDIA INVENTORY from Step 5-pre, resolved. Every row must read
+  PLACED (naming the page) or BLOCKED (naming the reason). Any row still PENDING means
+  the run is INCOMPLETE — say that word in the summary.
+
+* 7H-1. MEDIA IS IN THE SOURCE FILE. Grep the identifier that matches the media TYPE:
+  ```bash
+  # video → grep the CID
+  grep -c "{CID}" {ROOT_DIR}/docs/{investigation}/Details/{Page}.mdx
+  # image → grep the served path, NOT the CID
+  grep -c "/images/{filename}" {ROOT_DIR}/docs/{investigation}/Details/{Page}.mdx
+  ```
+  Zero means the edit never landed. Grepping a page for an image's CID is a FALSE
+  NEGATIVE — the browser fetches the /images/ path, so that is the string to look for.
+
+* 7H-2. THE PAGE IS .mdx IF IT CONTAINS JSX. A `<video>` or `<img>` with a
+  `style={{...}}` attribute inside a plain `.md` file will not render as a component.
+  If you added an embed to a `.md` file, rename it:
+  ```bash
+  git -C {ROOT_DIR} mv docs/{inv}/Details/{Page}.md docs/{inv}/Details/{Page}.mdx
+  rg -n "{Page}\.md\b" {ROOT_DIR}/docs {ROOT_DIR}/src   # fix every link that names the extension
+  ```
+
+* 7H-3. THE SITE ACTUALLY BUILDS, and the media survived into the built HTML. This is
+  the check that catches broken links, bad JSX, and unresolved relative paths:
+  ```bash
+  cd {ROOT_DIR} && npm run build > /tmp/intel_build.txt 2>&1; echo "exit=$?"
+  grep -c "Broken link on source page path" /tmp/intel_build.txt
+  grep -A6 "{Page}/:" /tmp/intel_build.txt     # broken links on YOUR page specifically
+  grep -c "{CID}" build/{routeBasePath}/Details/{Page}/index.html
+  ls -la build/images/{filename}                # image binary made it into the build
+  ```
+  A build that exits 0 can still report broken links — check BOTH. Only the broken links
+  attributable to pages this run touched are this run's responsibility; note any
+  pre-existing ones separately rather than claiming them as new breakage.
+
+* 7H-4. THE VIDEO IS REACHABLE FROM THE PUBLIC INTERNET (the Step 5b probe). Re-state
+  the result here. A 504 text/plain means NO PROVIDER — the player is dead for every
+  visitor and the run must say so.
+
+* 7H-5. IMAGE BINARIES ARE TRACKED IN GIT. Images are served from the repo, so an
+  untracked image is a 404 on the live site even though it renders locally:
+  ```bash
+  cd {ROOT_DIR}
+  git ls-files --error-unmatch static/images/{filename} >/dev/null 2>&1 \
+    && echo "TRACKED" || echo "FAIL: image not tracked — will 404 on the live site"
+  git check-ignore -v static/images/{filename}   # must print NOTHING
+  ```
+  Large File Bridge has been observed appending thousands of per-file image lines to
+  .gitignore in sibling repos, silently un-committing new images. If check-ignore prints
+  a rule, fix the ignore file — do not `git add -f` and move on.
+
+  Videos are EXEMPT from this check: static/videos/*.mp4 is gitignored deliberately.
+
+* 7H-6. Output:
+  ```
+  -------- Publication verification (Step 7H) --------
+  Media inventory resolved:  {n} PLACED, {n} BLOCKED, {n} PENDING
+  Media in source file:      {PASS | FAIL — edit did not land}
+  Page extension correct:    {PASS | FIXED — renamed to .mdx | N/A}
+  Site build:                {PASS exit 0 | FAIL}
+  Broken links on my pages:  {none | list}
+  Media in built HTML:       {PASS | FAIL}
+  Public IPFS gateway:       {PASS — http {code} {type} | FAIL — NO PROVIDER}
+  Image binaries tracked:    {PASS {n}/{n} | FAIL — {list}}
+  READER CAN SEE IT:         {YES | NO — {why}}
+  ----------------------------------------------------
+  ```
+  The last line is the one that matters. If it is NO, the run failed regardless of how
+  many earlier steps passed.
+
+============================
+STEP 7I: WHOLE-REPO AUDIT (run at the end of EVERY run)
+============================
+
+AUDIT_SCRIPT is file {ROOT_DIR}/skills_storage/audit_media_publication.py
+
+Step 7H proves THIS run's media landed. This step proves no PREVIOUS run's media has
+gone missing. Run it every time — it is fast and it is the only thing that catches slow
+rot (a post deleted upstream, an unpinned CID, an image that fell out of git).
+
+```bash
+cd {ROOT_DIR}
+python3 skills_storage/audit_media_publication.py > /tmp/intel_audit.txt; echo "exit=$?"
+tail -40 /tmp/intel_audit.txt
+```
+
+DO NOT PIPE IT STRAIGHT INTO head/tail — see NEVER TRUST A PIPED EXIT CODE above. Read
+the RESULT line, not the exit status of a pipeline.
+
+It reports, per post: missing video files, missing manifest rows, unpinned CIDs, videos
+with NO PROVIDER, orphaned videos and images (downloaded but on no page), `/videos/`
+local-src embeds that will 404, untracked or gitignored images, and bad route paths.
+
+* Add `--gateway` to probe every video CID against the public gateway. Run this form
+  whenever a run adds or repins a video, and periodically otherwise.
+* Add `--recheck-x` to re-probe every post with yt-dlp. **This is the sweep that finds
+  video the X API missed on a quoted post.** It is how post 2047769275708895549 was
+  recovered on 2026-08-17, four months after the run that should have caught it. Run it
+  monthly — and understand that it only works while the source post still exists.
+
+DELIBERATE NON-PUBLICATION IS RECORDED, NOT LEFT AS AN ORPHAN. If media should NOT go on
+a page — a fabricated or AI-generated image, a meme card carrying an unadjudicated
+criminal accusation against a living person — add a row to
+{ROOT_DIR}/static/images/withheld.csv with the filename and the REASON. The audit then
+reports it as WITHHELD instead of ORPHAN. An orphan means "we lost track of this"; a
+withheld row means "we looked at this and decided not to run it." Never leave a
+deliberate editorial decision looking like an accident.
+
+============================
+RECOVERY SWEEP — RE-RUNNING PAST POSTS
+============================
+
+When asked to go back over history and recover missed media, this is the procedure.
+Do NOT try to reconstruct runs from Claude Code session transcripts — most are pruned.
+
+1. Build the master list of every post ever processed, from BOTH sources:
+   ```bash
+   # every post that produced a record
+   ls {ROOT_DIR}/docs/*/other/x_posts/*.yaml | xargs -n1 basename | sed 's/.yaml//'
+   # every invocation the user ever typed (durable; survives transcript pruning)
+   python3 - <<'PY'
+   import json,re
+   u=re.compile(r'(?:x|twitter)\.com/[^/\s"]+/status/(\d+)')
+   ids=set()
+   for line in open('/Users/bryan/.claude/history.jsonl',encoding='utf8',errors='replace'):
+       if 'Intel_X_add_link' not in line: continue
+       try: d=json.loads(line).get('display','')
+       except Exception: continue
+       if '/Intel_X_add_link' in d: ids|=set(u.findall(d))
+   print(len(ids),'post ids from history'); print('\n'.join(sorted(ids)))
+   PY
+   ```
+   The union is the true work-list. As of 2026-08-17 that was 37 posts.
+
+2. Run the audit with `--recheck-x`. Every RECOVERABLE row is a post whose video still
+   exists on X and is not on disk. Download, pin, provide, transcribe, and place each.
+
+3. For each recovered item, do the FULL skill: not just the download. A video on disk
+   that never reaches a page is the same failure in a different place.
+
+4. Anything unrecoverable (source post deleted) gets `video_unrecoverable: true` plus a
+   `video_lost_note` in its x_posts YAML, so the audit reports LOST_UPSTREAM instead of
+   failing forever. If a transcript survives, quote it on the page in place of the dead
+   player rather than leaving a broken embed.
+
+============================
+KNOWN FAILURE MODES — LEARNED FROM AUDITING PAST RUNS
+============================
+
+A full audit of this skill's history was run on 2026-08-17 (38 x_posts records, 18
+video-bearing). These are the failures it found. Check for each before finishing.
+
+1. **The embed written for a video that was never downloaded.** Post 2046400129301877116
+   (@redpillb0t, Richard Marcinko, April 2026): the YAML recorded has_video: true, the
+   profile carried a full `<video>` block, and the file was NEVER downloaded, pinned, or
+   added to the manifest. The embed pointed at `/videos/{id}.mp4` — a local static path
+   for a file that is gitignored, so it had no chance of working even if it had existed.
+   **By the time this was found in August, the source post had been DELETED from X and
+   the video was permanently unrecoverable.** Only a transcript survived.
+   → This is why Step 5a-2 (verify the file) and Step 7H (verify the page) exist. A video
+     not archived on the day it is found may be gone forever.
+   → NEVER write a video embed pointing at `/videos/{file}` — that path is gitignored and
+     will 404 in production. Video embeds are IPFS gateway URLs, always.
+
+2. **QUOTED-POST VIDEO RECORDED AS has_video: false — the most expensive bug in this
+   skill.** Post 2047769275708895549 (@TheEmmapreneur, April 2026) carried a 2m45s video
+   on a QUOTED post. The X API's `includes.media` showed nothing, the run wrote
+   `has_video: false`, and no video was ever downloaded. yt-dlp found it instantly four
+   months later. **The only reason it was recoverable is that the post still existed** —
+   the comparable case in item 1 did not.
+   → NEVER let `has_video: false` end the video step. Run yt-dlp against the post URL
+     regardless of what the API said (Step 5's rule), and record the yt-dlp result — not
+     the API result — as the truth in the YAML.
+   → The `--recheck-x` audit flag exists specifically to sweep for this class.
+
+3. **Orphans: media downloaded but never placed on any page.** A run can pass every
+   download check and still publish nothing. Four posts had a downloaded, pinned video
+   while the page cited the post only in prose; three images from post 2053443730674180325
+   were downloaded when the user explicitly asked for "several images" and only ONE was
+   placed. → Step 5-pre's inventory and Step 7H-0 exist to catch exactly this.
+   "Downloaded" is not "published."
+   (Note: the 11 .mp3 files in static/videos/ are NOT orphans — they are audio extracted
+   from the matching .mp4 for transcription. They are marked `derived_from` in the
+   manifest and the audit skips them. Do not "fix" them onto pages.)
+
+4. **Wrong route paths in cross-links.** See the URL-path note in IMPORTANT RULES. 21
+   links were written as /epstein/ and /intel/ and all 404'd.
+
+5. **Copy-pasted duplicate `<source>` lines.** 15 pages carried the ipfs.io `<source>`
+   twice and dweb.link once, instead of one of each. Harmless but wrong; the fallback
+   only works if the second source is a DIFFERENT gateway.
+
+6. **Manifest rows written by "reconciliation" with empty source_url/author and a wrong
+   investigation.** 8 .mp3 rows were tagged Intel when their parent posts were Epstein
+   and carried `source_url: ''`. Never write a manifest row you cannot fully populate —
+   an unattributed row cannot be re-downloaded or verified later.
+
+7. **static/images/manifest.yaml has never been populated** (`images: []` after ~15
+   image-bearing runs). Zero image provenance is recorded. If you add images, add their
+   rows.
+
+8. **src/pages/ipfs.tsx lists only 4 of 26 CIDs** — the public "verify our archive" page
+   went stale in April. If this run adds a video, add its CID there too.
+
+9. **No run log existed at all**, which is why reconstructing this history required
+   mining ~/.claude/history.jsonl and finding that most session transcripts had been
+   pruned. The RUN LOG section above is the fix — write it every run.
+
+============================
 STEP 8: GIT ADD CHANGES
 ============================
 
@@ -825,8 +1243,23 @@ STEP 9: FINAL SUMMARY
     - {list each file modified or created, from Steps 4, 7}
   Sidebar updated (src/theme/TOC/index.tsx): {yes — added {name} | no}
   Staged for commit: {yes | no}
+  -------- Media inventory (Step 5-pre, resolved) --------
+  {one line per item: type, identifier, PLACED → page | BLOCKED → why}
+  -------- Publication verification (Step 7H) --------
+  Media in source file:      {PASS | FAIL}
+  Site build:                {PASS exit 0 | FAIL}
+  Media in built HTML:       {PASS | FAIL}
+  Public IPFS gateway:       {PASS http {code} {type} | FAIL — NO PROVIDER}
+  Image binaries tracked:    {PASS {n}/{n} | FAIL — {list}}
+  -------- Whole-repo audit (Step 7I) --------
+  audit_media_publication.py: {PASS | FAIL — {n} issue(s): {kinds}}
+  Run log written:           {~/T/_intel_skill/history/{stamp}.md}
+  READER CAN SEE IT:         {YES | NO — {why}}
   ============================================
   ```
+
+  READER CAN SEE IT is the only line that decides whether the run succeeded. If it is
+  NO, say so first and plainly — do not lead with the steps that passed.
 
 ============================
 IMPORTANT RULES
@@ -847,8 +1280,28 @@ IMPORTANT RULES
 * Separate INSTRUCTIONS from CONTENT in any text block before processing.
 * When processing a text block, think carefully about WHICH pages each piece
   of information belongs on — not everything goes on one page.
-* Docusaurus URL paths: Epstein profiles are at /epstein/Details/Name,
-  Intel profiles are at /intel/Details/Name. Use these in cross-links.
+* Docusaurus URL paths — GET THESE RIGHT, they are NOT the directory names:
+    docs/Epstein/  is served at  /epstein-murders/
+    docs/Intel/    is served at  /intelligence-service-murders/
+  So an absolute cross-link is /epstein-murders/Details/Name or
+  /intelligence-service-murders/Details/Name. The routeBasePath values in
+  docusaurus.config.ts are the authority — check them if unsure.
+
+  Earlier versions of this skill documented `/epstein/` and `/intel/`. Those are
+  WRONG: they are the on-disk directory names, not routes, and every link written
+  that way 404s. Twenty-one such links were found and repaired on 2026-08-17 across
+  Covid.md, Hydroxychloroquine.md, Barry_Sherman.md, Natacha_Jaitt.md,
+  Linda_Collins_Smith.md, and other/groups/north_fox_island.md. Before finishing a
+  run, check that you introduced none:
+  ```bash
+  rg -n '\]\(/epstein/|\]\(/intel/' {ROOT_DIR}/docs/ && echo "FAIL: bad route paths" \
+    || echo "OK: no bad route paths"
+  ```
+  Prefer RELATIVE links where the target is in the same directory tree
+  (`[Name](Name.md)` inside Details/, `[Name](Details/Name.md)` from index.md) —
+  Docusaurus resolves and validates those at build time, so a typo becomes a build
+  error instead of a silent 404. Reserve absolute route paths for cross-investigation
+  links.
 * Cross-link between investigations when a person appears in both.
 * Cross-link to uapmurders.com using full URLs (e.g., https://uapmurders.com/uaps/)
   when content overlaps with UAPs, Energy, or Physics investigations. That site lives

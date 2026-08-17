@@ -11,7 +11,7 @@ interface Person {
 const people: Person[] = [
   {
     name: "Danny Casolaro",
-    path: "/epstein-murders/Details/Danny_Casolaro",
+    path: "/intelligence-service-murders/Details/Danny_Casolaro",
     blurb: "Age 44. Told friends: \"If I'm found dead, don't believe suicide.\" Wrists slashed 12 times in hotel. Investigation briefcase vanished. Body embalmed before family notified.",
   },
   {
@@ -301,7 +301,7 @@ const people: Person[] = [
   },
   {
     name: "Chester Bennington",
-    path: "/epstein-murders/Details/Chester_Bennington",
+    path: "/epstein-murders/",
     blurb: "Age 41. Linkin Park frontman. Childhood sex abuse survivor. Found hanged on Chris Cornell's birthday\u2014exactly two months after Cornell died the same way.",
   },
   {
@@ -311,7 +311,7 @@ const people: Person[] = [
   },
   {
     name: "Philip Haney",
-    path: "/epstein-murders/Details/Philip_Haney",
+    path: "/intelligence-service-murders/Details/Philip_Haney",
     blurb: "Age 66. DHS officer who testified Obama ordered him to delete terrorist files. Found shot in a parking lot. Was engaged, planning a wedding. \"Never believe suicide.\"",
   },
   {
@@ -331,7 +331,7 @@ const people: Person[] = [
   },
   {
     name: "Vince Foster",
-    path: "/epstein-murders/Details/Vince_Foster",
+    path: "/intelligence-service-murders/Details/Vince_Foster",
     blurb: "Age 48. Clinton's deputy counsel. Shot in mouth at Fort Marcy Park. Files removed from office before investigators arrived. Wrote: \"Ruining people is considered sport.\"",
   },
   {
@@ -401,7 +401,7 @@ const people: Person[] = [
   },
   {
     name: "Trevor Moore",
-    path: "/epstein-murders/Details/Trevor_Moore",
+    path: "/intelligence-service-murders/Details/Trevor_Moore",
     blurb: "Age 41. Comedian. Father of a young son. Used comedy to expose Epstein connections to millions on national TV. Fell from second-story balcony at 2:30 AM.",
   },
   {

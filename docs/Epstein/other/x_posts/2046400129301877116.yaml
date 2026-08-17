@@ -29,3 +29,11 @@ notes: |
   2019 emails (part of 2026 Epstein files release) as attending a Mexico City
   party with Epstein. FBI internal notes said Turner lacked evidence.
   Ambassador Earl Anthony Wayne categorically denied Turner's allegations.
+video_unrecoverable: true
+video_lost_note: |
+  The original run recorded has_video: true and wrote a <video> embed, but never
+  downloaded the file. Re-checked 2026-08-17: the X API returns "Could not find post
+  with id 2046400129301877116" and yt-dlp reports no video — the source post was
+  deleted. The video is permanently lost. Only the 2026-04-21 transcription survives,
+  at docs/Epstein/other/transcripts/2046400129301877116_transcript.txt, and it is
+  quoted on docs/Epstein/Details/Richard_Marcinko.md in place of the dead player.

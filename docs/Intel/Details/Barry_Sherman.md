@@ -61,7 +61,7 @@ Barry Sherman founded **Apotex Inc.** in 1974 in Toronto. Under his leadership i
 
 Apotex's business model — entering markets with low-cost generic versions of brand-name drugs as soon as patents allowed (and sometimes contesting them in court) — put Sherman in regular litigation with major pharmaceutical companies for decades. He was personally named in dozens of lawsuits across Canada, the United States, and Europe.
 
-Apotex manufactured generic **hydroxychloroquine** (an antimalarial drug long used for lupus and rheumatoid arthritis) under the brand name *Apo-Hydroxyquine*, and was a significant supplier in Canada and several other markets. For more on the broader hydroxychloroquine controversy, see [Hydroxychloroquine](/intel/Hydroxychloroquine) and [COVID-19](/intel/Covid).
+Apotex manufactured generic **hydroxychloroquine** (an antimalarial drug long used for lupus and rheumatoid arthritis) under the brand name *Apo-Hydroxyquine*, and was a significant supplier in Canada and several other markets. For more on the broader hydroxychloroquine controversy, see [Hydroxychloroquine](/intelligence-service-murders/Hydroxychloroquine) and [COVID-19](/intelligence-service-murders/Covid).
 
 ### Family Disputes and Lawsuits
 
@@ -143,8 +143,8 @@ No motive has been confirmed by police.
 
 ## See Also
 
-- [COVID-19](/intel/Covid) — pandemic-era topic page covering the public-health, regulatory, and policy disputes that this case has been linked to in social-media commentary
-- [Hydroxychloroquine](/intel/Hydroxychloroquine) — topic page on the antimalarial drug, its COVID-19 controversy, and Apotex's role as a generic producer
+- [COVID-19](/intelligence-service-murders/Covid) — pandemic-era topic page covering the public-health, regulatory, and policy disputes that this case has been linked to in social-media commentary
+- [Hydroxychloroquine](/intelligence-service-murders/Hydroxychloroquine) — topic page on the antimalarial drug, its COVID-19 controversy, and Apotex's role as a generic producer
 - [Brandy Vaughan](Brandy_Vaughan.md) — former Merck sales rep and pharmaceutical-industry critic who died in 2020 after years of documented stalking
 - [David Kelly](David_Kelly.md) — UK weapons inspector whose death is widely cited as another high-profile, contested ruling
 

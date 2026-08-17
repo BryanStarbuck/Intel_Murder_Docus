@@ -1,7 +1,275 @@
 # Intelligence Murders — Image Manifest
 # https://intelligencemurders.com
 #
-# Unlike videos, images ARE committed to git.
-# This manifest tracks metadata: source, investigation, and dimensions.
+# Unlike videos, images ARE committed to git and served from /images/{filename}.
+# on_pages: [] with withheld: false is an ORPHAN — downloaded but never published.
+# withheld: true means a deliberate decision not to publish; see withheld.csv.
+# Backfilled 2026-08-17.
 
-images: []
+images:
+- filename: 2042058005819080846_1.jpg
+  post_id: '2042058005819080846'
+  source_url: ''
+  source_author: '@its_The_Dr'
+  investigation: Intel
+  bytes: 107896
+  on_pages:
+  - docs/Intel/Details/Susan_Coleman.md
+  - docs/Intel/other/x_posts/2042058005819080846.yaml
+  withheld: false
+- filename: 2044191958034223143_1.jpg
+  post_id: '2044191958034223143'
+  source_url: https://x.com/Tironianae/status/2044191958034223143
+  source_author: '@Tironianae'
+  investigation: Epstein
+  bytes: 59711
+  on_pages:
+  - docs/Epstein/other/groups/doj.md
+  withheld: false
+- filename: 2044191958034223143_2.jpg
+  post_id: '2044191958034223143'
+  source_url: https://x.com/Tironianae/status/2044191958034223143
+  source_author: '@Tironianae'
+  investigation: Epstein
+  bytes: 78073
+  on_pages:
+  - docs/Epstein/other/groups/doj.md
+  withheld: false
+- filename: 2044450438057951739_1.jpg
+  post_id: '2044450438057951739'
+  source_url: https://x.com/TheDefiantGhost/status/2044450438057951739
+  source_author: '@TheDefiantGhost'
+  investigation: Epstein
+  bytes: 264531
+  on_pages:
+  - docs/Epstein/Details/Janet_Ossebaard.md
+  withheld: false
+- filename: 2044796533741142440_1.png
+  post_id: '2044796533741142440'
+  source_url: https://x.com/paul_furber/status/2044796533741142440
+  source_author: '@paul_furber'
+  investigation: Intel
+  bytes: 48861
+  on_pages:
+  - docs/Intel/Details/Seth_Rich.md
+  withheld: false
+- filename: 2044796533741142440_2.png
+  post_id: '2044796533741142440'
+  source_url: https://x.com/paul_furber/status/2044796533741142440
+  source_author: '@paul_furber'
+  investigation: Intel
+  bytes: 81196
+  on_pages:
+  - docs/Intel/Details/Seth_Rich.md
+  withheld: false
+- filename: 2044876912078491781_1.jpg
+  post_id: '2044876912078491781'
+  source_url: https://x.com/creepydotorg/status/2044876912078491781
+  source_author: '@creepydotorg'
+  investigation: Epstein
+  bytes: 130291
+  on_pages:
+  - docs/Epstein/Details/Virginia_Giuffre.md
+  withheld: false
+- filename: 2044876912078491781_2.jpg
+  post_id: '2044876912078491781'
+  source_url: https://x.com/creepydotorg/status/2044876912078491781
+  source_author: '@creepydotorg'
+  investigation: Epstein
+  bytes: 85216
+  on_pages:
+  - docs/Epstein/Details/Virginia_Giuffre.md
+  withheld: false
+- filename: 2044984371694997806_1.jpg
+  post_id: '2044984371694997806'
+  source_url: https://x.com/thematrixb0t/status/2044984371694997806
+  source_author: '@thematrixb0t'
+  investigation: Epstein
+  bytes: 184695
+  on_pages: []
+  withheld: true
+- filename: 2045910648542880016_1.jpg
+  post_id: '2045910648542880016'
+  source_url: https://x.com/BraedenSorbo/status/2045910648542880016
+  source_author: '@BraedenSorbo'
+  investigation: Intel
+  bytes: 82934
+  on_pages:
+  - docs/Intel/Details/Melissa_Hortman.md
+  withheld: false
+- filename: 2047459351992902080_1.jpg
+  post_id: '2047459351992902080'
+  source_url: https://x.com/TheEmmapreneur/status/2047459351992902080
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 146565
+  on_pages:
+  - docs/Epstein/Details/Madison_Cupps.md
+  - docs/Epstein/Details/Clares_Cupps.md
+  withheld: false
+- filename: 2047769275708895549_1.jpg
+  post_id: '2047769275708895549'
+  source_url: https://x.com/TheEmmapreneur/status/2047769275708895549
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 243231
+  on_pages:
+  - docs/Epstein/Details/Madison_Cupps.md
+  - docs/Epstein/Details/Clares_Cupps.md
+  withheld: false
+- filename: 2047769275708895549_2.jpg
+  post_id: '2047769275708895549'
+  source_url: https://x.com/TheEmmapreneur/status/2047769275708895549
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 240226
+  on_pages:
+  - docs/Epstein/Details/Madison_Cupps.md
+  - docs/Epstein/Details/Clares_Cupps.md
+  withheld: false
+- filename: 2049133495377670615_1.jpg
+  post_id: '2049133495377670615'
+  source_url: https://x.com/TheEmmapreneur/status/2049133495377670615
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 288527
+  on_pages:
+  - docs/Epstein/Details/Bryan_Cupps.md
+  withheld: false
+- filename: 2049133495377670615_2.jpg
+  post_id: '2049133495377670615'
+  source_url: https://x.com/TheEmmapreneur/status/2049133495377670615
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 164145
+  on_pages:
+  - docs/Epstein/Details/Bryan_Cupps.md
+  withheld: false
+- filename: 2049133495377670615_3.jpg
+  post_id: '2049133495377670615'
+  source_url: https://x.com/TheEmmapreneur/status/2049133495377670615
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 104681
+  on_pages:
+  - docs/Epstein/Details/Bryan_Cupps.md
+  withheld: false
+- filename: 2049133495377670615_4.jpg
+  post_id: '2049133495377670615'
+  source_url: https://x.com/TheEmmapreneur/status/2049133495377670615
+  source_author: '@TheEmmapreneur'
+  investigation: Epstein
+  bytes: 147078
+  on_pages:
+  - docs/Epstein/Details/Bryan_Cupps.md
+  withheld: false
+- filename: 2050723603319030010_1.jpg
+  post_id: '2050723603319030010'
+  source_url: https://x.com/LightOnLiberty/status/2050723603319030010
+  source_author: '@LightOnLiberty'
+  investigation: Intel
+  bytes: 60339
+  on_pages:
+  - docs/Intel/Hydroxychloroquine.md
+  - docs/Intel/Covid.md
+  - docs/Intel/Details/Barry_Sherman.md
+  withheld: false
+- filename: 2052787394953531590_1.jpg
+  post_id: '2052787394953531590'
+  source_url: https://x.com/JasonBassler1/status/2052787394953531590
+  source_author: '@JasonBassler1'
+  investigation: Intel
+  bytes: 94608
+  on_pages:
+  - docs/Intel/Details/Terrance_Yeakey.md
+  withheld: false
+- filename: 2053443730674180325_1.jpg
+  post_id: '2053443730674180325'
+  source_url: https://x.com/DissidentMedia/status/2053443730674180325
+  source_author: '@DissidentMedia'
+  investigation: Intel
+  bytes: 216526
+  on_pages:
+  - docs/Epstein/Details/Brock_Pierce.md
+  withheld: false
+- filename: 2053443730674180325_2.jpg
+  post_id: '2053443730674180325'
+  source_url: https://x.com/DissidentMedia/status/2053443730674180325
+  source_author: '@DissidentMedia'
+  investigation: Intel
+  bytes: 251586
+  on_pages:
+  - docs/Intel/Details/Nikolai_Mushegian.md
+  withheld: false
+- filename: 2053443730674180325_3.jpg
+  post_id: '2053443730674180325'
+  source_url: https://x.com/DissidentMedia/status/2053443730674180325
+  source_author: '@DissidentMedia'
+  investigation: Intel
+  bytes: 282173
+  on_pages:
+  - docs/Epstein/Details/Brock_Pierce.md
+  withheld: false
+- filename: 2053443730674180325_4.jpg
+  post_id: '2053443730674180325'
+  source_url: https://x.com/DissidentMedia/status/2053443730674180325
+  source_author: '@DissidentMedia'
+  investigation: Intel
+  bytes: 111939
+  on_pages:
+  - docs/Epstein/Details/Brock_Pierce.md
+  withheld: false
+- filename: 2060395991203709094_1.jpg
+  post_id: '2060395991203709094'
+  source_url: https://x.com/PizzaGateX/status/2060395991203709094?s=20
+  source_author: '@PizzaGateX'
+  investigation: Epstein
+  bytes: 190440
+  on_pages:
+  - docs/Epstein/other/groups/north_fox_island.md
+  withheld: false
+- filename: 2081559456748548485_1.jpg
+  post_id: '2081559456748548485'
+  source_url: https://x.com/BasedSamParker/status/2081559456748548485
+  source_author: '@BasedSamParker'
+  investigation: Intel
+  bytes: 234957
+  on_pages:
+  - docs/Intel/Details/Mary_Pinchot_Meyer.md
+  withheld: false
+- filename: 2089194922607800410_1.jpg
+  post_id: '2089194922607800410'
+  source_url: https://x.com/JohnMcCloy/status/2089194922607800410
+  source_author: '@JohnMcCloy'
+  investigation: Epstein
+  bytes: 188992
+  on_pages:
+  - docs/Epstein/Details/Hayden_Panettiere.mdx
+  withheld: false
+- filename: 2089194922607800410_2.jpg
+  post_id: '2089194922607800410'
+  source_url: https://x.com/JohnMcCloy/status/2089194922607800410
+  source_author: '@JohnMcCloy'
+  investigation: Epstein
+  bytes: 159052
+  on_pages:
+  - docs/Epstein/Details/Hayden_Panettiere.mdx
+  withheld: false
+- filename: Champlain_Towers_Collapse.jpg
+  post_id: ''
+  source_url: ''
+  source_author: ''
+  investigation: ''
+  bytes: 417520
+  on_pages:
+  - docs/Intel/Champlain_Towers_Collapse.md
+  - docs/Intel/Details/John_McAfee.mdx
+  withheld: false
+- filename: Trevor_Moore.jpeg
+  post_id: ''
+  source_url: ''
+  source_author: ''
+  investigation: ''
+  bytes: 1125445
+  on_pages: []
+  withheld: true

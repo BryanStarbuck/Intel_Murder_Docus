@@ -42,24 +42,66 @@ echo "  Fetching and pinning all investigation videos..."
 echo "========================================================"
 
 # ============================================================
-# Investigation: Epstein  (4 videos)
+# Investigation: Epstein  (10 videos)
 # ============================================================
 
 ipfs get --output=2041564514613600337.mp4 QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay && ipfs pin add QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay
-# Epstein | Survivor testimony: infant soul-hunting, mountain hunting rituals (@JOKAQARMY1)
+# Epstein | Epstein survivor testimony: alleged infant soul-hunting, mountain hunting rituals, Texa... (@JOKAQARMY1)
 
 ipfs get --output=2044172444752126124.mp4 QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv && ipfs pin add QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv
-# Epstein | Don Henry & Kevin Ives: CIA Mena cocaine, Barry Seal (@TheShadowIntelX)
+# Epstein | Don Henry and Kevin Ives: CIA Mena cocaine operation, Barry Seal, Clinton-Bush connection (@TheShadowIntelX)
 
 ipfs get --output=2044981725244113315.mp4 QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi && ipfs pin add QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi
-# Epstein | Edgar Maddison Welch killed before Epstein file releases (@thematrixb0t)
+# Epstein | Edgar Maddison Welch killed by police during traffic stop weeks before Epstein file rel... (@thematrixb0t)
+
+ipfs get --output=2048522569716990042.mp4 QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf && ipfs pin add QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
+# Epstein | Nadia Marcinkova: Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missi... (@thematrixb0t)
+
+ipfs get --output=2051013988985811342.mp4 QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp && ipfs pin add QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp
+# Epstein | Senator Nancy Schaefer — Georgia state senator who exposed CPS corruption and child tra... (@redpillb0t)
+
+ipfs get --output=2054372519465881910.mp4 QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk && ipfs pin add QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk
+# Epstein | Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSl... (@TheEmmapreneur)
+
+ipfs get --output=2054664863381635215.mp4 QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv && ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
+# Epstein | Isaac Kappy video compilation — actor who publicly accused Hollywood elites of pedophil... (@JOKAQARMY1)
+
+ipfs get --output=2065099565447930204.mp4 QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY && ipfs pin add QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
+# Epstein | Slave Princess documentary excerpt: Lou Pearlman boy band abuse allegations, Aaron Cart... (@PizzaGateX)
+
+ipfs get --output=2089194922607800410.mp4 QmRyEHaFaQq12eG8zojeiH7iVPXoJyYy1HPEi8yMQ8FKkq && ipfs pin add QmRyEHaFaQq12eG8zojeiH7iVPXoJyYy1HPEi8yMQ8FKkq
+# Epstein | Hayden Panettiere on the Jay Shetty podcast describing being led onto a boat at 18 by a... (@JohnMcCloy)
+
+ipfs get --output=2047769275708895549.mp4 QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL && ipfs pin add QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL
+# Epstein | Madison (Clares) Cupps April 24 2026 video presenting unverified allegations about her... (@TheEmmapreneur)
 
 # ============================================================
-# Investigation: Intel  (1 video)
+# Investigation: Intel  (8 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
-# Intel | General Patton speaking before his assassination (@DigitalGermania)
+# Intel | General George S. Patton speaking about the postwar situation before his assassination (@DigitalGermania)
+
+ipfs get --output=2050269015931818033.mp4 QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA && ipfs pin add QmPH2mqWHQ9UQ79cWXYo61E8qRe7jRN4MGa1j25sw38NKA
+# Intel | Andrija Puharich house arson: son Andy and filmmaker Greg Mallozzi explain ELF research... (@JonesDanny)
+
+ipfs get --output=2050380101821354119.mp4 QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC && ipfs pin add QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC
+# Intel | Phil Schneider 1995 lecture claiming government earthquake device — cites Kobe and San... (@DanielGilr44222)
+
+ipfs get --output=2050199029980512338.mp4 QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN && ipfs pin add QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN
+# Intel | Panama Papers exposé — offshore tax evasion by global elites, and the assassination of... (@theleftbible)
+
+ipfs get --output=2050968626413363217.mp4 QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1 && ipfs pin add QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1
+# Intel | Former MI5 agent says Princess Diana was killed because of her landmine campaign succes... (@NoahsArk1000)
+
+ipfs get --output=2053290253494981052.mp4 QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke && ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
+# Intel | Loretta Fuddy — Hawaii Health Director who verified Obama birth certificate, sole fatal... (@LightOnLiberty)
+
+ipfs get --output=2059495213261840428.mp4 QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi && ipfs pin add QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
+# Intel | Fatou Bensouda interview: alleged Mossad/Yossi Cohen threats, $500 envelope at her home... (@DaniMayakovski)
+
+ipfs get --output=2067608272601743704.mp4 QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B && ipfs pin add QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
+# Intel | Brandy Vaughan — Merck whistleblower who warned any harm to her would be foul play; fou... (@ValerieAnne1970)
 
 echo "========================================================"
 echo "  Done. Videos downloaded and pinned to local IPFS node."

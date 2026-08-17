@@ -189,6 +189,8 @@ Following Salling's death, a cluster of posts on X.com (formerly Twitter) circul
 - [Chris Cornell](Chris_Cornell.md) — Musician found hanged; ran foundation fighting child trafficking
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles, fell from a bridge
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Musician who died after creating trafficking-awareness content
+- [Hayden Panettiere](Hayden_Panettiere.mdx) — actress who alleged industry grooming and assault in a May 2026 memoir; found dead at 36 three months later, cause pending
+- [Hollywood and the Entertainment Industry](../other/groups/hollywood_entertainment_industry.md) — group page for alleged exploitation networks in film, television, and music
 
 ## Other Shocking Stories
 

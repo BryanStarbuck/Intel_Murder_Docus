@@ -107,6 +107,8 @@ Corey Feldman has stated that he and Haim were "passed around to pedophiles" at 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling industry figure who trafficked minors to Epstein; found hanged in prison
 - [Karen Mulder](Karen_Mulder.md) — Model who named abusers on French TV; hospitalized, footage destroyed
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of abuse on camera; disappeared
+- [Hayden Panettiere](Hayden_Panettiere.mdx) — actress who alleged industry grooming and assault in a May 2026 memoir; found dead at 36 three months later, cause pending
+- [Hollywood and the Entertainment Industry](../other/groups/hollywood_entertainment_industry.md) — group page for alleged exploitation networks in film, television, and music
 ## Other Shocking Stories
 
 - [Robert Maxwell](Robert_Maxwell.md): Ghislaine's father. Alleged Mossad super-spy. Fell from his yacht. Six intelligence services attended the funeral.

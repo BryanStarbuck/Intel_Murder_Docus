@@ -28,7 +28,7 @@ This investigation does not take a position on virology, vaccine efficacy, lockd
 
 1. Were people **killed, threatened, or silenced** during or because of the pandemic in ways that show signs of intelligence-service or state-level operations?
 2. Were **suspicious deaths** of doctors, scientists, journalists, or whistleblowers connected — directly or by timing — to specific COVID-19 disputes (treatments, origins, mandates, or data)?
-3. Did the public dispute over particular treatments (most prominently **[hydroxychloroquine](/intel/Hydroxychloroquine)**) produce documented retaliation against people raising contrary views?
+3. Did the public dispute over particular treatments (most prominently **[hydroxychloroquine](/intelligence-service-murders/Hydroxychloroquine)**) produce documented retaliation against people raising contrary views?
 4. Are there cases pre-dating the pandemic — like the **2017 murder of [Barry Sherman](Details/Barry_Sherman.md)**, founder of Canada's largest generic-drug manufacturer Apotex — that, with hindsight, fall within this investigation's scope?
 
 This page collects those threads. Each linked profile applies the project's strict defamation and attribution rules.
@@ -49,7 +49,7 @@ The questions the post raises:
 
 These questions remain open. Readers should treat them as questions raised by the public, not findings.
 
-**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [Hydroxychloroquine topic page](/intel/Hydroxychloroquine)
+**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [Hydroxychloroquine topic page](/intelligence-service-murders/Hydroxychloroquine)
 
 ## Additional Account from a GTA Resident
 
@@ -68,7 +68,7 @@ This is a personal recollection and a set of circulating claims, not findings of
 
 The recollection is preserved because the contributor was geographically and temporally proximate to the Sherman case and personally noted the COVID-era thematic connection that this investigation now examines.
 
-For the full case file, see the [Barry Sherman profile](Details/Barry_Sherman.md). For the drug context, see the [Hydroxychloroquine topic page](/intel/Hydroxychloroquine).
+For the full case file, see the [Barry Sherman profile](Details/Barry_Sherman.md). For the drug context, see the [Hydroxychloroquine topic page](/intelligence-service-murders/Hydroxychloroquine).
 
 ## Related Profiles in This Investigation
 
@@ -84,7 +84,7 @@ If new COVID-related profiles are added to the investigation, they should be lin
 
 ## The Hydroxychloroquine Dispute
 
-The drug **hydroxychloroquine (HCQ)** — long approved for malaria, lupus, and rheumatoid arthritis — became one of the most contested early-pandemic treatment debates. The dispute is documented in detail on the dedicated **[Hydroxychloroquine topic page](/intel/Hydroxychloroquine)**, which covers:
+The drug **hydroxychloroquine (HCQ)** — long approved for malaria, lupus, and rheumatoid arthritis — became one of the most contested early-pandemic treatment debates. The dispute is documented in detail on the dedicated **[Hydroxychloroquine topic page](/intelligence-service-murders/Hydroxychloroquine)**, which covers:
 
 - The drug's pre-pandemic use and safety record
 - The March–June 2020 FDA Emergency Use Authorization and its revocation
@@ -106,9 +106,9 @@ What this investigation **does** track:
 ## See Also
 
 - [Barry Sherman](Details/Barry_Sherman.md) — Apotex founder, unsolved 2017 double homicide
-- [Hydroxychloroquine](/intel/Hydroxychloroquine) — the drug, the dispute, and the people connected to it
+- [Hydroxychloroquine](/intelligence-service-murders/Hydroxychloroquine) — the drug, the dispute, and the people connected to it
 - [Brandy Vaughan](Details/Brandy_Vaughan.md) — Merck whistleblower whose 2020 death raised questions about pharmaceutical-industry retaliation
-- [Intelligence Service Murders — Overview](/intel/) — full investigation index
+- [Intelligence Service Murders — Overview](/intelligence-service-murders/) — full investigation index
 
 ## Sources
 

@@ -103,7 +103,7 @@ Collins-Smith's death fits a documented pattern of politicians, advocates, and o
 
 - **[Nancy Schaefer](Nancy_Schaefer.md)** — Georgia state senator who published "The Corrupt Business of Child Protective Services" in 2007 after a four-year investigation. Found shot dead with her husband on March 26, 2010 in what was ruled a murder-suicide. Disputed by many researchers.
 - **Jonathan Nichols** — Oklahoma state senator who authored child safety legislation; found shot dead June 5, 2019, the day after Collins-Smith.
-- **[Philip Haney](/intel/Details/Philip_Haney/)** — DHS whistleblower on trafficking networks; found shot dead in February 2020, ruled a suicide despite suspicious circumstances.
+- **[Philip Haney](/intelligence-service-murders/Details/Philip_Haney/)** — DHS whistleblower on trafficking networks; found shot dead in February 2020, ruled a suicide despite suspicious circumstances.
 
 Arkansas itself has been the location of multiple politically connected deaths with disputed rulings, including the 1987 deaths of teenagers Kevin Ives and Don Henry on railroad tracks in Saline County (long disputed; connected by some investigators to drug smuggling operations near Mena Airport), and the 1993 death of White House Deputy Counsel Vince Foster.
 

@@ -144,16 +144,16 @@ Some researchers allege a continuous network linking North Fox Island through Fr
 
 - [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.md) — Similar operational model: CSAM production, institutional fronts, wealthy client network, near-total impunity for principal operators
 - [Franklin Scandal](franklin_scandal.md) — The broader political cover-up connected to the Nebraska trafficking ring
-- [Gary Caradori](/epstein/Details/Gary_Caradori) — Investigator who reportedly obtained photographs before his death in a plane crash
-- [Ted Gunderson](/epstein/Details/Ted_Gunderson) — Former FBI agent who investigated elite child abuse networks including rings connected to North Fox Island
+- [Gary Caradori](/epstein-murders/Details/Gary_Caradori) — Investigator who reportedly obtained photographs before his death in a plane crash
+- [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI agent who investigated elite child abuse networks including rings connected to North Fox Island
 - [Dutroux Affair](dutroux_affair.md) — Belgian ring with similar establishment protection; 27+ witnesses died
 - [Jordan, Minnesota (1983)](minnesota_1983.md) — Another ring with institutional protection; investigation collapsed despite 24 adults charged
 
 ## Other Shocking Stories
 
-- [Gary Caradori](/epstein/Details/Gary_Caradori): Nebraska investigator's small plane exploded mid-air days before he planned to reveal evidence.
-- [Ted Gunderson](/epstein/Details/Ted_Gunderson): Former FBI chief who investigated elite child rings — died at 82 after claiming he was being poisoned.
-- [Gary Webb](/epstein/Details/Gary_Webb_Journalist): CIA-drug trafficking reporter shot himself twice in the head — ruled suicide.
+- [Gary Caradori](/epstein-murders/Details/Gary_Caradori): Nebraska investigator's small plane exploded mid-air days before he planned to reveal evidence.
+- [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson): Former FBI chief who investigated elite child rings — died at 82 after claiming he was being poisoned.
+- [Gary Webb](/epstein-murders/Details/Gary_Webb_Journalist): CIA-drug trafficking reporter shot himself twice in the head — ruled suicide.
 - [Dutroux Affair](dutroux_affair.md): Belgian pedophile ring with establishment protection — over 27 connected witnesses died.
 
 ## Sources

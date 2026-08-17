@@ -150,6 +150,8 @@ His accusations against prominent named individuals were embraced primarily by Q
 - [Chester Bennington](Chester_Bennington.md) — Linkin Park vocalist, close friend of Cornell, died on Cornell's birthday
 - [Mark Salling](Mark_Salling.md) — Glee actor who died weeks before sentencing on child exploitation charges
 - [Jenny Moore](Jenny_Moore.md) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel
+- [Hayden Panettiere](Hayden_Panettiere.mdx) — actress who alleged industry grooming and assault in a May 2026 memoir; found dead at 36 three months later, cause pending
+- [Hollywood and the Entertainment Industry](../other/groups/hollywood_entertainment_industry.md) — group page for alleged exploitation networks in film, television, and music
 
 ## Other Shocking Stories
 

@@ -22,7 +22,6 @@ Former wife of Prince Charles, mother of William and Harry, global humanitarian 
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

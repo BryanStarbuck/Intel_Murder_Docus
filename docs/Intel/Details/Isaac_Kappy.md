@@ -23,7 +23,6 @@ Actor who publicly accused Hollywood elites of pedophilia and claimed intelligen
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

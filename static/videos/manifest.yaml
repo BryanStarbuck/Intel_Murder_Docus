@@ -55,6 +55,9 @@ videos:
   investigation: 'Epstein'
   added_date: '2026-04-17'
   pinned: true
+  derived_from: 2044981725244113315.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2048522569716990042.mp4
   ipfs_cid: QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf
@@ -149,82 +152,106 @@ videos:
 - filename: 2048522569716990042.mp3
   ipfs_cid: QmZgRXuyh6JXKFYfGqzjCJJZ9PRezVEvUtTSyyaaGLfdgw
   ipfs_gateway_url: https://ipfs.io/ipfs/QmZgRXuyh6JXKFYfGqzjCJJZ9PRezVEvUtTSyyaaGLfdgw
-  source_url: ''
-  source_author: ''
-  description: 'Video 2048522569716990042 added by reconciliation'
-  investigation: 'Intel'
+  source_url: https://x.com/thematrixb0t/status/2048522569716990042
+  source_author: '@thematrixb0t'
+  description: 'Audio track extracted from 2048522569716990042.mp4 — Nadia Marcinkova: Epstein Lolita Express pilot deposed, pled Fifth 42 times, went missing 2024, DOJ files deleted'
+  investigation: 'Epstein'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2048522569716990042.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2050199029980512338.mp3
   ipfs_cid: QmYEdQyR2gJJGJWMMPE436kJ4wRiDyn9wRmJBYeat7UWm2
   ipfs_gateway_url: https://ipfs.io/ipfs/QmYEdQyR2gJJGJWMMPE436kJ4wRiDyn9wRmJBYeat7UWm2
-  source_url: ''
-  source_author: ''
-  description: 'Video 2050199029980512338 added by reconciliation'
+  source_url: https://x.com/theleftbible/status/2050199029980512338
+  source_author: '@theleftbible'
+  description: 'Audio track extracted from 2050199029980512338.mp4 — Panama Papers exposé — offshore tax evasion by global elites, and the assassination of Daphne Caruana Galizia who reported on it'
   investigation: 'Intel'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2050199029980512338.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2050269015931818033.mp3
   ipfs_cid: QmeAqzjEa7uWsXEUo6esKAFQMKWL4Z1mKpWb3zAT9PBau1
   ipfs_gateway_url: https://ipfs.io/ipfs/QmeAqzjEa7uWsXEUo6esKAFQMKWL4Z1mKpWb3zAT9PBau1
-  source_url: ''
-  source_author: ''
-  description: 'Video 2050269015931818033 added by reconciliation'
+  source_url: https://x.com/JonesDanny/status/2050269015931818033
+  source_author: '@JonesDanny'
+  description: 'Audio track extracted from 2050269015931818033.mp4 — Andrija Puharich house arson: son Andy and filmmaker Greg Mallozzi explain ELF research targeting'
   investigation: 'Intel'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2050269015931818033.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2050380101821354119.mp3
   ipfs_cid: QmTTWtAdci1V9RQSaTVA5J181BAWsPnXjj4XmULNzLbnew
   ipfs_gateway_url: https://ipfs.io/ipfs/QmTTWtAdci1V9RQSaTVA5J181BAWsPnXjj4XmULNzLbnew
-  source_url: ''
-  source_author: ''
-  description: 'Video 2050380101821354119 added by reconciliation'
+  source_url: https://x.com/DanielGilr44222/status/2050380101821354119?s=20
+  source_author: '@DanielGilr44222'
+  description: 'Audio track extracted from 2050380101821354119.mp4 — Phil Schneider 1995 lecture claiming government earthquake device — cites Kobe and San Francisco quakes as tests'
   investigation: 'Intel'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2050380101821354119.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2050968626413363217.mp3
   ipfs_cid: QmdAsJbSTdhHG8MzGU9DCd2SUgJN9P3w86S4NyGohyLY5A
   ipfs_gateway_url: https://ipfs.io/ipfs/QmdAsJbSTdhHG8MzGU9DCd2SUgJN9P3w86S4NyGohyLY5A
-  source_url: ''
-  source_author: ''
-  description: 'Video 2050968626413363217 added by reconciliation'
+  source_url: https://x.com/NoahsArk1000/status/2050968626413363217
+  source_author: '@NoahsArk1000'
+  description: 'Audio track extracted from 2050968626413363217.mp4 — Former MI5 agent says Princess Diana was killed because of her landmine campaign success and her plan to campaign on behalf of Palestinians'
   investigation: 'Intel'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2050968626413363217.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2051013988985811342.mp3
   ipfs_cid: QmVC7YF54EJHDZ1dZEmHwJdXd37QB56apv9b3rbvSmWtv2
   ipfs_gateway_url: https://ipfs.io/ipfs/QmVC7YF54EJHDZ1dZEmHwJdXd37QB56apv9b3rbvSmWtv2
-  source_url: ''
-  source_author: ''
-  description: 'Video 2051013988985811342 added by reconciliation'
-  investigation: 'Intel'
+  source_url: https://x.com/redpillb0t/status/2051013988985811342
+  source_author: '@redpillb0t'
+  description: 'Audio track extracted from 2051013988985811342.mp4 — Senator Nancy Schaefer — Georgia state senator who exposed CPS corruption and child trafficking; found shot dead with husband in disputed murder-suicide ruling'
+  investigation: 'Epstein'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2051013988985811342.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2054372519465881910.mp3
   ipfs_cid: Qmc46V5BygAMifvMuWV7Vaqd2GGWoQGuWnzHSmUnyUAJEh
   ipfs_gateway_url: https://ipfs.io/ipfs/Qmc46V5BygAMifvMuWV7Vaqd2GGWoQGuWnzHSmUnyUAJEh
-  source_url: ''
-  source_author: ''
-  description: 'Video 2054372519465881910 added by reconciliation'
-  investigation: 'Intel'
+  source_url: https://x.com/TheEmmapreneur/status/2054372519465881910
+  source_author: '@TheEmmapreneur'
+  description: 'Audio track extracted from 2054372519465881910.mp4 — Statement attributed to Madison (Clares) Cupps about her father Bryan Cupps and CyberSlice (1996 online pizza ordering company); Madison reportedly died April 10, 2026'
+  investigation: 'Epstein'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2054372519465881910.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2054664863381635215.mp3
   ipfs_cid: Qmdiov3dSkW9rt1nHXFjAmsoyLu5sskL3AZexdPhHttoZN
   ipfs_gateway_url: https://ipfs.io/ipfs/Qmdiov3dSkW9rt1nHXFjAmsoyLu5sskL3AZexdPhHttoZN
-  source_url: ''
-  source_author: ''
-  description: 'Video 2054664863381635215 added by reconciliation'
-  investigation: 'Intel'
+  source_url: https://x.com/JOKAQARMY1/status/2054664863381635215
+  source_author: '@JOKAQARMY1'
+  description: 'Audio track extracted from 2054664863381635215.mp4 — Isaac Kappy video compilation — actor who publicly accused Hollywood elites of pedophilia and claimed Epstein-network blackmail files; fell from Arizona bridge May 13, 2019'
+  investigation: 'Epstein'
   added_date: '2026-05-13'
   pinned: true
+  derived_from: 2054664863381635215.mp4
+  embed_on_page: false   # audio extracted for transcription; the mp4 is what pages embed
+
 
 - filename: 2059495213261840428.mp4
   ipfs_cid: QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
@@ -254,4 +281,24 @@ videos:
   description: 'Brandy Vaughan — Merck whistleblower who warned any harm to her would be foul play; found dead at 44 by her 9-year-old son'
   investigation: 'Intel'
   added_date: '2026-06-19'
+  pinned: true
+
+- filename: 2089194922607800410.mp4
+  ipfs_cid: QmRyEHaFaQq12eG8zojeiH7iVPXoJyYy1HPEi8yMQ8FKkq
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmRyEHaFaQq12eG8zojeiH7iVPXoJyYy1HPEi8yMQ8FKkq
+  source_url: https://x.com/JohnMcCloy/status/2089194922607800410
+  source_author: '@JohnMcCloy'
+  description: 'Hayden Panettiere on the Jay Shetty podcast describing being led onto a boat at 18 by a trusted female friend and placed in bed beside an undressed famous man; posted the day her death at 36 was reported'
+  investigation: 'Epstein'
+  added_date: '2026-08-17'
+  pinned: true
+
+- filename: 2047769275708895549.mp4
+  ipfs_cid: QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL
+  source_url: https://x.com/TheEmmapreneur/status/2047769275708895549
+  source_author: '@TheEmmapreneur'
+  description: 'Madison (Clares) Cupps April 24 2026 video presenting unverified allegations about her father Bryan Cupps and CyberSlice; recovered 2026-08-17 after the original run missed it on a quoted post'
+  investigation: 'Epstein'
+  added_date: '2026-08-17'
   pinned: true

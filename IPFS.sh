@@ -103,3 +103,9 @@ ipfs pin add Qmdiov3dSkW9rt1nHXFjAmsoyLu5sskL3AZexdPhHttoZN
 
 # 2059495213261840428.mp4  (investigation: Intel) — Fatou Bensouda on alleged Mossad/Cohen threats
 ipfs pin add QmYewzMTzg3kDFXyX6iQCU49mUCvU2p4ih21V7DJ5yuRvi
+
+# 2089194922607800410.mp4  (investigation: Epstein) — Hayden Panettiere, Jay Shetty podcast boat account
+ipfs pin add QmRyEHaFaQq12eG8zojeiH7iVPXoJyYy1HPEi8yMQ8FKkq
+
+# 2047769275708895549.mp4  (investigation: Epstein) — Madison Cupps April 2026 video (recovered 2026-08-17)
+ipfs pin add QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL

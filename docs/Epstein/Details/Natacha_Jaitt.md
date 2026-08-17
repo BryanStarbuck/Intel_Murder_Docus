@@ -181,7 +181,7 @@ Posts show a screenshot of the original alongside the death announcement and cal
 
 Natacha Jaitt belongs to a disturbing and documented pattern of individuals who publicly stated they would not kill themselves — and then died:
 
-- **[Isaac Kappy](/intel/Details/Isaac_Kappy/)** — Hollywood actor who named pedophiles, recorded videos saying "if I die, it wasn't suicide," stepped or was pushed from a bridge in May 2019 — three months after Jaitt.
+- **[Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/)** — Hollywood actor who named pedophiles, recorded videos saying "if I die, it wasn't suicide," stepped or was pushed from a bridge in May 2019 — three months after Jaitt.
 - **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "DC Madam," told multiple people she would never hang herself, found hanged 16 days after her conviction.
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who continued Kappy's trafficking investigation, left a recorded "dead man's switch" video, found hanged in her garage July 2019.
 - **[Sabrina Bittencourt](Sabrina_Bittencourt.md)** — Exposed the baby-trafficking ring of "John of God," died in hiding in Barcelona in February 2019 — the same month as Jaitt. Her son said "they killed my mother."

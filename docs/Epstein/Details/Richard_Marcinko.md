@@ -24,14 +24,34 @@ Founder and first commanding officer of SEAL Team Six, died on Christmas Day 202
 
 Marcinko died at 81 of a confirmed heart attack, and his death is not independently considered suspicious. The connection to this investigation arises entirely from unverified allegations made by one informant — Kenneth Darrell Turner — whose 2019 emails appeared in the DOJ's 2026 Epstein files release. The FBI's own internal October 2019 document noted that Turner "did not provide evidence to support his claims." Former U.S. Ambassador Earl Anthony Wayne, also named in Turner's emails, categorically denied the allegations. Marcinko's death predated the public release of those files by more than four years.
 
-## Video Evidence
+## Video Evidence — Source Post Deleted
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
-  <source src="/videos/2046400129301877116.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+An April 2026 X post by @redpillb0t (id 2046400129301877116) summarized the Ken Turner
+emails from the 2026 Epstein files release, which allege Marcinko's involvement in a
+Mexico trafficking network alongside Jeffrey Epstein. **That post has since been deleted
+from X and its video is no longer retrievable** — as of August 17, 2026 the X API returns
+"Could not find post with id: 2046400129301877116" and yt-dlp reports no video in the
+tweet. The video file was never archived to IPFS at the time, so only the transcription
+made on April 21, 2026 survives.
 
-*Post covering the Ken Turner emails from the 2026 Epstein files release, which allege Marcinko's involvement in a Mexico trafficking network alongside Jeffrey Epstein. Source: [@redpillb0t on X](https://x.com/redpillb0t/status/2046400129301877116), April 2026.*
+The transcript is preserved at
+`docs/Epstein/other/transcripts/2046400129301877116_transcript.txt`. Its substance, as
+transcribed:
+
+> How is this Epstein file not front page news? So a man named Ken Turner was
+> investigating a trafficking network in Mexico for 17 years. As it unfolded it began to
+> implicate Epstein, Richard Marcinko — who was a SEAL Team Six commander — and multiple
+> US officials. And on July 27th, 2019, so two weeks before Epstein [died], he sent an
+> email saying: "We've had another serious incident since an American shot the trial judge
+> in our child sex trafficking case here. He and I both think this latest incident is tied
+> to the fact that we have reached out to your team. Who on your team knows we are talking
+> to you? Is it anyone assigned from NSA, CIA or the US State Department? Please understand
+> people's lives here are in jeopardy."
+
+Readers should weigh this as an unverified single-source claim. As noted in the assessment
+above, the FBI's own October 2019 internal document recorded that Turner "did not provide
+evidence to support his claims," and former U.S. Ambassador Earl Anthony Wayne, also named
+in Turner's emails, categorically denied the allegations.
 
 ## Background
 

@@ -97,6 +97,7 @@ Independent reporting after his death repeatedly placed his social circle inside
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly accused Hollywood elites of pedophilia and said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest.
 - [Danny Casolaro](Danny_Casolaro.md) — Investigated PROMIS software and "The Octopus" — CIA/DOJ/intelligence connections plus the Epstein orbit. Found with wrists slashed in a hotel room.
 - [Max Spiers](Max_Spiers.md) — UK conspiracy researcher investigating elite pedophile rings. Texted his mother "if anything happens to me, investigate" two days before his death.
+- [Brock Pierce](/epstein-murders/Details/Brock_Pierce) — fellow Puerto Rico crypto figure, frequently described online as Mushegian's friend though no close relationship is documented. Pierce commented publicly on the death and, per reporting, suggested it may have been self-inflicted. His own eight-year email correspondence with Jeffrey Epstein appears in the 2025–2026 files releases. Pierce has never been charged with any crime and has never been accused by any authority of any role in Mushegian's death.
 - Cross-investigation: [Epstein Kill List](/epstein-murders/) — for the full network of Epstein-orbit deaths.
 
 ## Other Shocking Stories

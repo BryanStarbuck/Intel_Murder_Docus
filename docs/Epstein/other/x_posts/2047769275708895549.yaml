@@ -19,7 +19,7 @@ public_metrics:
   quote_count: 11
   bookmark_count: 75
   impression_count: 59593
-has_video: false
+has_video: true
 has_image: true
 image_count: 2
 images:
@@ -35,3 +35,7 @@ notes: |
   they are characterized in the complaint as "protecting" the father). Mother Autumn Taylor Cupps is
   named and is a living person — the complaint accuses her of inaction; this must be handled with
   strict attribution language.
+video:
+  filename: '2047769275708895549.mp4'
+  ipfs_cid: 'QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL'
+  note: 'Video lived on a QUOTED post; the X API reported no media and the original run recorded has_video: false. Recovered 2026-08-17.'

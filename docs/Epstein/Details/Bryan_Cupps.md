@@ -19,12 +19,29 @@ Verified cofounder of CyberSlice (1996 online pizza ordering pioneer). Subject o
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 *Video shared by @TheEmmapreneur on X with a written statement attributed to Madison (Clares) Cupps making allegations against her father Bryan Cupps. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2054372519465881910), 2026-05-13.*
+
+### Earlier video — April 24, 2026
+
+<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+  <source src="https://ipfs.io/ipfs/QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*The earlier of the two circulated videos (2 minutes 45 seconds), in which the speaker identifies herself as Madison Cupps and presents a series of claims about her father. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2047769275708895549), 2026-04-24. This video was archived on 2026-08-17; it was attached to a quoted post and was missed when this page was first written.*
+
+**What the April 24 video contains, and how this site treats it.** In it, the speaker states that her father invented online pizza ordering, that the company became Food.com, that he is "a CIA handler," and that he used images of her to build relationships with clients. She presents tattoos, a magazine, an archived web page, and a patent record as supporting evidence, and draws inferences from each.
+
+**None of it is corroborated.** No court filing, indictment, civil suit, law enforcement action, or mainstream media report substantiating any of these claims has been located. The inferences drawn in the video — from a tattoo, from a company's product listings, from a Japanese telecom patent — are the speaker's own interpretations, not established facts.
+
+**The video also names several living public figures in the entertainment and telecommunications industries and makes grave allegations about them.** This site does not reproduce those passages or name those individuals. None has been charged with or sued over anything connected to these claims, none has been shown to have any connection to Bryan Cupps or CyberSlice by any independent source, and repeating uncorroborated criminal allegations against named living people would be indefensible regardless of attribution. The video is embedded above as the primary-source artifact so readers can assess it directly; the full transcript is archived at `docs/Epstein/other/transcripts/2047769275708895549_transcript.txt`.
+
+**Bryan Cupps has not publicly responded to any of these allegations.**
 
 ## Assessment: UNCERTAIN
 

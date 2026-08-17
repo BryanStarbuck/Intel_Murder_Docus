@@ -65,7 +65,7 @@ The questions raised by the post:
 
 These questions remain open. Readers should weigh them against the absence of any corroborating evidence.
 
-**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [COVID-19 topic page](/intel/Covid)
+**See:** [Barry Sherman profile](Details/Barry_Sherman.md) | [COVID-19 topic page](/intelligence-service-murders/Covid)
 
 ## Additional Account from a GTA Resident
 
@@ -82,7 +82,7 @@ This is a personal recollection and a set of circulating claims, not findings of
 - **The "known culprit" / sealed-court claim:** Toronto Police have publicly identified no suspect by name in the Sherman case as of 2026. A "person of interest" video was released in 2021. Sealing orders **have** been issued in Sherman-related civil and probate proceedings — most notably contested by the *Toronto Star* in *Sherman Estate v. Donovan*, **2021 SCC 25**, where the Supreme Court of Canada ruled against blanket sealing of the estate file. Search-warrant information-to-obtain (ITO) materials in the homicide investigation reportedly remain sealed at the request of police and the Crown for ongoing-investigation reasons. **No public court order names any "culprit."** The contributor's framing is preserved as a stated claim, not as a finding.
 - **The Canadian HCQ possession claim:** As of 2026, hydroxychloroquine is a **prescription-only** medication in Canada under the Food and Drugs Act (Health Canada's Prescription Drug List). It is **not** scheduled under the Controlled Drugs and Substances Act. With a valid prescription, possession is lawful. During COVID-19, **Health Canada** and several **provincial pharmacy regulatory colleges** issued guidance restricting HCQ prescribing **for COVID-19** outside clinical trials — for example, the Ontario College of Pharmacists and the College of Physicians and Surgeons of Ontario both issued such guidance in spring 2020. The investigation is **not aware** of a general criminal-arrest power for HCQ possession in Canada. The contributor's "Big Pharma" framing is documented as their stated interpretation, not as an investigative conclusion.
 
-The recollection is preserved because the contributor was geographically and temporally proximate to the [Sherman case](Details/Barry_Sherman.md) and personally noted the [COVID-era](/intel/Covid) thematic connection.
+The recollection is preserved because the contributor was geographically and temporally proximate to the [Sherman case](Details/Barry_Sherman.md) and personally noted the [COVID-era](/intelligence-service-murders/Covid) thematic connection.
 
 ## Generic Manufacturers and Pricing
 
@@ -121,9 +121,9 @@ It documents people, deaths, and circulating claims — and applies the project'
 ## See Also
 
 - [Barry Sherman](Details/Barry_Sherman.md) — Apotex founder, unsolved 2017 double homicide
-- [COVID-19](/intel/Covid) — broader pandemic-era topic page
+- [COVID-19](/intelligence-service-murders/Covid) — broader pandemic-era topic page
 - [Brandy Vaughan](Details/Brandy_Vaughan.md) — Merck whistleblower, 2020
-- [Intelligence Service Murders — Overview](/intel/) — full investigation index
+- [Intelligence Service Murders — Overview](/intelligence-service-murders/) — full investigation index
 
 ## Sources
 

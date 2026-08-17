@@ -41,6 +41,12 @@ Organizations, intelligence services, financial institutions, and operations con
 | [Deutsche Bank](deutsche_bank.md) | Primary bank that maintained Epstein's accounts; $150M fine; multiple exec deaths |
 | [JPMorgan Chase](jpmorgan_chase.md) | Maintained Epstein accounts for 15+ years; $290M USVI settlement |
 
+## Entertainment Industry
+
+| Group | Description |
+|-------|-------------|
+| [Hollywood and the Entertainment Industry](hollywood_entertainment_industry.md) | Alleged exploitation networks in film, television, and music — structurally parallel to the Epstein operation but a separate set of people. Covers Hayden Panettiere, Corey Haim, Isaac Kappy, Mark Salling, Alexis Arquette, and Lou Pearlman |
+
 ## Modeling Agencies
 
 | Group | Description |

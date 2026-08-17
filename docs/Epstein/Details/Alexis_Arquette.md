@@ -164,6 +164,8 @@ Arquette's case sits within a documented cluster of entertainment industry figur
 - [Anthony Bourdain](Anthony_Bourdain.md) — Vocal against Hollywood abusers, found hanged in France
 - [Peaches Geldof](Peaches_Geldof.md) — Publicly named Scientology-linked child abusers, dead at 25
 - [Monica Petersen](Monica_Petersen.md) — Haiti trafficking researcher whose work is alleged in fringe accounts to have been connected to Arquette via a USB drive passed to Chris Cornell
+- [Hayden Panettiere](Hayden_Panettiere.mdx) — actress who alleged industry grooming and assault in a May 2026 memoir; found dead at 36 three months later, cause pending
+- [Hollywood and the Entertainment Industry](../other/groups/hollywood_entertainment_industry.md) — group page for alleged exploitation networks in film, television, and music
 
 ## Other Shocking Stories
 

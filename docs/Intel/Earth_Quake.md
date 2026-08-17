@@ -45,7 +45,6 @@ Schneider was found dead on January 17, 1996 — approximately one year after hi
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

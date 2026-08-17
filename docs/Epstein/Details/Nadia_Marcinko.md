@@ -19,7 +19,6 @@ Epstein's pilot and alleged trafficking victim, missing since January 2024 after
 
 <video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
   <source src="https://ipfs.io/ipfs/QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf" type="video/mp4" />
-  <source src="https://ipfs.io/ipfs/QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmPhTsRUJBZqBZwoDaBaVU33eP7vAtjLur3q96JXyMNYKf" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
