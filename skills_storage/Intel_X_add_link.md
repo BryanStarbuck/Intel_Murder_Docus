@@ -6,9 +6,10 @@ invocable: true
 
 You are helping the user add content to the IntelligenceMurders.com investigation website.
 
-The user provides arguments: $ARGUMENTS
+TEXT_INPUT_TO_SKILL is any text the user typed after /Intel_X_add_link.
+It is the run text for this skill.
 
-These arguments may contain ANY COMBINATION of the following components. Parse them
+TEXT_INPUT_TO_SKILL may contain ANY COMBINATION of the following components. Parse them
 carefully and identify which ones are present:
 
 ============================
@@ -280,7 +281,7 @@ When auto-detecting, scan all available text for these keywords and topics.
 STEP 0: PARSE INPUT
 ============================
 
-* Read through $ARGUMENTS and identify all components present:
+* Read through TEXT_INPUT_TO_SKILL and identify all components present:
   - Any URLs? Classify each as X post URL, video URL, image URL, or other
   - Investigation name specified?
   - A text block? If so, separate INSTRUCTIONS from CONTENT within it
