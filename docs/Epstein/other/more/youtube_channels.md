@@ -121,7 +121,7 @@ These creators have migrated to **Rumble**, **BitChute**, **Odyssey**, **Substac
 
 - **Books**: See [Books](books.md) for written works by many of these creators
 - **Podcasts**: See [Podcasts](podcasts.md) — many of these channels also have podcast feeds
-- **Groups**: Videos frequently discuss organizations documented in [Groups](/epstein-murders/other/groups/)
+- **Groups**: Videos frequently discuss organizations documented in [Groups](/epstein-murders/#detailed-research)
 - **People**: Video episodes reference many individuals with profiles in [Details/](/epstein-murders/)
 - **Weiner Laptop**: The [laptop overview](laptop.md) covers the NYPD deaths that Total Disclosure and others investigate
 

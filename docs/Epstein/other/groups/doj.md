@@ -81,9 +81,9 @@ On April 14, 2026, reports circulated on social media that the DOJ had again del
 
 ## Image Evidence
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2044191958034223143_1.jpg" alt="DOJ Epstein files document page 1 - complaint summaries with highlighted sections" style={{maxHeight: '25vh', width: 'auto', aspectRatio: '557/668'}} loading="lazy" decoding="async" />
-<img src="/images/2044191958034223143_2.jpg" alt="DOJ Epstein files document page 2 - complaint summaries with notable names" style={{maxHeight: '25vh', width: 'auto', aspectRatio: '556/672'}} loading="lazy" decoding="async" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2044191958034223143_1.jpg" alt="DOJ Epstein files document page 1 - complaint summaries with highlighted sections" style="max-height: 25vh; width: auto; aspect-ratio: 557/668" loading="lazy" decoding="async" />
+<img src="/images/2044191958034223143_2.jpg" alt="DOJ Epstein files document page 2 - complaint summaries with notable names" style="max-height: 25vh; width: auto; aspect-ratio: 556/672" loading="lazy" decoding="async" />
 </div>
 
 *DOJ internal documents showing Epstein complaint summaries — reportedly published then deleted by the DOJ. Source: [@Tironianae on X](https://x.com/Tironianae/status/2044191958034223143), April 14, 2026.*

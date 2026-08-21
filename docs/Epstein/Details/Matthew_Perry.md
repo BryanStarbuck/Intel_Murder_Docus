@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Actor best known for *Friends*; died of ketamine overdose at 54. Five people criminally charged in connection with his death, exposing a drug supply network that served Hollywood's elite.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Matthew Perry](images/Matthew_Perry.jpg)
 

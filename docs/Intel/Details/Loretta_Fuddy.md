@@ -24,7 +24,7 @@ Hawaii's Director of Health — the sole official who verified Barack Obama's lo
 
 ## Video Evidence
 
-<video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+<video controls style="width: 100%; max-width: 720px; height: auto; display: block">
   <source src="https://ipfs.io/ipfs/QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke" type="video/mp4" />
   Your browser does not support the video tag.

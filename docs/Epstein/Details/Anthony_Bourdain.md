@@ -8,7 +8,7 @@ image: /img/docusaurus-social-card.jpg
 
 Celebrity chef and CNN host who described Bill Clinton as "rapey" and "grabby" and accused Harvey Weinstein's enablers of facilitating cover-up in his final published interview; found dead by hanging in a French hotel room three days after Kate Spade's hanging, with no suicide note, no warning to family, and his last text message reading "I'll live, and we'll survive."
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Anthony Bourdain](images/Anthony_Bourdain.jpg)
 

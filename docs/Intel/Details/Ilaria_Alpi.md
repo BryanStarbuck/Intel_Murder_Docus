@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Italian RAI television journalist ambushed and shot dead in Mogadishu alongside cameraman Miran Hrovatin while investigating illegal arms trafficking and toxic waste dumping involving Italian intelligence (SISMI). The only person convicted was later acquitted and awarded over three million euros for wrongful imprisonment. The case remains unsolved.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ilaria Alpi](images/Ilaria_Alpi.jpg)
 

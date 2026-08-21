@@ -31,7 +31,7 @@ Two teenagers found dead on railroad tracks in Alexander, Arkansas, in what auth
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmWr3GCYCuoQQQBtxvse2ooZN8vEMqL39ihfaqjfbrx1Cv" type="video/mp4" />
   Your browser does not support the video tag.

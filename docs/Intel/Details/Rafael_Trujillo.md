@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Dominican Republic dictator assassinated in 1961 by conspirators using CIA-supplied weapons, ambushed in his car on the highway to San Cristobal after 31 years of brutal rule.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Rafael Trujillo](images/Rafael_Trujillo.jpg)
 

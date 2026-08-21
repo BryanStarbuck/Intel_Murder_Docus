@@ -45,14 +45,16 @@ Collins-Rector renounced his US citizenship in 2006. Pierce went on to a two-dec
 
 ## Image Evidence
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem', alignItems: 'flex-start'}}>
-<img src="/images/2053443730674180325_1.jpg" alt="Brock Pierce in a red hat applauding at the Don Colossus statue unveiling, beside a speaker at a podium" style={{maxHeight: '30vh', width: 'auto'}} loading="lazy" />
-<img src="/images/2053443730674180325_3.jpg" alt="Brock Pierce standing with a rabbi in a synagogue, holding a book titled One Way Suitcase" style={{maxHeight: '30vh', width: 'auto'}} loading="lazy" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start">
+<img src="/images/2053443730674180325_1.jpg" alt="Brock Pierce in a red hat applauding at the Don Colossus statue unveiling, beside a speaker at a podium" style="max-height: 30vh; width: auto" loading="lazy" />
+<img src="/images/2053443730674180325_3.jpg" alt="Brock Pierce standing with a rabbi in a synagogue, holding a book titled One Way Suitcase" style="max-height: 30vh; width: auto" loading="lazy" />
 </div>
 
 *Left: Pierce (red hat) at the May 2026 unveiling of the 22-foot gold-leaf Trump statue "Don Colossus" at Trump National Doral in Miami, where he cut the ribbon. Right: Pierce in a synagogue holding *One Way Suitcase*, a collection of accounts from Ukrainian refugees. Both images circulated by [@DissidentMedia on X](https://x.com/DissidentMedia/status/2053443730674180325), May 2026.*
 
-<img src="/images/2053443730674180325_4.jpg" alt="Screenshot of a December 2018 email exchange between Brock Pierce and the account jeevacation@gmail.com" style={{maxHeight: '55vh', width: 'auto'}} loading="lazy" />
+<div>
+<img src="/images/2053443730674180325_4.jpg" alt="Screenshot of a December 2018 email exchange between Brock Pierce and the account jeevacation@gmail.com" style="max-height: 55vh; width: auto" loading="lazy" />
+</div>
 
 *Screenshot of a December 16, 2018 email exchange from the released Epstein files, as circulated on X. Pierce writes about connecting in Puerto Rico and adds: "Alternative there's a boat in Antigua the 17-20th full of amazing Ukraine's finest." The reply reads: "I'm currently 2 blocks from Mar-a-Lago."*
 

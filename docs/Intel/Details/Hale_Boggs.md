@@ -113,7 +113,7 @@ No declassified document, defector testimony, or judicial finding has produced e
 - [Paul Wellstone](Paul_Wellstone.md) — Sitting U.S. Senator killed in a plane crash eleven days before reelection, after opposing the Iraq War
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — JFK confidante shot weeks after the Warren Commission report; CIA's Angleton seized her diary
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating JFK assassination, died of barbiturate overdose
-- [George S. Patton](Details/George_Patton.md) — General whose death in a low-speed vehicle accident has long been alleged to have been engineered
+- [George S. Patton](/intelligence-service-murders/Details/George_Patton) — General whose death in a low-speed vehicle accident has long been alleged to have been engineered
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose death was reclassified as homicide decades later
 
 ## Other Shocking Stories

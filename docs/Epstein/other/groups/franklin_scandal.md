@@ -102,6 +102,7 @@ The counterargument does not resolve the deaths of Gary Caradori, Kathleen Soren
 
 ## See Also
 
+- [North Fox Island Ring](/epstein-murders/other/groups/north_fox_island) — Francis Shelden's 1970s Michigan island CSAM operation; another documented pre-internet child abuse network whose principals escaped accountability
 - [Franklin Child Prostitution Ring](Franklin_Child_Prostitution_Rin.md) — Operational deep-dive: how children were recruited, conditioned via alleged Monarch programming, and turned into assets; Paul Bonacci survivor profile
 - [Bohemian Grove](bohemian_grove.md) — Paul Bonacci testified about ritualistic abuse at the elite retreat
 - [Craig Spence Operation](craig_spence.md) — DC lobbyist with overlapping participants and intelligence connections

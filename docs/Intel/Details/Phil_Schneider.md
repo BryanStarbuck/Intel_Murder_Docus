@@ -30,7 +30,7 @@ Schneider died without leaving a suicide note, with all his research materials, 
 
 ## Video: Phil Schneider on the Earthquake Device (1995)
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmcpJNervZ1cxrWAXu12U5k2NB2Yz32A1dtfxLYUgSuonC" type="video/mp4" />
   Your browser does not support the video tag.

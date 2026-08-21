@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Mexican woman who publicly accused elites of cannibalism and murder outside a Monterrey hotel in 2009; detained by police, sent to psychiatric facility, and never seen again.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Gabriela Rico Jimenez](images/Gabriela_Rico_Jimenez-0.jpg)
 

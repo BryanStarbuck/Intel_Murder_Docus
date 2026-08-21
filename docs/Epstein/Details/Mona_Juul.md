@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Norwegian ambassador who resigned after Epstein willed $5M per child; under criminal corruption investigation.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Mona Juul](images/Mona_Juul.jpg)
 

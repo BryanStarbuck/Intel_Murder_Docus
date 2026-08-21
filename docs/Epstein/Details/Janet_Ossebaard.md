@@ -20,12 +20,12 @@ Dutch documentary filmmaker and creator of "Fall of the Cabal," a viral 10-part 
 
 ## Image Evidence
 
-<img
-  src="/images/2044450438057951739_1.jpg"
-  alt="Janet Ossebaard memorial post by @TheDefiantGhost"
-  style={{maxHeight: '25vh', width: 'auto', aspectRatio: '1920/1376'}} loading="lazy" decoding="async" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start">
+<img src="/images/2090729873241210921_1.jpg" alt="Janet Ossebaard, creator of The Fall of the Cabal" style="max-height: 32vh; width: auto; aspect-ratio: 1248/888" loading="lazy" decoding="async" />
+<img src="/images/2044450438057951739_1.jpg" alt="Janet Ossebaard memorial post by @TheDefiantGhost" style="max-height: 32vh; width: auto; aspect-ratio: 1920/1376" loading="lazy" decoding="async" />
+</div>
 
-*Memorial post about Janet Ossebaard and "The Fall of the Cabal." Source: [@TheDefiantGhost on X](https://x.com/TheDefiantGhost/status/2044450438057951739), April 15, 2026.*
+*Left: Janet Ossebaard, above a headline reporting her death and her prior statement that she would not take her own life. Source: [@TheShadowIntelX on X](https://x.com/TheShadowIntelX/status/2090729873241210921), August 21, 2026. Right: memorial post about Ossebaard and "The Fall of the Cabal." Source: [@TheDefiantGhost on X](https://x.com/TheDefiantGhost/status/2044450438057951739), April 15, 2026.*
 
 ## Assessment: SUSPICIOUS
 
@@ -69,6 +69,8 @@ The documentary covered topics including:
 - Historical conspiracy theories
 
 According to Conspiracy Watch, the series became "the most popular and influential QAnon documentary." It was removed from YouTube and migrated to alternative platforms including Rumble and Bitchute.
+
+According to an August 2026 retrospective posted by @TheShadowIntelX on X, the section of the series titled "Children, Art & Pizza" was the portion that drew the widest attention — it laid out what Ossebaard described as a worldwide child trafficking and ritual abuse network, arguing that coded symbols, elite social events, and certain artwork pointed to crimes involving children among politicians, entertainers, and wealthy figures. That account states she supported the claims with documents and survivor testimony. These are Ossebaard's assertions as characterized by that post; the specific allegations she made about named individuals have not been established in any court, and several have been publicly disputed.
 
 Together with Koeter, Ossebaard subsequently produced a 28-part sequel series ("The Fall of the Cabal: The Sequel") which covered additional historical claims.
 
@@ -144,6 +146,7 @@ Koeter, a former police officer/detective, was Ossebaard's partner and co-produc
 - [Before It's News — Creator of Fall of the Cabal Found Dead](https://beforeitsnews.com/conspiracy-theories/2023/12/creator-of-the-fall-of-the-cabal-janet-ossebaard-found-dead-claimed-she-would-not-commit-suicide-2520634.html) — Coverage of prior suicide denial statements
 - [IMDb — Janet Ossebaard](https://www.imdb.com/name/nm3424549/) — Filmography
 - [@TheDefiantGhost on X — Memorial post](https://x.com/TheDefiantGhost/status/2044450438057951739) — April 15, 2026, memorial summarizing Ossebaard's work and death (891 likes, 499 retweets)
+- [@TheShadowIntelX on X — "Remember Janet Ossebaard?"](https://x.com/TheShadowIntelX/status/2090729873241210921) — August 21, 2026, retrospective on "The Fall of the Cabal" and her death (6,388 likes, 2,895 retweets)
 
 *This information was built by Grok and Claude AI research.*
 

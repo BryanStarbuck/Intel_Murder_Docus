@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Russia's Permanent Representative to the United Nations who died suddenly in New York City in 2017, one day before his 65th birthday. The NYC Medical Examiner initially could not determine cause of death, and the autopsy results were subsequently suppressed under diplomatic immunity at the request of the U.S. State Department.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Vitaly Churkin](images/Vitaly_Churkin.jpg)
 
@@ -99,7 +99,7 @@ Churkin was one of Russia's most prominent and skilled diplomats. He served as R
 
 Russian UN Ambassador who died suddenly; medical examiner withheld cause at State Dept request.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Vitaly Churkin](images/Vitaly_Churkin.jpg)
 
@@ -120,7 +120,7 @@ Russian UN Ambassador who died suddenly; medical examiner withheld cause at Stat
 Churkin's death is notable primarily because the New York City medical examiner initially withheld his cause of death at the explicit request of the U.S. State Department, citing diplomatic protocol — an unusual and documented step that fueled speculation. The cause was eventually reported as cardiac-related. No verified evidence connects him to the Epstein network; the association appears to originate from timing and broader theories about Epstein's alleged international intelligence connections.
 
 ## Connection to Epstein Network
-A less common but recurring mention in Epstein threads on X, some posts call Churkin's death suspicious, labeling him a possible "[Epstein](Jeffrey_Epstein.md) GRU case officer" or intelligence link/accomplice in the network. The claim ties into broader theories about Epstein's alleged intelligence connections (Mossad, CIA, and Russian intelligence have all been named in various theories).
+A less common but recurring mention in Epstein threads on X, some posts call Churkin's death suspicious, labeling him a possible "[Epstein](/epstein-murders/Details/Jeffrey_Epstein) GRU case officer" or intelligence link/accomplice in the network. The claim ties into broader theories about Epstein's alleged intelligence connections (Mossad, CIA, and Russian intelligence have all been named in various theories).
 
 ## Circumstances of Death
 Churkin collapsed at the Russian Mission to the United Nations in Manhattan on the morning of February 20, 2017 — one day before his 65th birthday. Emergency services were called and he was transported to NewYork-Presbyterian Hospital/Weill Cornell Medical Center, where he was pronounced dead. Russian Foreign Ministry spokeswoman Maria Zakharova initially confirmed his death without disclosing a cause. The New York City medical examiner's office was directed not to publicly disclose the cause or manner of death, at the written request of the U.S. State Department, citing diplomatic immunity and international protocol. The cause was eventually reported as cardiac-related, with CNN citing an official confirming no foul play.
@@ -128,12 +128,12 @@ Churkin collapsed at the Russian Mission to the United Nations in Manhattan on t
 ## Background
 Vitaly Churkin served as Russia's Permanent Representative to the United Nations from 2006 until his death — an 11-year tenure that made him one of Russia's most recognized international voices. He was known for sharp, often combative rhetoric at the UN Security Council during debates over Syria, Ukraine, the 2008 Georgia war, and other crises. Before his UN appointment, he served in multiple diplomatic roles including as Russia's ambassador to Belgium and Canada. He was widely regarded as a skilled and experienced diplomat even by Western counterparts who opposed his positions.
 
-No verified evidence connects Churkin to [Jeffrey Epstein](Jeffrey_Epstein.md), the Epstein trafficking network, or any intelligence operation related to Epstein. The claims appear to originate from the timing of his death, the initial secrecy around his cause of death, and broader theories about Epstein's intelligence connections involving multiple nations.
+No verified evidence connects Churkin to [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein), the Epstein trafficking network, or any intelligence operation related to Epstein. The claims appear to originate from the timing of his death, the initial secrecy around his cause of death, and broader theories about Epstein's intelligence connections involving multiple nations.
 
 ## Why This Death Possibly Raises Questions
 - The NYC medical examiner withheld the cause of death at the documented written request of the U.S. State Department — an unusual, confirmed step that went beyond standard diplomatic protocol
 - Died one day before his 65th birthday, suddenly, with no widely reported prior illness
-- Died in the same year as [Chris Cornell](Chris_Cornell.md) and [Chester Bennington](Chester_Bennington.md), cited in "Silent Children" documentary theories
+- Died in the same year as [Chris Cornell](/epstein-murders/Details/Chris_Cornell) and [Chester Bennington](/epstein-murders/Details/Chester_Bennington), cited in "Silent Children" documentary theories
 - Fits a pattern noted online of intelligence-connected figures dying before full Epstein exposure became public
 - His role placed him at the intersection of international diplomacy and intelligence operations — the arena Epstein's alleged blackmail network reportedly operated in
 
@@ -156,20 +156,20 @@ CNN reported an official confirmation of no foul play. Cardiac events are the le
 
 ## See Also
 
-- [Jeffrey Epstein](Jeffrey_Epstein.md)
-- [Chris Cornell](Chris_Cornell.md)
-- [Chester Bennington](Chester_Bennington.md)
-- [Bill Richardson](Bill_Richardson.md) — New Mexico governor linked to Epstein who died shortly after being named in Giuffre's deposition
-- [John Ashe](John_Ashe.md) — UN official who died before his corruption trial
+- [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein)
+- [Chris Cornell](/epstein-murders/Details/Chris_Cornell)
+- [Chester Bennington](/epstein-murders/Details/Chester_Bennington)
+- [Bill Richardson](/epstein-murders/Details/Bill_Richardson) — New Mexico governor linked to Epstein who died shortly after being named in Giuffre's deposition
+- [John Ashe](/epstein-murders/Details/John_Ashe) — UN official who died before his corruption trial
 - **Intelligence investigation profile:** [Vitaly Churkin](/intelligence-service-murders/Details/Vitaly_Churkin) — documents his death from the intelligence operations perspective
 - [Sergei Krivov](/intelligence-service-murders/Details/Sergei_Krivov) — Russian diplomat found dead at Russian consulate in New York in 2016, months before Churkin
 
 ## Other Shocking Stories
 
-- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
-- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
+- [Steven Silks](/epstein-murders/Details/Steven_Silks): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [Val Broeksmit](/epstein-murders/Details/Val_Broeksmit): His father hanged. He became an FBI informant on Deutsche Bank.
 - [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
-- [Priscilla Presley](Priscilla_Presley.md): Groomed by Elvis Presley at age 14. The entertainment industry's oldest documented pattern of powerful men targeting girls.
+- [Priscilla Presley](/epstein-murders/Details/Priscilla_Presley): Groomed by Elvis Presley at age 14. The entertainment industry's oldest documented pattern of powerful men targeting girls.
 
 ## Sources
 

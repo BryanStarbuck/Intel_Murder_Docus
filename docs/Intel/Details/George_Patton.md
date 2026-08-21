@@ -27,7 +27,7 @@ Four-star U.S. Army general and World War II commander who died under disputed c
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ" type="video/mp4" />
   <source src="https://dweb.link/ipfs/Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ" type="video/mp4" />
   Your browser does not support the video tag.

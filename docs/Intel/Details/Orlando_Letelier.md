@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Chilean diplomat, former ambassador to the United States, and leading international critic of the Pinochet dictatorship, assassinated by a car bomb on Embassy Row in Washington, DC, by agents of Chile's DINA secret police. His American colleague Ronni Moffitt was killed alongside him.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Orlando Letelier](images/Orlando_Letelier.jpg)
 

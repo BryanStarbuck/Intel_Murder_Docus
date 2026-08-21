@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Yoga teacher found drowned in Arkansas River with ankle bound to a 58-pound concrete block by an extension cord. Alleged connection to Epstein associate Mark Middleton is disputed.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ashley Haynes](images/Ashley_Haynes.jpg)
 
@@ -75,6 +75,8 @@ These claims circulated widely on social media and partisan outlets following Mi
 > — **Lead Stories** fact-check ([Lead Stories](https://leadstories.com/hoax-alert/2022/08/fact-check-woman-found-dead-in-arkansas-river-is-not-linked-to-death-of-former-clinton-advisor.html))
 
 ## See Also
+
+- [Arkansas](/epstein-murders/other/more/locations/arkansas) — Location profile for the Arkansas deaths and the Clinton political network
 
 - [Mark Middleton](Mark_Middleton.md) — Clinton aide found dead in Arkansas with extension cord, four months after Haynes
 - [Don Henry & Kevin Ives](Don_Henry_Kevin_Ives.md) — "Boys on the Tracks" — another suspicious death in Arkansas with intelligence/Clinton-era connections

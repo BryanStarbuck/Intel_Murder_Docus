@@ -29,11 +29,9 @@ The operation was exposed when Shelden's street-level recruiter, Gerald Richards
 
 The X post that led to this profile contains a flowchart mapping the documented connections within the North Fox Island ring — its front organizations, known associates, customer distribution networks, and links to related investigations. That image is below:
 
-<img
-  src="/images/2060395991203709094_1.jpg"
-  alt="Flowchart of connections within Francis Shelden's North Fox Island pedophile ring"
-  style={{maxHeight: '80vh', width: 'auto', aspectRatio: '992/1280'}}
-/>
+<div>
+<img src="/images/2060395991203709094_1.jpg" alt="Flowchart of connections within Francis Shelden's North Fox Island pedophile ring" style="max-height: 80vh; width: auto; aspect-ratio: 992/1280" />
+</div>
 
 *Flowchart of documented links in the North Fox Island ring. Source: [@PizzaGateX on X](https://x.com/PizzaGateX/status/2060395991203709094), May 29, 2026.*
 

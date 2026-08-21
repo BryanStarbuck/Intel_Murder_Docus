@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Fiancee of [Frank Yassenoff](Frank_Yassenoff.md), shot to death alongside him in unsolved double homicide connected to the Kessler-Wexner network.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ella Rich](images/Ella_Rich.jpg)
 

@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Panamanian military leader and de facto head of state, killed in a plane crash on July 31, 1981 — just two months after Ecuadorian President Jaime Roldos died in a nearly identical plane crash. Both leaders had challenged U.S. economic and strategic interests. Former CIA operatives and whistleblowers, most notably John Perkins in *Confessions of an Economic Hit Man*, have alleged CIA sabotage.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Omar Torrijos](images/Omar_Torrijos.jpg)
 

@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 ABC News anchor who broke the story of the secret Clinton-Lynch tarmac meeting, wrote a book about it, received death threats, and was found dead at age 45.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Christopher Sign](images/Christopher_Sign.jpg)
 

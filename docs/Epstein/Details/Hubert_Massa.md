@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Belgian Advocate General and chief prosecutor overseeing both the Marc Dutroux pedophile case and the André Cools assassination investigation, found dead of a gunshot wound ruled suicide on July 13, 1999, after returning from a meeting with the Belgian Justice Minister.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Hubert Massa](images/Hubert_Massa.jpg)
 

@@ -190,6 +190,8 @@ No direct, verbatim public quotes from Collins-Smith herself about exposing a sp
 
 ## See Also
 
+- [Arkansas](/epstein-murders/other/more/locations/arkansas) — Location profile for the Arkansas deaths and the Clinton political network
+
 - [Jonathan Nichols](Jonathan_Nichols.md) — Former Oklahoma state senator who authored child safety legislation; found shot dead the day after Collins-Smith's body was discovered
 - [Nancy Schaefer](Nancy_Schaefer.md) — Former Georgia state senator who published a detailed report on CPS corruption; found dead with her husband in 2010
 - [Monica Petersen](Monica_Petersen.md) — Human trafficking researcher who died in Haiti while investigating Clinton Foundation operations

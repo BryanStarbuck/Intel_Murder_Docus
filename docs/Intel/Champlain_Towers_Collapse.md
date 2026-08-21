@@ -11,11 +11,9 @@ On June 24, 2021 — the day after antivirus pioneer [John McAfee](Details/John_
 
 The Champlain Towers South collapse is the subject of a viral online theory tying it to [John McAfee](Details/John_McAfee.mdx)'s claimed "dead man's switch." **That theory is unverified and contradicts the official federal investigation.** The U.S. National Institute of Standards and Technology (NIST) attributes the collapse to a structural "punching shear" failure compounded by design flaws and corrosion. This page presents the theory as a reported claim, not as established fact, and rates the intelligence-cover-up interpretation **UNCERTAIN**.
 
-<img
-  src="/images/Champlain_Towers_Collapse.jpg"
-  alt="Champlain Towers South after its June 24, 2021 partial collapse in Surfside, Florida"
-  style={{maxHeight: '45vh', width: 'auto', aspectRatio: '1600/1067'}}
-/>
+<div>
+<img src="/images/Champlain_Towers_Collapse.jpg" alt="Champlain Towers South after its June 24, 2021 partial collapse in Surfside, Florida" style="max-height: 45vh; width: auto; aspect-ratio: 1600/1067" />
+</div>
 
 *Champlain Towers South after the June 24, 2021 partial collapse. Viral posts present this image as evidence of a deliberate explosion; federal investigators attribute the destruction to progressive structural failure. Source: [@kingbtc](https://x.com/kingbtc/status/2069798811631833256) / [@ElectBilzerian on X](https://x.com/ElectBilzerian/status/2070008064514617638), June 2026.*
 

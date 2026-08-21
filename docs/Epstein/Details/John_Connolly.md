@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural illness.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![John Connolly](images/John_Connolly.jpg)
 

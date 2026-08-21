@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Alfredo Rodriguez](images/Alfredo_Rodriguez.jpg)
 

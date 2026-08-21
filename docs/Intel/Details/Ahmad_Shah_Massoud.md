@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Afghan military commander known as the "Lion of Panjshir," assassinated by al-Qaeda suicide bombers posing as journalists exactly two days before the September 11 attacks -- a killing reportedly coordinated with the Taliban and allegedly facilitated by Pakistani intelligence (ISI).
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ahmad Shah Massoud](images/Ahmad_Shah_Massoud.jpg)
 

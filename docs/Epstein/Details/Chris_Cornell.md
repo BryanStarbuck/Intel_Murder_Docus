@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Soundgarden vocalist who ran a foundation fighting child trafficking, found hanged in his hotel room after a concert; his wife disputes the ruling citing a head injury omitted from the autopsy, the death was ruled suicide in under two hours, and his closest friend Chester Bennington was found hanged by the same method exactly two months later — on what would have been Cornell's birthday.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Chris Cornell](images/Chris_Cornell.jpg)
 

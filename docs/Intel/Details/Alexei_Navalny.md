@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Russian opposition leader and anti-corruption activist who survived a Novichok poisoning in 2020, then died in an Arctic penal colony in 2024 — confirmed poisoned with epibatidine.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Alexei Navalny](images/Alexei_Navalny.jpg)
 
@@ -125,6 +125,7 @@ Within hours of the death announcement, Yulia Navalnaya appeared at the Munich S
 
 ## See Also
 
+- [Federal Security Service (FSB)](/epstein-murders/other/groups/fsb) — Group profile of the Russian service implicated in this case
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Former FSB officer poisoned with polonium-210 in London, 2006. The first modern case to establish the Kremlin's willingness to use exotic poisons against perceived enemies abroad.
 - [Sergei Skripal](Sergei_Skripal.md) — Former GRU officer poisoned with Novichok in Salisbury, 2018. The same class of nerve agent used against Navalny. Survived.
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader shot dead near the Kremlin, 2015. Nemtsov was working on a report documenting Russian military involvement in Ukraine at the time of his assassination.

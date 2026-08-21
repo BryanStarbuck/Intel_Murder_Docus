@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 MakerDAO co-founder and crypto pioneer who tweeted about a CIA/Mossad sex trafficking ring in Puerto Rico hours before drowning at age 29.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Nikolai Mushegian](images/Nikolai_Mushegian.jpg)
 

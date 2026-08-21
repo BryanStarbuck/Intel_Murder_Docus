@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Clinton's White House deputy counsel found shot dead in 1993; Epstein's 2016 emails appear to reference an affair between Hillary Clinton and Foster.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Vince Foster](images/Vince_Foster.jpg)
 
@@ -130,10 +130,10 @@ Clinton's White House deputy counsel found shot dead in 1993; Epstein's 2016 ema
 
 Foster's connection to the Epstein case emerged decades after his death:
 
-- A May 25, 2016 email from [Jeffrey Epstein](Jeffrey_Epstein.md) to author Michael Wolff, released as part of the 2026 DOJ Epstein files, contains a cryptic line appearing to allege that Hillary Clinton had a sexual affair with Vince Foster
+- A May 25, 2016 email from [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) to author Michael Wolff, released as part of the 2026 DOJ Epstein files, contains a cryptic line appearing to allege that Hillary Clinton had a sexual affair with Vince Foster
 - Foster's death is a central element of the "Clinton body count" conspiracy theory, which overlaps significantly with the Epstein-connected deaths through the Clinton relationship
 - Bill Clinton's extensive documented relationship with Epstein (flights on the Lolita Express, visits to Epstein's island) creates a nexus between Foster's death and the Epstein cover-up theory
-- [Mark Middleton](Mark_Middleton.md), the Clinton aide who authorized Epstein's White House visits, also died suspiciously in 2022
+- [Mark Middleton](/epstein-murders/Details/Mark_Middleton), the Clinton aide who authorized Epstein's White House visits, also died suspiciously in 2022
 
 ## Circumstances of Death
 
@@ -142,7 +142,7 @@ On July 20, 1993, Foster was found dead in Fort Marcy Park in McLean, Virginia:
 - He was found with a single gunshot wound through the back of his mouth
 - A .38 caliber revolver was found in his hand
 - No suicide note was initially found; torn-up fragments of a note were later discovered in his briefcase
-- Five official investigations — by the U.S. Park Police, the FBI, the first independent counsel Robert Fiske, the second independent counsel [Kenneth Starr](Kenneth_Starr.md), and congressional committees — all concluded suicide
+- Five official investigations — by the U.S. Park Police, the FBI, the first independent counsel Robert Fiske, the second independent counsel [Kenneth Starr](/epstein-murders/Details/Kenneth_Starr), and congressional committees — all concluded suicide
 - Despite these rulings, skeptics have questioned: the position of the gun in his hand, the lack of soil on his shoes despite the wooded location, conflicting witness accounts, and the handling of documents from his office after his death
 
 ## Why This Remains Controversial
@@ -154,7 +154,7 @@ On July 20, 1993, Foster was found dead in Fort Marcy Park in McLean, Virginia:
 
 ## Assessment
 
-Foster's death was ruled suicide by five investigations with unlimited resources. The Epstein email reference is a single unverified line in a 2016 email. The connection is primarily through the Clinton overlap rather than any direct Epstein involvement. However, the pattern of people connected to Clinton power structures dying under questioned circumstances — Foster (1993), [Ron Brown](https://en.wikipedia.org/wiki/Ron_Brown_(U.S._politician)) (1996), [Mark Middleton](Mark_Middleton.md) (2022) — continues to draw scrutiny.
+Foster's death was ruled suicide by five investigations with unlimited resources. The Epstein email reference is a single unverified line in a 2016 email. The connection is primarily through the Clinton overlap rather than any direct Epstein involvement. However, the pattern of people connected to Clinton power structures dying under questioned circumstances — Foster (1993), [Ron Brown](https://en.wikipedia.org/wiki/Ron_Brown_(U.S._politician)) (1996), [Mark Middleton](/epstein-murders/Details/Mark_Middleton) (2022) — continues to draw scrutiny.
 
 **Suspicion Level:** SUSPICIOUS — Five investigations ruled suicide, but Epstein emails and Clinton connections keep questions alive.
 
@@ -178,13 +178,13 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 
 ## Related Locations
 
-- [Washington DC Area](../other/more/locations/washington_dc.md) — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel
+- [Washington DC Area](/epstein-murders/other/more/locations/washington_dc) — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel
 ## Other Shocking Stories
 
-- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
-- [Jonathan Nichols](Jonathan_Nichols.md): Authored death penalty for child molesters. Gunshot to chest ruled suicide. Firearm found in unexpected position.
-- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
-- [Esther Salas](Esther_Salas.md): Assigned the Epstein-Deutsche Bank case. Four days later a gunman killed her son and shot her husband.
+- [Gary Caradori](/epstein-murders/Details/Gary_Caradori): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Jonathan Nichols](/epstein-murders/Details/Jonathan_Nichols): Authored death penalty for child molesters. Gunshot to chest ruled suicide. Firearm found in unexpected position.
+- [Andrew Breitbart](/epstein-murders/Details/Andrew_Breitbart): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
+- [Esther Salas](/epstein-murders/Details/Esther_Salas): Assigned the Epstein-Deutsche Bank case. Four days later a gunman killed her son and shot her husband.
 
 ## Sources
 

@@ -22,7 +22,7 @@ The "Pizzagate gunman" who stormed Comet Ping Pong in 2016 over child traffickin
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmY93HMjeo3xr4jLm8y7DXM4yV1EfJt5u2bKfzzgtAPVqi" type="video/mp4" />
   Your browser does not support the video tag.

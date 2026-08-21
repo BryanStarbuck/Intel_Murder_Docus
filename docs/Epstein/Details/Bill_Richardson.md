@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Former NM governor who met Epstein 9+ times after conviction; name removed from children's hospital.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Bill Richardson](images/Bill_Richardson.jpg)
 

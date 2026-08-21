@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison at 84.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Berry Kessler](images/Berry_Kessler.jpg)
 

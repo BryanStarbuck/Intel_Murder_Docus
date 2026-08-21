@@ -110,7 +110,7 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 
 British conspiracy researcher investigating elite pedophilia networks who died in Poland at 39 after telling his mother "if anything happens to me, investigate."
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Max Spiers](images/Max_Spiers.jpg)
 
@@ -130,8 +130,8 @@ Max Spiers' connection to the Epstein case is through his research into elite pe
 
 - Spiers was investigating what he believed was an elite pedophilia ring involving powerful individuals — the same type of network later documented in the Epstein case
 - His mother stated he was researching "an organisation he believed was involved in running a paedophile ring"
-- His death occurred in July 2016 — three years before Epstein's arrest but during the same period other trafficking researchers were dying ([Monica Petersen](Monica_Petersen.md) died four months later)
-- The pattern of conspiracy researchers and journalists investigating elite pedophilia dying (Spiers 2016, [Isaac Kappy](Isaac_Kappy.md) 2019, [Tracy Twyman](Tracy_Twyman.md) 2019) is part of the broader Epstein-adjacent death pattern
+- His death occurred in July 2016 — three years before Epstein's arrest but during the same period other trafficking researchers were dying ([Monica Petersen](/epstein-murders/Details/Monica_Petersen) died four months later)
+- The pattern of conspiracy researchers and journalists investigating elite pedophilia dying (Spiers 2016, [Isaac Kappy](Isaac_Kappy.md) 2019, [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman) 2019) is part of the broader Epstein-adjacent death pattern
 
 ## Circumstances of Death
 
@@ -171,18 +171,18 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 
 ## See Also
 
-- [Monica Petersen](Monica_Petersen.md)
+- [Monica Petersen](/epstein-murders/Details/Monica_Petersen)
 - [Isaac Kappy](Isaac_Kappy.md)
-- [Tracy Twyman](Tracy_Twyman.md)
+- [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman)
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
 - [Jenny Moore](Jenny_Moore.md) — Former police officer turned journalist investigating elite trafficking, found dead in DC hotel
 
 ## Other Shocking Stories
 
-- [Jeffrey Epstein](Jeffrey_Epstein.md): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
-- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
-- [Ella Rich](Ella_Rich.md): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
-- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
+- [Joe Recarey](/epstein-murders/Details/Joe_Recarey): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Ella Rich](/epstein-murders/Details/Ella_Rich): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
+- [John Connolly](/epstein-murders/Details/John_Connolly): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
 
 ## Sources
 

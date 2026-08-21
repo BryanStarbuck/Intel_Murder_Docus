@@ -68,6 +68,7 @@ The official ruling of drug overdose, while never substantiated with public docu
 
 ## See Also
 
+- [North Fox Island Ring](/epstein-murders/other/groups/north_fox_island) — Francis Shelden's 1970s Michigan island CSAM operation; another documented pre-internet child abuse network whose principals escaped accountability
 - [Gary Caradori](Gary_Caradori.md) -- Lead Franklin scandal investigator who took Boner's testimony; died in 1990 plane crash
 - [Craig Spence](Craig_Spence.md) -- Washington lobbyist connected to elite abuse networks who died in 1989
 - [Kathleen Sorenson](Kathleen_Sorenson.md) -- Franklin scandal foster mother killed in 1989 head-on collision

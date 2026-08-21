@@ -21,11 +21,9 @@ Washington socialite, artist, and alleged mistress of President John F. Kennedy,
 
 ## Image Evidence
 
-<img
-  src="/images/2081559456748548485_1.jpg"
-  alt="Mary Pinchot, age 22, Vassar College yearbook photograph, 1942"
-  style={{maxHeight: '45vh', width: 'auto', aspectRatio: '1122/1402'}}
-/>
+<div>
+<img src="/images/2081559456748548485_1.jpg" alt="Mary Pinchot, age 22, Vassar College yearbook photograph, 1942" style="max-height: 45vh; width: auto; aspect-ratio: 1122/1402" />
+</div>
 
 *Mary Pinchot, age 22, Vassar College yearbook, 1942. Source: [@BasedSamParker on X](https://x.com/BasedSamParker/status/2081559456748548485), July 27, 2026.*
 

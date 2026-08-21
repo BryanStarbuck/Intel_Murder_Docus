@@ -233,7 +233,7 @@ At the time of his death, Hastings was a contributing editor at Rolling Stone an
 
 ## See Also
 
-- [Andrew Breitbart](Andrew_Breitbart.md) -- Conservative media figure who died of a heart attack in 2012 at age 43; another journalist whose death raised questions
+- [Andrew Breitbart](/epstein-murders/Details/Andrew_Breitbart) -- Conservative media figure who died of a heart attack in 2012 at age 43; another journalist whose death raised questions
 - [Danny Casolaro](Danny_Casolaro.md) -- Investigative journalist found dead in 1991 while investigating intelligence operations; parallel case of a journalist dying mid-investigation
 
 ## Sources

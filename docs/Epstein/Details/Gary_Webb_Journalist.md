@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Pulitzer Prize-winning investigative journalist who exposed CIA complicity in the crack cocaine epidemic, then was found dead with two gunshot wounds to the head, ruled a suicide.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Gary Webb Journalist](images/Gary_Webb_Journalist-0.jpg)
 

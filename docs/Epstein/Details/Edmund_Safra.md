@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Lebanese-Brazilian billionaire banker who died in an arson fire at his Monaco penthouse while cooperating with the FBI on Russian money laundering investigations through his Republic National Bank.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Edmond Safra](images/Edmund_Safra.jpg)
 

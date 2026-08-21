@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Founder and spiritual leader of Hamas, assassinated by an Israeli helicopter strike in Gaza City in 2004 as he was wheeled out of a mosque after predawn prayers. The strike also killed his two bodyguards and nine bystanders.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ahmed Yassin](images/Ahmed_Yassin.jpg)
 

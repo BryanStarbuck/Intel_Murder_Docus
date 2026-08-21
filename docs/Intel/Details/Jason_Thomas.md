@@ -11,7 +11,7 @@ image: /img/docusaurus-social-card.jpg
 # Jason R. Thomas
 Cancer researcher with active Department of Defense contracts through Novartis, disappeared December 2025 and found dead in frozen Lake Quannapowitt three months later.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Jason Thomas](images/Jason_Thomas.jpg)
 

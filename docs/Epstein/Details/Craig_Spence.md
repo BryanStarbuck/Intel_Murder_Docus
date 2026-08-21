@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 DC lobbyist and former journalist who ran a blackmail operation using male prostitutes, bugged his home to record powerful guests, arranged unauthorized midnight White House tours — then was found dead in a Boston hotel room five months after the scandal broke.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Craig Spence](images/Craig_Spence.jpg)
 

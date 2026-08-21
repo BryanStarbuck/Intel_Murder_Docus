@@ -169,7 +169,7 @@ People connected to Epstein's sex trafficking and blackmail operation keep dying
 
 A self-identified Epstein survivor provides first-person testimony about the occult framework allegedly used to justify the ritual abuse of infants and children. She describes the elite as Satanic and claims they believe they obtain real demonic power by committing acts of evil against children — with infants targeted specifically for "soul hunting" rituals. She describes being hunted physically in mountain settings by traffickers while also believing demons were pursuing her simultaneously. She also states that the open southern border was, according to her account, a deliberate strategic operation to supply more children to MK Ultra programming operations. This testimony is presented as the personal account of a claimed survivor; viewers should evaluate it accordingly.
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmTgkv47kg94emAw1yiKmGTdsj5NFQpFuuXwTicuzFSxay" type="video/mp4" />
   Your browser does not support the video tag. <a href="https://x.com/JOKAQARMY1/status/2041564514613600337?s=20">View on X</a>.
@@ -277,11 +277,11 @@ The Groups directory documents the organizations, intelligence services, financi
 
 The [Locations](locations.md) index maps every death and operation geographically, with detailed breakdowns for each region:
 
-**Major U.S. Hubs:** New York Metro (12+ deaths), South Florida (8+ deaths), Southern California (9+ deaths), Washington DC (4 decades of overlapping blackmail ops), Columbus, Ohio (Wexner's base, CIA airline), New Mexico (Zorro Ranch, never raided)
+**Major U.S. Hubs:** [New York Metro](/epstein-murders/other/more/locations/new_york_metro) (12+ deaths), [South Florida](/epstein-murders/other/more/locations/south_florida) (8+ deaths), [Southern California](/epstein-murders/other/more/locations/southern_california) (9+ deaths), [Washington DC](/epstein-murders/other/more/locations/washington_dc) (4 decades of overlapping blackmail ops), [Columbus, Ohio](/epstein-murders/other/more/locations/columbus_ohio) (Wexner's base, CIA airline), [New Mexico](/epstein-murders/other/more/locations/new_mexico) (Zorro Ranch, never raided)
 
-**Other U.S.:** Arkansas (Middleton, Collins-Smith, sealed records), Omaha (Franklin scandal), New Jersey (Judge Salas attack), Caribbean (Little St. James, government protection), Other U.S.
+**Other U.S.:** [Arkansas](/epstein-murders/other/more/locations/arkansas) (Middleton, Collins-Smith, sealed records), [Omaha](/epstein-murders/other/more/locations/omaha_nebraska) (Franklin scandal), [New Jersey](/epstein-murders/other/more/locations/new_jersey) (Judge Salas attack), [Caribbean](/epstein-murders/other/more/locations/caribbean) (Little St. James, government protection), [Other U.S.](/epstein-murders/other/more/locations/other_us)
 
-**International:** France (Brunel, modeling industry), United Kingdom (Maxwell family, Savile), Other International (Belgium, Ukraine, Oman, Australia, Mexico)
+**International:** [France](/epstein-murders/other/more/locations/france) (Brunel, modeling industry), [United Kingdom](/epstein-murders/other/more/locations/united_kingdom) (Maxwell family, Savile), [Other International](/epstein-murders/other/more/locations/other_international) (Belgium, Ukraine, Oman, Australia, Mexico)
 
 ## Related Projects
 
@@ -297,13 +297,14 @@ The Details/ subdirectory contains:
 - Individual markdown files for every person listed above with full backgrounds, circumstances, suspicion assessments, and source links
 - A file on [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (living, at risk) documenting threats, prison transfers, and cooperation status
 - A file on [B. Stanley Pons](Details/B_Stanley_Pons.md) documenting Epstein's claim to have "killed" his cold fusion career
-- [Location data](locations.md) and the Weiner laptop overview
+- [Location data](locations.md) and the [Weiner laptop overview](/epstein-murders/other/more/laptop)
 - A detailed breakdown of the NYPD Weiner laptop deaths
-- Groups & Organizations — 22 profiles of intelligence services, trafficking operations, financial institutions, elite social clubs, and other connected groups
+- [The Epstein Files](/epstein-murders/other/more/epstein_files) — timeline of the release, suppression, and recovery of the government's Epstein documents
+- Groups & Organizations — 32 profiles of intelligence services, trafficking operations, financial institutions, elite social clubs, and other connected groups, including [Mossad](/epstein-murders/other/groups/mossad), the [CIA](/epstein-murders/other/groups/cia), the [FSB](/epstein-murders/other/groups/fsb), the [Franklin scandal](/epstein-murders/other/groups/franklin_scandal), and the [North Fox Island ring](/epstein-murders/other/groups/north_fox_island)
 - [Locations](locations.md) — 14 geographic profiles covering every region where deaths or operations occurred
-- Books — 35+ nonfiction books investigating Epstein, elite blackmail, intelligence operations, and suppressed energy technology
-- Podcasts — 25+ podcasts covering Epstein investigations, suspicious deaths, and energy suppression
-- YouTube Channels — 20+ YouTube channels and documentary series covering both project scope areas
+- [Books](/epstein-murders/other/more/books) — 35+ nonfiction books investigating Epstein, elite blackmail, intelligence operations, and suppressed energy technology
+- [Podcasts](/epstein-murders/other/more/podcasts) — 25+ podcasts covering Epstein investigations, suspicious deaths, and energy suppression
+- [YouTube Channels](/epstein-murders/other/more/youtube_channels) — 20+ YouTube channels and documentary series covering both project scope areas
 
 ## Data Files
 

@@ -57,10 +57,9 @@ PolitiFact (2019) and Snopes have both evaluated the Coleman claims and rated th
 
 ## Image Evidence
 
-<img
-  src="/images/2042058005819080846_1.jpg"
-  alt="Social media graphic presenting Susan Coleman's case in first-person"
-  style={{maxHeight: '25vh', width: 'auto'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2042058005819080846_1.jpg" alt="Social media graphic presenting Susan Coleman's case in first-person" style="max-height: 25vh; width: auto" loading="lazy" decoding="async" />
+</div>
 
 *Source: [@its_The_Dr (Johnny Midnight) on X](https://x.com/its_The_Dr/status/2042058005819080846), April 9, 2026.*
 

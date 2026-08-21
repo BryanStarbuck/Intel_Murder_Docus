@@ -384,7 +384,7 @@ Comedian, filmmaker, and musician who used boundary-pushing comedy to deliver ex
 
 Trevor Moore was not an investigative journalist. He was something potentially more dangerous to powerful interests: a mainstream comedian with a Comedy Central platform, 100+ million YouTube views, and the ability to deliver explosive conspiracy theories — child trafficking to elites, Epstein's dead man's switch, CIA operations, Hollywood pedophile rings — to audiences who would never read a conspiracy blog. Comedy was the delivery mechanism. It made the content shareable, viral, and deniable all at once.
 
-In October 2020, Moore connected [Jeffrey Epstein](Jeffrey_Epstein.md)'s arrest (July 2019), Epstein's death (August 2019), and the emergence of COVID-19 (November-December 2019) into a single narrative: Epstein had a bioweapon "kill switch" that triggered when he was taken down. Ten months later, Moore was dead at 41 — found on his backyard patio after falling from a second-story balcony at 2:30 a.m. The reported BAC was extremely high (0.21-0.27), and security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure.
+In October 2020, Moore connected [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein)'s arrest (July 2019), Epstein's death (August 2019), and the emergence of COVID-19 (November-December 2019) into a single narrative: Epstein had a bioweapon "kill switch" that triggered when he was taken down. Ten months later, Moore was dead at 41 — found on his backyard patio after falling from a second-story balcony at 2:30 a.m. The reported BAC was extremely high (0.21-0.27), and security camera footage reportedly captured the fall. No official signs of foul play were reported. But the "balcony fall" is a recognized pattern in suspicious deaths connected to elite exposure.
 
 ## Background
 
@@ -405,7 +405,7 @@ Moore's body of work systematically attacked the most powerful institutions and 
 
 ### The Epstein "Kill Switch" / COVID-19 Theory (October 2020)
 
-During a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented a theory: [Jeffrey Epstein](Jeffrey_Epstein.md) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon released if Epstein were ever arrested or killed.
+During a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore presented a theory: [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) had funded scientists to engineer a novel coronavirus as a **"dead man's switch"** — a bioweapon released if Epstein were ever arrested or killed.
 
 **The timeline Moore laid out:**
 - **July 6, 2019:** Epstein arrested on new sex-trafficking charges
@@ -457,7 +457,7 @@ No family members or WKUK co-stars have publicly suggested murder.
 - **Systematic anti-elite content:** Moore's entire career was a sustained assault on elite power — Hollywood child trafficking, CIA operations, secret societies, elite pedophile rings, and calls for revolution. This was a decade-plus body of work reaching millions
 - **The comedy delivery mechanism:** Moore's format was uniquely threatening because it bypassed skepticism filters that protect powerful people. Conspiracy blogs can be dismissed; a Comedy Central comedian cannot be controlled the same way
 - **Mainstream platform:** Unlike fringe content creators, Moore had Comedy Central, IFC, 100+ million YouTube views, and a massive social media following
-- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths: [Isaac Kappy](Isaac_Kappy.md) (fell from bridge, 2019), [Steve Bing](Steve_Bing.md) (fell from 27th floor, 2020), [Ruslana Korshunova](Ruslana_Korshunova.md) (fell from 9th floor, 2008), [Anastasia Drozdova](Anastasia_Drozdova.md) (fell from building, 2009)
+- **Balcony fall pattern:** Moore's death matches the "balcony fall" pattern seen in other suspicious deaths: [Isaac Kappy](Isaac_Kappy.md) (fell from bridge, 2019), [Steve Bing](/epstein-murders/Details/Steve_Bing) (fell from 27th floor, 2020), [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova) (fell from 9th floor, 2008), [Anastasia Drozdova](/epstein-murders/Details/Anastasia_Drozdova) (fell from building, 2009)
 - **Extreme intoxication as potential cover:** A BAC of 0.21-0.27 could indicate someone deliberately incapacitated before being pushed or placed in position to fall. High BAC provides a ready-made explanation that discourages further investigation
 - **Age 41:** Young, healthy, no reported medical conditions
 - **2:30 a.m. timing:** Minimal witnesses, maximum opportunity for covert action
@@ -500,17 +500,17 @@ In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X vi
 
 - [Trevor Moore — Intel Murders Profile](/intelligence-service-murders/Details/Trevor_Moore) — Extended profile with full discography and intelligence connection analysis
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
-- [Steve Bing](Steve_Bing.md) — Fell from 27th floor in Los Angeles (2020)
-- [Ruslana Korshunova](Ruslana_Korshunova.md) — Fell from 9th floor in New York (2008)
-- [Anastasia Drozdova](Anastasia_Drozdova.md) — Died identically to Korshunova one year later (2009)
-- [Chris Cornell](Chris_Cornell.md) — Backed trafficking documentary, hung (2017)
-- [Chester Bennington](Chester_Bennington.md) — Cornell's friend, same method, Cornell's birthday (2017)
+- [Steve Bing](/epstein-murders/Details/Steve_Bing) — Fell from 27th floor in Los Angeles (2020)
+- [Ruslana Korshunova](/epstein-murders/Details/Ruslana_Korshunova) — Fell from 9th floor in New York (2008)
+- [Anastasia Drozdova](/epstein-murders/Details/Anastasia_Drozdova) — Died identically to Korshunova one year later (2009)
+- [Chris Cornell](/epstein-murders/Details/Chris_Cornell) — Backed trafficking documentary, hung (2017)
+- [Chester Bennington](/epstein-murders/Details/Chester_Bennington) — Cornell's friend, same method, Cornell's birthday (2017)
 ## Other Shocking Stories
 
-- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
-- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
-- [John Deroo](John_Deroo.md): Shot six times in the face.
-- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
+- [Mark Salling](/epstein-murders/Details/Mark_Salling): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+- [Matthew Perry](/epstein-murders/Details/Matthew_Perry): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [John Deroo](/epstein-murders/Details/John_Deroo): Shot six times in the face.
+- [Marc Angelucci](/epstein-murders/Details/Marc_Angelucci): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
 
 ## Sources
 

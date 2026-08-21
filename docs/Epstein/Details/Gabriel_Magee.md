@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 JPMorgan Chase Vice President who fell from the roof of the bank's Canary Wharf headquarters in London during a cluster of suspicious banker deaths in early 2014.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Gabriel Magee](images/Gabriel_Magee.jpg)
 

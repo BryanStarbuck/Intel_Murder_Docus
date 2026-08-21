@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 1980s teen idol who was allegedly sexually abused as a child actor in Hollywood; died at 38 of pneumonia complicated by heart disease after decades of substance abuse widely attributed to childhood trauma.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Corey Haim](images/Corey_Haim.jpg)
 

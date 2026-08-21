@@ -8,7 +8,7 @@ image: /img/docusaurus-social-card.jpg
 
 Transgender actress and Hollywood insider who described her early career as being caught in a "tornado of cocaine and pedophilia," was planning a tell-all memoir threatening to expose closeted elites and industry secrets, and died on September 11, 2016 — when all news cycles were consumed by 9/11 memorial coverage.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Alexis Arquette](images/Alexis_Arquette.jpg)
 

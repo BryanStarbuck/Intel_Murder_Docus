@@ -24,7 +24,7 @@ Former Merck pharmaceutical sales representative turned whistleblower who founde
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '70vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 70vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B" type="video/mp4" />
   Your browser does not support the video tag.

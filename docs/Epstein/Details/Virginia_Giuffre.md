@@ -185,9 +185,9 @@ Even accepting that Giuffre was in severe psychological distress, questions rema
 
 ## Image Evidence
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2044876912078491781_1.jpg" alt="Virginia Giuffre's 'not suicidal' declaration" style={{maxHeight: '25vh', width: 'auto', aspectRatio: '980/1146'}} loading="lazy" decoding="async" />
-<img src="/images/2044876912078491781_2.jpg" alt="Virginia Giuffre death ruled suicide" style={{maxHeight: '25vh', width: 'auto', aspectRatio: '1080/1080'}} loading="lazy" decoding="async" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2044876912078491781_1.jpg" alt="Virginia Giuffre's 'not suicidal' declaration" style="max-height: 25vh; width: auto; aspect-ratio: 980/1146" loading="lazy" decoding="async" />
+<img src="/images/2044876912078491781_2.jpg" alt="Virginia Giuffre death ruled suicide" style="max-height: 25vh; width: auto; aspect-ratio: 1080/1080" loading="lazy" decoding="async" />
 </div>
 
 *Virginia Giuffre's "not suicidal" declaration and her death ruled a suicide. Source: [@creepydotorg on X](https://x.com/creepydotorg/status/2044876912078491781), April 16, 2026.*

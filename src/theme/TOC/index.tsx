@@ -301,7 +301,7 @@ const people: Person[] = [
   },
   {
     name: "Chester Bennington",
-    path: "/epstein-murders/",
+    path: "/epstein-murders/Details/Chester_Bennington",
     blurb: "Age 41. Linkin Park frontman. Childhood sex abuse survivor. Found hanged on Chris Cornell's birthday\u2014exactly two months after Cornell died the same way.",
   },
   {

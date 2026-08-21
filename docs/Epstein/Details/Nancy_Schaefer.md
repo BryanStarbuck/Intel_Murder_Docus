@@ -21,7 +21,7 @@ Georgia state senator who published the landmark report exposing CPS as a federa
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmPxPyffC2DiTNLnr2YKQW75VHjCfYWxjHhkPNiiJXmGEp" type="video/mp4" />
   Your browser does not support the video tag.

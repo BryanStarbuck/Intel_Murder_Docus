@@ -26,9 +26,9 @@ title: Clares Cupps
 
 Two photo attachments to the April 24, 2026 post by @TheEmmapreneur (post id 2047769275708895549, ~59,593 impressions) appear to depict screenshots of an Internet Crime Complaint Center (IC3) submission attributed to Madison (Clares) Cupps. Their authenticity has not been independently verified.
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2047769275708895549_1.jpg" alt="Alleged IC3 complaint screenshot 1 attributed to Madison (Clares) Cupps" style={{maxHeight: '60vh', width: 'auto', aspectRatio: '1152/2048'}} />
-<img src="/images/2047769275708895549_2.jpg" alt="Alleged IC3 complaint screenshot 2 attributed to Madison (Clares) Cupps" style={{maxHeight: '60vh', width: 'auto', aspectRatio: '1152/2048'}} />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2047769275708895549_1.jpg" alt="Alleged IC3 complaint screenshot 1 attributed to Madison (Clares) Cupps" style="max-height: 60vh; width: auto; aspect-ratio: 1152/2048" />
+<img src="/images/2047769275708895549_2.jpg" alt="Alleged IC3 complaint screenshot 2 attributed to Madison (Clares) Cupps" style="max-height: 60vh; width: auto; aspect-ratio: 1152/2048" />
 </div>
 
 *Alleged IC3 complaint screenshots circulated by @TheEmmapreneur. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2047769275708895549), 2026-04-24. IPFS CIDs: `QmejMz8bSA1r6GBLDVhao4Q3QKBhTYMK1CUnyyUipQkEuT`, `QmPq8puqYxKsd4DoyTuSjDtKFFcDFqgpEdwAxCJWe8VHF5`. Whether these images depict a genuine IC3 submission, who filed it, when, and whether the IC3 has taken any action have not been independently confirmed in available sources.*
@@ -41,8 +41,8 @@ On **April 23, 2026** — chronologically *after* Madison's reported death date 
 >
 > — attributed to Madison Clares (Cupps), [@TheEmmapreneur post 2047459351992902080](https://x.com/TheEmmapreneur/status/2047459351992902080), 2026-04-23
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2047459351992902080_1.jpg" alt="Image attachment to the 'I'm not suicidal' statement attributed to Madison Clares (Cupps)" style={{maxHeight: '50vh', width: 'auto', aspectRatio: '1170/1199'}} />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2047459351992902080_1.jpg" alt="Image attachment to the 'I'm not suicidal' statement attributed to Madison Clares (Cupps)" style="max-height: 50vh; width: auto; aspect-ratio: 1170/1199" />
 </div>
 
 *Image attachment to the April 23, 2026 "I'm not suicidal" post. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2047459351992902080), 2026-04-23. IPFS CID: `QmaB7tSqxBKsdch5Z9Bw7kRJRTBMtAJKMcZ9FSWuTMtjyL`. The authenticity of the underlying statement (whether Madison made it, when, and in what context) has not been independently verified.*

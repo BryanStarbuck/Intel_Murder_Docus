@@ -391,8 +391,8 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 
 - [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating intelligence blackmail operations; both were targeted for exposing hidden power structures
 - [Aaron Swartz](Aaron_Swartz.md) — Internet activist who built tools to empower transparency; both died before their work reached its widest audience
-- [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who exposed "brownstone operations" and intelligence-run blackmail; both claimed the intelligence community operated a hidden control system
-- [B. Stanley Pons](B_Stanley_Pons.md) — Cold fusion researcher Epstein claimed to have "killed"; both represent cases where breakthrough discoveries were allegedly suppressed
+- [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI SAC who exposed "brownstone operations" and intelligence-run blackmail; both claimed the intelligence community operated a hidden control system
+- [B. Stanley Pons](/epstein-murders/Details/B_Stanley_Pons) — Cold fusion researcher Epstein claimed to have "killed"; both represent cases where breakthrough discoveries were allegedly suppressed
 
 ## Related Groups
 
@@ -401,9 +401,9 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 ## Other Shocking Stories
 
 - [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
-- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
-- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
+- [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Nancy Schaefer](/epstein-murders/Details/Nancy_Schaefer): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Arthur Shapiro](/epstein-murders/Details/Arthur_Shapiro): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
 
 ## Sources
 

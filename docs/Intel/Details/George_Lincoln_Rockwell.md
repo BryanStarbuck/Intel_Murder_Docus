@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Founder of the American Nazi Party and former U.S. presidential candidate, shot from a rooftop in Arlington, Virginia, while the FBI's COINTELPRO program was actively infiltrating and disrupting his organization.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![George Lincoln Rockwell](images/George_Lincoln_Rockwell.jpg)
 

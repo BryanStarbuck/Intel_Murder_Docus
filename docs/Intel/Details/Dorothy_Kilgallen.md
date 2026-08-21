@@ -192,7 +192,7 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 
 Pioneering journalist and television star who was investigating the JFK assassination, secured a private interview with Jack Ruby, told friends she was about to "break the case wide open," and was found dead of a barbiturate overdose with her investigation notes missing.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Dorothy Kilgallen](images/Dorothy_Kilgallen.jpg)
 
@@ -284,11 +284,11 @@ Dorothy Kilgallen's investigation positioned her at the intersection of sexual b
 ## See Also
 
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating the PROMIS/Octopus intelligence scandal, found dead in 1991
-- [Gary Webb](Gary_Webb_Journalist.md) — Journalist who exposed CIA drug trafficking, found dead with two gunshot wounds in 2004
+- [Gary Webb](/epstein-murders/Details/Gary_Webb_Journalist) — Journalist who exposed CIA drug trafficking, found dead with two gunshot wounds in 2004
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating child trafficking, found dead in 2018
-- [Jeffrey Epstein](Jeffrey_Epstein.md) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn
-- [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent who investigated elite pedophile rings and described intelligence "brownstone operations"
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking who was found shot dead alongside her husband
+- [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn
+- [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI Special Agent who investigated elite pedophile rings and described intelligence "brownstone operations"
+- [Nancy Schaefer](/epstein-murders/Details/Nancy_Schaefer) — Georgia state senator investigating child trafficking who was found shot dead alongside her husband
 - **Intelligence investigation profile:** [Dorothy Kilgallen](/intelligence-service-murders/Details/Dorothy_Kilgallen) — documents her JFK assassination investigation and CIA/FBI surveillance in detail
 
 ## Sources

@@ -20,7 +20,7 @@ Former wife of Prince Charles, mother of William and Harry, global humanitarian 
 
 ## Video Evidence — Former MI5 Agent on Why Diana Was Killed
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmXNAhyAVsJGGgkbDuPbYBrZeS8J8bkayS37zo1XbLFeR1" type="video/mp4" />
   Your browser does not support the video tag.
@@ -309,9 +309,9 @@ Mohamed Al-Fayed later claimed that Diana and Dodi were engaged and that Diana w
 
 ### Connection to Prince Andrew and the Epstein Network
 
-Diana's connection to the broader Epstein network is through the British Royal family. Her former brother-in-law, [Prince Andrew](Prince_Andrew.md), maintained a close and well-documented relationship with [Jeffrey Epstein](Jeffrey_Epstein.md) that continued even after Epstein's 2008 conviction for sex offenses. Andrew was stripped of his royal titles in January 2022 and was arrested in February 2026 on suspicion of misconduct in public office related to the Epstein files, according to Thames Valley Police. He was released under investigation and has not been charged.
+Diana's connection to the broader Epstein network is through the British Royal family. Her former brother-in-law, [Prince Andrew](/epstein-murders/Details/Prince_Andrew), maintained a close and well-documented relationship with [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) that continued even after Epstein's 2008 conviction for sex offenses. Andrew was stripped of his royal titles in January 2022 and was arrested in February 2026 on suspicion of misconduct in public office related to the Epstein files, according to Thames Valley Police. He was released under investigation and has not been charged.
 
-Diana was also connected through the Maxwell family. [Robert Maxwell](Robert_Maxwell.md), the father of [Ghislaine Maxwell](Ghislaine_Maxwell.md) (Epstein's convicted co-conspirator), was a prominent media mogul who moved in the same circles as the British Royal family. [Robert Maxwell](Robert_Maxwell.md) died in 1991 under disputed circumstances, six years before Diana. [Ghislaine Maxwell](Ghislaine_Maxwell.md) reportedly attended social events in London that overlapped with Royal circles.
+Diana was also connected through the Maxwell family. [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell), the father of [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) (Epstein's convicted co-conspirator), was a prominent media mogul who moved in the same circles as the British Royal family. [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) died in 1991 under disputed circumstances, six years before Diana. [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) reportedly attended social events in London that overlapped with Royal circles.
 
 The broader pattern is one of elite British institutions — the monarchy, intelligence services, and establishment media — allegedly suppressing information that could damage powerful interests. Diana's case fits within this pattern: a woman who possessed damaging knowledge about elite figures, who publicly challenged powerful institutions, and who died under disputed circumstances.
 
@@ -388,20 +388,20 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 
 ## See Also
 
-- [Prince Andrew](Prince_Andrew.md) — Diana's former brother-in-law, arrested on suspicion of misconduct in public office in 2026; not charged
-- [Robert Maxwell](Robert_Maxwell.md) — Media mogul and alleged intelligence agent; father of Ghislaine Maxwell; moved in same elite British circles
-- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted Epstein co-conspirator; socialite in London circles that overlapped with royalty
-- [Virginia Giuffre](Virginia_Giuffre.md) — Top Epstein accuser who alleged trafficking to [Prince Andrew](Prince_Andrew.md)
-- [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject of this project; connected to British Royal family through Prince Andrew
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "[DC Madam](/epstein-murders/other/groups/dc_madam)" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
+- [Prince Andrew](/epstein-murders/Details/Prince_Andrew) — Diana's former brother-in-law, arrested on suspicion of misconduct in public office in 2026; not charged
+- [Robert Maxwell](/epstein-murders/Details/Robert_Maxwell) — Media mogul and alleged intelligence agent; father of Ghislaine Maxwell; moved in same elite British circles
+- [Ghislaine Maxwell](/epstein-murders/Details/Ghislaine_Maxwell) — Convicted Epstein co-conspirator; socialite in London circles that overlapped with royalty
+- [Virginia Giuffre](/epstein-murders/Details/Virginia_Giuffre) — Top Epstein accuser who alleged trafficking to [Prince Andrew](/epstein-murders/Details/Prince_Andrew)
+- [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Primary subject of this project; connected to British Royal family through Prince Andrew
+- [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — The "[DC Madam](/epstein-murders/other/groups/dc_madam)" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
 - [Mossad](/epstein-murders/other/groups/mossad) — Intelligence service allegedly involved in elite blackmail operations; Robert Maxwell connection
 - [MI5/MI6](/epstein-murders/other/groups/cia) — British intelligence services accused of involvement in Diana's death
 ## Other Shocking Stories
 
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
-- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
-- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Mona Juul](/epstein-murders/Details/Mona_Juul): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
+- [Peaches Geldof](/epstein-murders/Details/Peaches_Geldof): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [Kevin Preiss](/epstein-murders/Details/Kevin_Preiss): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
 - [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back. Nothing stolen. Walking home at night in DC. Case still unsolved.
 
 ## Sources

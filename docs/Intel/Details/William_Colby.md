@@ -202,14 +202,14 @@ Colby's cooperation with Congress was deeply resented within the intelligence co
 
 After leaving government, Colby reportedly maintained knowledge of how CIA sexual blackmail operations evolved beyond MKUltra and Midnight Climax. Whitney Webb's *One Nation Under Blackmail* documents how these CIA-run sexual entrapment programs -- using prostitutes, drugs, and hidden cameras to compromise targets -- were direct precursors to the sexual blackmail operation later attributed to Jeffrey Epstein and his intelligence connections.
 
-Colby was also reportedly advising the Nebraska Legislature's investigation into the Franklin child abuse scandal, which involved allegations that prominent political and business figures ran a child sex trafficking ring in Omaha. He had connections to investigator [Gary Caradori](Gary_Caradori.md), whose plane disintegrated mid-air in 1990 while he was returning with photographic evidence in the Franklin case.
+Colby was also reportedly advising the Nebraska Legislature's investigation into the Franklin child abuse scandal, which involved allegations that prominent political and business figures ran a child sex trafficking ring in Omaha. He had connections to investigator [Gary Caradori](/epstein-murders/Details/Gary_Caradori), whose plane disintegrated mid-air in 1990 while he was returning with photographic evidence in the Franklin case.
 
 ## Why This Death Possibly Raises Questions
 
 - Colby left dinner cooking on the stove, his computer running, and the lights on -- details his wife Sally Shelton-Colby and biographer Randall Woods stated were inconsistent with a planned canoe outing, according to The Huffington Post and other reporting.
 - Colby was an experienced outdoorsman and former OSS operative who had survived behind enemy lines in World War II; going canoeing alone at night in cold water without a life jacket struck those who knew him as uncharacteristic.
 - He had been speaking about CIA sexual blackmail operations and domestic intelligence abuses -- knowledge that connected directly to programs that preceded the Epstein operation.
-- He was advising the Franklin scandal investigation, in which investigator [Gary Caradori](Gary_Caradori.md) had already died under suspicious circumstances.
+- He was advising the Franklin scandal investigation, in which investigator [Gary Caradori](/epstein-murders/Details/Gary_Caradori) had already died under suspicious circumstances.
 - His body was not recovered for nine days, making forensic analysis more difficult.
 - The intelligence community had reason to view Colby as a threat: he had already exposed the Family Jewels and MKUltra, and continued to speak about classified programs after leaving government.
 
@@ -237,13 +237,13 @@ Colby was also reportedly advising the Nebraska Legislature's investigation into
 
 ## See Also
 
-- [Gary Caradori](Gary_Caradori.md) -- Investigator in the Franklin scandal whose plane disintegrated mid-air in 1990; Colby was reportedly advising the same investigation
-- [Craig Spence](Craig_Spence.md) -- Washington lobbyist connected to the Franklin network who was found dead in a hotel room in 1989
-- [Jeffrey Epstein](Jeffrey_Epstein.md) -- Ran the sexual blackmail operation that CIA programs like Midnight Climax prefigured
-- [Ted Gunderson](Ted_Gunderson.md) -- Former FBI Special Agent in Charge who investigated the Franklin scandal and described "brownstone operations" -- intelligence-run sexual blackmail using minors
+- [Gary Caradori](/epstein-murders/Details/Gary_Caradori) -- Investigator in the Franklin scandal whose plane disintegrated mid-air in 1990; Colby was reportedly advising the same investigation
+- [Craig Spence](/epstein-murders/Details/Craig_Spence) -- Washington lobbyist connected to the Franklin network who was found dead in a hotel room in 1989
+- [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) -- Ran the sexual blackmail operation that CIA programs like Midnight Climax prefigured
+- [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) -- Former FBI Special Agent in Charge who investigated the Franklin scandal and described "brownstone operations" -- intelligence-run sexual blackmail using minors
 - [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating intelligence blackmail operations; found dead in 1991
-- [Nancy Schaefer](Nancy_Schaefer.md) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
-- [Troy Boner](Troy_Boner.md) -- Franklin scandal witness who later recanted under alleged pressure; found dead
+- [Nancy Schaefer](/epstein-murders/Details/Nancy_Schaefer) -- Georgia state senator investigating child trafficking, found shot dead alongside her husband
+- [Troy Boner](/epstein-murders/Details/Troy_Boner) -- Franklin scandal witness who later recanted under alleged pressure; found dead
 - **Intelligence investigation profile:** [William Colby](/intelligence-service-murders/Details/William_Colby) — documents his CIA career, Church Committee cooperation, and suspicious drowning death in detail
 
 ## Sources

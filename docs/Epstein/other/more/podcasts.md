@@ -82,7 +82,7 @@ These individuals are not podcast hosts but are essential guests appearing acros
 
 - **Books**: See the full [Books](books.md) list for the written works by many of these podcast hosts and guests
 - **YouTube Channels**: Many of these podcasts also publish video on YouTube — see [YouTube Channels](youtube_channels.md)
-- **Groups**: Podcasts frequently discuss organizations documented in the [Groups](/epstein-murders/other/groups/) directory
+- **Groups**: Podcasts frequently discuss organizations documented in the [Groups](/epstein-murders/#detailed-research) directory
 - **People**: Podcast episodes reference many individuals with profiles in [Details/](/epstein-murders/)
 
 ---

@@ -91,6 +91,7 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning)
 - [John Connolly](John_Connolly.md) — January 2022 (natural causes)
 - [Steve Bing](Steve_Bing.md) — Also a Clinton associate, fell from building
+- [Arkansas](/epstein-murders/other/more/locations/arkansas) — Location profile for Perryville and the Arkansas Clinton network, where Middleton was found and where his death records were sealed
 
 - [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac story; found dead of gunshot in 2021
 - [Ashley Haynes](Ashley_Haynes.md) — Found drowned in Arkansas River with concrete block tied to ankle by extension cord, four months before Middleton

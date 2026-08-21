@@ -30,10 +30,9 @@ According to family members and fellow Oklahoma City Police Department officers 
 
 ## Image Evidence
 
-<img
-  src="/images/2052787394953531590_1.jpg"
-  alt="Terrance Yeakey memorial image"
-  style={{maxHeight: '25vh', width: 'auto', aspectRatio: '680/560'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2052787394953531590_1.jpg" alt="Terrance Yeakey memorial image" style="max-height: 25vh; width: auto; aspect-ratio: 680/560" loading="lazy" decoding="async" />
+</div>
 
 *Memorial image of Officer Terrance Yeakey shared on the 30th anniversary of his death. Source: [@JasonBassler1 on X](https://x.com/JasonBassler1/status/2052787394953531590), May 8, 2026.*
 

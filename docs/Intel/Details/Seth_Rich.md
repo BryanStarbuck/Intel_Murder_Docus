@@ -86,9 +86,9 @@ These claims are reported here for completeness because they continue to circula
 
 #### Image Evidence (Q Drops Cited)
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2044796533741142440_1.png" alt="Q drop screenshot referenced by Paul Furber" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '464/304'}} loading="lazy" decoding="async" />
-<img src="/images/2044796533741142440_2.png" alt="Q drop screenshot referenced by Paul Furber" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '456/829'}} loading="lazy" decoding="async" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2044796533741142440_1.png" alt="Q drop screenshot referenced by Paul Furber" style="max-height: 40vh; width: auto; aspect-ratio: 464/304" loading="lazy" decoding="async" />
+<img src="/images/2044796533741142440_2.png" alt="Q drop screenshot referenced by Paul Furber" style="max-height: 40vh; width: auto; aspect-ratio: 456/829" loading="lazy" decoding="async" />
 </div>
 
 *Screenshots of the anonymous "Q drops" cited by Paul Furber as the basis for the MS-13 hitman theory. Source: [@paul_furber on X](https://x.com/paul_furber/status/2044796533741142440), April 16, 2026. The screenshots' authorship is anonymous and their substantive claims are unverified.*
@@ -219,11 +219,11 @@ At the DNC, Rich served as the Voter Expansion Data Director, a position focused
 
 ### Epstein Connection — Tangential at Best
 
-Seth Rich has no known direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
+Seth Rich has no known direct connection to [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
 
-- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](Bill_Richardson.md), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
+- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](/epstein-murders/Details/Bill_Richardson), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
 - **Washington, DC pattern:** Rich's death fits the broader pattern documented in this project of political operatives, whistleblowers, and investigators dying in the Washington, DC area. The DC area has been the site of multiple overlapping blackmail and trafficking operations spanning decades — Craig Spence's operation, the Henry Vinson Escort Service, the DC Madam, and others.
-- **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.md) and [Mark Middleton](Mark_Middleton.md). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
+- **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.md) and [Mark Middleton](/epstein-murders/Details/Mark_Middleton). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
 - **WikiLeaks/political information:** The conspiracy theory that Rich leaked DNC emails to WikiLeaks places him in a narrative about political information and cover-ups, but this theory has been contradicted by the Mueller investigation and intelligence community findings.
 
 **To be clear:** Including Seth Rich in this project does not assert that his death was connected to the Epstein network. It is included because his unsolved murder in Washington, DC occurred during a period of intense political activity involving figures who do appear in the Epstein case, and because his case illustrates the broader pattern of suspicious deaths in the DC political ecosystem.
@@ -350,20 +350,20 @@ Important context often omitted from conspiracy narratives:
 ## See Also
 
 - [Vince Foster](Vince_Foster.md) — Clinton deputy counsel whose death in 1993 became the template for "Clinton body count" theories; Epstein emails reference a Clinton-Foster affair
-- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016; another politically adjacent death during the same period
+- [Monica Petersen](/epstein-murders/Details/Monica_Petersen) — Trafficking researcher who died in Haiti in 2016; another politically adjacent death during the same period
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks found shot dead in 2020; another government-connected figure whose death was ruled self-inflicted under disputed circumstances
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel in 2018
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "DC Madam" who said she would never kill herself; found hanged in 2007
-- [John Ashe](John_Ashe.md) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
-- [Mark Middleton](Mark_Middleton.md) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
-- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
+- [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — The "DC Madam" who said she would never kill herself; found hanged in 2007
+- [John Ashe](/epstein-murders/Details/John_Ashe) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
+- [Mark Middleton](/epstein-murders/Details/Mark_Middleton) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
+- [Christopher Sign](/epstein-murders/Details/Christopher_Sign) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
 - **Intelligence investigation profile:** [Seth Rich](/intelligence-service-murders/Details/Seth_Rich) — documents the intelligence dimensions of his murder
 
 ## Other Shocking Stories
 
-- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Anastasia Drozdova](/epstein-murders/Details/Anastasia_Drozdova): Her friend Korshunova fell from a building.
 - [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
-- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Wendy Leigh](/epstein-murders/Details/Wendy_Leigh): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
 - [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources

@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 BBC journalist and Crimewatch presenter who was shot dead execution-style outside her London home in 1999; she had reportedly compiled a dossier on a pedophile ring operating within the BBC and handed it to senior management, who took no action.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Jill Dando](images/Jill_Dando.jpg)
 

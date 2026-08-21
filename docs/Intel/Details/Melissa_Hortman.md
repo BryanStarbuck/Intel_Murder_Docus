@@ -21,10 +21,9 @@ Minnesota House DFL leader and former Speaker, assassinated in her home alongsid
 
 ## Image Evidence
 
-<img
-  src="/images/2045910648542880016_1.jpg"
-  alt="Vance Luther Boelter, the man charged with assassinating Melissa Hortman"
-  style={{maxHeight: '25vh', width: 'auto', aspectRatio: '1070/1079'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2045910648542880016_1.jpg" alt="Vance Luther Boelter, the man charged with assassinating Melissa Hortman" style="max-height: 25vh; width: auto; aspect-ratio: 1070/1079" loading="lazy" decoding="async" />
+</div>
 
 *Vance Luther Boelter, charged with the assassination of Melissa Hortman and her husband Mark. Source: [@BraedenSorbo on X](https://x.com/BraedenSorbo/status/2045910648542880016), April 19, 2026.*
 

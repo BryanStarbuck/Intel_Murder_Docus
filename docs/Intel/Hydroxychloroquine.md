@@ -13,10 +13,9 @@ Hydroxychloroquine (HCQ) is an inexpensive antimalarial drug that has been on th
 
 ## Image Evidence
 
-<img
-  src="/images/2050723603319030010_1.jpg"
-  alt="Barry and Honey Sherman, founders of Apotex"
-  style={{maxHeight: '50vh', width: 'auto', aspectRatio: '603/641'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2050723603319030010_1.jpg" alt="Barry and Honey Sherman, founders of Apotex" style="max-height: 50vh; width: auto; aspect-ratio: 603/641" loading="lazy" decoding="async" />
+</div>
 
 *A May 2, 2026 social-media post by [@LightOnLiberty on X](https://x.com/LightOnLiberty/status/2050723603319030010) connected the unsolved 2017 murders of Apotex founders Barry and Honey Sherman to the subsequent demonization of hydroxychloroquine during COVID-19. The connection is unverified and is documented here as a circulating claim.*
 

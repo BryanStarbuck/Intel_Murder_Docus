@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Conservative media founder died of heart attack in 2012, weeks before releasing exposing videos; linked to Clinton/Weiner circles.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Andrew Breitbart](images/Andrew_Breitbart.jpg)
 

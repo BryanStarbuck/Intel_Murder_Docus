@@ -20,7 +20,7 @@ CyberSlice was a 1996 online pizza-ordering pioneer (renamed Cybermeals, later F
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   Your browser does not support the video tag.

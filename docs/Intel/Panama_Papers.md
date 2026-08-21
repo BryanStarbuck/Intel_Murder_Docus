@@ -13,7 +13,7 @@ The largest financial data leak in history exposed how the world's wealthiest in
 
 ## Video: Panama Papers — What Happened and Who Was Killed
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmQTYvMVvFYYaHSYKxGpMKRgW98tyx1yCn6zDZrj2veeeN" type="video/mp4" />
   Your browser does not support the video tag.

@@ -26,10 +26,9 @@ MakerDAO co-founder and 29-year-old crypto millionaire who tweeted that "CIA and
 
 ## Image Evidence
 
-<img
-  src="/images/2053443730674180325_2.jpg"
-  alt="Daily Mail headline: 'Paranoid' crypto millionaire drowns in Puerto Rico after tweeting that CIA and Mossad were after him — with Mushegian's photo and his final tweet"
-  style={{maxHeight: '60vh', width: 'auto', aspectRatio: '1320/1494'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2053443730674180325_2.jpg" alt="Daily Mail headline: 'Paranoid' crypto millionaire drowns in Puerto Rico after tweeting that CIA and Mossad were after him — with Mushegian's photo and his final tweet" style="max-height: 60vh; width: auto; aspect-ratio: 1320/1494" loading="lazy" decoding="async" />
+</div>
 
 *Daily Mail headline reporting Mushegian's drowning hours after his final tweet warning that "CIA and Mossad and pedo elite" planned to kill him. Source: [@DissidentMedia on X](https://x.com/DissidentMedia/status/2053443730674180325), May 2026.*
 

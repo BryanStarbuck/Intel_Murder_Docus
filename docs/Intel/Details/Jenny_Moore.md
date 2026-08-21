@@ -132,7 +132,7 @@ Jenny Moore's connection to the Epstein case is through her investigation of eli
 - She reportedly interviewed a 26-year-old man who claimed he had been "pimped out" to private events held by "elites" in D.C. as a youth
 - She filed reports with both the FBI (around July 2018) and the Department of Homeland Security (July 6–9, 2018) about these allegations
 - Her death came weeks after these filings and during the same period that trafficking-related investigations were intensifying
-- Her work parallels the broader pattern of independent investigators and journalists dying while researching elite abuse networks: [Isaac Kappy](Isaac_Kappy.md) (2019), [Tracy Twyman](Tracy_Twyman.md) (2019), [Max Spiers](Max_Spiers.md) (2016)
+- Her work parallels the broader pattern of independent investigators and journalists dying while researching elite abuse networks: [Isaac Kappy](Isaac_Kappy.md) (2019), [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman) (2019), [Max Spiers](Max_Spiers.md) (2016)
 
 ## Circumstances of Death
 
@@ -181,19 +181,19 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 ## See Also
 
 - [Isaac Kappy](Isaac_Kappy.md)
-- [Tracy Twyman](Tracy_Twyman.md)
+- [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman)
 - [Max Spiers](Max_Spiers.md)
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot dead alongside her husband
+- [Nancy Schaefer](/epstein-murders/Details/Nancy_Schaefer) — Georgia state senator investigating child trafficking, found shot dead alongside her husband
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks found shot dead; suicide ruling disputed by family
 - **Intelligence investigation profile:** [Jenny Moore](/intelligence-service-murders/Details/Jenny_Moore) — documents her death from the intelligence operations perspective
 
 ## Other Shocking Stories
 
 - [Trevor Moore](Trevor_Moore.md): Delivered Epstein theories to millions on Comedy Central. Fell from his balcony at 2:30 a.m. BAC 0.27.
-- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
-- [Karen Mulder](Karen_Mulder.md): Named those she accused of trafficking her on French national television. The footage was destroyed.
-- [Alexis Arquette](Alexis_Arquette.md): Transgender actress planning a Hollywood tell-all memoir. Publicly accused powerful figures. Died before publishing.
+- [Gary Caradori](/epstein-murders/Details/Gary_Caradori): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Karen Mulder](/epstein-murders/Details/Karen_Mulder): Named those she accused of trafficking her on French national television. The footage was destroyed.
+- [Alexis Arquette](/epstein-murders/Details/Alexis_Arquette): Transgender actress planning a Hollywood tell-all memoir. Publicly accused powerful figures. Died before publishing.
 
 ## Sources
 

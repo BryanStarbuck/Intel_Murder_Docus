@@ -140,6 +140,7 @@ On November 21, 2006, two days before his death, Litvinenko dictated a statement
 
 ## See Also
 
+- [Federal Security Service (FSB)](/epstein-murders/other/groups/fsb) — Group profile of the Russian service implicated in this case
 - [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch and Litvinenko's patron, who funded his exile and investigations; found dead in his Berkshire home in 2013
 - [Sergei Skripal](Sergei_Skripal.md) — Former GRU double agent poisoned with Novichok nerve agent in Salisbury in 2018, another Russian state assassination attempt on British soil
 - [Alexei Navalny](Alexei_Navalny.md) — Russian opposition leader poisoned with Novichok in 2020, survived, then died in an Arctic penal colony in 2024

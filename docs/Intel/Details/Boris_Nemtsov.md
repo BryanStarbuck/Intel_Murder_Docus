@@ -119,6 +119,7 @@ A makeshift memorial was erected on the bridge where Nemtsov was killed. Russian
 
 ## See Also
 
+- [Federal Security Service (FSB)](/epstein-murders/other/groups/fsb) — Group profile of the Russian service implicated in this case
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB officer poisoned with polonium-210 in London, 2006; British inquiry concluded killing was "probably approved" by Putin
 - [Alexei Navalny](Alexei_Navalny.md) — Opposition leader poisoned with Novichok, survived, imprisoned, died in Arctic penal colony in 2024
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Journalist murdered in Moscow on Putin's birthday, 2006; investigated Chechen war crimes

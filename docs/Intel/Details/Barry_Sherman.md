@@ -26,10 +26,9 @@ Canadian billionaire founder of generic-drug giant Apotex, found dead alongside 
 
 ## Image Evidence
 
-<img
-  src="/images/2050723603319030010_1.jpg"
-  alt="Barry and Honey Sherman, founders of Apotex"
-  style={{maxHeight: '50vh', width: 'auto', aspectRatio: '603/641'}} loading="lazy" decoding="async" />
+<div>
+<img src="/images/2050723603319030010_1.jpg" alt="Barry and Honey Sherman, founders of Apotex" style="max-height: 50vh; width: auto; aspect-ratio: 603/641" loading="lazy" decoding="async" />
+</div>
 
 *Image of Barry and Honey Sherman, accompanying a social-media post raising questions about the timing of their unsolved 2017 murders relative to the COVID-19 pandemic and the demonization of hydroxychloroquine. Source: [@LightOnLiberty on X](https://x.com/LightOnLiberty/status/2050723603319030010), May 2, 2026.*
 

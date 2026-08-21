@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her Buenos Aires apartment at age 33, one day after [Kate Spade](Kate_Spade.md) and two days before [Anthony Bourdain](Anthony_Bourdain.md) — her father had served Argentina's military junta during the Dirty War, during which the regime systematically disappeared tens of thousands of civilians and oversaw a state-run baby-trafficking operation that stole an estimated 500 children.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Ines Zorreguieta](images/Ines_Zorreguieta.jpg)
 

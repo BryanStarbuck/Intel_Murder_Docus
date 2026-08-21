@@ -17,7 +17,7 @@ Verified cofounder of CyberSlice (1996 online pizza ordering pioneer). Subject o
 
 ## Video Evidence
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmVaCP5zb5moZ4iQsLzA13wyvFys4ULKKtYCvg7zLmELDk" type="video/mp4" />
   Your browser does not support the video tag.
@@ -27,7 +27,7 @@ Verified cofounder of CyberSlice (1996 online pizza ordering pioneer). Subject o
 
 ### Earlier video — April 24, 2026
 
-<video controls style={{maxWidth: '50vw', maxHeight: '50vh', display: 'block', margin: '1rem auto'}}>
+<video controls style="max-width: 50vw; max-height: 50vh; display: block; margin: 1rem auto">
   <source src="https://ipfs.io/ipfs/QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL" type="video/mp4" />
   <source src="https://dweb.link/ipfs/QmT8F9rWjMJcBZmaCSkKZLheUSXLCUTrs54cPkUun5RiUL" type="video/mp4" />
   Your browser does not support the video tag.
@@ -87,11 +87,11 @@ On April 28, 2026, the same account (@TheEmmapreneur) published a longer stateme
 
 The April 28, 2026 post had four image attachments. They are preserved below.
 
-<div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
-<img src="/images/2049133495377670615_1.jpg" alt="Attachment 1 to the April 28, 2026 post attributed to Madison Cupps" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '1143/1854'}} />
-<img src="/images/2049133495377670615_2.jpg" alt="Attachment 2 to the April 28, 2026 post attributed to Madison Cupps" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '1154/985'}} />
-<img src="/images/2049133495377670615_3.jpg" alt="Attachment 3 to the April 28, 2026 post attributed to Madison Cupps" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '824/1246'}} />
-<img src="/images/2049133495377670615_4.jpg" alt="Attachment 4 to the April 28, 2026 post attributed to Madison Cupps" style={{maxHeight: '40vh', width: 'auto', aspectRatio: '828/1593'}} />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem">
+<img src="/images/2049133495377670615_1.jpg" alt="Attachment 1 to the April 28, 2026 post attributed to Madison Cupps" style="max-height: 40vh; width: auto; aspect-ratio: 1143/1854" />
+<img src="/images/2049133495377670615_2.jpg" alt="Attachment 2 to the April 28, 2026 post attributed to Madison Cupps" style="max-height: 40vh; width: auto; aspect-ratio: 1154/985" />
+<img src="/images/2049133495377670615_3.jpg" alt="Attachment 3 to the April 28, 2026 post attributed to Madison Cupps" style="max-height: 40vh; width: auto; aspect-ratio: 824/1246" />
+<img src="/images/2049133495377670615_4.jpg" alt="Attachment 4 to the April 28, 2026 post attributed to Madison Cupps" style="max-height: 40vh; width: auto; aspect-ratio: 828/1593" />
 </div>
 
 *Four photo attachments from the original April 28, 2026 post. Source: [@TheEmmapreneur on X](https://x.com/TheEmmapreneur/status/2049133495377670615), 2026-04-28. IPFS CIDs: image 1 — `QmPKbs22bn54iioh9yfzgDtjsaK3jonvy5yr7fC8zoxPNW`; image 2 — `QmWnykeKJTYKUFLnbhDeozZpZP2ZWWrmSnnsiPqdxnhWYC`; image 3 — `QmNdDQ7DCc7i7MVuZgbh6tEhFaSy487KZ1hdLhgwY4accA`; image 4 — `QmbraNMJB6WcRUBCFkT9RF3Q4pEezPBHip4rujtZM8pJ6c`.*

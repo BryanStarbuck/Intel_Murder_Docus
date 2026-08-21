@@ -7,7 +7,7 @@ image: /img/docusaurus-social-card.jpg
 ---
 DHS founding member and terrorism analyst turned whistleblower who was found dead of a single gunshot wound in 2020. His death was ruled a suicide two years later, but family members and colleagues have publicly disputed the finding.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Philip Haney](images/Philip_Haney.jpg)
 
@@ -133,7 +133,7 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 
 DHS whistleblower on trafficking networks found shot dead near his car; family seriously doubts the suicide ruling.
 
-<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 18%">
 
 ![Philip Haney](images/Philip_Haney.jpg)
 
@@ -201,9 +201,9 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 
 - [Seth Rich](Seth_Rich.md) — DNC staffer shot dead in DC; another politically connected death with disputed circumstances
 - [Vince Foster](Vince_Foster.md) — Clinton deputy counsel found dead; another government figure whose suicide ruling is disputed
-- [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
+- [Monica Petersen](/epstein-murders/Details/Monica_Petersen) — Trafficking researcher who died in Haiti in 2016
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking found dead in a DC hotel
-- [Christopher Sign](Christopher_Sign.md) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
+- [Christopher Sign](/epstein-murders/Details/Christopher_Sign) — Reporter who broke the Clinton-Lynch tarmac meeting story, found dead in 2021
 - **Intelligence investigation profile:** [Philip Haney](/intelligence-service-murders/Details/Philip_Haney) — documents his whistleblowing and death from the intelligence operations perspective
 
 ## Related Groups
@@ -215,10 +215,10 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 - Other U.S. Locations — Found shot dead near Plymouth, California, in a park-and-ride lot along State Highway 16
 ## Other Shocking Stories
 
-- [Daniel Anderl](Daniel_Anderl.md): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
-- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
-- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
-- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
+- [Daniel Anderl](/epstein-murders/Details/Daniel_Anderl): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
+- [Johnny Rios](/epstein-murders/Details/Johnny_Rios): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Denise George](/epstein-murders/Details/Denise_George): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
 
 ## Sources
 
