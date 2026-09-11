@@ -273,3 +273,12 @@ images:
   bytes: 1125445
   on_pages: []
   withheld: true
+- filename: 2097122275279454284_1.jpg
+  post_id: '2097122275279454284'
+  source_url: https://x.com/LCDS_2/status/2097122275279454284
+  source_author: '@LCDS_2'
+  investigation: Epstein
+  bytes: 369469
+  on_pages:
+  - docs/Epstein/Details/Manuel_Schadwald.mdx
+  withheld: false

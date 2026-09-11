@@ -39,7 +39,7 @@ The extraordinary number of witness deaths parallels (and exceeds) the Epstein-c
 * **Fabienne Jaupart** — Tagliaferro's wife, determined to find his killer; **found dead, mattress set on fire**
 * **Jose Steppe** — Died **two days before** he was supposed to testify to a journalist and gendarmerie
 * **Anna Konjevoda** — Found dead in the Maas river; body showed signs of **beatings and strangulation**
-* **Gina Pardaens** — Social worker for child pornography victims; died in a **traffic accident after receiving death threats**
+* **[Gina Pardaens](../../Details/Gina_Pardaens.md)** — Social worker for child pornography victims; assigned to the [Manuel Schadwald](../../Details/Manuel_Schadwald.mdx) file in the parallel [Zandvoort Network (Netherlands)](zandvoort_netherlands.md) case; died in a **traffic accident after receiving death threats**
 * **Hubert Massa** — Public prosecutor; committed suicide July 1999
 * Belgian authorities officially deny the deaths were connected
 * Documentary *Marc Dutroux and the Dead Witnesses* (2001/2004, directed by Piet Eekman) documented **27 suspicious deaths**

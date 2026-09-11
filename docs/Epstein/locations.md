@@ -33,6 +33,7 @@ Geographic index of deaths, operations, and cover-ups connected to the Epstein n
 
 - **France** — [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) found hanged in Paris prison (cameras failed, mirroring Epstein's death); Elite Model Management HQ where [Karen Mulder](Details/Karen_Mulder.md) was silenced after naming abusers on TV; Epstein wrote "i killed pons" about a scientist hiding in southern France for 30 years
 - **United Kingdom** — [Robert Maxwell](Details/Robert_Maxwell.md)'s empire base; Jimmy Savile abused 450+ victims while protected by BBC and NHS; [William Broeksmit](Details/William_Broeksmit.md) hanged in Kensington (his son later died too); Prince Andrew settled for £12M
+- **Netherlands** — Zandvoort, Amsterdam and Rotterdam: the [Zandvoort Network](/epstein-murders/other/groups/zandvoort_netherlands) child abuse material case exposed in 1998; [Manuel Schadwald](Details/Manuel_Schadwald.mdx), a 12-year-old Berlin boy missing since 1993, was allegedly trafficked into Dutch brothels; the man named as the source of the first CD-ROM was shot dead in Italy weeks before it became public
 - **Other International** — Belgium's Dutroux affair had **27 witness deaths**; [Anastasia Drozdova](Details/Anastasia_Drozdova.md) died identically to her friend Korshunova one year later in Kyiv; [Virginia Giuffre](Details/Virginia_Giuffre.md) moved to Australia for safety but died there; [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) was dragged away by Mexican police on camera and never seen again
 
 ---

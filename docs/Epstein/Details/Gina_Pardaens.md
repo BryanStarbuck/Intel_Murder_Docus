@@ -80,13 +80,14 @@ Pardaens made copies of CDs containing Zandvoort network material and sent them 
 
 ## See Also
 
+- [Manuel Schadwald](Manuel_Schadwald.mdx) -- the missing Berlin boy whose file Pardaens was assigned in July 1998, four months before she died. His disappearance is what led her into the Zandvoort material.
 - [Jill Dando](Jill_Dando.md) -- BBC journalist investigating elite pedophile networks who was shot dead on her doorstep in 1999. Both women were investigating organized child abuse at the highest levels of European society.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) -- The Dutroux affair and the Epstein case share structural parallels: allegations of elite involvement in child trafficking, intelligence connections, systematic cover-ups, and the deaths of witnesses.
 
 ## Related Groups
 
-- Dutroux Affair -- The Belgian child abuse scandal that Pardaens was investigating when she died
-- Zandvoort Network -- The international child pornography ring whose material Pardaens was examining
+- [Dutroux Affair](../other/groups/dutroux_affair.md) -- The Belgian child abuse scandal that Pardaens was investigating when she died
+- [Zandvoort Network (Netherlands)](../other/groups/zandvoort_netherlands.md) -- The international child pornography ring whose material Pardaens was examining
 - Werkgroep Morkhoven -- The Belgian organization Pardaens worked with to investigate child abuse networks
 
 ## Related Locations

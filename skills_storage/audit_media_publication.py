@@ -62,7 +62,13 @@ def sh(cmd, timeout=180):
 
 
 def pages_containing(needle):
-    r = sh(["rg", "-l", "--", needle, "docs", "src"])
+    # grep, not rg: `rg` is a shell FUNCTION in this environment, not a binary on PATH,
+    # so subprocess raised FileNotFoundError, sh() swallowed it, and EVERY image and video
+    # reported as an orphan. grep -rlF is always present. Exit 1 means "no match" (fine);
+    # anything above 1 is a real tool failure and must be loud, not silently empty.
+    r = sh(["grep", "-rlF", "--", needle, "docs", "src"])
+    if r.returncode > 1:
+        sys.exit("pages_containing: grep failed (%s): %s" % (r.returncode, r.stderr.strip()))
     return [p for p in r.stdout.split()
             if "/x_posts/" not in p and "/transcripts/" not in p]
 

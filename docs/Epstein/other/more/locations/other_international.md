@@ -1,12 +1,24 @@
 ---
 title: "Other International Locations"
-description: "Deaths and connections spanning Belgium, Ukraine, Oman, Australia, Mexico, Estonia, Norway, Haiti, and the Atlantic Ocean — demonstrating the global reach of elite trafficking networks."
+description: "Deaths and connections spanning the Netherlands, Belgium, Ukraine, Oman, Australia, Mexico, Estonia, Norway, Haiti, and the Atlantic Ocean — demonstrating the global reach of elite trafficking networks."
 keywords: ["Other International Locations", "Jeffrey Epstein", "Ghislaine Maxwell", "sex trafficking", "blackmail", "elite trafficking ring", "Epstein network", "intelligence cover-up"]
 sidebar_label: "Other International Locations"
 image: /img/docusaurus-social-card.jpg
 ---
 
-Deaths and connections spanning Belgium, Ukraine, Oman, Australia, Mexico, Estonia, Norway, Haiti, and the Atlantic Ocean — demonstrating the global reach of elite trafficking networks.
+Deaths and connections spanning the Netherlands, Belgium, Ukraine, Oman, Australia, Mexico, Estonia, Norway, Haiti, and the Atlantic Ocean — demonstrating the global reach of elite trafficking networks.
+
+## Netherlands — Zandvoort, Amsterdam, Rotterdam
+
+The Dutch counterpart to the Dutroux affair, and the case that connects the two: a child abuse material network traced to the seaside town of **Zandvoort**, exposed in July 1998 when the Belgian group Werkgroep Morkhoven handed police CD-ROMs containing tens of thousands of images.
+
+- See full details: [Zandvoort Network group file](/epstein-murders/other/groups/zandvoort_netherlands)
+- **[Manuel Schadwald](/epstein-murders/Details/Manuel_Schadwald)** (missing since 24 July 1993, age 12) — **HIGHLY SUSPICIOUS.** Berlin boy who vanished travelling across the city to a children's leisure centre. Dutch reporting and police surveillance logs placed a boy matching his description in **Rotterdam** in 1993–1994; an anonymous 1994 tip said he was in **Amsterdam** and dead. Dutch investigations in both cities were discontinued in 1995 without result. The Berlin case closed in 1998 — no body, no charges.
+- **Gerrit Ulrich** (June 1998) — German national living in the Netherlands, named by the Belgian activists as the source of the first Zandvoort CD-ROM. Shot dead in **Pisa, Italy**, weeks before the material became public. Dutch authorities sought the extradition of a named Belgian suspect.
+- **[Gina Pardaens](/epstein-murders/Details/Gina_Pardaens)** (November 1998) — **HIGHLY SUSPICIOUS.** Belgian welfare officer assigned to the Schadwald file in July 1998. Died four months later when her car struck a bridge pillar leaving no brake marks, the day after her house was burgled. Listed under Belgium below, but her work was on the Dutch file.
+- **[Janet Ossebaard](/epstein-murders/Details/Janet_Ossebaard)** (2023) — **SUSPICIOUS.** Dutch creator of the "Fall of the Cabal" series alleging elite trafficking; found dead in a camper van in Sweden. Separate from the Zandvoort case, but Dutch.
+- **Cross-border pattern**: 2015 reporting in *Die Welt* and *Algemeen Dagblad* cited witnesses and informants claiming children abducted in Berlin in the early 1990s were sold into brothels in Amsterdam, Rotterdam and Antwerp — a Germany → Netherlands → Belgium pipeline that maps onto both the Schadwald file and the Dutroux affair.
+- **Unverified**: The claim that Schadwald was killed aboard a yacht named *Apollo* while being filmed, and that the vessel was cleaned at a Dutch naval port, rests on activist accounts and claimed intelligence material. No court, coroner, or published official document has confirmed it.
 
 ## Belgium — The Dutroux Affair
 

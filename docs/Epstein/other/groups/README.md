@@ -32,6 +32,7 @@ Organizations, intelligence services, financial institutions, and operations con
 | [Craig Spence Operation](craig_spence.md) | DC lobbyist who ran midnight White House tours with male prostitutes |
 | [Henry Vinson Escort Service](henry_vinson_escort_service.md) | Largest gay escort service in DC; supplied escorts to CIA asset Craig Spence for blackmail; clients allegedly included CIA Director Casey |
 | [Dutroux Affair](dutroux_affair.md) | Belgian pedophile ring with alleged establishment protection; 27+ witnesses died |
+| [Zandvoort Network (Netherlands)](zandvoort_netherlands.md) | Dutch child abuse material network exposed in 1998; the missing Berlin boy Manuel Schadwald was allegedly trafficked into it; the source of the first CD-ROM was shot dead in Italy and the welfare officer assigned to the Schadwald file died in a crash with no brake marks |
 | [Jimmy Savile / BBC](jimmy_savile.md) | UK's most prolific sex offender protected by the BBC and British establishment |
 
 ## Financial Institutions
