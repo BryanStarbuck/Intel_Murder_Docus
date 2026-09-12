@@ -348,7 +348,7 @@ A dormant X account @diamondcircles still carries the name "Janet Ossebaard" and
 - [Fall of the Cabal official site](https://www.fallcabal.com/) — Koeter announcements ("Very sad message about Janet"; "Janet's passing")
 - [Rumble — Fall of the Cabal Part 5: Children, Art & Pizza](https://rumble.com/v3911cl-the-fall-of-the-cabal-part-5-children-art-and-pizza-end-of-the-world-as-we-.html)
 - [@TheDefiantGhost on X — Memorial post](https://x.com/TheDefiantGhost/status/2044450438057951739) — April 15, 2026, memorial summarizing Ossebaard's work and death (891 likes, 499 retweets)
-- [@TheShadowIntelX on X — "Remember Janet Ossebaard?"](https://x.com/TheShadowIntelX/status/2090729873241210921) — August 21, 2026, retrospective on "The Fall of the Cabal" and her death (6,564 likes, 2,961 retweets, 70,152 views as captured)
+- [@TheShadowIntelX on X — "Remember Janet Ossebaard?"](https://x.com/TheShadowIntelX/status/2090729873241210921) — August 21, 2026, retrospective on "The Fall of the Cabal" and her death (14,002 likes, 6,127 retweets, 211,398 views as of September 11, 2026)
 - [@whiterabbitb0t on X — Koeter death announcement](https://x.com/whiterabbitb0t/status/1738923210845086205) — December 24, 2023 (1,183 likes, 321,702 views)
 - [@Starboy2079 on X — "clintoned" death post](https://x.com/Starboy2079/status/1740951375234617684) — December 30, 2023 (4,288 likes, 521,218 views)
 - [@jv_weiss on X — Part 5 Rumble link](https://x.com/jv_weiss/status/2090862384176943455) — August 21, 2026

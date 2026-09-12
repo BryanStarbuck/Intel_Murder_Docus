@@ -7,18 +7,62 @@
 User-agent: *
 Allow: /
 
-# AI crawlers — explicitly allowed so this archive is discoverable through
-# AI-powered search. Remove a block to opt-out a specific bot.
+# ---------------------------------------------------------------------------
+# AI CRAWLERS ARE DELIBERATELY ALLOWED — the full roster, not a sample.
+#
+# This archive exists to be read and cited. Blocking the answer engines would
+# remove it from exactly the place people now ask their questions. Note the
+# asymmetry, which is routinely got wrong: blocking Google-Extended does NOT
+# affect Google Search, and blocking GPTBot does NOT block OAI-SearchBot —
+# training opt-out and search/citation crawling are separate controls.
+#
+# The groups below are safe ONLY because the "*" group above carries no
+# Disallow. RFC 9309 never merges groups: a named group REPLACES the "*" group
+# for that crawler. If a Disallow is ever added to "*", delete these groups and
+# name the agents in a comment instead, or every one of them will silently miss
+# it.
+# ---------------------------------------------------------------------------
+
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: Google-Extended
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
 Allow: /
 
 Sitemap: https://intelligencemurders.com/sitemap.xml

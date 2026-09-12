@@ -19,14 +19,15 @@ text: |
 created_at: '2026-08-21T09:17:00.000Z'
 lang: 'en'
 public_metrics:
-  retweet_count: 2895
-  reply_count: 159
-  like_count: 6388
-  quote_count: 90
-  bookmark_count: 1111
-  impression_count: 67948
+  retweet_count: 6127
+  reply_count: 304
+  like_count: 14002
+  quote_count: 229
+  bookmark_count: 2704
+  impression_count: 211398
 has_video: false
 has_image: true
 investigation: 'Epstein'
 subject: 'Janet Ossebaard'
 added_date: '2026-08-21'
+metrics_refreshed: '2026-09-11'
