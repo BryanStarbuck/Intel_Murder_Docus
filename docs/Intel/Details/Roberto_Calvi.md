@@ -120,7 +120,7 @@ The original 1982 inquest jury concluded Calvi died by suicide. Proponents of th
 
 - [Aldo Moro](Aldo_Moro.md) -- Italian political figure killed in context of P2, Gladio, and intelligence intrigue
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- another powerful figure whose death involved multiple intelligence agencies
-- [Danny Casolaro](Danny_Casolaro.md) -- investigated PROMIS, BCCI, and intelligence financial networks that overlapped with P2 and Vatican banking
+- [Danny Casolaro](Danny_Casolaro.mdx) -- investigated PROMIS, BCCI, and intelligence financial networks that overlapped with P2 and Vatican banking
 - [Mark Lombardi](Mark_Lombardi.md) -- artist who mapped financial networks including BCCI and Vatican Bank connections, found hanged
 - [Boris Berezovsky](Boris_Berezovsky.md) -- Russian oligarch found hanged under disputed circumstances
 - [David Kelly](David_Kelly.md) -- British weapons inspector whose death was ruled suicide despite forensic questions
@@ -129,7 +129,7 @@ The original 1982 inquest jury concluded Calvi died by suicide. Proponents of th
 ## Other Shocking Stories
 
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with polonium-210 in London. He named his killer from his deathbed.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower contaminated with plutonium, then killed in a suspicious car crash the night she was meeting a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower contaminated with plutonium, then killed in a suspicious car crash the night she was meeting a reporter.
 - [Georgi_Markov](Georgi_Markov.md): Bulgarian dissident stabbed with a ricin-tipped umbrella on Waterloo Bridge. Died three days later.
 - [Jamal Khashoggi](Jamal_Khashoggi.md): Washington Post columnist lured into Saudi consulate and dismembered alive by a 15-man kill team.
 

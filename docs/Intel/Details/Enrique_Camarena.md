@@ -109,7 +109,7 @@ Red Ribbon Week — the nation's largest drug prevention campaign — was founde
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug smuggler and pilot murdered in Baton Rouge in 1986; his operations connected to the same CIA-Contra drug pipeline Camarena allegedly uncovered
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-cocaine connections in his 1996 "Dark Alliance" series; died of two gunshot wounds to the head, ruled suicide
 - [Manuel Buendia](Manuel_Buendia.md) — Mexico's most prominent political columnist, assassinated in 1984 while investigating CIA operations and drug trafficking in Mexico; reportedly investigating the same CIA-DFS nexus as Camarena
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence-criminal networks (including PROMIS software) who died suspiciously in 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating intelligence-criminal networks (including PROMIS software) who died suspiciously in 1991
 - [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated at a rally after the intelligence chief deliberately weakened his security; the DAS director was convicted of conspiracy
 
 - CIA (Group Profile) — intelligence service connected to this case

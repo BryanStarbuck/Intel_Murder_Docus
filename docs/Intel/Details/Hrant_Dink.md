@@ -104,7 +104,7 @@ Critics, including RSF and CPJ, argue that both narratives serve to deflect resp
 - [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist lured into consulate, murdered and dismembered — his fiancee waited outside for hours.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader dissolved in acid by Belgian agents after CIA-backed coup.
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Russian defector poisoned with radioactive polonium in London — took three weeks to die.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in suspicious car crash the night she was bringing documents to a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in suspicious car crash the night she was bringing documents to a reporter.
 
 ## Sources
 

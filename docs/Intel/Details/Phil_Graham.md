@@ -100,12 +100,12 @@ The honest summary is that Graham's death is suspicious by association and by ca
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — The woman Graham named in January 1963, shot execution-style on a Georgetown towpath fourteen months after his death; CIA counterintelligence chief James Angleton took possession of her diary within hours
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — The journalist who interviewed Jack Ruby privately and died of a barbiturate overdose before publishing; her notes vanished
 - [William Colby](William_Colby.md) — Former CIA Director who cooperated with the Church Commission and drowned on a solo canoe trip
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist found with slashed wrists in a hotel room, briefcase missing
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigative journalist found with slashed wrists in a hotel room, briefcase missing
 
 ## Other Shocking Stories
 
 - [Gary Webb](Gary_Webb.md): Exposed the CIA–Contra cocaine pipeline. Found with two bullets in his head. Ruled suicide.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower run off the road carrying documents to a *New York Times* reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower run off the road carrying documents to a *New York Times* reporter.
 - [Fred Hampton](Fred_Hampton.md): Drugged in his sleep. Police fired 99 shots. The FBI informant had supplied the floor plan.
 - [Michael Hastings](Michael_Hastings.md): Investigating the CIA director. His car hit a tree at 100 mph and exploded.
 

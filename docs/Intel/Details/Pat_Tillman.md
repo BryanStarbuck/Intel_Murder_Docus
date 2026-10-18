@@ -159,9 +159,9 @@ The official position, maintained across seven investigations, is that Tillman's
 - [Fred Hampton](Fred_Hampton.md) -- killed by government forces in a planned operation, with subsequent cover-up
 - [Michael Hastings](Michael_Hastings.md) -- journalist killed while investigating military/intelligence officials, including McChrystal
 - [Gary Webb](Gary_Webb.md) -- journalist whose career was destroyed after exposing CIA drug trafficking; ruled suicide by two gunshots to the head
-- [Karen Silkwood](Karen_Silkwood.md) -- whistleblower killed in suspicious car crash while carrying evidence of safety violations
+- [Karen Silkwood](Karen_Silkwood.mdx) -- whistleblower killed in suspicious car crash while carrying evidence of safety violations
 - [David Kelly](David_Kelly.md) -- British weapons inspector who died before he could testify about intelligence failures on Iraq WMDs
-- [Danny Casolaro](Danny_Casolaro.md) -- investigative journalist found dead in a bathtub, ruled suicide, while investigating intelligence operations
+- [Danny Casolaro](Danny_Casolaro.mdx) -- investigative journalist found dead in a bathtub, ruled suicide, while investigating intelligence operations
 - [John Rossi](John_Rossi.md) -- Two-star Army general found dead two days before assuming command of Space and Missile Defense Command; like Tillman, a military case where the official narrative has been questioned
 
 ## Other Shocking Stories

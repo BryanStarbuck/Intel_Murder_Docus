@@ -134,6 +134,8 @@ const config: Config = {
     },
   ],
 
+  clientModules: [require.resolve("./src/clientModules/ipfsVideoFallback.js")],
+
   presets: [
     [
       "classic",

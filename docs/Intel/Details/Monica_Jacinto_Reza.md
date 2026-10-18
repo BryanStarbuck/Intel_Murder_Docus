@@ -99,7 +99,7 @@ For coverage of the UAP research dimension of this case, see [UAP Murders — En
 
 ## Other Shocking Stories
 
-- [Danny Casolaro](Danny_Casolaro.md): Told friends "if I die, don't believe suicide." Wrists slashed 12 times in hotel. Briefcase vanished.
+- [Danny Casolaro](Danny_Casolaro.mdx): Told friends "if I die, don't believe suicide." Wrists slashed 12 times in hotel. Briefcase vanished.
 - [Pat Tillman](Pat_Tillman.md): NFL star turned Ranger. Three shots to the head at close range. Pentagon covered it up for weeks.
 - [Christopher Fallen](Christopher_Fallen.md): AFRL physicist found bound with duct tape and suffocated in his Albuquerque home.
 - [David Kelly](David_Kelly.md): UK weapons inspector found dead. Records sealed until 2073. Almost no blood at scene.

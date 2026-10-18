@@ -92,14 +92,14 @@ There are significant reasons to consider McCasland's disappearance voluntary ra
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead February 2026; part of the same scientist death cluster
 - [Jason Thomas](Jason_Thomas.md) — Novartis cancer researcher with DOD contracts; disappeared December 2025, found dead March 2026
 - [Christopher Fallen](Christopher_Fallen.md) — AFRL physicist and former HAARP chief scientist found bound and suffocated in Albuquerque, 2024
-- [Frank Olson](Frank_Olson.md) — CIA scientist who died under suspicious circumstances; parallels in classified research and unexplained death
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist who died under suspicious circumstances; parallels in classified research and unexplained death
 
 For coverage of the UAP research dimension of this case, see [UAP Murders — Energy Investigation](https://uapmurders.com/energy/).
 
 ## Other Shocking Stories
 
 - [Gary Webb](Gary_Webb.md): Pulitzer journalist exposed CIA crack pipeline. Two bullets to the head. Ruled "suicide."
-- [Karen Silkwood](Karen_Silkwood.md): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
+- [Karen Silkwood](Karen_Silkwood.mdx): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
 - [Fred Hampton](Fred_Hampton.md): Age 21. FBI drugged him, drew the floor plan, police shot him twice in the head while asleep.
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist assassinated by AI-controlled remote gun mounted in a parked Nissan pickup truck.
 

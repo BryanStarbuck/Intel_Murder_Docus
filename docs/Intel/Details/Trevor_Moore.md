@@ -329,7 +329,7 @@ The conspiracy theory follows the same trajectory as other cases in this project
 - [Seth Rich](Seth_Rich.md) — DNC data director, shot in DC under disputed circumstances (2016)
 - [John Lennon](John_Lennon.md) — Musician and activist under FBI COINTELPRO surveillance, shot in NYC (1980). The original case of a mainstream cultural figure allegedly killed for reaching too many people with the wrong ideas
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-crack connection, career destroyed, died of two gunshots to the head ruled "suicide" (2004)
-- [Danny Casolaro](Danny_Casolaro.md) — Investigating PROMIS/CIA/"The Octopus," found dead in hotel with wrists slashed, briefcase missing (1991)
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigating PROMIS/CIA/"The Octopus," found dead in hotel with wrists slashed, briefcase missing (1991)
 ## Other Shocking Stories
 
 - [Sergei Yushenkov](Sergei_Yushenkov.md): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.

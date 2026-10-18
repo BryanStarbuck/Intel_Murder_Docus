@@ -90,7 +90,7 @@ His work documenting the treatment of political detainees — cataloguing detent
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
 - [Boris Berezovsky](Boris_Berezovsky.md): Russian oligarch found hanged in his locked bathroom. German pathologist said the evidence pointed to strangulation by others.
 - [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.

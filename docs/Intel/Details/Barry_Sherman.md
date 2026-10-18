@@ -150,9 +150,9 @@ No motive has been confirmed by police.
 ## Other Shocking Stories
 
 - [Brandy Vaughan](Brandy_Vaughan.md): Former Merck rep predicted her own death after years of stalking. Found dead at 44 of sudden blood clots.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower carrying evidence to the New York Times — forced off the road and killed.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower carrying evidence to the New York Times — forced off the road and killed.
 - [Edmond Safra](Edmond_Safra.md): Billionaire banker died in a Monaco fire after his Mossad-trained security was conveniently absent.
-- [Danny Casolaro](Danny_Casolaro.md): Told friends "if anything happens to me, it's not suicide." Found with wrists slashed in a hotel.
+- [Danny Casolaro](Danny_Casolaro.mdx): Told friends "if anything happens to me, it's not suicide." Found with wrists slashed in a hotel.
 
 ## Sources
 

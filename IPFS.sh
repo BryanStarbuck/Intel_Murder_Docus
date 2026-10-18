@@ -47,7 +47,7 @@ ipfs pin add QmXr8WbzhobLU6Q19zm9eU7Ep2cHDm9JNwDrRwmshVPPEv
 ipfs pin add QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxAc5XSPhjY
 
 # ============================================================
-# Investigation: Intel  (7 videos)
+# Investigation: Intel  (8 videos)
 # ============================================================
 
 # VIDEO: General George S. Patton speaking about the postwar situation before his assassination
@@ -70,6 +70,9 @@ ipfs pin add QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiqgHLbHGke
 
 # VIDEO: Brandy Vaughan — Merck whistleblower who warned any harm to her would be "foul play," found dead at 44 by her 9-year-old son
 ipfs pin add QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
+
+# VIDEO: Five whistleblowers who died in suspicious circumstances — Balaji, Silkwood, Barnett/Dean, Olson, Casolaro
+ipfs pin add QmZ88n6hwNJGjD9xZo33mG1nrZa81EEvto3mmixjC4jk4s
 
 echo "All Intelligence Murders investigation videos pinned."
 

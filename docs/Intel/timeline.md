@@ -24,7 +24,7 @@ All 199 profiles organized by decade and year.
 
 ## 1950s
 
-- **1953** — [Frank Olson](Details/Frank_Olson.md) — CIA scientist dosed with LSD (MKULTRA), fell from hotel window. Medical examiner ruled homicide.
+- **1953** — [Frank Olson](Details/Frank_Olson.mdx) — CIA scientist dosed with LSD (MKULTRA), fell from hotel window. Medical examiner ruled homicide.
 
 ## 1960s
 
@@ -57,7 +57,7 @@ All 199 profiles organized by decade and year.
 - **1973** — [Victor Jara](Details/Victor_Jara.md) — Chilean folk singer tortured and shot 44 times in Santiago stadium during coup.
 - **1973** — [Mahmoud Hamshari](Details/Mahmoud_Hamshari.md) — PLO representative killed by Mossad phone bomb in Paris. Operation Wrath of God.
 - **1973** — [Hussein al-Bashir](Details/Hussein_al_Bashir.md) — Fatah representative killed by Mossad bomb under hotel bed in Cyprus. Operation Wrath of God.
-- **1974** — [Karen Silkwood](Details/Karen_Silkwood.md) — Nuclear whistleblower died in car crash en route to meet NY Times reporter.
+- **1974** — [Karen Silkwood](Details/Karen_Silkwood.mdx) — Nuclear whistleblower died in car crash en route to meet NY Times reporter.
 - **1974** — [Carlos Prats](Details/Carlos_Prats.md) — Chilean general killed by DINA car bomb in Buenos Aires. Operation Condor.
 - **1975** — [Bernardo Leighton](Details/Bernardo_Leighton.md) — Chilean politician shot in Rome by DINA/neofascist collaboration. Survived; died 1995.
 - **1976** — [Ronni Moffitt](Details/Ronni_Moffitt.md) — American citizen killed alongside Letelier by DINA car bomb.
@@ -109,7 +109,7 @@ All 199 profiles organized by decade and year.
 
 - **1990** — [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb. FBI blamed her; jury awarded $4.4M to her estate. Died of cancer 1997.
 - **1990** — [Gerald Bull](Details/Gerald_Bull.md) — Canadian weapons designer shot at Brussels apartment. Building Iraqi supergun. Mossad suspected.
-- **1991** — [Danny Casolaro](Details/Danny_Casolaro.md) — Journalist investigating PROMIS/"The Octopus" found with wrists slashed. Briefcase missing.
+- **1991** — [Danny Casolaro](Details/Danny_Casolaro.mdx) — Journalist investigating PROMIS/"The Octopus" found with wrists slashed. Briefcase missing.
 - **1991** — [Detlev Rohwedder](Details/Detlev_Rohwedder.md) — Head of East German privatization agency shot through window by sniper. RAF claimed; wife accused Stasi. Subject of Netflix documentary.
 - **1992** — [Atef Bseiso](Details/Atef_Bseiso.md) — PLO intelligence chief shot by Mossad in Paris. Operation Wrath of God.
 - **1993** — [Chris Hani](Details/Chris_Hani.md) — South African Communist Party leader shot at home. Assassin convicted.
@@ -225,6 +225,9 @@ All 199 profiles organized by decade and year.
 - **2022** — [Shireen Abu Akleh](Details/Shireen_Abu_Akleh.md) — Palestinian-American Al Jazeera journalist shot in head while wearing press vest in Jenin. Multiple independent investigations confirmed targeted Israeli fire.
 - **2022** — [Arshad Sharif](Details/Arshad_Sharif.md) — Pakistani journalist shot at roadblock in Kenya. Pakistan's own investigation called it "planned, targeted assassination." ISI implicated.
 - **2023** — [Yevgeny Prigozhin](Details/Yevgeny_Prigozhin.md) — Wagner Group founder killed in plane crash exactly two months after mutiny against Putin.
+- **2024** — [Suchir Balaji](Details/Suchir_Balaji.mdx) — Former OpenAI researcher and copyright whistleblower found shot dead in San Francisco apartment eight days after being named as a potential witness in NYT v. OpenAI. Ruled suicide; parents dispute.
+- **2024** — [John Barnett](Details/John_Barnett.mdx) — Boeing 787 quality-control whistleblower found shot dead in his truck in Charleston, SC, during depositions in his case against Boeing. Ruled suicide.
+- **2024** — [Joshua Dean](Details/Joshua_Dean.mdx) — Spirit AeroSystems 737 MAX quality whistleblower, healthy at 45, died of sudden MRSA and flu infection less than two months after John Barnett. No official indication of foul play.
 - **2024** — [Alexei Navalny](Details/Alexei_Navalny.md) — Russian opposition leader died in Arctic penal colony. Had survived 2020 Novichok poisoning.
 - **2024** — [Maxim Kuzminov](Details/Maxim_Kuzminov.md) — Russian helicopter pilot defector shot and run over in Spain.
 - **2024** — [Hassan Nasrallah](Details/Hassan_Nasrallah.md) — Hezbollah Secretary-General killed by Israeli airstrike in Beirut.

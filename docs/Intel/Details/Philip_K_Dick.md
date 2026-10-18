@@ -168,7 +168,7 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating intelligence blackmail operations; both were targeted for exposing hidden power structures
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigative journalist killed while investigating intelligence blackmail operations; both were targeted for exposing hidden power structures
 - [Aaron Swartz](Aaron_Swartz.md) — Internet activist who built tools to empower transparency; both died before their work reached its widest audience
 - [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI SAC who exposed "brownstone operations" and intelligence-run blackmail; both claimed the intelligence community operated a hidden control system
 - [B. Stanley Pons](/epstein-murders/Details/B_Stanley_Pons) — Cold fusion researcher Epstein claimed to have "killed"; both represent cases where breakthrough discoveries were allegedly suppressed
@@ -389,7 +389,7 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating intelligence blackmail operations; both were targeted for exposing hidden power structures
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigative journalist killed while investigating intelligence blackmail operations; both were targeted for exposing hidden power structures
 - [Aaron Swartz](Aaron_Swartz.md) — Internet activist who built tools to empower transparency; both died before their work reached its widest audience
 - [Ted Gunderson](/epstein-murders/Details/Ted_Gunderson) — Former FBI SAC who exposed "brownstone operations" and intelligence-run blackmail; both claimed the intelligence community operated a hidden control system
 - [B. Stanley Pons](/epstein-murders/Details/B_Stanley_Pons) — Cold fusion researcher Epstein claimed to have "killed"; both represent cases where breakthrough discoveries were allegedly suppressed

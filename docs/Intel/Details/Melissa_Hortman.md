@@ -169,7 +169,7 @@ According to multiple fact-checkers (PBS, CBS, Minnesota Reformer), right-wing i
 - [George Lincoln Rockwell](George_Lincoln_Rockwell.md): Founded the American Nazi Party, ran for president. Shot from a rooftop while FBI was infiltrating his organization.
 - [Pat Tillman](Pat_Tillman.md): NFL star turned Army Ranger shot three times in the head by his own unit. Pentagon covered it up for weeks.
 - [Gary Webb](Gary_Webb.md): Exposed CIA-crack cocaine pipeline. Destroyed by media. Shot himself in the head — twice. Ruled suicide.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower forced off the road while driving to meet a New York Times reporter with documents.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower forced off the road while driving to meet a New York Times reporter with documents.
 
 ## Sources
 

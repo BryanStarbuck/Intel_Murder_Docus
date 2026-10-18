@@ -190,7 +190,7 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 - [Virginia Giuffre](/epstein-murders/Details/Virginia_Giuffre) — Top Epstein accuser who alleged trafficking to [Prince Andrew](/epstein-murders/Details/Prince_Andrew)
 - [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Primary subject of this project; connected to British Royal family through Prince Andrew
 - [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — The "DC Madam" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
 - Mossad — Intelligence service allegedly involved in elite blackmail operations; Robert Maxwell connection
 - MI5/MI6 — British intelligence services accused of involvement in Diana's death
 ## Other Shocking Stories
@@ -394,7 +394,7 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 - [Virginia Giuffre](/epstein-murders/Details/Virginia_Giuffre) — Top Epstein accuser who alleged trafficking to [Prince Andrew](/epstein-murders/Details/Prince_Andrew)
 - [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Primary subject of this project; connected to British Royal family through Prince Andrew
 - [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — The "[DC Madam](/epstein-murders/other/groups/dc_madam)" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
 - [Mossad](/epstein-murders/other/groups/mossad) — Intelligence service allegedly involved in elite blackmail operations; Robert Maxwell connection
 - [MI5/MI6](/epstein-murders/other/groups/cia) — British intelligence services accused of involvement in Diana's death
 ## Other Shocking Stories

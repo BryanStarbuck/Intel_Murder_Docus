@@ -153,11 +153,11 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist whose files also vanished after his suspicious death; investigated PROMIS and intelligence connections
+- [Danny Casolaro](Danny_Casolaro.mdx) — investigative journalist whose files also vanished after his suspicious death; investigated PROMIS and intelligence connections
 - [Gary Webb](Gary_Webb.md) — journalist who died of two gunshot wounds to the head, ruled suicide, while investigating CIA drug trafficking
-- [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed in suspicious car crash while transporting documents to a journalist; documents disappeared
+- [Karen Silkwood](Karen_Silkwood.mdx) — whistleblower killed in suspicious car crash while transporting documents to a journalist; documents disappeared
 - [Michael Hastings](Michael_Hastings.md) — journalist who died in a suspicious single-car explosion after telling friends he was being investigated by the FBI
-- [Frank Olson](Frank_Olson.md) — CIA scientist whose 1953 death was reopened decades later; pattern of intelligence agencies staging deaths
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist whose 1953 death was reopened decades later; pattern of intelligence agencies staging deaths
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — CIA-connected socialite investigating JFK assassination, shot dead in 1964; diary seized by James Angleton
 - CIA (Group Profile) — intelligence service connected to this case
 - **Epstein investigation profile:** [Dorothy Kilgallen](https://intelligencemurders.com/intelligence-service-murders/Details/Dorothy_Kilgallen/) — documents her investigation's connection to sexual blackmail networks linked to Roy Cohn and J. Edgar Hoover
@@ -165,8 +165,8 @@ The official position is that Kilgallen's death was an accidental overdose. She 
 ## Other Shocking Stories
 
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with radioactive polonium-210 in his tea at a London hotel. Took three weeks to die.
-- [Karen Silkwood](Karen_Silkwood.md): Drove to meet a journalist with documents proving plutonium plant dangers. Car forced off road. Documents gone.
-- [Danny_Casolaro](Danny_Casolaro.md): Found in a hotel bathtub with wrists slashed twelve times. His briefcase full of investigation files had vanished.
+- [Karen Silkwood](Karen_Silkwood.mdx): Drove to meet a journalist with documents proving plutonium plant dangers. Car forced off road. Documents gone.
+- [Danny_Casolaro](Danny_Casolaro.mdx): Found in a hotel bathtub with wrists slashed twelve times. His briefcase full of investigation files had vanished.
 - [David Kelly](David_Kelly.md): British weapons inspector who challenged Iraq WMD claims. Found dead in woods. Key evidence sealed for 70 years.
 
 ## Sources
@@ -283,7 +283,7 @@ Dorothy Kilgallen's investigation positioned her at the intersection of sexual b
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating the PROMIS/Octopus intelligence scandal, found dead in 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating the PROMIS/Octopus intelligence scandal, found dead in 1991
 - [Gary Webb](/epstein-murders/Details/Gary_Webb_Journalist) — Journalist who exposed CIA drug trafficking, found dead with two gunshot wounds in 2004
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating child trafficking, found dead in 2018
 - [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — Intelligence-connected sex trafficker whose sexual blackmail operation has been traced to earlier networks involving Roy Cohn

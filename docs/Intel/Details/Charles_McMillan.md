@@ -91,7 +91,7 @@ McMillan held the highest security clearances in the U.S. government and had int
 ## Other Shocking Stories
 
 - [Patrice Lumumba](Patrice_Lumumba.md): Congolese PM overthrown by CIA and Belgian intelligence. Dissolved in acid after execution.
-- [Danny Casolaro](Danny_Casolaro.md): Found in hotel bathtub, wrists slashed 12 times. His briefcase of Octopus documents was gone.
+- [Danny Casolaro](Danny_Casolaro.mdx): Found in hotel bathtub, wrists slashed 12 times. His briefcase of Octopus documents was gone.
 - [Bill Cooper](Bill_Cooper.md): Predicted 9/11 on air in June 2001. Told listeners "don't believe" the Bin Laden story. Shot dead two months after 9/11.
 - [Trevor Moore](Trevor_Moore.md): Comedian who exposed elite corruption to millions on YouTube. Fell from a balcony at 2:30 a.m. at age 41.
 

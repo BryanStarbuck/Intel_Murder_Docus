@@ -81,7 +81,7 @@ Webb was described as one of Charlie Kirk's most important early mentors, helpin
 
 - [Charlie Kirk](Charlie_Kirk.md): Conservative activist shot by sniper at 142 yards during campus debate. His mentor died six months later.
 - [Gary Webb](Gary_Webb.md): Journalist who exposed CIA-Contra-crack pipeline. Ruled suicide despite two gunshots to the head.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, fell from hotel window. 1994 exhumation found he was knocked unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, fell from hotel window. 1994 exhumation found he was knocked unconscious first.
 - [David Kelly](David_Kelly.md): UK weapons inspector challenged Iraq WMD claims. Wrist slashed. Records sealed until 2073.
 
 ## Sources

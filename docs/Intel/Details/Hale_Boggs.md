@@ -114,13 +114,13 @@ No declassified document, defector testimony, or judicial finding has produced e
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — JFK confidante shot weeks after the Warren Commission report; CIA's Angleton seized her diary
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating JFK assassination, died of barbiturate overdose
 - [George S. Patton](/intelligence-service-murders/Details/George_Patton) — General whose death in a low-speed vehicle accident has long been alleged to have been engineered
-- [Frank Olson](Frank_Olson.md) — CIA scientist whose death was reclassified as homicide decades later
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist whose death was reclassified as homicide decades later
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in a car crash carrying documents to a New York Times reporter. Rear-end damage suggests forced off road.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in a car crash carrying documents to a New York Times reporter. Rear-end damage suggests forced off road.
 - [David Kelly](David_Kelly.md): UK weapons inspector who challenged Iraq WMD claims died with a slashed wrist. Records sealed until 2073.
-- [Danny Casolaro](Danny_Casolaro.md): Investigating PROMIS software and "The Octopus" intelligence network. His briefcase vanished from the hotel room.
+- [Danny Casolaro](Danny_Casolaro.mdx): Investigating PROMIS software and "The Octopus" intelligence network. His briefcase vanished from the hotel room.
 - [Gary Webb](Gary_Webb.md): Pulitzer-contributing journalist who exposed CIA-Contra crack cocaine. Found dead with two .38-caliber bullets in his head.
 
 ## Sources

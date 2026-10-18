@@ -130,8 +130,8 @@ Palme's assassination may have been the act of a lone individual motivated by pe
 
 - [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane allegedly shot down over Africa. CIA director reportedly said he should be "removed."
 - [Georgi Markov](Georgi_Markov.md): Bulgarian dissident stabbed with a poison-tipped umbrella on Waterloo Bridge. Dead in three days.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in a car crash en route to meet a journalist. Her documents vanished.
-- [Danny Casolaro](Danny_Casolaro.md): Investigative journalist found dead in a bathtub the day before a major meeting. Ruled suicide.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in a car crash en route to meet a journalist. Her documents vanished.
+- [Danny Casolaro](Danny_Casolaro.mdx): Investigative journalist found dead in a bathtub the day before a major meeting. Ruled suicide.
 
 ## Sources
 

@@ -97,8 +97,8 @@ For coverage of the UAP research dimension of this case, see [UAP Murders — En
 
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist assassinated by AI-controlled remote gun mounted in a parked Nissan pickup truck.
 - [Gary Webb](Gary_Webb.md): Pulitzer journalist exposed CIA crack pipeline. Two bullets to the head. Ruled "suicide."
-- [Karen Silkwood](Karen_Silkwood.md): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD without consent. Fell from hotel window. Medical examiner ruled homicide.
+- [Karen Silkwood](Karen_Silkwood.mdx): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD without consent. Fell from hotel window. Medical examiner ruled homicide.
 
 ## Sources
 

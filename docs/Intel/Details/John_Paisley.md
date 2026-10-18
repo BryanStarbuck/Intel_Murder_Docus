@@ -93,7 +93,7 @@ The Senate Select Committee on Intelligence publicly stated it "found no informa
 ## See Also
 
 - [William Colby](William_Colby.md) -- former CIA Director who also died in mysterious water-related circumstances in 1996. Like Paisley, Colby was a senior CIA figure found dead in water under circumstances that contradicted the official story. Both cases involved rapid official conclusions and unresolved questions about what each man may have been prepared to disclose.
-- [Frank Olson](Frank_Olson.md) -- CIA scientist whose 1953 death was staged as a suicide. Like Paisley, Olson's death involved a senior CIA figure whose official cause of death was later contradicted by forensic evidence, and whose case revealed patterns of institutional cover-up within the Agency. Olson's body was exhumed decades later and showed evidence of homicide.
+- [Frank Olson](Frank_Olson.mdx) -- CIA scientist whose 1953 death was staged as a suicide. Like Paisley, Olson's death involved a senior CIA figure whose official cause of death was later contradicted by forensic evidence, and whose case revealed patterns of institutional cover-up within the Agency. Olson's body was exhumed decades later and showed evidence of homicide.
 - [Gary Webb](Gary_Webb.md) -- journalist who died of two gunshot wounds to the head, ruled a suicide
 - [Philip Marshall](Philip_Marshall.md) -- intelligence-connected author found dead in apparent murder-suicide
 
@@ -103,7 +103,7 @@ The Senate Select Committee on Intelligence publicly stated it "found no informa
 
 - [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
 - [Kim Jong-nam](Kim_Jong_nam.md): Two women smeared VX nerve agent on his face at a crowded airport. Dead in twenty minutes.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
 
 ## Sources

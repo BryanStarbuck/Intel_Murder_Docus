@@ -81,7 +81,7 @@ On November 25, 1975, the Uruguayan Embassy in Buenos Aires revoked the passport
 
 - [Anwar al-Awlaki](Anwar_al_Awlaki.md): First American citizen deliberately killed by his own government without trial. Obama signed the order.
 - [Leonid Shulman](Leonid_Shulman.md): Gazprom transport chief found with slashed wrists in his country house. One of many suspicious Gazprom deaths.
-- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Karen Silkwood](Karen_Silkwood.mdx): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
 - [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
 
 ## Sources

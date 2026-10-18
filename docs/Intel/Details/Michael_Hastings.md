@@ -119,9 +119,9 @@ Hastings' widow Elise Jordan has stated she does not believe in conspiracy theor
 ## See Also
 
 - [Gary Webb](Gary_Webb.md) -- Journalist who investigated CIA drug trafficking, ruled "suicide" by two gunshots to the head after his career was systematically destroyed
-- [Danny Casolaro](Danny_Casolaro.md) -- Journalist investigating "The Octopus" intelligence network found dead in a hotel bathtub the night before a major meeting, ruled suicide
+- [Danny Casolaro](Danny_Casolaro.mdx) -- Journalist investigating "The Octopus" intelligence network found dead in a hotel bathtub the night before a major meeting, ruled suicide
 - [Bill Cooper](Bill_Cooper.md) -- Author and broadcaster who exposed government secrets, shot dead by law enforcement in a confrontation outside his home
-- [Karen Silkwood](Karen_Silkwood.md) -- Plutonium plant whistleblower killed in a suspicious single-vehicle car crash the night she was delivering documents to a reporter
+- [Karen Silkwood](Karen_Silkwood.mdx) -- Plutonium plant whistleblower killed in a suspicious single-vehicle car crash the night she was delivering documents to a reporter
 - [Serena Shim](Serena_Shim.md) -- Journalist who reported on intelligence operations in Syria, killed in a suspicious car crash days after saying she feared for her life
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) -- Journalist investigating the JFK assassination found dead under suspicious circumstances
 
@@ -131,9 +131,9 @@ Hastings' widow Elise Jordan has stated she does not believe in conspiracy theor
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in a single-car crash the night she was delivering evidence to a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in a single-car crash the night she was delivering evidence to a reporter.
 - [Gary Webb](Gary_Webb.md): Exposed CIA drug trafficking. Destroyed professionally. Ruled "suicide" despite two gunshots to the head.
-- [Danny Casolaro](Danny_Casolaro.md): Found dead in a hotel bathtub the night before his biggest meeting. All his notes vanished.
+- [Danny Casolaro](Danny_Casolaro.mdx): Found dead in a hotel bathtub the night before his biggest meeting. All his notes vanished.
 - [Bill Cooper](Bill_Cooper.md): Predicted 9/11 on his radio show months before it happened. Shot dead by sheriff's deputies weeks later.
 
 ## Sources
@@ -234,7 +234,7 @@ At the time of his death, Hastings was a contributing editor at Rolling Stone an
 ## See Also
 
 - [Andrew Breitbart](/epstein-murders/Details/Andrew_Breitbart) -- Conservative media figure who died of a heart attack in 2012 at age 43; another journalist whose death raised questions
-- [Danny Casolaro](Danny_Casolaro.md) -- Investigative journalist found dead in 1991 while investigating intelligence operations; parallel case of a journalist dying mid-investigation
+- [Danny Casolaro](Danny_Casolaro.mdx) -- Investigative journalist found dead in 1991 while investigating intelligence operations; parallel case of a journalist dying mid-investigation
 
 ## Sources
 

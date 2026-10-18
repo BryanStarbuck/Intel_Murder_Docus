@@ -105,7 +105,7 @@ In his final years, Agee operated a travel agency website called CubaLinda.com, 
 - The CIA had conducted extensive operations against Agee for decades, including surveillance, bugged equipment, pressure on foreign governments to expel him, and passport revocation
 - He died in Cuba, where independent medical investigation was not available and where the government had its own reasons to control the narrative
 - His body was cremated, eliminating the possibility of future forensic examination
-- Intelligence services — including the CIA — have a documented history of using poisons that mimic natural illness (see [Frank Olson](Frank_Olson.md), [Wadie Haddad](Wadie_Haddad.md))
+- Intelligence services — including the CIA — have a documented history of using poisons that mimic natural illness (see [Frank Olson](Frank_Olson.mdx), [Wadie Haddad](Wadie_Haddad.md))
 - However: Agee was 72, perforated ulcers are a genuine medical emergency, and there is no specific evidence of foul play
 - Agee had been living openly in Cuba for years without incident, and the CIA's operational focus had shifted significantly after 9/11
 - The most likely explanation remains natural death from a known medical condition
@@ -127,11 +127,11 @@ In his final years, Agee operated a travel agency website called CubaLinda.com, 
 ## See Also
 
 - [William Colby](William_Colby.md) — Former CIA Director who cooperated with Church Commission; died under suspicious circumstances
-- [Frank Olson](Frank_Olson.md) — CIA scientist killed after becoming a security risk; demonstrates CIA willingness to eliminate its own
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist killed after becoming a security risk; demonstrates CIA willingness to eliminate its own
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; career destroyed, died of alleged suicide
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned informant; allegedly exposed by CIA
-- [Danny Casolaro](Danny_Casolaro.md) — Investigated PROMIS software and CIA connections; died before key meeting
-- [Karen Silkwood](Karen_Silkwood.md) — Whistleblower who died before delivering evidence
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigated PROMIS software and CIA connections; died before key meeting
+- [Karen Silkwood](Karen_Silkwood.mdx) — Whistleblower who died before delivering evidence
 - [David Kelly](David_Kelly.md) — UK weapons inspector who challenged official narrative; died under suspicious circumstances
 
 - CIA (Group Profile) — intelligence service connected to this case

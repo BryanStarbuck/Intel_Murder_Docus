@@ -104,7 +104,7 @@ Herrhausen's combination of positions -- advocating debt relief that threatened 
 
 - [Jamal Khashoggi](Jamal_Khashoggi.md): Walked into a Saudi consulate for a marriage document. Walked out in pieces, in suitcases.
 - [Georgi Markov](Georgi_Markov.md): Stabbed with a poisoned umbrella tip on a London bridge. Dead in three days from ricin.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower run off the road the night she was delivering proof of contamination cover-ups.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower run off the road the night she was delivering proof of contamination cover-ups.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader dissolved in acid by Belgian agents after a CIA-backed coup.
 
 ## Sources

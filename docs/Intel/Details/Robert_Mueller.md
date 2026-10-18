@@ -140,16 +140,16 @@ In 2018, Congressman Louie Gohmert (R-TX) published a 48-page report titled *Rob
 ## See Also
 
 - [Seth Rich](Seth_Rich.md) — DNC staffer whose murder remains unsolved; FBI documents mentioning Mueller released via FOIA
-- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating PROMIS software and intelligence connections
+- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating PROMIS software and intelligence connections
 - [David Kelly](David_Kelly.md) — UK weapons inspector who died before testimony; records sealed
 - [Pat Tillman](Pat_Tillman.md) — NFL star killed by friendly fire; Pentagon cover-up
 
 ## Other Shocking Stories
 
 - [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. FBI documents mention Mueller and Clinton in connection with his death.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower killed driving to meet a reporter. Documents she was carrying vanished from the wreckage.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower killed driving to meet a reporter. Documents she was carrying vanished from the wreckage.
 - [Gary Webb](Gary_Webb.md): Reporter who exposed CIA-crack cocaine pipeline shot himself twice in the head. Ruled suicide.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD fell from a hotel window. 40 years later, exhumation found he'd been knocked unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD fell from a hotel window. 40 years later, exhumation found he'd been knocked unconscious first.
 
 ## Sources
 

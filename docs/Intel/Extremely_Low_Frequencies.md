@@ -97,7 +97,7 @@ Puharich's ELF research overlapped significantly with his UAP and consciousness 
 ## Related Profiles
 
 * [Andrija Puharich](Details/Andrija_Puharich.md) — Primary case. Arson of his research estate, 1978. Fled to Mexico. Directly accused CIA.
-* [Frank Olson](Details/Frank_Olson.md) — CIA scientist working on psychochemical weapons; MKULTRA victim; died in fall from hotel window.
+* [Frank Olson](Details/Frank_Olson.mdx) — CIA scientist working on psychochemical weapons; MKULTRA victim; died in fall from hotel window.
 * [Philip K. Dick](Details/Philip_K_Dick.md) — Author documenting FBI/CIA surveillance; home safe professionally blown open.
 * [Christopher Fallen](Details/Christopher_Fallen.md) — Former HAARP chief scientist; found bound and asphyxiated.
 * [Paul Vigay](Details/Paul_Vigay.md) — British researcher studying electromagnetic anomalies; found dead at sea.

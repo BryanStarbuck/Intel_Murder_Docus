@@ -87,7 +87,7 @@ Kocner's defense argued that there was insufficient direct evidence linking him 
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
 - [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
 - [Arkady Babchenko](Arkady_Babchenko.md): Ukraine faked his assassination to catch Russian hitmen. The plot to kill him was real.

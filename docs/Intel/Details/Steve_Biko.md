@@ -120,7 +120,7 @@ In post-apartheid South Africa, Biko is honored as one of the country's greatest
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Karen Silkwood](Karen_Silkwood.mdx): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
 - [Qasem Soleimani](Qasem_Soleimani.md): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first democratically elected leader. The CIA and Belgium had him executed within seven months.
 - [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.

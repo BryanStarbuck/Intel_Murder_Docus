@@ -103,7 +103,7 @@ Rohwedder was known for favoring restructuring and preservation of East German e
 
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB agent poisoned with radioactive polonium-210 in his London tea. Took three weeks to die.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader dissolved in acid by Belgian agents after a CIA-backed coup.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower run off the road the night she was delivering proof of contamination cover-ups.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower run off the road the night she was delivering proof of contamination cover-ups.
 - [Fred Hampton](Fred_Hampton.md): Black Panther leader drugged by an informant, then shot in bed by police at age 21.
 
 ## Sources

@@ -112,9 +112,9 @@ Karl Allen organized a "John Patler Defense Fund" and promoted the theory that e
 ## Other Shocking Stories
 
 - [Fred Hampton](Fred_Hampton.md): FBI drugged him, gave police his floor plan, and 99 bullets later called it a "gunfight."
-- [Frank Olson](Frank_Olson.md): CIA dosed their own scientist with LSD, then threw him out a hotel window to keep MKUltra secret.
+- [Frank Olson](Frank_Olson.mdx): CIA dosed their own scientist with LSD, then threw him out a hotel window to keep MKUltra secret.
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md): Journalist died after privately interviewing JFK assassin Jack Ruby. Her notes vanished completely.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower forced off the road while driving to meet a New York Times reporter with documents.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower forced off the road while driving to meet a New York Times reporter with documents.
 
 ## Sources
 

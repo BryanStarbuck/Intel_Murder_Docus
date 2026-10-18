@@ -129,7 +129,7 @@ Scotland Yard reopened the case again in May 2008, requesting documents and ques
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Another state poisoning in London using polonium-210, 2006. The Litvinenko case echoed Markov's: exotic toxin, defector target, Russian intelligence confirmed
 - [Sergei Skripal](Sergei_Skripal.md) — Novichok poisoning in Salisbury, 2018. Like Markov, targeted as a traitor by his former intelligence service on British soil
 - [Alexei Navalny](Alexei_Navalny.md) — Novichok poisoning 2020, died in Arctic prison 2024. Continued the pattern of Russian state poisoning of political opponents
-- [Frank Olson](Frank_Olson.md) — CIA scientist who died in 1953 under suspicious circumstances, connected to the same biological/chemical weapons programs that produced assassination toxins
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist who died in 1953 under suspicious circumstances, connected to the same biological/chemical weapons programs that produced assassination toxins
 - [Kim Jong-nam](Kim_Jong_nam.md) — Assassinated with VX nerve agent in Kuala Lumpur airport, 2017. State-sponsored poisoning of a defector in a public place, echoing the Markov method
 
 ## Other Shocking Stories

@@ -132,7 +132,7 @@ The al-Qaeda role, however, is not disputed by any party.
 - [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa in 1961 -- evidence points to a shoot-down by mercenaries.
 - [Anna Politkovskaya](Anna_Politkovskaya.md): Russian journalist investigating Chechen war crimes shot dead in her apartment elevator on Putin's birthday.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader overthrown by CIA, executed, then dissolved in acid to destroy all evidence.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower died in suspicious car crash the night she was bringing proof of safety violations to a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower died in suspicious car crash the night she was bringing proof of safety violations to a reporter.
 
 ## Sources
 

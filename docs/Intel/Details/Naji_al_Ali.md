@@ -95,7 +95,7 @@ Israel has never officially commented on allegations of Mossad involvement in al
 ## Other Shocking Stories
 
 - [Jamal Khashoggi](Jamal_Khashoggi.md): Lured into Saudi consulate in Istanbul, dismembered alive by a 15-man assassination team sent by MBS.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower killed in suspicious car crash the night she was bringing evidence to a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower killed in suspicious car crash the night she was bringing evidence to a reporter.
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with radioactive polonium-210 in his tea at a London hotel by Russian agents.
 - [Salvador Allende](Salvador_Allende.md): Democratically elected Chilean president died during CIA-backed military coup that installed Pinochet's dictatorship.
 

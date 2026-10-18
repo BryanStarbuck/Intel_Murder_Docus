@@ -103,13 +103,13 @@ This meme format presents the claims in first-person voice. The claims regarding
 
 - [Gary Webb](Gary_Webb.md) — Journalist killed after exposing CIA-Clinton-era connections to drug trafficking
 - [Mary Pinchot_Meyer](Mary_Pinchot_Meyer.md) — Alleged presidential mistress killed in 1964
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating Clinton-era intelligence connections killed in 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating Clinton-era intelligence connections killed in 1991
 - [Seth Rich](Seth_Rich.md) — Another contested death with political dimensions
 
 ## Other Shocking Stories
 
 - [Fred Hampton](Fred_Hampton.md): FBI provided floor plans to police who killed the sleeping Black Panther leader in his bed.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower's documents vanished from her crashed car en route to the New York Times.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower's documents vanished from her crashed car en route to the New York Times.
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's alleged mistress shot twice on a Georgetown towpath; CIA chief seized and destroyed her diary.
 - [Gary Webb](Gary_Webb.md): Pulitzer-contributing journalist died from two gunshots to the head, ruled suicide.
 

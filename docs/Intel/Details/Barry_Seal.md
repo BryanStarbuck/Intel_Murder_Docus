@@ -151,7 +151,7 @@ The official position is that Seal was killed by the Medellin Cartel in retaliat
 - [Philip Marshall](Philip_Marshall.md) — pilot who flew for Barry Seal, author of *The Big Bamboozle*; found dead alongside his two children in 2013
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent kidnapped, tortured, and murdered in Mexico in 1985 while investigating cartel-government connections
 - [Manuel Buendia](Manuel_Buendia.md) — Mexican journalist investigating CIA operations and drug trafficking; assassinated in 1984
-- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating the Octopus / intelligence-crime connections; found dead in 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating the Octopus / intelligence-crime connections; found dead in 1991
 - [CIA (Group Profile)](/epstein-murders/other/groups/cia) — intelligence service connected to this case
 
 ## Other Shocking Stories

@@ -147,7 +147,7 @@ Pearl's family established the Daniel Pearl Foundation to promote cross-cultural
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Karen Silkwood](Karen_Silkwood.mdx): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
 - [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
 - [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.

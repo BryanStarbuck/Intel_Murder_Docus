@@ -83,7 +83,7 @@ Despite the bombing and her subsequent cancer, Redwood Summer went forward in th
 ## See Also
 
 - [Fred Hampton](Fred_Hampton.md) — Black Panther leader targeted and killed by FBI COINTELPRO operations
-- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist whose death was ruled suicide under suspicious circumstances
+- [Danny Casolaro](Danny_Casolaro.mdx) — investigative journalist whose death was ruled suicide under suspicious circumstances
 
 ## Other Shocking Stories
 

@@ -105,15 +105,15 @@ There are significant reasons to consider Thomas's death a tragic personal crisi
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead February 2026; part of the same cluster
 - [William Neil McCasland](William_Neil_McCasland.md) — Retired Air Force Major General missing since February 2026; part of the same cluster
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — NASA JPL engineer missing since June 2025; part of the same cluster
-- [Frank Olson](Frank_Olson.md) — CIA scientist who died under suspicious circumstances; biological weapons research with intelligence dimensions
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist who died under suspicious circumstances; biological weapons research with intelligence dimensions
 - [David Kelly](David_Kelly.md) — UK weapons scientist found dead before testimony; official ruling disputed by experts
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
+- [Karen Silkwood](Karen_Silkwood.mdx): Plutonium plant whistleblower died in car crash en route to hand evidence to the New York Times.
 - [Alexander Litvinenko](Alexander_Litvinenko.md): Former FSB officer poisoned with polonium-210 in London; named Putin as his killer from his deathbed.
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist assassinated by AI-controlled remote gun mounted in a parked Nissan pickup truck.
-- [Danny Casolaro](Danny_Casolaro.md): Journalist investigating "The Octopus" found dead in hotel bathtub the night before a key meeting.
+- [Danny Casolaro](Danny_Casolaro.mdx): Journalist investigating "The Octopus" found dead in hotel bathtub the night before a key meeting.
 
 ## Sources
 

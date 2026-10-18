@@ -147,7 +147,7 @@ These claims rely solely on the coincidence of timing and Fuddy's peripheral rol
 
 ## Other Shocking Stories
 
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower's documents vanished from her car. Rear bumper proved she was rammed from behind. Age 28.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower's documents vanished from her car. Rear bumper proved she was rammed from behind. Age 28.
 - [Pat Tillman](Pat_Tillman.md): NFL star turned Army Ranger shot three times in the head by his own unit. Pentagon covered it up for weeks.
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md): America's most famous columnist found dead after privately interviewing Jack Ruby about the JFK assassination. Her notes vanished.
 - [David Kelly](David_Kelly.md): UK weapons inspector who challenged Iraq WMD claims. Wrist slashed. Almost no blood at scene. Records sealed until 2073.

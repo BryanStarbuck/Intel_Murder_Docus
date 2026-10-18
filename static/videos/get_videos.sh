@@ -101,7 +101,7 @@ ipfs get --output=2065099565447930204.mp4 QmXnjqy7DsLefD3wWmQh3BuCNmZuY23WgrpMxA
 # Source: https://x.com/PizzaGateX/status/2065099565447930204
 
 # ============================================================
-# Investigation: Intel  (7 videos)
+# Investigation: Intel  (8 videos)
 # ============================================================
 
 ipfs get --output=2044938947495940117.mp4 Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ && ipfs pin add Qmcsf7pCYjaits6N4NE2tuyKVYGUEcE6nAR5o4CASR5FaJ
@@ -130,6 +130,10 @@ ipfs get --output=2053290253494981052.mp4 QmZ7acpS7exGgJ9CnrVK4ChpxLinyiyjkrEFiq
 
 ipfs get --output=2067608272601743704.mp4 QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B && ipfs pin add QmVd7D7esdgbaHHeX2rrGCcYFG6sUCbWPEuGQskHribY3B
 # Intel | Brandy Vaughan — Merck whistleblower who warned any harm to her would be foul play, found dead at 44 by her 9-year-old son (@ValerieAnne1970)
+
+ipfs get --output=2111822092630913067.mp4 QmZ88n6hwNJGjD9xZo33mG1nrZa81EEvto3mmixjC4jk4s && ipfs pin add QmZ88n6hwNJGjD9xZo33mG1nrZa81EEvto3mmixjC4jk4s
+# Intel | Five whistleblowers who died in suspicious circumstances — Balaji, Silkwood, Barnett/Dean, Olson, Casolaro (@Rahul_AJ_1990)
+# Source: https://x.com/Rahul_AJ_1990/status/2111822092630913067
 # Source: https://x.com/ValerieAnne1970/status/2067608272601743704
 
 

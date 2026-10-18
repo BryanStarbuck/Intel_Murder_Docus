@@ -108,7 +108,7 @@ Browder documented the entire saga in his bestselling books *Red Notice* (2015) 
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Roman Tsepov](Roman_Tsepov.md): Putin's former personal security chief died of radioactive poisoning two years before they did it to Litvinenko.
 - [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
 - [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.

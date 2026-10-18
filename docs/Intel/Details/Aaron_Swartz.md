@@ -136,11 +136,12 @@ Ethan Zuckerman, who resigned from the Media Lab over the Epstein scandal, was a
 
 ## See Also
 
+- [Suchir Balaji](Suchir_Balaji.mdx) — former OpenAI researcher who argued AI training broke copyright law; found shot dead in 2024, ruled suicide, parents dispute
 - [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) — MIT accepted his donations while facilitating the prosecution of Swartz
 - [Marvin Minsky](/epstein-murders/Details/Marvin_Minsky) — MIT AI pioneer, Epstein's closest friend at MIT, named in Epstein filings, received Epstein's earliest MIT donation
 - [Nikolai Mushegian](/epstein-murders/Details/Nikolai_Mushegian) — MakerDAO co-founder who tweeted about CIA/Mossad sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
 - [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — "DC Madam" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating PROMIS software and intelligence operations; another individual who threatened to expose powerful networks
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigative journalist killed while investigating PROMIS software and intelligence operations; another individual who threatened to expose powerful networks
 ## Other Shocking Stories
 
 - [Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
@@ -309,7 +310,7 @@ Ethan Zuckerman, who resigned from the Media Lab over the Epstein scandal, was a
 - [Marvin Minsky](/epstein-murders/Details/Marvin_Minsky) — MIT AI pioneer, Epstein's closest friend at MIT, named in Epstein filings, received Epstein's earliest MIT donation
 - [Nikolai Mushegian](Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about [CIA](/epstein-murders/other/groups/cia)/[Mossad](/epstein-murders/other/groups/mossad) sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
 - [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — "[DC Madam](/epstein-murders/other/groups/dc_madam)" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating [PROMIS](/epstein-murders/other/groups/promis_octopus) software and intelligence operations; another individual who threatened to expose powerful networks
+- [Danny Casolaro](Danny_Casolaro.mdx) — Investigative journalist killed while investigating [PROMIS](/epstein-murders/other/groups/promis_octopus) software and intelligence operations; another individual who threatened to expose powerful networks
 ## Other Shocking Stories
 
 - [Jean-Luc Brunel](/epstein-murders/Details/Jean_Luc_Brunel): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.

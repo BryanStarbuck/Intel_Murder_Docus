@@ -161,9 +161,9 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 
 - [Phil Graham](Phil_Graham.md) — *Washington Post* publisher who publicly disclosed the Kennedy–Meyer affair in January 1963 and died of a shotgun wound seven months later, ruled suicide
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating JFK assassination, died of suspicious overdose in November 1965. Both Kilgallen and Meyer challenged the Warren Commission, both had insider access, and both died before going public with what they knew.
-- [Frank Olson](Frank_Olson.md) — CIA scientist killed under suspicious circumstances; MKULTRA connection links to Meyer's interest in LSD and the CIA's parallel drug experiments
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist killed under suspicious circumstances; MKULTRA connection links to Meyer's interest in LSD and the CIA's parallel drug experiments
 - [William Colby](William_Colby.md) — Former CIA Director who died under suspicious circumstances
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations, found dead in hotel room
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist investigating intelligence operations, found dead in hotel room
 
 - CIA (Group Profile) — intelligence service connected to this case through James Angleton, Cord Meyer, and the Georgetown social circle
 

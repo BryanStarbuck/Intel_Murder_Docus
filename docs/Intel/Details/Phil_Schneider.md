@@ -106,7 +106,7 @@ The official ruling was suicide. The catheter tube — a rubber hose — is plau
 
 - [William Colby](William_Colby.md) — Former CIA Director who cooperated with Church Commission; died in canoe trip the same year
 - [Andrija Puharich](Andrija_Puharich.md) — Researcher into ELF weapons and consciousness; estate burned down after classified research
-- [Frank Olson](Frank_Olson.md) — CIA scientist dosed without consent; ruled homicide in second autopsy
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist dosed without consent; ruled homicide in second autopsy
 - [Philip Marshall](Philip_Marshall.md) — CIA-connected pilot and author; found dead with his two children
 
 **Related thematic pages:**
@@ -118,8 +118,8 @@ The official ruling was suicide. The catheter tube — a rubber hose — is plau
 
 ## Other Shocking Stories
 
-- [Frank Olson](Frank_Olson.md): CIA dosed him with LSD without consent — then he fell from a hotel window. Medical examiner ruled homicide.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower crashed on the way to deliver documents to the New York Times. Documents were never found.
+- [Frank Olson](Frank_Olson.mdx): CIA dosed him with LSD without consent — then he fell from a hotel window. Medical examiner ruled homicide.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower crashed on the way to deliver documents to the New York Times. Documents were never found.
 - [Gary Webb](Gary_Webb.md): Exposed the CIA-Contra crack pipeline, had his career destroyed by a 17-reporter media assault — died with two bullets in his head.
 - [Job Price](Job_Price.md): SEAL commander found dead with shell casing under his body — physically impossible if he shot himself. Four forensic experts agreed.
 

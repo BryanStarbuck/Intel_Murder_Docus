@@ -1,7 +1,7 @@
 ---
 title: "Intelligence Service Murders: Assassination Methods Index"
 sidebar_label: Methods
-description: "All 153 documented intelligence service murders organized by method of killing — poisonings (polonium, Novichok, ricin), staged suicides, plane crashes, car bombs, and more."
+description: "All 156 documented intelligence service murders organized by method of killing — poisonings (polonium, Novichok, ricin), staged suicides, plane crashes, car bombs, and more."
 keywords: ["assassination methods", "intelligence service murders", "polonium poisoning", "Novichok", "ricin", "staged suicide", "plane crash", "car bomb", "thallium", "VX nerve agent"]
 image: /img/docusaurus-social-card.jpg
 ---
@@ -10,7 +10,7 @@ image: /img/docusaurus-social-card.jpg
 
 # Intelligence Service Murders: Assassination Methods Index
 
-All 153 profiles organized by method of killing or attack.
+All 156 profiles organized by method of killing or attack.
 
 ---
 
@@ -22,6 +22,8 @@ The most common assassination method. Includes snipers, close-range execution, d
 - [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT fusion physicist shot in apartment foyer, Brookline MA (2025)
 - [Charlie Kirk](Details/Charlie_Kirk.md) — Single gunshot to neck by rooftop sniper (2025)
 - [Melissa Hortman](Details/Melissa_Hortman.md) — Shot in home, Brooklyn Park MN (2025)
+- [Suchir Balaji](Details/Suchir_Balaji.mdx) — Gunshot to head in locked apartment, ruled suicide, San Francisco (2024)
+- [John Barnett](Details/John_Barnett.mdx) — Gunshot to head in locked truck, ruled suicide, Charleston SC (2024)
 - [Philip Haney](Details/Philip_Haney.md) — Gunshot, ruled suicide (2020)
 - [Seth Rich](Details/Seth_Rich.md) — Shot twice in back, DC (2016)
 - [Philip Marshall](Details/Philip_Marshall.md) — Gunshot wound to head (2013)
@@ -89,7 +91,7 @@ The most common assassination method. Includes snipers, close-range execution, d
 
 ## Poisoning — Chemical, Biological, and Radioactive
 
-- [Frank Olson](Details/Frank_Olson.md) — Dosed with LSD (MKULTRA), fell/pushed from hotel window, New York (1953)
+- [Frank Olson](Details/Frank_Olson.mdx) — Dosed with LSD (MKULTRA), fell/pushed from hotel window, New York (1953)
 - [Alexei Navalny](Details/Alexei_Navalny.md) — Novichok poisoning (2020, survived); died in Arctic penal colony (2024)
 - [Sergei Skripal](Details/Sergei_Skripal.md) — Novichok nerve agent, Salisbury (2018) — **SURVIVED**
 - [Kim Jong-nam](Details/Kim_Jong_nam.md) — VX nerve agent at Kuala Lumpur airport (2017)
@@ -122,7 +124,7 @@ The most common assassination method. Includes snipers, close-range execution, d
 
 - [Diana Spencer](Details/Diana_Spencer.md) — Princess of Wales killed in high-speed crash in Pont de l'Alma tunnel, Paris; driver Henri Paul had reported intelligence contacts; bright flash, white Fiat Uno never identified, 2-hour ambulance delay (1997)
 - [Michael Hastings](Details/Michael_Hastings.md) — Car exploded at high speed, Los Angeles (2013)
-- [Karen Silkwood](Details/Karen_Silkwood.md) — Car crash en route to meet reporter, rear bumper dent suggests forced off road (1974)
+- [Karen Silkwood](Details/Karen_Silkwood.mdx) — Car crash en route to meet reporter, rear bumper dent suggests forced off road (1974)
 - [Serena Shim](Details/Serena_Shim.md) — Car crash two days after Turkish intel accused her of espionage (2014)
 - [Philip Leonard](Details/Philip_Leonard.md) — LANL high-explosives chemist killed when another driver crossed center line on NM 501 near the lab (2024)
 - [Charles McMillan](Details/Charles_McMillan.md) — Former LANL director killed when another driver swerved into his lane in Los Alamos (2024)
@@ -143,13 +145,15 @@ The most common assassination method. Includes snipers, close-range execution, d
 
 Deaths ruled suicide but disputed by evidence, family, or investigators.
 
+- [Suchir Balaji](Details/Suchir_Balaji.mdx) — Gunshot, ruled suicide; parents' private autopsy disputes it (2024)
+- [John Barnett](Details/John_Barnett.mdx) — Gunshot during depositions against Boeing, ruled suicide (2024)
 - [Philip Haney](Details/Philip_Haney.md) — Gunshot, ruled suicide, family disputes (2020)
 - [Isaac Kappy](Details/Isaac_Kappy.md) — Fell from bridge onto highway (2019)
 - [Philip Marshall](Details/Philip_Marshall.md) — Gunshot, found dead with two children (2013)
 - [Gary Webb](Details/Gary_Webb.md) — Two gunshots to head, ruled suicide (2004)
 - [Bill Cooper](Details/Bill_Cooper.md) — Predicted 9/11, shot by sheriff's deputies (2001)
 - [Mark Lombardi](Details/Mark_Lombardi.md) — Found hanged in studio (2000)
-- [Danny Casolaro](Details/Danny_Casolaro.md) — Wrists slashed in hotel room, briefcase missing (1991)
+- [Danny Casolaro](Details/Danny_Casolaro.mdx) — Wrists slashed in hotel room, briefcase missing (1991)
 - [Job Price](Details/Job_Price.md) — Gunshot ruled suicide, four forensic experts disagree (2012)
 - [William Colby](Details/William_Colby.md) — Drowned during canoe trip, left dinner half-eaten (1996)
 - [John Paisley](Details/John_Paisley.md) — Found in Chesapeake Bay with gunshot wound and dive belt (1978)
@@ -217,7 +221,7 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 - [Trevor Moore](Details/Trevor_Moore.md) — Fell from second-story balcony at 2:30 a.m. (2021)
 - [Isaac Kappy](Details/Isaac_Kappy.md) — Fell from bridge onto I-40 (also listed under Staged Suicide) (2019)
 - [Ravil Maganov](Details/Ravil_Maganov.md) — Fell from sixth-floor hospital window (2022)
-- [Frank Olson](Details/Frank_Olson.md) — Fell from hotel window (also listed under Poisoning — was dosed with LSD) (1953)
+- [Frank Olson](Details/Frank_Olson.mdx) — Fell from hotel window (also listed under Poisoning — was dosed with LSD) (1953)
 
 ## Head Injury / Blunt Force
 
@@ -234,6 +238,7 @@ Deaths ruled suicide but disputed by evidence, family, or investigators.
 
 ## Overdose / Mysterious Illness / Natural Causes (Disputed)
 
+- [Joshua Dean](Details/Joshua_Dean.mdx) — Sudden MRSA and flu infection in a healthy 45-year-old Boeing-supplier whistleblower (2024)
 - [Robert Mueller](Details/Robert_Mueller.md) — Parkinson's disease (undisclosed), died before Epstein testimony (2026)
 - [Jenny Moore](Details/Jenny_Moore.md) — Found dead in DC hotel, cause unclear (2018)
 - [Vitaly Churkin](Details/Vitaly_Churkin.md) — Sudden death, cause initially withheld, New York (2017)

@@ -117,14 +117,14 @@ The 2014 film *Unthinkable: An Airline Captain's Story* is a docudrama based on 
 
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot whom Marshall flew with during Iran-Contra; assassinated in 1986
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA drug trafficking and died of two gunshot wounds to the head, ruled "suicide"
-- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist killed while exposing the "Octopus" network connecting PROMIS, Iran-Contra, and intelligence operations
+- [Danny Casolaro](Danny_Casolaro.mdx) — investigative journalist killed while exposing the "Octopus" network connecting PROMIS, Iran-Contra, and intelligence operations
 - [Bill Cooper](Bill_Cooper.md) — author and broadcaster who predicted 9/11, shot dead by law enforcement under disputed circumstances
 - CIA (Group Profile) — intelligence service connected to this case
 
 ## Other Shocking Stories
 
 - [Gary Webb](Gary_Webb.md): Exposed CIA crack cocaine trafficking. Died of two gunshot wounds to the head — ruled a "suicide."
-- [Danny Casolaro](Danny_Casolaro.md): Investigating the "Octopus" linking PROMIS software, Iran-Contra, and intelligence. Found dead in a hotel bathtub.
+- [Danny Casolaro](Danny_Casolaro.mdx): Investigating the "Octopus" linking PROMIS software, Iran-Contra, and intelligence. Found dead in a hotel bathtub.
 - [David Kelly](David_Kelly.md): UK weapons inspector who challenged Iraq WMD claims. Found dead in the woods days after testimony.
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
 

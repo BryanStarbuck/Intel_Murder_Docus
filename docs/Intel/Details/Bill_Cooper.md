@@ -220,7 +220,7 @@ He told his audience exactly how it would end. He was right about that, too.
 ## See Also
 
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA drug trafficking; died of two gunshots to the head, ruled suicide
-- [Danny Casolaro](Danny_Casolaro.md) — investigated intelligence connections and "The Octopus"; found dead in hotel
+- [Danny Casolaro](Danny_Casolaro.mdx) — investigated intelligence connections and "The Octopus"; found dead in hotel
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director Brennan; died in suspicious car crash
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower; found dead, ruled suicide
 - [William Colby](William_Colby.md) — former CIA Director who cooperated with Church Commission; drowned under suspicious circumstances

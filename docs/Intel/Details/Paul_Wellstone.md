@@ -134,7 +134,7 @@ Regardless of the cause of the crash, certain facts are not in dispute:
 
 ## See Also
 
-- [Karen Silkwood](Karen_Silkwood.md) — another case of a plane/vehicle crash eliminating a political threat before a critical moment
+- [Karen Silkwood](Karen_Silkwood.mdx) — another case of a plane/vehicle crash eliminating a political threat before a critical moment
 - [Pat Tillman](Pat_Tillman.md) — another death where someone opposed to the Iraq War died under suspicious circumstances
 - [David Kelly](David_Kelly.md) — UK weapons inspector who challenged Iraq WMD claims, died in 2003
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating intelligence, killed in vehicle crash

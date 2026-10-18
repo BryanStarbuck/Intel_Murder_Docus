@@ -143,7 +143,7 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 ## See Also
 
 - [Robert Mueller](Robert_Mueller.md) — FBI Director (2001-2013) whose name appears in FBI documents related to Rich's murder; subpoenaed for Epstein testimony but died before testifying
-- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections who died under suspicious circumstances
+- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating intelligence connections who died under suspicious circumstances
 - [Michael Hastings](Michael_Hastings.md) — journalist who died in suspicious car crash while investigating intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died after exposing CIA operations
 - [Stefan Suto](Stefan_Suto.md) — 80-year-old civilian killed by hydrogen peroxide poisoning; death initially ruled natural causes, later reclassified as homicide after forensic autopsy
@@ -364,7 +364,7 @@ Important context often omitted from conspiracy narratives:
 - [Anastasia Drozdova](/epstein-murders/Details/Anastasia_Drozdova): Her friend Korshunova fell from a building.
 - [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
 - [Wendy Leigh](/epstein-murders/Details/Wendy_Leigh): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
-- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
+- [Danny Casolaro](Danny_Casolaro.mdx): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources
 

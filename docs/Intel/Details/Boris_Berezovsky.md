@@ -84,7 +84,7 @@ In his final years, Berezovsky faced severe financial difficulties that supporte
 ## Other Shocking Stories
 
 - [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
 - [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
 

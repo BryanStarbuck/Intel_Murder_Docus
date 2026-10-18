@@ -95,7 +95,7 @@ Salvador Astucia and others have argued that Perdomo may have been Chapman's han
 
 ### MKULTRA Precedent
 
-The CIA's MKULTRA program (1953-1973) was a documented effort to develop mind control techniques including the creation of programmed assassins. The Church Committee and subsequent investigations confirmed that MKULTRA used drugs (especially LSD), hypnosis, sensory deprivation, and psychological torture on unwitting subjects. CIA Director Richard Helms ordered the destruction of most MKULTRA files in 1973, but surviving documents and testimony confirmed the program's scope. CIA scientist [Frank Olson](Frank_Olson.md) was killed in 1953 after being dosed with LSD as part of these experiments.
+The CIA's MKULTRA program (1953-1973) was a documented effort to develop mind control techniques including the creation of programmed assassins. The Church Committee and subsequent investigations confirmed that MKULTRA used drugs (especially LSD), hypnosis, sensory deprivation, and psychological torture on unwitting subjects. CIA Director Richard Helms ordered the destruction of most MKULTRA files in 1973, but surviving documents and testimony confirmed the program's scope. CIA scientist [Frank Olson](Frank_Olson.mdx) was killed in 1953 after being dosed with LSD as part of these experiments.
 
 Bresler's case rests on documented precedent: through MKULTRA and its predecessor Operation Artichoke, the CIA demonstrably sought to create programmable assassins. The question Bresler raises is whether Chapman was a product of successor programs that continued after MKULTRA was officially shut down. Bresler points to Chapman's travels to CIA hubs, his psychological breakdown, his "three missing days," his dissociative state during and after the shooting, and his use of *The Catcher in the Rye* as a possible trigger mechanism.
 
@@ -149,7 +149,7 @@ The official account — that Chapman was a mentally ill lone gunman motivated b
 
 - [Fred Hampton](Fred_Hampton.md) — Black Panther leader killed by FBI COINTELPRO operation; the FBI used the same "neutralize" language against Hampton that appears in Lennon's file
 - [Mark Clark](Mark_Clark.md) — Killed alongside Fred Hampton in coordinated FBI-police raid
-- [Frank Olson](Frank_Olson.md) — CIA scientist killed after being dosed with LSD under MKULTRA; his case proves the CIA was willing to kill its own people to protect mind control secrets
+- [Frank Olson](Frank_Olson.mdx) — CIA scientist killed after being dosed with LSD under MKULTRA; his case proves the CIA was willing to kill its own people to protect mind control secrets
 - [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*, which documented CIA mind control programs; shot dead by law enforcement at his home
 - [Judi Bari](Judi_Bari.md) — Earth First! activist targeted by FBI; another case of the Bureau treating domestic activists as enemies of the state
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA drug trafficking; ruled a "suicide" despite two gunshot wounds to the head

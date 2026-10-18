@@ -81,7 +81,7 @@ That said, her law enforcement background, psychology degree, and the documented
 ## See Also
 
 - [Seth Rich](Seth_Rich.md) — another D.C. death with unresolved questions
-- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections, found dead in hotel
+- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating intelligence connections, found dead in hotel
 - [Michael Hastings](Michael_Hastings.md) — journalist killed in suspicious single-car crash while investigating intelligence agencies
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA-crack cocaine connection, died of two gunshot wounds ruled suicide
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating the JFK assassination, found dead under suspicious circumstances

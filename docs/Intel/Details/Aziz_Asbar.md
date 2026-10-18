@@ -90,7 +90,7 @@ Tahrir al-Sham, a Syrian rebel group, claimed responsibility for the car bombing
 
 - [Alexei Navalny](Alexei_Navalny.md): Russian opposition leader poisoned with Novichok, survived, then died in Arctic prison under mysterious circumstances.
 - [Fred Hampton](Fred_Hampton.md): 21-year-old Black Panther chairman drugged and shot dead in his bed by FBI-coordinated police raid.
-- [Danny Casolaro](Danny_Casolaro.md): Investigative journalist found in a hotel bathtub with both wrists slashed the night before a major meeting.
+- [Danny Casolaro](Danny_Casolaro.mdx): Investigative journalist found in a hotel bathtub with both wrists slashed the night before a major meeting.
 - [Orlando Letelier](Orlando_Letelier.md): Chilean diplomat killed by DINA car bomb in Washington, D.C., the most brazen assassination on American soil.
 
 ## Sources

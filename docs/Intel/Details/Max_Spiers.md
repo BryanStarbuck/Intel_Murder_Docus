@@ -79,7 +79,7 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist who also texted warnings before his death while investigating intelligence-connected conspiracies
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who also texted warnings before his death while investigating intelligence-connected conspiracies
 - [Bill Cooper](Bill_Cooper.md) — Author and broadcaster killed after exposing government conspiracies
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking, found dead in DC hotel
 - [Philip Marshall](Philip_Marshall.md) — Author exposing CIA connections, found dead

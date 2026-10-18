@@ -112,7 +112,7 @@ The case against Bensouda — as documented in her own public statements and by 
 - [Charlie Kirk](Charlie_Kirk.md): TPUSA founder shot by sniper at campus debate after calling for Epstein file transparency.
 - [Jamal Khashoggi](Jamal_Khashoggi.md): Saudi journalist strangled and dismembered inside Istanbul consulate; CIA concluded MBS ordered it.
 - [Gary Webb](Gary_Webb.md): Pulitzer journalist who exposed CIA-Contra crack pipeline found dead with two gunshots to head.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD without consent in MKULTRA; 1994 exhumation ruled homicide.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD without consent in MKULTRA; 1994 exhumation ruled homicide.
 
 ## Sources
 

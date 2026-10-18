@@ -134,9 +134,9 @@ In other emails sent the same day, Kelly did not sound like a man contemplating 
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) -- journalist found dead with wrists slashed in a hotel bathtub
+- [Danny Casolaro](Danny_Casolaro.mdx) -- journalist found dead with wrists slashed in a hotel bathtub
 - [Gary Webb](Gary_Webb.md) -- journalist who challenged CIA narratives, ruled suicide by two gunshots to the head
-- [Frank Olson](Frank_Olson.md) -- government scientist killed after questioning CIA programs
+- [Frank Olson](Frank_Olson.mdx) -- government scientist killed after questioning CIA programs
 - [Hilda Murrell](Hilda_Murrell.md) -- British anti-nuclear campaigner murdered with alleged MI5 connections
 - [William Colby](William_Colby.md) -- former CIA director found dead under suspicious circumstances
 - [Don Wiley](Don_Wiley.md) -- Harvard biologist who vanished during the 2001 anthrax crisis; like Kelly, a scientist with sensitive knowledge who died under suspicious circumstances

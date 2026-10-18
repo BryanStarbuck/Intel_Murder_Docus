@@ -100,7 +100,7 @@ However, significant questions have been raised about the safety of the convicti
 ## See Also
 
 - [David Kelly](David_Kelly.md) — UK weapons inspector who died before he could fully testify, 2003
-- [Karen Silkwood](Karen_Silkwood.md) — Anti-nuclear whistleblower killed en route to meet a reporter with documents, 1974. Both women were killed while challenging the nuclear industry, and in both cases key documents went missing after their deaths.
+- [Karen Silkwood](Karen_Silkwood.mdx) — Anti-nuclear whistleblower killed en route to meet a reporter with documents, 1974. Both women were killed while challenging the nuclear industry, and in both cases key documents went missing after their deaths.
 
 ## Other Shocking Stories
 

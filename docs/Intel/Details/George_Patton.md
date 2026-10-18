@@ -132,8 +132,8 @@ Historians who dispute the assassination theory note:
 
 ## See Also
 
-- [Frank Olson](Frank_Olson.md): CIA scientist killed during MKULTRA — another case where the official "accident" story was later contradicted by forensic evidence and family-driven investigations.
-- [Karen Silkwood](Karen_Silkwood.md): Whistleblower whose car crash en route to deliver documents to the New York Times has been compared to Patton's vehicular death.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist killed during MKULTRA — another case where the official "accident" story was later contradicted by forensic evidence and family-driven investigations.
+- [Karen Silkwood](Karen_Silkwood.mdx): Whistleblower whose car crash en route to deliver documents to the New York Times has been compared to Patton's vehicular death.
 - [William Colby](William_Colby.md): Former CIA Director who died under disputed circumstances — left dinner half-eaten, found in river.
 - [Diana Spencer](Diana_Spencer.md): Princess of Wales whose car crash death was ruled "unlawful killing" by an inquest jury — another high-profile vehicular death with intelligence dimensions.
 - [Pat Tillman](Pat_Tillman.md): NFL star turned Army Ranger killed by "friendly fire" — another military death where the official story was contradicted by evidence.
@@ -142,7 +142,7 @@ Historians who dispute the assassination theory note:
 
 - [Fred Hampton](Fred_Hampton.md): FBI drugged a 21-year-old Black Panther leader, then police shot him in bed while he slept. 99 shots fired; Panthers fired one.
 - [Gary Webb](Gary_Webb.md): Journalist who proved CIA flooded Black America with crack cocaine. Found dead with two bullets in his head. Ruled suicide.
-- [Frank Olson](Frank_Olson.md): CIA dosed their own scientist with LSD, then threw him out a hotel window. Government admitted it 22 years later.
+- [Frank Olson](Frank_Olson.mdx): CIA dosed their own scientist with LSD, then threw him out a hotel window. Government admitted it 22 years later.
 - [Job Price](Job_Price.md): SEAL Team 4 commander discovered missing CIA cash. Bullet casing found under his body — physically impossible if lying down when shot.
 
 ## Sources

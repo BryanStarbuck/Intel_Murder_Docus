@@ -262,7 +262,7 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent tortured and killed investigating CIA-connected drug trafficking in Mexico
 - [Manuel Buendia](Manuel_Buendia.md) — Mexican journalist murdered in 1984 while investigating CIA-drug trafficking connections
 - [Bill Cooper](Bill_Cooper.md) — author and broadcaster who discussed CIA drug trafficking; killed by law enforcement in 2001
-- [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections including PROMIS software; found dead in 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — journalist investigating intelligence connections including PROMIS software; found dead in 1991
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director; killed in car crash, 2013
 - [Philip Marshall](Philip_Marshall.md) — author investigating CIA drug and arms operations; found dead in apparent murder-suicide
 - [Luis Carlos Galan](Luis_Carlos_Galan.md) — Colombian presidential candidate assassinated by cartel hitmen with intelligence complicity; his anti-extradition stance threatened the same CIA-connected drug networks Webb exposed
@@ -272,7 +272,7 @@ In **2014**, the story was adapted into the film **Kill the Messenger**, directe
 ## Other Shocking Stories
 
 - [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it "friendly fire" and burned his uniform.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Enrique Camarena](Enrique_Camarena.md): DEA agent tortured for 30 hours on tape. The CIA allegedly knew where he was held and did nothing.
 - [Barry Seal](Barry_Seal.md): Top CIA drug pilot murdered days before trial. His phone had George H.W. Bush's private number in it.
 

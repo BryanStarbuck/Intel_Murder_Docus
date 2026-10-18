@@ -134,7 +134,7 @@ After Guevara's death in Bolivia in 1967, the photograph was reproduced globally
 ## Other Shocking Stories
 
 - [Patrice Lumumba](Patrice_Lumumba.md): CIA shipped poison to kill Congo's first leader. Belgian operatives dissolved his body in acid instead.
-- [Frank Olson](Frank_Olson.md): CIA dosed their own scientist with LSD. Days later he "fell" from a hotel window. His skull showed a blow.
+- [Frank Olson](Frank_Olson.mdx): CIA dosed their own scientist with LSD. Days later he "fell" from a hotel window. His skull showed a blow.
 - [Orlando Letelier](Orlando_Letelier.md): Chilean exile killed by a car bomb on Embassy Row in Washington, D.C. — ordered by Pinochet's secret police.
 - [Georgi Markov](Georgi_Markov.md): Bulgarian dissident stabbed with a ricin-tipped umbrella on Waterloo Bridge. Dead in three days.
 

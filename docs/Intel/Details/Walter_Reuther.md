@@ -139,7 +139,7 @@ Skeptics of foul play also note that targeting a single individual on a chartere
 
 - [Paul Wellstone](Paul_Wellstone.md) — U.S. Senator killed in a plane crash before reelection, also targeted by political opponents
 - [Hale Boggs](Hale_Boggs.md) — U.S. House Majority Leader who vanished in a plane crash with no wreckage ever recovered
-- [Karen Silkwood](Karen_Silkwood.md) — Nuclear whistleblower killed in a car crash en route to deliver documents
+- [Karen Silkwood](Karen_Silkwood.mdx) — Nuclear whistleblower killed in a car crash en route to deliver documents
 - [Fred Hampton](Fred_Hampton.md) — Black Panther leader killed in an FBI-coordinated police raid
 - [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md) — JFK confidante shot in Georgetown weeks after the Warren Commission report
 

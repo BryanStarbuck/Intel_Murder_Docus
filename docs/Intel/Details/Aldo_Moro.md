@@ -148,7 +148,7 @@ The Italian judiciary has consistently found that the Red Brigades bore sole res
 - [Roberto Calvi](Roberto_Calvi.md) -- "God's Banker" found dead under Blackfriars Bridge; connected to P2 Masonic Lodge and Vatican finances, the same network implicated in the Moro case
 - [Olof Palme](Olof_Palme.md) -- Swedish Prime Minister assassinated in 1986; another European leader allegedly killed with intelligence service connections for pursuing independent foreign policy
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- UN Secretary-General whose 1961 plane crash involved multiple intelligence agencies
-- [Danny Casolaro](Danny_Casolaro.md) -- investigated PROMIS software and intelligence networks overlapping with Gladio-era operations
+- [Danny Casolaro](Danny_Casolaro.mdx) -- investigated PROMIS software and intelligence networks overlapping with Gladio-era operations
 - [Enrique Camarena](Enrique_Camarena.md) -- DEA agent killed after exposing CIA complicity; similar pattern of intelligence services sacrificing individuals
 
 - CIA (Group Profile) -- intelligence service connected to this case

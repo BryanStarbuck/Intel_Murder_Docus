@@ -107,7 +107,7 @@ According to reports, Safra's cooperation with the FBI made him a target of a so
 
 - [Georgi Markov](Georgi_Markov.md): Stabbed with a poisoned umbrella tip on a London bridge. Dead in three days from ricin.
 - [Gerald Bull](Gerald_Bull.md): Supergun designer shot five times outside his Brussels apartment. Mossad, CIA, and Iraq all had reasons.
-- [Danny Casolaro](Danny_Casolaro.md): Journalist investigating "The Octopus" found dead in a hotel bathtub, wrists slashed twelve times.
+- [Danny Casolaro](Danny_Casolaro.mdx): Journalist investigating "The Octopus" found dead in a hotel bathtub, wrists slashed twelve times.
 - [David Kelly](David_Kelly.md): British weapons inspector who challenged Iraq WMD claims found dead in woods after being exposed as a source.
 
 ## Sources

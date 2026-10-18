@@ -85,7 +85,7 @@ The official ruling of accidental death is based on a plausible, if unlikely, sc
 ## See Also
 
 - [David Kelly](David_Kelly.md) - British weapons inspector found dead during the Iraq WMD controversy
-- [Frank Olson](Frank_Olson.md) - CIA biochemist who fell from a hotel window in 1953 during MK-Ultra experiments
+- [Frank Olson](Frank_Olson.mdx) - CIA biochemist who fell from a hotel window in 1953 during MK-Ultra experiments
 - [Gary Webb](Gary_Webb.md) - Journalist who investigated CIA drug trafficking, ruled suicide by two gunshots to the head
 - [Philip Haney](Philip_Haney.md) - DHS whistleblower found dead from gunshot wound
 

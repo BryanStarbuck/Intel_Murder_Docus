@@ -109,7 +109,7 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 
 ## Why This Death Raises Questions
 
-- **Explicit prediction:** Multiple videos stating "If I die, it wasn't suicide" — matching the pattern of [Danny Casolaro](Danny_Casolaro.md), who told friends the same thing before being found dead
+- **Explicit prediction:** Multiple videos stating "If I die, it wasn't suicide" — matching the pattern of [Danny Casolaro](Danny_Casolaro.mdx), who told friends the same thing before being found dead
 - **Timing:** 60 days before Epstein's arrest, during a period when SDNY was reportedly building its case
 - **Sequential deaths:** Kappy (May) → Twyman (July) → Epstein (August) — three deaths in three months, all connected to the same network
 - **Twyman's dead man's switch:** Eleven days after Kappy's death, Tracy Twyman recorded a 27-minute video documenting threats against her life connected to the same research. She was found hanged six weeks later
@@ -145,7 +145,7 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 
 ## See Also
 
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist who investigated PROMIS/intelligence connections and told friends "if I die, it wasn't suicide"; found dead 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who investigated PROMIS/intelligence connections and told friends "if I die, it wasn't suicide"; found dead 1991
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; died of two gunshots to the head, ruled suicide
 - [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*; predicted 9/11-type event; killed in tactical operation 2001
 - [Philip Marshall](Philip_Marshall.md) — CIA-connected pilot who wrote about Saudi-9/11 connections; found dead with his two children 2013
@@ -245,7 +245,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 
 ## Why This Death Possibly Raises Questions
 
-- **Explicit death prediction:** Kappy recorded multiple videos explicitly stating "If I die, it wasn't suicide" — the same pattern seen in [Natacha Jaitt](/epstein-murders/Details/Natacha_Jaitt), [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey), [Danny Casolaro](Danny_Casolaro.md), and [Nikolai Mushegian](Nikolai_Mushegian.md)
+- **Explicit death prediction:** Kappy recorded multiple videos explicitly stating "If I die, it wasn't suicide" — the same pattern seen in [Natacha Jaitt](/epstein-murders/Details/Natacha_Jaitt), [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey), [Danny Casolaro](Danny_Casolaro.mdx), and [Nikolai Mushegian](Nikolai_Mushegian.md)
 - **60-day window:** Kappy died May 13, 2019. [Jeffrey Epstein](/epstein-murders/Details/Jeffrey_Epstein) was arrested July 6, 2019. The proximity has been noted by researchers as falling within the "pre-arrest cluster" that also included [Sabrina Bittencourt](/epstein-murders/Details/Sabrina_Bittencourt) (February 2019), [Natacha Jaitt](/epstein-murders/Details/Natacha_Jaitt) (February 2019), [Tracy Twyman](/epstein-murders/Details/Tracy_Twyman) (July 2019), and Epstein himself (August 2019)
 - **Tracy Twyman's death:** Twyman picked up Kappy's research after his death, then was found hanged in her garage approximately two months later. Eleven days after Kappy died, Twyman recorded her own 27-minute "dead man's switch" video documenting threats against her life
 - **Final Instagram note anomalies:** The note's tone — claiming to be "the reincarnation of Judas Iscariot," apologizing to Trump, QAnon, and Jesus Christ — struck some observers as coerced or written under duress rather than reflecting genuine suicidal ideation. Others interpret it as a mental health crisis
@@ -295,7 +295,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - [Max Spiers](Max_Spiers.md) — Conspiracy researcher who texted mother fearing murder; died 2016
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking; found dead in DC hotel 2018
 - [Deborah Jeane Palfrey](/epstein-murders/Details/Deborah_Jeane_Palfrey) — "DC Madam" who said she would not commit suicide; found hanged 2008
-- [Danny Casolaro](Danny_Casolaro.md) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
+- [Danny Casolaro](Danny_Casolaro.mdx) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
 - Jeffrey Epstein Network — The network Kappy claimed to be exposing
 - [Intel Murders profile](/intelligence-service-murders/Details/Isaac_Kappy) — Intelligence service connection analysis
 ## Other Shocking Stories

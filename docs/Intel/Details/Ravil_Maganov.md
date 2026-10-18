@@ -71,7 +71,7 @@ In March 2022, Lukoil's board — under Maganov's chairmanship — issued a rare
 
 - [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
 - [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
-- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Frank Olson](Frank_Olson.mdx): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 - [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
 
 ## Sources

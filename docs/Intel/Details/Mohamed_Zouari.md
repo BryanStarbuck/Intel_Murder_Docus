@@ -88,7 +88,7 @@ Israel has neither confirmed nor denied involvement in Zouari's killing. Some an
 - [Gerald Bull](Gerald_Bull.md): Shot five times at his Brussels apartment door for designing Iraq's "supergun" capable of reaching Israel.
 - [Anna Politkovskaya](Anna_Politkovskaya.md): Russian journalist shot dead in her apartment elevator on Putin's birthday after exposing Chechen war crimes.
 - [Patrice Lumumba](Patrice_Lumumba.md): Congo's first elected leader dissolved in acid after CIA and Belgian intelligence orchestrated his overthrow and murder.
-- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower contaminated with plutonium, then killed in suspicious car crash en route to meet a reporter.
+- [Karen Silkwood](Karen_Silkwood.mdx): Nuclear whistleblower contaminated with plutonium, then killed in suspicious car crash en route to meet a reporter.
 
 ## Sources
 
