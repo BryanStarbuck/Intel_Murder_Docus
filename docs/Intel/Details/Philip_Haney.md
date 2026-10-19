@@ -94,6 +94,7 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 
 ## See Also
 
+- [Jade Parker](Jade_Parker.md) -- JSOC counterterrorism contractor who vanished from public view after saying she knew the Jan 6 pipe bomber
 - [Bill Cooper](Bill_Cooper.md) -- government critic shot dead under suspicious circumstances
 - [William Colby](William_Colby.md) -- former CIA Director who died under suspicious circumstances
 - [David Kelly](David_Kelly.md) -- government whistleblower found dead, ruled suicide

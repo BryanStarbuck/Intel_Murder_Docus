@@ -28,6 +28,7 @@ All 156 profiles organized by the country where the killing or attack occurred.
 - [Suchir Balaji](Details/Suchir_Balaji.mdx) — Former OpenAI researcher and copyright whistleblower, gunshot ruled suicide, San Francisco CA (2024)
 - [John Barnett](Details/John_Barnett.mdx) — Boeing 787 whistleblower, gunshot ruled suicide during depositions, Charleston SC (2024)
 - [Joshua Dean](Details/Joshua_Dean.mdx) — Spirit AeroSystems 737 MAX whistleblower, sudden MRSA infection, died in Oklahoma City OK (2024)
+- [Jade Parker](Details/Jade_Parker.md) — Former JSOC counterterrorism contractor, vanished from public view after saying she knew the Jan 6 pipe bomber (2022)
 - [Trevor Moore](Details/Trevor_Moore.md) — Comedian fell from balcony, Los Angeles CA (2021)
 - [Philip Haney](Details/Philip_Haney.md) — DHS whistleblower, gunshot ruled suicide, Amador County CA (2020)
 - [Isaac Kappy](Details/Isaac_Kappy.md) — Actor fell from bridge onto I-40, Arizona (2019)
