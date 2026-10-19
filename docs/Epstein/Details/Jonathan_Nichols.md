@@ -100,7 +100,7 @@ No public evidence has emerged that Nichols was, at the time of his death in 201
 
 - **Pattern of anti-trafficking politicians dying.** Nichols' death fits into a documented cluster:
   - [Linda Collins-Smith](Linda_Collins_Smith.md) — Arkansas state senator reportedly investigating DHS/CPS trafficking, stabbed to death May/June 2019 (same week as Nichols)
-  - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010
+  - [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010
   - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who investigated elite blackmail networks involving minors for decades, died 2011
 
 - **Alcohol intoxication as a factor.** While the medical examiner cites heavy drinking as consistent with impaired judgment, heavy intoxication also makes a person more vulnerable to a staged death.
@@ -139,14 +139,14 @@ No public evidence has emerged that Nichols was, at the time of his death in 201
 ## See Also
 
 - [Linda Collins-Smith](Linda_Collins_Smith.md) — Former Arkansas state senator reportedly investigating DHS/CPS child trafficking; stabbed to death the same week as Nichols
-- [Nancy Schaefer](Nancy_Schaefer.md) — Former Georgia state senator who published a report exposing CPS corruption; killed in 2010, ruled murder-suicide
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Former Georgia state senator who published a report exposing CPS corruption; killed in 2010, ruled murder-suicide
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated the Franklin scandal and elite blackmail "brownstone operations" for decades; died 2011, associates allege arsenic poisoning
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Arrested on trafficking charges six weeks after Nichols' death; found dead in jail cell August 2019
 
 ## Other Shocking Stories
 
 - [Linda Collins-Smith](Linda_Collins_Smith.md): State senator reportedly investigating child trafficking through CPS. Stabbed to death the day before Nichols died.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who published a full report on corrupt CPS child trafficking. Shot dead in 2010.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who published a full report on corrupt CPS child trafficking. Shot dead in 2010.
 - [Natacha Jaitt](Natacha_Jaitt.md): Publicly named pedophiles on national TV. Predicted her own murder. Found dead before she could testify.
 - [Tracy Twyman](Tracy_Twyman.md): Researcher investigating elite trafficking networks. Left a dead man's switch video. Found hanged in her garage.
 

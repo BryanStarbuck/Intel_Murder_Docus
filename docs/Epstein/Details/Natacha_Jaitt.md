@@ -236,14 +236,14 @@ While Jaitt's accusations focused on Argentine figures rather than Epstein speci
 - [Tracy Twyman](Tracy_Twyman.md) — Researcher who continued trafficking investigation, left dead man's switch recording, found hanged
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who told multiple people she would never hang herself; found hanged 16 days after conviction
 - [Isaac Kappy](Isaac_Kappy.md) — Hollywood actor who named pedophiles and said "if I die, it wasn't suicide"; fell from a bridge May 2019
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia senator who published full report on CPS corruption; killed 2010
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia senator who published full report on CPS corruption; killed 2010
 - [Janet Ossebaard](Janet_Ossebaard.md) — Dutch filmmaker behind trafficking documentary "Fall of the Cabal"; said she'd never commit suicide, found dead 2023
 
 ## Other Shocking Stories
 
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation tied to a Brazilian faith healer. Died in hiding in Barcelona the same month as Jaitt.
 - [Tracy Twyman](Tracy_Twyman.md): Left a dead man's switch recording warning of her own death. Found hanged in her garage five months after Jaitt died.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who published a detailed report on child trafficking through CPS. Shot dead at home.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who published a detailed report on child trafficking through CPS. Shot dead at home.
 - [Jonathan Nichols](Jonathan_Nichols.md): Authored death penalty laws for child molesters. Found dead with the gun reportedly across the room from his body.
 
 ## Sources

@@ -219,12 +219,12 @@ When Peaches drew public attention to this case — naming the women who had fac
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Created anti-trafficking music video; died in Oman, 2018
 - [Isaac Kappy](Isaac_Kappy.md) — Named Hollywood pedophiles on video, said "if I die, wasn't suicide"; fell from a bridge in Arizona, 2019
 - [Tracy Twyman](Tracy_Twyman.md) — Researcher continuing Kappy's work into elite pedophilia; found hanged in 2019 after warning followers she feared being killed
-- [Nancy Schaefer](Nancy_Schaefer.md) — US state senator who exposed CPS child trafficking; shot dead in 2010
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — US state senator who exposed CPS child trafficking; shot dead in 2010
 
 ## Other Shocking Stories
 
 - [Isaac Kappy](Isaac_Kappy.md): Said on camera: "If I die, it wasn't suicide." Two months later, fell from a bridge in Arizona.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator who exposed child trafficking through CPS. Shot dead with her husband at home, 2010.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator who exposed child trafficking through CPS. Shot dead with her husband at home, 2010.
 - [Chris Cornell](Chris_Cornell.md): Backed anti-child-trafficking documentary. Found hanged in a Detroit hotel, 2017.
 - [Tracy Twyman](Tracy_Twyman.md): Researcher who documented elite ritual abuse found hanged in 2019 after posting warnings about being targeted.
 

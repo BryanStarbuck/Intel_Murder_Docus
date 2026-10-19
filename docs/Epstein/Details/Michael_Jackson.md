@@ -54,7 +54,7 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 - [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
 - [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
 - [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
-- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
 
 ## Sources
 

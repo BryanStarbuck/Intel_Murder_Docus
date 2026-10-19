@@ -315,7 +315,7 @@ A dormant X account @diamondcircles still carries the name "Janet Ossebaard" and
 - [Natacha Jaitt](Natacha_Jaitt.md) — Accused elites of pedophilia on Argentine TV. Said "if I die, it wasn't me." Found dead at party venue.
 - [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/) — Named Hollywood pedophiles. Said "if I die, wasn't suicide." Fell from bridge.
 - [Tracy Twyman](Tracy_Twyman.md) — Continued Kappy's research into elite trafficking. Hanged in garage.
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who exposed CPS child trafficking. Shot in back.
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who exposed CPS child trafficking. Shot in back.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — The central figure in the trafficking network Ossebaard's documentaries examined.
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted of sex-trafficking a minor; Ossebaard's series discussed the Epstein-Maxwell operation.
 - [Seth Rich](Seth_Rich.md) — DNC staffer whose murder Ossebaard cited in Part 1; van Erp notes the WikiLeaks-leak claim is contradicted by official findings.

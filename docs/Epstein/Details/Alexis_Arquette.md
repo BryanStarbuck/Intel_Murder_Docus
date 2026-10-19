@@ -169,7 +169,7 @@ Arquette's case sits within a documented cluster of entertainment industry figur
 
 ## Other Shocking Stories
 
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator who exposed CPS child trafficking. Shot in the back while asleep. The gun had no traceable ownership.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia state senator who exposed CPS child trafficking. Shot in the back while asleep. The gun had no traceable ownership.
 - [Isaac Kappy](Isaac_Kappy.md): Named Hollywood executives as pedophiles on camera. Said if he died, it wasn't suicide. Fell from a bridge.
 - [Tracy Twyman](Tracy_Twyman.md): Picked up another researcher's work on elite pedophilia. Left a dead man's switch. Found dead at home.
 - [Natacha Jaitt](Natacha_Jaitt.md): Argentine model who named powerful pedophiles on live television. Found dead at a party months later.

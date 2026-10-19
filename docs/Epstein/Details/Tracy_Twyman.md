@@ -170,13 +170,13 @@ Twyman's death is treated as an unambiguous murder in X conspiracy communities, 
 
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who made public accusations about elite pedophilia; died two months before Twyman; she was actively continuing his research at the time of her death
 - [Jenny Moore](Jenny_Moore.md) — Former UK police officer investigating elite trafficking, found dead in a Washington DC hotel room
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator investigating child trafficking, found shot alongside her husband
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator investigating child trafficking, found shot alongside her husband
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who spent decades investigating elite pedophile networks and intelligence-run trafficking; died 2011; associates allege arsenic poisoning
 
 ## Other Shocking Stories
 
 - [Isaac Kappy](Isaac_Kappy.md): Actor named Hollywood pedophiles on camera, posted "not suicidal" video — found dead weeks later.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator investigating child trafficking shot dead alongside her husband; ruled murder-suicide.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator investigating child trafficking shot dead alongside her husband; ruled murder-suicide.
 - [Ted Gunderson](Ted_Gunderson.md): Former FBI chief exposed intelligence-run pedophile networks for 30 years; associates claim he was arsenic-poisoned.
 - [Jenny Moore](Jenny_Moore.md): Former police officer investigating elite child trafficking; found dead in DC hotel after interview with a victim.
 

@@ -73,7 +73,7 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 - [Vitaly Churkin](/intelligence-service-murders/Details/Vitaly_Churkin/): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
-- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
 - [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
 
 ## Sources

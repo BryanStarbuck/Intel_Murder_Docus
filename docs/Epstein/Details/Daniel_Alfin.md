@@ -86,7 +86,7 @@ None of these questions have public answers.
 - [Laura Schwartzenberger](Laura_Schwartzenberger.md): Killed alongside Alfin — two FBI child crimes agents shot dead the same morning.
 - [Joe Recarey](Joe_Recarey.md): Built the Epstein case, interviewed 30+ victims, died of "brief illness" at age 50.
 - [Gary Caradori](Gary_Caradori.md): Franklin scandal investigator's plane disintegrated mid-air over Illinois in 1990.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia senator exposing CPS trafficking — shot in the back with untraceable gun.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia senator exposing CPS trafficking — shot in the back with untraceable gun.
 
 ## Sources
 

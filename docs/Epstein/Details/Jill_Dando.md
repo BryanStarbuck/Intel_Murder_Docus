@@ -97,7 +97,7 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 - **Wrongful conviction:** The only person convicted spent 8 years in prison before acquittal, based on a single particle of residue — suggesting the real killer was never caught
 - **Multiple credible theories, no resolution:** Serbian intelligence, criminal underworld retaliation, BBC pedophile ring cover-up — all remain viable theories, and the case remains unsolved after 26 years
 - **Silenced before the reckoning:** Dando died in 1999; Savile wasn't exposed until 2011, 12 years after the woman who allegedly tried to raise the alarm was murdered
-- **Pattern of whistleblower deaths:** Dando's case parallels other deaths of individuals who attempted to expose institutional pedophilia: [Nancy Schaefer](Nancy_Schaefer.md) (shot), [Gary Caradori](Gary_Caradori.md) (plane disintegrated), [Sabrina Bittencourt](Sabrina_Bittencourt.md) (died in hiding), and [Tracy Twyman](Tracy_Twyman.md) (hanged)
+- **Pattern of whistleblower deaths:** Dando's case parallels other deaths of individuals who attempted to expose institutional pedophilia: [Nancy Schaefer](Nancy_Schaefer.mdx) (shot), [Gary Caradori](Gary_Caradori.md) (plane disintegrated), [Sabrina Bittencourt](Sabrina_Bittencourt.md) (died in hiding), and [Tracy Twyman](Tracy_Twyman.md) (hanged)
 
 ## Key Quotes from Media Coverage
 
@@ -119,7 +119,7 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 ## See Also
 
 - Jimmy Savile / BBC — The institutional pedophile ring Dando reportedly tried to expose
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who exposed CPS child trafficking; shot dead
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who exposed CPS child trafficking; shot dead
 - [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated
 - [Diana Spencer](/intelligence-service-murders/Details/Diana_Spencer/) — Another high-profile British woman killed in circumstances many dispute
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Exposed John of God's trafficking; died in hiding

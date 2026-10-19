@@ -190,7 +190,7 @@ Her case resurfaced in public attention not because of a documented Epstein conn
 
 - [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
 - [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
-- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
 - [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 
 ## Sources

@@ -86,7 +86,7 @@ These claims circulated widely on social media and partisan outlets following Mi
 - [Virginia Giuffre](Virginia_Giuffre.md): Top Epstein accuser. Posted "not suicidal." Died by gunshot in strict-gun-law Australia. Father says "somebody got to her."
 - [Aaron Owen](Aaron_Owen.md): 17 years old. Found hanged in jail cell hours before his sister was to testify about an elite child abuse network.
 - [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted about CIA/Mossad sex trafficking ring. Drowned four hours later in Puerto Rico.
-- [Nancy Schaefer](Nancy_Schaefer.md): Georgia state senator exposed CPS child trafficking. Shot in the back with an untraceable gun.
+- [Nancy Schaefer](Nancy_Schaefer.mdx): Georgia state senator exposed CPS child trafficking. Shot in the back with an untraceable gun.
 
 ## Sources
 

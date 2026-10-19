@@ -114,7 +114,7 @@ However, critics note that the barricaded door, the CIA clipping, his warnings a
 - [Virginia Giuffre](Virginia_Giuffre.md) — Top Epstein accuser found dead by gunshot in Australia after posting "not suicidal"
 - [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated mid-air; briefcase vanished
 - [Danny Casolaro](/intelligence-service-murders/Details/Danny_Casolaro/) — Journalist investigating PROMIS intel op found with slashed wrists in hotel
-- [Nancy Schaefer](Nancy_Schaefer.md) — State senator exposing CPS trafficking shot in the back with untraceable gun
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — State senator exposing CPS trafficking shot in the back with untraceable gun
 
 ## Sources
 

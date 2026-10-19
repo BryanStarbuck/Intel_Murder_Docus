@@ -113,7 +113,7 @@ The simplest explanation is that this was a routine traffic stop that turned dea
 
 - [Aaron Swartz](/intelligence-service-murders/Details/Aaron_Swartz/) — Internet activist facing disproportionate federal prosecution who died before trial
 - [Isaac Kappy](/intelligence-service-murders/Details/Isaac_Kappy/) — Named Hollywood pedophiles, said "if I die, wasn't suicide," died falling from a bridge
-- [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who exposed CPS child trafficking, killed in alleged murder-suicide
+- [Nancy Schaefer](Nancy_Schaefer.mdx) — Georgia state senator who exposed CPS child trafficking, killed in alleged murder-suicide
 - [Daniel Anderl](Daniel_Anderl.md) — Judge's son killed 4 days after mother assigned Epstein-Deutsche Bank case
 
 ## Other Shocking Stories
