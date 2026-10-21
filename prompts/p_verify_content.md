@@ -3,152 +3,58 @@ ROOT_DIR dir is ~/BGit/Bryan_git/Intel_Murder_Docus
 EPSTEIN_DOCS_DIR dir is {ROOT_DIR}/docs/Epstein
 INTEL_DOCS_DIR dir is {ROOT_DIR}/docs/Intel
 
+UAP_SITE_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus
+
 ====================================================================
 GOAL
 ====================================================================
 
-Verify that every person is in the correct investigation directory and on the
-correct website. Find anybody who was accidentally deleted or moved to the
-wrong place. Recover anything lost.
+Verify every person is in the correct investigation and on the correct website. Find anyone accidentally deleted or misplaced and recover them.
 
-Two websites exist. Each has its own investigations:
+Websites:
+* Intelligence Murders (https://intelligencemurders.com/), {ROOT_DIR}: Epstein, Intel
+* UAP Murders (https://uapmurders.com/), {UAP_SITE_DIR}: UAPs, Energy, Physics
 
-#1: UAP Murders
-  * URL: https://uapmurders.com/
-  * Dir: ~/BGit/Bryan_git/UAP_Murder_Docus/
-  * Investigations: UAPs, Energy, Physics
+Scope:
+* Epstein ({EPSTEIN_DOCS_DIR}): people connected to Jeffrey Epstein, any child trafficking ring, or any blackmail ring tied to trafficking; deaths, disappearances or threats related to these.
+* Intel ({INTEL_DOCS_DIR}): victims of political assassination, killings suspected to be by intelligence services, politically targeted murders; journalists, scientists, activists, whistleblowers and leaders killed by or at the direction of intelligence agencies.
+* UAP Murders site: people killed over UAP/UFO research or disclosure, or suppressed energy or physics breakthroughs; scientists murdered for what they discovered.
 
-#2: Intelligence Murders
-  * URL: https://intelligencemurders.com/
-  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
-  * Investigations: Epstein, Intel
+Placement examples: Virginia Giuffre → Intel_Murder_Docus, Epstein. William Cooper → Intel_Murder_Docus, Intel. Robert Bass → UAP_Murder_Docus, Energy.
 
-====================================================================
-INVESTIGATION SCOPE DEFINITIONS
-====================================================================
-
-Epstein ({EPSTEIN_DOCS_DIR}):
-  * People connected to Jeffrey Epstein
-  * People connected to any child trafficking ring
-  * People connected to any blackmail ring tied to trafficking
-  * Deaths, disappearances, or threats related to any of the above
-
-Intel ({INTEL_DOCS_DIR}):
-  * Victims of political assassination
-  * Killings suspected to have been caused by intelligence services
-  * Murders that were politically targeted
-  * Journalists, scientists, activists, whistleblowers, and leaders killed
-    by or at the direction of intelligence agencies
-
-UAP Murders site (~/BGit/Bryan_git/UAP_Murder_Docus/):
-  * People killed in connection with UAP/UFO research or disclosure
-  * People killed over suppressed energy or physics breakthroughs
-  * Scientists and researchers murdered for what they discovered
-
-====================================================================
-PLACEMENT EXAMPLES
-====================================================================
-
-These examples define where specific people belong:
-
-* Virginia Giuffre
-  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
-  * Investigation: Epstein
-
-* William Cooper
-  * Dir: ~/BGit/Bryan_git/Intel_Murder_Docus/
-  * Investigation: Intel
-
-* Robert Bass
-  * Dir: ~/BGit/Bryan_git/UAP_Murder_Docus/
-  * Investigation: Energy
-
-====================================================================
-PREVIOUS SOURCE DIRECTORIES
-====================================================================
-
-People may have originally lived in these directories before being copied
-into the websites. Search these for missing people or to cross-check:
-
+Previous source dirs (may have been deleted; if so use ~/BGit/Bryan_git/Deep_State_BACKUP_20260318_095340 and git history):
 * ~/BGit/Bryan_git/Deep_State
 * ~/BGit/Bryan_git/Epstein_Kull_List
 
 ====================================================================
-PASS 1 — ITERATE THROUGH EXISTING PEOPLE
+PASS 1 — EXISTING PEOPLE
 ====================================================================
 
-Go through each investigation one at a time. For each investigation, iterate
-through every person who currently has a profile in that investigation's
-Details/ directory.
+For each investigation ({EPSTEIN_DOCS_DIR}, {INTEL_DOCS_DIR}), for every file in Details/:
+* Read the profile; decide the correct investigation and website from the scope above.
+* Wrong investigation or wrong website: move the file to the correct Details/ dir.
+* Fits several: keep it in the primary one and note the overlap.
+* Confirm its row exists in the parent index.md table.
+* Output to stdout every move (from, to).
 
-For each investigation ({EPSTEIN_DOCS_DIR}, {INTEL_DOCS_DIR}):
-
-  * List every person file in Details/
-  * For each person:
-    * Read their profile markdown file
-    * Determine which investigation they actually belong in based on the
-      scope definitions above
-    * Determine which website they belong on (Intel_Murder_Docus or
-      UAP_Murder_Docus)
-    * If they are in the wrong investigation but correct website, move
-      their file to the correct Details/ directory
-    * If they are on the wrong website entirely, move their file to the
-      correct website's Details/ directory
-    * If they belong in multiple investigations, keep them in the primary
-      one and note the overlap
-    * Check that their row exists in the parent index.md table
-    * Output to stdout any person who was moved, where they came from,
-      and where they went
-
-If any person is found in the wrong place, output a warning:
-
-  Output to stdout "WARNING: Found misplaced people. Re-examining all
-  remaining profiles with extra scrutiny."
-
-Then continue through the rest with heightened attention.
+On the first misplaced person: Output to stdout "WARNING: Found misplaced people. Re-examining all remaining profiles with extra scrutiny." and continue with heightened attention.
 
 ====================================================================
-PASS 2 — SEARCH GIT HISTORY FOR DELETED PEOPLE
+PASS 2 — DELETED PEOPLE
 ====================================================================
 
-After Pass 1 is complete, search git history to find people who may have
-been accidentally deleted.
+For each investigation:
+* git log the Details/ dir for every file that ever existed; compare with what exists now.
+* For each missing file, check the commit message (intentional move?), the other investigation, the other website, and the source dirs.
+* Truly deleted: Output to stdout "LOST PERSON: {name} was deleted in commit {hash} on {date}. Recovering." Recover it from git, place it in the correct investigation, add its row back to the parent index.md.
 
-For each investigation ({EPSTEIN_DOCS_DIR}, {INTEL_DOCS_DIR}):
-
-  * Run git log on the Details/ directory to find all files that ever
-    existed there
-  * Compare the historical file list against what currently exists
-  * For each file that existed in git history but is missing now:
-    * Check if it was intentionally moved (look at the commit message)
-    * Check if it exists in another investigation directory or on the
-      other website
-    * Check if it exists in the previous source directories listed above
-    * If it was truly deleted and not moved anywhere:
-      * Output to stdout "LOST PERSON: {name} was deleted in commit
-        {hash} on {date}. Recovering."
-      * Recover the file from git history
-      * Place it in the correct investigation directory based on the
-        scope definitions
-      * Add their row back to the parent index.md table
-
-Also search the previous source directories for people who never made it
-into either website:
-
-  * ~/BGit/Bryan_git/Deep_State
-  * ~/BGit/Bryan_git/Epstein_Kull_List
-
-  * For each person found in those directories:
-    * Check if they have a corresponding profile on either website
-    * If they are missing from both websites, output to stdout:
-      "MISSING PERSON: {name} exists in {source_dir} but was never added
-      to either website."
+For each person in the source dirs with no profile on either website: Output to stdout "MISSING PERSON: {name} exists in {source_dir} but was never added to either website."
 
 ====================================================================
 FINAL SUMMARY
 ====================================================================
 
-After both passes, output to stdout a summary:
+Output to stdout:
 
   * Total people checked in Pass 1
   * Number moved between investigations
