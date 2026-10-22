@@ -109,6 +109,7 @@ All 199 profiles organized by decade and year.
 
 - **1990** — [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb. FBI blamed her; jury awarded $4.4M to her estate. Died of cancer 1997.
 - **1990** — [Gerald Bull](Details/Gerald_Bull.md) — Canadian weapons designer shot at Brussels apartment. Building Iraqi supergun. Mossad suspected.
+- **1991** — [Ioan Petru Culianu](Details/Ioan_Petru_Culianu.md) — Romanian-exile University of Chicago scholar of magic and the paranormal shot once in the back of the head in a Divinity School restroom (May 21). Had attacked the Securitate in print. Unsolved.
 - **1991** — [Danny Casolaro](Details/Danny_Casolaro.mdx) — Journalist investigating PROMIS/"The Octopus" found with wrists slashed. Briefcase missing.
 - **1991** — [Detlev Rohwedder](Details/Detlev_Rohwedder.md) — Head of East German privatization agency shot through window by sniper. RAF claimed; wife accused Stasi. Subject of Netflix documentary.
 - **1992** — [Atef Bseiso](Details/Atef_Bseiso.md) — PLO intelligence chief shot by Mossad in Paris. Operation Wrath of God.

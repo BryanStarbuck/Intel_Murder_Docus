@@ -44,6 +44,7 @@ All 156 profiles organized by the country where the killing or attack occurred.
 - [Mark Lombardi](Details/Mark_Lombardi.md) — Artist mapping intelligence financial networks found hanged, Brooklyn NY (2000)
 - [Barry Seal](Details/Barry_Seal.md) — CIA-connected drug pilot machine-gunned in car, Baton Rouge LA (1986)
 - [Danny Casolaro](Details/Danny_Casolaro.mdx) — Journalist investigating PROMIS found with wrists slashed, Martinsburg WV (1991)
+- [Ioan Petru Culianu](Details/Ioan_Petru_Culianu.md) — Romanian-exile professor of religion and paranormal scholar shot in University of Chicago Divinity School restroom; Securitate suspected (1991)
 - [Judi Bari](Details/Judi_Bari.md) — Earth First! organizer survived car bomb, FBI blamed her. Died of cancer 1997 (1990)
 - [John Lennon](Details/John_Lennon.md) — Former Beatle shot outside The Dakota, New York City (1980)
 - [Susan Coleman](Details/Susan_Coleman.md) — University of Arkansas law student found dead from gunshot to back of head, Little Rock AR. No autopsy; affair and pregnancy claims unverified (1977)

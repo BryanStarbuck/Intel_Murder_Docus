@@ -29,6 +29,7 @@ The most common assassination method. Includes snipers, close-range execution, d
 - [Philip Marshall](Details/Philip_Marshall.md) — Gunshot wound to head (2013)
 - [Gary Webb](Details/Gary_Webb.md) — Two gunshots to head, ruled suicide, Sacramento (2004)
 - [Bill Cooper](Details/Bill_Cooper.md) — Shot by sheriff's deputies, Eagar AZ (2001)
+- [Ioan Petru Culianu](Details/Ioan_Petru_Culianu.md) — Single .25-caliber shot to back of head in University of Chicago restroom (1991)
 - [John Lennon](Details/John_Lennon.md) — Shot four times outside The Dakota, NYC (1980)
 - [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) — Shot twice on Georgetown towpath, DC (1964)
 - [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) — Shot from rooftop, Arlington VA (1967)
